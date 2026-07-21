@@ -2,7 +2,8 @@
   "calibers" : [
 
   ],
-  "catalogVersion" : 4,
+  "catalogLabel" : "2026v6",
+  "catalogVersion" : 6,
   "competitions" : [
 
   ],
@@ -74,7 +75,7 @@
       "weaponConstraint" : "free"
     }
   ],
-  "exportedAt" : "2026-07-21T14:33:58Z",
+  "exportedAt" : "2026-07-21T15:05:05Z",
   "kranzRequirements" : [
     {
       "ageCategoryRaw" : "elite",
