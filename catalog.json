@@ -1,0 +1,1457 @@
+{
+  "calibers" : [
+
+  ],
+  "catalogVersion" : 3,
+  "competitions" : [
+
+  ],
+  "disciplines" : [
+    {
+      "code" : "G300",
+      "defaultDistanceMeters" : 300,
+      "distanceType" : "fixed",
+      "isActive" : true,
+      "maxDistanceMeters" : 0,
+      "minDistanceMeters" : 0,
+      "name" : "Gewehr 300m",
+      "notes" : "SSV-Disziplin: Gewehr, 300 m.",
+      "weaponConstraint" : "rifle"
+    },
+    {
+      "code" : "CELLAR_TRAINING",
+      "defaultDistanceMeters" : 5,
+      "distanceType" : "variable",
+      "isActive" : true,
+      "maxDistanceMeters" : 25,
+      "minDistanceMeters" : 1,
+      "name" : "Kellertraining",
+      "notes" : "Standarddistanz 5 m, an den eigenen Keller anpassbar. Waffe frei zuordenbar.",
+      "weaponConstraint" : "free"
+    },
+    {
+      "code" : "P10",
+      "defaultDistanceMeters" : 10,
+      "distanceType" : "fixed",
+      "isActive" : true,
+      "maxDistanceMeters" : 0,
+      "minDistanceMeters" : 0,
+      "name" : "Pistole 10m",
+      "notes" : "SSV-Disziplin: Pistole, 10 m.",
+      "weaponConstraint" : "handgun"
+    },
+    {
+      "code" : "P25",
+      "defaultDistanceMeters" : 25,
+      "distanceType" : "fixed",
+      "isActive" : true,
+      "maxDistanceMeters" : 0,
+      "minDistanceMeters" : 0,
+      "name" : "Pistole 25m",
+      "notes" : "SSV-Disziplin: Pistole, 25 m.",
+      "weaponConstraint" : "handgun"
+    },
+    {
+      "code" : "P50",
+      "defaultDistanceMeters" : 50,
+      "distanceType" : "fixed",
+      "isActive" : true,
+      "maxDistanceMeters" : 0,
+      "minDistanceMeters" : 0,
+      "name" : "Pistole 50m",
+      "notes" : "SSV-Disziplin: Pistole, 50 m.",
+      "weaponConstraint" : "handgun"
+    },
+    {
+      "code" : "SHOOTING_RANGE",
+      "defaultDistanceMeters" : 5,
+      "distanceType" : "variable",
+      "isActive" : true,
+      "maxDistanceMeters" : 25,
+      "minDistanceMeters" : 5,
+      "name" : "Shooting Range",
+      "notes" : "Variable Distanz (typisch 5–25 m), Waffe frei zuordenbar.",
+      "weaponConstraint" : "free"
+    }
+  ],
+  "exportedAt" : "2026-07-21T14:06:30Z",
+  "kranzRequirements" : [
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "requiredPoints" : 57
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "requiredPoints" : 52
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "requiredPoints" : 54
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "requiredPoints" : 57
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "requiredPoints" : 52
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "requiredPoints" : 54
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "requiredPoints" : 53
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "requiredPoints" : 53
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "requiredPoints" : 153
+    },
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "requiredPoints" : 159
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "requiredPoints" : 148
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "requiredPoints" : 154
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "requiredPoints" : 153
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "requiredPoints" : 159
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "requiredPoints" : 148
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "requiredPoints" : 154
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "requiredPoints" : 150
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "requiredPoints" : 156
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "requiredPoints" : 150
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "requiredPoints" : 156
+    },
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "requiredPoints" : 58
+    },
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "requiredPoints" : 63
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "requiredPoints" : 54
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "requiredPoints" : 59
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "requiredPoints" : 58
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "requiredPoints" : 63
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "requiredPoints" : 54
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "requiredPoints" : 59
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "requiredPoints" : 60
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "requiredPoints" : 60
+    },
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-gewehr-300m",
+      "requiredPoints" : 66
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-gewehr-300m",
+      "requiredPoints" : 63
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-gewehr-300m",
+      "requiredPoints" : 66
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-gewehr-300m",
+      "requiredPoints" : 63
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-gewehr-300m",
+      "requiredPoints" : 64
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-gewehr-300m",
+      "requiredPoints" : 64
+    },
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-p25",
+      "requiredPoints" : 175
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-p25",
+      "requiredPoints" : 170
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-p25",
+      "requiredPoints" : 175
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-p25",
+      "requiredPoints" : 170
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-p25",
+      "requiredPoints" : 172
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-p25",
+      "requiredPoints" : 172
+    },
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-p50",
+      "requiredPoints" : 70
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-p50",
+      "requiredPoints" : 66
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-p50",
+      "requiredPoints" : 70
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-p50",
+      "requiredPoints" : 66
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-p50",
+      "requiredPoints" : 67
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "ch-obligatorisch-p50",
+      "requiredPoints" : 67
+    }
+  ],
+  "programParts" : [
+    {
+      "distanceMeters" : 25,
+      "expectedSighters" : 0,
+      "externalId" : "ch-feldschiessen-p25-60",
+      "fireMode" : "Einzelfeuer",
+      "isActive" : true,
+      "name" : "Einzelfeuer 3 Schuss (20 Sek.\/Schuss)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 1,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 3,
+      "timeLimitSeconds" : 60,
+      "totalShots" : 3,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 25,
+      "expectedSighters" : 0,
+      "externalId" : "ch-op-p25-100",
+      "fireMode" : "Einzelfeuer",
+      "isActive" : true,
+      "name" : "Einzelfeuer 5 Schuss (20 Sek.\/Schuss)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 1,
+      "programExternalId" : "ch-obligatorisch-p25",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 100,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 25,
+      "expectedSighters" : 0,
+      "externalId" : "free-p25-praezision-5",
+      "fireMode" : "Einzelfeuer",
+      "isActive" : true,
+      "name" : "Freie Präzisionsserie 5 Schuss",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 1,
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 0,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 50,
+      "expectedSighters" : 0,
+      "externalId" : "ch-op-p50-1",
+      "fireMode" : "Einzelfeuer",
+      "isActive" : true,
+      "name" : "Einzelfeuer 5 Schuss (P4)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 1,
+      "programExternalId" : "ch-obligatorisch-p50",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 0,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 50,
+      "expectedSighters" : 0,
+      "externalId" : "ch-efs-p50-1",
+      "fireMode" : "Einzelfeuer",
+      "isActive" : true,
+      "name" : "Einzelfeuer 6 Schuss",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 1,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 6,
+      "timeLimitSeconds" : 0,
+      "totalShots" : 6,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 300,
+      "expectedSighters" : 0,
+      "externalId" : "ch-op-g300-1",
+      "fireMode" : "Einzelfeuer",
+      "isActive" : true,
+      "name" : "Einzelfeuer 5 Schuss (A5)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 1,
+      "programExternalId" : "ch-obligatorisch-gewehr-300m",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 0,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 25,
+      "expectedSighters" : 0,
+      "externalId" : "ch-training-p25-praezision-5",
+      "fireMode" : "Einzelfeuer",
+      "isActive" : true,
+      "name" : "Training Präzision 5 Schuss",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 1,
+      "programExternalId" : "ch-freies-training-p25",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 0,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 300,
+      "expectedSighters" : 0,
+      "externalId" : "ch-efs-g300-1",
+      "fireMode" : "Einzelfeuer",
+      "isActive" : true,
+      "name" : "Einzelfeuer 6 Schuss",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 1,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 6,
+      "timeLimitSeconds" : 0,
+      "totalShots" : 6,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 0,
+      "expectedSighters" : 0,
+      "externalId" : "ch-freies-training-keller-5m.part.1",
+      "fireMode" : "Einzelfeuer",
+      "isActive" : true,
+      "name" : "Passe 1",
+      "notes" : "",
+      "numberOfSeries" : 0,
+      "partNumber" : 1,
+      "programExternalId" : "ch-freies-training-keller-5m",
+      "scoringType" : "",
+      "shotsPerSeries" : 0,
+      "timeLimitSeconds" : 0,
+      "totalShots" : 0,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 25,
+      "expectedSighters" : 0,
+      "externalId" : "free-p25-serie-20s",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Freie Schnellfeuerserie 20 Sekunden",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 2,
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 20,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 25,
+      "expectedSighters" : 0,
+      "externalId" : "ch-op-p25-50",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Seriefeuer 5 Schuss (50 Sek.)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 2,
+      "programExternalId" : "ch-obligatorisch-p25",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 50,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 25,
+      "expectedSighters" : 0,
+      "externalId" : "ch-training-p25-serie-10s",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Training Serie 10 Sekunden",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 2,
+      "programExternalId" : "ch-freies-training-p25",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 10,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 50,
+      "expectedSighters" : 0,
+      "externalId" : "ch-efs-p50-2",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Seriefeuer 2 × 3 Schuss (je 60 Sek.)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 2,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 6,
+      "timeLimitSeconds" : 60,
+      "totalShots" : 6,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 25,
+      "expectedSighters" : 0,
+      "externalId" : "ch-feldschiessen-p25-50",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Seriefeuer 5 Schuss (50 Sek.)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 2,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 50,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 300,
+      "expectedSighters" : 0,
+      "externalId" : "ch-op-g300-2",
+      "fireMode" : "Einzelfeuer",
+      "isActive" : true,
+      "name" : "Einzelfeuer 5 Schuss (B4)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 2,
+      "programExternalId" : "ch-obligatorisch-gewehr-300m",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 0,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 50,
+      "expectedSighters" : 0,
+      "externalId" : "ch-op-p50-2",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Seriefeuer 5 Schuss (P4, 60 Sek.)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 2,
+      "programExternalId" : "ch-obligatorisch-p50",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 60,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 300,
+      "expectedSighters" : 0,
+      "externalId" : "ch-efs-g300-2",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Seriefeuer 2 × 3 Schuss (je 60 Sek.)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 2,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 6,
+      "timeLimitSeconds" : 60,
+      "totalShots" : 6,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 300,
+      "expectedSighters" : 0,
+      "externalId" : "ch-op-g300-3",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Seriefeuer 2 + 3 Schuss (B4)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 3,
+      "programExternalId" : "ch-obligatorisch-gewehr-300m",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 0,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 25,
+      "expectedSighters" : 0,
+      "externalId" : "ch-feldschiessen-p25-40",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Seriefeuer 5 Schuss (40 Sek.)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 3,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 40,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 300,
+      "expectedSighters" : 0,
+      "externalId" : "ch-efs-g300-3",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Seriefeuer 6 Schuss (60 Sek.)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 3,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 6,
+      "timeLimitSeconds" : 60,
+      "totalShots" : 6,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 50,
+      "expectedSighters" : 0,
+      "externalId" : "ch-op-p50-3",
+      "fireMode" : "Einzelfeuer",
+      "isActive" : true,
+      "name" : "Einzelfeuer 5 Schuss (B5)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 3,
+      "programExternalId" : "ch-obligatorisch-p50",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 0,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 50,
+      "expectedSighters" : 0,
+      "externalId" : "ch-efs-p50-3",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Seriefeuer 6 Schuss (60 Sek.)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 3,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 6,
+      "timeLimitSeconds" : 60,
+      "totalShots" : 6,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 25,
+      "expectedSighters" : 0,
+      "externalId" : "ch-op-p25-40",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Seriefeuer 5 Schuss (40 Sek.)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 3,
+      "programExternalId" : "ch-obligatorisch-p25",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 40,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 25,
+      "expectedSighters" : 0,
+      "externalId" : "ch-feldschiessen-p25-30",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Seriefeuer 5 Schuss (30 Sek.)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 4,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 30,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 50,
+      "expectedSighters" : 0,
+      "externalId" : "ch-op-p50-4",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Seriefeuer 5 Schuss (B5, 30 Sek.)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 4,
+      "programExternalId" : "ch-obligatorisch-p50",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 30,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 300,
+      "expectedSighters" : 0,
+      "externalId" : "ch-op-g300-4",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Seriefeuer 5 Schuss (B4)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 4,
+      "programExternalId" : "ch-obligatorisch-gewehr-300m",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 0,
+      "totalShots" : 5,
+      "version" : 1
+    },
+    {
+      "distanceMeters" : 25,
+      "expectedSighters" : 0,
+      "externalId" : "ch-op-p25-30",
+      "fireMode" : "Seriefeuer",
+      "isActive" : true,
+      "name" : "Seriefeuer 5 Schuss (30 Sek.)",
+      "notes" : "",
+      "numberOfSeries" : 1,
+      "partNumber" : 4,
+      "programExternalId" : "ch-obligatorisch-p25",
+      "scoringType" : "Punkte",
+      "shotsPerSeries" : 5,
+      "timeLimitSeconds" : 30,
+      "totalShots" : 5,
+      "version" : 1
+    }
+  ],
+  "programs" : [
+    {
+      "ammunitionDefault" : "5.56 NATO \/ GP90",
+      "disciplineCode" : "G300",
+      "expectsSeriesImages" : false,
+      "externalId" : "ch-feldschiessen-gewehr-300m",
+      "isActive" : true,
+      "isArchived" : false,
+      "name" : "Feldschiessen Gewehr 300 m",
+      "notes" : "",
+      "programLevel" : "Standard",
+      "programType" : "Bundesübung",
+      "requiresScoreSheet" : true,
+      "resultCaptureMode" : "Manuell",
+      "standardAwardPointsRequired" : 55,
+      "standardKranzPointsRequired" : 57,
+      "version" : 1
+    },
+    {
+      "ammunitionDefault" : "9 mm",
+      "disciplineCode" : "P25",
+      "expectsSeriesImages" : false,
+      "externalId" : "ch-feldschiessen-p25",
+      "isActive" : true,
+      "isArchived" : false,
+      "name" : "Feldschiessen P25",
+      "notes" : "",
+      "programLevel" : "Standard",
+      "programType" : "Bundesübung",
+      "requiresScoreSheet" : true,
+      "resultCaptureMode" : "Manuell",
+      "standardAwardPointsRequired" : 153,
+      "standardKranzPointsRequired" : 159,
+      "version" : 1
+    },
+    {
+      "ammunitionDefault" : "9 mm",
+      "disciplineCode" : "P50",
+      "expectsSeriesImages" : false,
+      "externalId" : "ch-feldschiessen-p50",
+      "isActive" : true,
+      "isArchived" : false,
+      "name" : "Feldschiessen P50",
+      "notes" : "",
+      "programLevel" : "Standard",
+      "programType" : "Bundesübung",
+      "requiresScoreSheet" : true,
+      "resultCaptureMode" : "Manuell",
+      "standardAwardPointsRequired" : 58,
+      "standardKranzPointsRequired" : 63,
+      "version" : 1
+    },
+    {
+      "ammunitionDefault" : "",
+      "disciplineCode" : "CELLAR_TRAINING",
+      "expectsSeriesImages" : false,
+      "externalId" : "ch-freies-training-keller-5m",
+      "isActive" : true,
+      "isArchived" : false,
+      "name" : "Freies Training Keller",
+      "notes" : "",
+      "programLevel" : "Standard",
+      "programType" : "Training",
+      "requiresScoreSheet" : false,
+      "resultCaptureMode" : "Manuell",
+      "version" : 1
+    },
+    {
+      "ammunitionDefault" : "9 mm",
+      "disciplineCode" : "P25",
+      "expectsSeriesImages" : false,
+      "externalId" : "ch-freies-training-p25",
+      "isActive" : true,
+      "isArchived" : false,
+      "name" : "Freies Training P25",
+      "notes" : "",
+      "programLevel" : "Standard",
+      "programType" : "Training",
+      "requiresScoreSheet" : false,
+      "resultCaptureMode" : "Manuell",
+      "version" : 1
+    },
+    {
+      "ammunitionDefault" : "9 mm",
+      "disciplineCode" : "SHOOTING_RANGE",
+      "expectsSeriesImages" : false,
+      "externalId" : "ch-freies-training-range-17m",
+      "isActive" : true,
+      "isArchived" : false,
+      "name" : "Freies Training Shooting Range bis 17 m",
+      "notes" : "",
+      "programLevel" : "Standard",
+      "programType" : "Training",
+      "requiresScoreSheet" : false,
+      "resultCaptureMode" : "Manuell",
+      "version" : 1
+    },
+    {
+      "ammunitionDefault" : "5.56 NATO \/ GP90",
+      "disciplineCode" : "G300",
+      "expectsSeriesImages" : false,
+      "externalId" : "ch-obligatorisch-gewehr-300m",
+      "isActive" : true,
+      "isArchived" : false,
+      "name" : "Obligatorisch Gewehr 300 m",
+      "notes" : "",
+      "programLevel" : "Standard",
+      "programType" : "Bundesübung",
+      "requiresScoreSheet" : true,
+      "resultCaptureMode" : "Manuell",
+      "standardAwardPointsRequired" : 66,
+      "version" : 1
+    },
+    {
+      "ammunitionDefault" : "9 mm",
+      "disciplineCode" : "P25",
+      "expectsSeriesImages" : false,
+      "externalId" : "ch-obligatorisch-p25",
+      "isActive" : true,
+      "isArchived" : false,
+      "name" : "Obligatorisches Pistole 25 m",
+      "notes" : "",
+      "programLevel" : "Standard",
+      "programType" : "Bundesübung",
+      "requiresScoreSheet" : true,
+      "resultCaptureMode" : "Manuell",
+      "standardAwardPointsRequired" : 120,
+      "standardKranzPointsRequired" : 175,
+      "version" : 1
+    },
+    {
+      "ammunitionDefault" : "9 mm",
+      "disciplineCode" : "P50",
+      "expectsSeriesImages" : false,
+      "externalId" : "ch-obligatorisch-p50",
+      "isActive" : true,
+      "isArchived" : false,
+      "name" : "Obligatorisches Pistole 50 m",
+      "notes" : "",
+      "programLevel" : "Standard",
+      "programType" : "Bundesübung",
+      "requiresScoreSheet" : true,
+      "resultCaptureMode" : "Manuell",
+      "standardAwardPointsRequired" : 70,
+      "version" : 1
+    }
+  ],
+  "schemaVersion" : 2,
+  "targets" : [
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "A Scheibe",
+      "disciplineCode" : "G300",
+      "distanceMeters" : 300,
+      "distanceOptionsMeters" : [
+        300
+      ],
+      "externalId" : "target.copy.1de2b58a",
+      "isActive" : true,
+      "maxPointsPerShot" : 10,
+      "name" : "A10",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "A Scheibe",
+      "disciplineCode" : "G300",
+      "distanceMeters" : 300,
+      "distanceOptionsMeters" : [
+        300
+      ],
+      "externalId" : "target.copy.d3c2ccd4",
+      "isActive" : true,
+      "maxPointsPerShot" : 100,
+      "name" : "A100",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "A Scheibe",
+      "disciplineCode" : "G300",
+      "distanceMeters" : 300,
+      "distanceOptionsMeters" : [
+        300
+      ],
+      "externalId" : "target.custom.442cb630",
+      "isActive" : true,
+      "maxPointsPerShot" : 5,
+      "name" : "A5",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "Pistolen-Kombinationsscheibe B",
+      "disciplineCode" : "P50",
+      "distanceMeters" : 50,
+      "distanceOptionsMeters" : [
+        50
+      ],
+      "externalId" : "target.copy.45a1202b",
+      "isActive" : true,
+      "maxPointsPerShot" : 10,
+      "name" : "B10",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "Tarn-Kombinationsscheibe",
+      "disciplineCode" : "G300",
+      "distanceMeters" : 300,
+      "distanceOptionsMeters" : [
+        300
+      ],
+      "externalId" : "target.copy.459fadee",
+      "isActive" : true,
+      "maxPointsPerShot" : 10,
+      "name" : "B10",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "Tarn-Kombinationsscheibe",
+      "disciplineCode" : "G300",
+      "distanceMeters" : 300,
+      "distanceOptionsMeters" : [
+        300
+      ],
+      "externalId" : "target.custom.a1ad236f",
+      "isActive" : true,
+      "maxPointsPerShot" : 4,
+      "name" : "B4",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "Pistolen-Kombinationsscheibe B",
+      "disciplineCode" : "P50",
+      "distanceMeters" : 50,
+      "distanceOptionsMeters" : [
+        50
+      ],
+      "externalId" : "target.custom.ca8ef1aa",
+      "isActive" : true,
+      "maxPointsPerShot" : 5,
+      "name" : "B5",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "Pistolen-Schnellfeuerscheibe",
+      "disciplineCode" : "P25",
+      "distanceMeters" : 25,
+      "distanceOptionsMeters" : [
+        25
+      ],
+      "externalId" : "target.custom.6f823d50",
+      "isActive" : true,
+      "maxPointsPerShot" : 10,
+      "name" : "ISSF",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "Morgarten Pistolenscheibe F100",
+      "disciplineCode" : "P50",
+      "distanceMeters" : 50,
+      "distanceOptionsMeters" : [
+        50
+      ],
+      "externalId" : "target.custom.d14de30a",
+      "isActive" : true,
+      "maxPointsPerShot" : 5,
+      "name" : "Morgartenscheibe",
+      "notes" : "45 x 100 cm",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "Ordonnanz-Schnellfeuer-Pistolenscheibe",
+      "disciplineCode" : "P25",
+      "distanceMeters" : 25,
+      "distanceOptionsMeters" : [
+        25
+      ],
+      "externalId" : "target.custom.6bf5e3ea",
+      "isActive" : true,
+      "maxPointsPerShot" : 10,
+      "name" : "OSFS",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "Ordonnanz-Schnellfeuer-Pistolenscheibe",
+      "disciplineCode" : "P50",
+      "distanceMeters" : 50,
+      "distanceOptionsMeters" : [
+        50
+      ],
+      "externalId" : "target.copy.fee1d717",
+      "isActive" : true,
+      "maxPointsPerShot" : 10,
+      "name" : "OSFS ",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "Pistolen-Kombinationsscheibe",
+      "disciplineCode" : "P50",
+      "distanceMeters" : 50,
+      "distanceOptionsMeters" : [
+        50
+      ],
+      "externalId" : "target.custom.9211b19d",
+      "isActive" : true,
+      "maxPointsPerShot" : 10,
+      "name" : "P10",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "Pistolen-Kombinationsscheibe",
+      "disciplineCode" : "P50",
+      "distanceMeters" : 50,
+      "distanceOptionsMeters" : [
+        50
+      ],
+      "externalId" : "target.copy.dd13d2e5",
+      "isActive" : true,
+      "maxPointsPerShot" : 4,
+      "name" : "P4",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "PP10 Präzisionsscheibe ",
+      "disciplineCode" : "P25",
+      "distanceMeters" : 25,
+      "distanceOptionsMeters" : [
+        25
+      ],
+      "externalId" : "target.custom.17b72645",
+      "isActive" : true,
+      "maxPointsPerShot" : 10,
+      "name" : "Präzisionsscheibe",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "PP10 Präzisionsscheibe ",
+      "disciplineCode" : "P50",
+      "distanceMeters" : 50,
+      "distanceOptionsMeters" : [
+        50
+      ],
+      "externalId" : "target.copy.b6787d47",
+      "isActive" : true,
+      "maxPointsPerShot" : 10,
+      "name" : "Präzisionsscheibe ",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    },
+    {
+      "allowedCaliberNames" : [
+
+      ],
+      "descriptionText" : "Luftpistole Wettkampfscheibe",
+      "disciplineCode" : "P10",
+      "distanceMeters" : 10,
+      "distanceOptionsMeters" : [
+        10
+      ],
+      "externalId" : "target.custom.4e157c72",
+      "isActive" : true,
+      "maxPointsPerShot" : 10,
+      "name" : "Wettkampfscheibe",
+      "notes" : "",
+      "version" : 1,
+      "weaponType" : "",
+      "weaponTypes" : [
+
+      ]
+    }
+  ]
+}
