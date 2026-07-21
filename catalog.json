@@ -2,8 +2,8 @@
   "calibers" : [
 
   ],
-  "catalogLabel" : "2026v6",
-  "catalogVersion" : 6,
+  "catalogLabel" : "2026v7",
+  "catalogVersion" : 7,
   "competitions" : [
 
   ],
@@ -75,7 +75,7 @@
       "weaponConstraint" : "free"
     }
   ],
-  "exportedAt" : "2026-07-21T15:05:05Z",
+  "exportedAt" : "2026-07-21T17:58:38Z",
   "kranzRequirements" : [
     {
       "ageCategoryRaw" : "elite",
@@ -1128,8 +1128,8 @@
       "distanceOptionsMeters" : [
         300
       ],
-      "externalId" : "target.copy.1de2b58a",
-      "imagePath" : "images\/target.copy.1de2b58a.png",
+      "externalId" : "target.g300.a10",
+      "imagePath" : "images\/target.g300.a10.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "A10",
@@ -1150,8 +1150,8 @@
       "distanceOptionsMeters" : [
         300
       ],
-      "externalId" : "target.copy.d3c2ccd4",
-      "imagePath" : "images\/target.copy.d3c2ccd4.png",
+      "externalId" : "target.g300.a100",
+      "imagePath" : "images\/target.g300.a100.png",
       "isActive" : true,
       "maxPointsPerShot" : 100,
       "name" : "A100",
@@ -1172,8 +1172,8 @@
       "distanceOptionsMeters" : [
         300
       ],
-      "externalId" : "target.custom.442cb630",
-      "imagePath" : "images\/target.custom.442cb630.png",
+      "externalId" : "target.g300.a5",
+      "imagePath" : "images\/target.g300.a5.png",
       "isActive" : true,
       "maxPointsPerShot" : 5,
       "name" : "A5",
@@ -1194,8 +1194,8 @@
       "distanceOptionsMeters" : [
         50
       ],
-      "externalId" : "target.copy.45a1202b",
-      "imagePath" : "images\/target.copy.45a1202b.jpg",
+      "externalId" : "target.p50.b10",
+      "imagePath" : "images\/target.p50.b10.jpg",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "B10",
@@ -1216,8 +1216,8 @@
       "distanceOptionsMeters" : [
         300
       ],
-      "externalId" : "target.copy.459fadee",
-      "imagePath" : "images\/target.copy.459fadee.png",
+      "externalId" : "target.g300.b10",
+      "imagePath" : "images\/target.g300.b10.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "B10",
@@ -1238,8 +1238,8 @@
       "distanceOptionsMeters" : [
         300
       ],
-      "externalId" : "target.custom.a1ad236f",
-      "imagePath" : "images\/target.custom.a1ad236f.png",
+      "externalId" : "target.g300.b4",
+      "imagePath" : "images\/target.g300.b4.png",
       "isActive" : true,
       "maxPointsPerShot" : 4,
       "name" : "B4",
@@ -1260,8 +1260,8 @@
       "distanceOptionsMeters" : [
         50
       ],
-      "externalId" : "target.custom.ca8ef1aa",
-      "imagePath" : "images\/target.custom.ca8ef1aa.jpg",
+      "externalId" : "target.p50.b5",
+      "imagePath" : "images\/target.p50.b5.jpg",
       "isActive" : true,
       "maxPointsPerShot" : 5,
       "name" : "B5",
@@ -1282,8 +1282,8 @@
       "distanceOptionsMeters" : [
         25
       ],
-      "externalId" : "target.custom.6f823d50",
-      "imagePath" : "images\/target.custom.6f823d50.png",
+      "externalId" : "target.p25.issf",
+      "imagePath" : "images\/target.p25.issf.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "ISSF",
@@ -1304,8 +1304,8 @@
       "distanceOptionsMeters" : [
         50
       ],
-      "externalId" : "target.custom.d14de30a",
-      "imagePath" : "images\/target.custom.d14de30a.png",
+      "externalId" : "target.p50.morgartenscheibe",
+      "imagePath" : "images\/target.p50.morgartenscheibe.png",
       "isActive" : true,
       "maxPointsPerShot" : 5,
       "name" : "Morgartenscheibe",
@@ -1326,8 +1326,8 @@
       "distanceOptionsMeters" : [
         25
       ],
-      "externalId" : "target.custom.6bf5e3ea",
-      "imagePath" : "images\/target.custom.6bf5e3ea.png",
+      "externalId" : "target.p25.osfs",
+      "imagePath" : "images\/target.p25.osfs.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "OSFS",
@@ -1348,8 +1348,8 @@
       "distanceOptionsMeters" : [
         50
       ],
-      "externalId" : "target.copy.fee1d717",
-      "imagePath" : "images\/target.copy.fee1d717.png",
+      "externalId" : "target.p50.osfs",
+      "imagePath" : "images\/target.p50.osfs.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "OSFS ",
@@ -1370,8 +1370,8 @@
       "distanceOptionsMeters" : [
         50
       ],
-      "externalId" : "target.custom.9211b19d",
-      "imagePath" : "images\/target.custom.9211b19d.png",
+      "externalId" : "target.p50.p10",
+      "imagePath" : "images\/target.p50.p10.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "P10",
@@ -1392,8 +1392,8 @@
       "distanceOptionsMeters" : [
         50
       ],
-      "externalId" : "target.copy.dd13d2e5",
-      "imagePath" : "images\/target.copy.dd13d2e5.png",
+      "externalId" : "target.p50.p4",
+      "imagePath" : "images\/target.p50.p4.png",
       "isActive" : true,
       "maxPointsPerShot" : 4,
       "name" : "P4",
@@ -1414,8 +1414,8 @@
       "distanceOptionsMeters" : [
         25
       ],
-      "externalId" : "target.custom.17b72645",
-      "imagePath" : "images\/target.custom.17b72645.png",
+      "externalId" : "target.p25.prazisionsscheibe",
+      "imagePath" : "images\/target.p25.prazisionsscheibe.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "Präzisionsscheibe",
@@ -1436,8 +1436,8 @@
       "distanceOptionsMeters" : [
         50
       ],
-      "externalId" : "target.copy.b6787d47",
-      "imagePath" : "images\/target.copy.b6787d47.png",
+      "externalId" : "target.p50.prazisionsscheibe",
+      "imagePath" : "images\/target.p50.prazisionsscheibe.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "Präzisionsscheibe ",
@@ -1458,8 +1458,8 @@
       "distanceOptionsMeters" : [
         10
       ],
-      "externalId" : "target.custom.4e157c72",
-      "imagePath" : "images\/target.custom.4e157c72.jpg",
+      "externalId" : "target.p10.wettkampfscheibe",
+      "imagePath" : "images\/target.p10.wettkampfscheibe.jpg",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "Wettkampfscheibe",
