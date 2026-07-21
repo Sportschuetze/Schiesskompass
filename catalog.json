@@ -2,7 +2,7 @@
   "calibers" : [
 
   ],
-  "catalogVersion" : 3,
+  "catalogVersion" : 4,
   "competitions" : [
 
   ],
@@ -74,7 +74,7 @@
       "weaponConstraint" : "free"
     }
   ],
-  "exportedAt" : "2026-07-21T14:06:30Z",
+  "exportedAt" : "2026-07-21T14:33:58Z",
   "kranzRequirements" : [
     {
       "ageCategoryRaw" : "elite",
@@ -1128,6 +1128,7 @@
         300
       ],
       "externalId" : "target.copy.1de2b58a",
+      "imagePath" : "images\/target.copy.1de2b58a.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "A10",
@@ -1149,6 +1150,7 @@
         300
       ],
       "externalId" : "target.copy.d3c2ccd4",
+      "imagePath" : "images\/target.copy.d3c2ccd4.png",
       "isActive" : true,
       "maxPointsPerShot" : 100,
       "name" : "A100",
@@ -1170,6 +1172,7 @@
         300
       ],
       "externalId" : "target.custom.442cb630",
+      "imagePath" : "images\/target.custom.442cb630.png",
       "isActive" : true,
       "maxPointsPerShot" : 5,
       "name" : "A5",
@@ -1191,6 +1194,7 @@
         50
       ],
       "externalId" : "target.copy.45a1202b",
+      "imagePath" : "images\/target.copy.45a1202b.jpg",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "B10",
@@ -1212,6 +1216,7 @@
         300
       ],
       "externalId" : "target.copy.459fadee",
+      "imagePath" : "images\/target.copy.459fadee.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "B10",
@@ -1233,6 +1238,7 @@
         300
       ],
       "externalId" : "target.custom.a1ad236f",
+      "imagePath" : "images\/target.custom.a1ad236f.png",
       "isActive" : true,
       "maxPointsPerShot" : 4,
       "name" : "B4",
@@ -1254,6 +1260,7 @@
         50
       ],
       "externalId" : "target.custom.ca8ef1aa",
+      "imagePath" : "images\/target.custom.ca8ef1aa.jpg",
       "isActive" : true,
       "maxPointsPerShot" : 5,
       "name" : "B5",
@@ -1275,6 +1282,7 @@
         25
       ],
       "externalId" : "target.custom.6f823d50",
+      "imagePath" : "images\/target.custom.6f823d50.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "ISSF",
@@ -1296,6 +1304,7 @@
         50
       ],
       "externalId" : "target.custom.d14de30a",
+      "imagePath" : "images\/target.custom.d14de30a.png",
       "isActive" : true,
       "maxPointsPerShot" : 5,
       "name" : "Morgartenscheibe",
@@ -1317,6 +1326,7 @@
         25
       ],
       "externalId" : "target.custom.6bf5e3ea",
+      "imagePath" : "images\/target.custom.6bf5e3ea.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "OSFS",
@@ -1338,6 +1348,7 @@
         50
       ],
       "externalId" : "target.copy.fee1d717",
+      "imagePath" : "images\/target.copy.fee1d717.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "OSFS ",
@@ -1359,6 +1370,7 @@
         50
       ],
       "externalId" : "target.custom.9211b19d",
+      "imagePath" : "images\/target.custom.9211b19d.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "P10",
@@ -1380,6 +1392,7 @@
         50
       ],
       "externalId" : "target.copy.dd13d2e5",
+      "imagePath" : "images\/target.copy.dd13d2e5.png",
       "isActive" : true,
       "maxPointsPerShot" : 4,
       "name" : "P4",
@@ -1401,6 +1414,7 @@
         25
       ],
       "externalId" : "target.custom.17b72645",
+      "imagePath" : "images\/target.custom.17b72645.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "Präzisionsscheibe",
@@ -1422,6 +1436,7 @@
         50
       ],
       "externalId" : "target.copy.b6787d47",
+      "imagePath" : "images\/target.copy.b6787d47.png",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "Präzisionsscheibe ",
@@ -1443,6 +1458,7 @@
         10
       ],
       "externalId" : "target.custom.4e157c72",
+      "imagePath" : "images\/target.custom.4e157c72.jpg",
       "isActive" : true,
       "maxPointsPerShot" : 10,
       "name" : "Wettkampfscheibe",
