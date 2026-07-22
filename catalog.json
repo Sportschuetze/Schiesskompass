@@ -1,6 +1,770 @@
 {
   "ammunitionTemplates" : [
-
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.cci.cci-club",
+      "isActive" : true,
+      "manufacturer" : "CCI",
+      "product" : "CCI Club",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.cci.cci-green-tag",
+      "isActive" : true,
+      "manufacturer" : "CCI",
+      "product" : "CCI Green Tag",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.cci.cci-standard-velocity",
+      "isActive" : true,
+      "manufacturer" : "CCI",
+      "product" : "CCI Standard Velocity",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.eley.eley-club",
+      "isActive" : true,
+      "manufacturer" : "Eley",
+      "product" : "Eley Club",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.eley.eley-match",
+      "isActive" : true,
+      "manufacturer" : "Eley",
+      "product" : "Eley Match",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.eley.eley-sport",
+      "isActive" : true,
+      "manufacturer" : "Eley",
+      "product" : "Eley Sport",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.eley.eley-tenex",
+      "isActive" : true,
+      "manufacturer" : "Eley",
+      "product" : "Eley Tenex",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.lapua.lapua-center-x",
+      "isActive" : true,
+      "manufacturer" : "Lapua",
+      "product" : "Lapua Center-X",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.lapua.lapua-midas",
+      "isActive" : true,
+      "manufacturer" : "Lapua",
+      "product" : "Lapua Midas+",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.lapua.lapua-midas-m",
+      "isActive" : true,
+      "manufacturer" : "Lapua",
+      "product" : "Lapua Midas M",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.lapua.lapua-pistol-osp",
+      "isActive" : true,
+      "manufacturer" : "Lapua",
+      "product" : "Lapua Pistol OSP",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.lapua.lapua-polar-biathlon",
+      "isActive" : true,
+      "manufacturer" : "Lapua",
+      "product" : "Lapua Polar Biathlon",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.lapua.lapua-x-act",
+      "isActive" : true,
+      "manufacturer" : "Lapua",
+      "product" : "Lapua X-Act",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.norma.norma-tac-22",
+      "isActive" : true,
+      "manufacturer" : "Norma",
+      "product" : "Norma TAC-22",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.rws.rws-club",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS Club",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.rws.rws-pistol-match",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS Pistol Match",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.rws.rws-r100",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS R100",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.rws.rws-r50",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS R50",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.rws.rws-rifle-match",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS Rifle Match",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.sk.sk-long-range-match",
+      "isActive" : true,
+      "manufacturer" : "SK",
+      "product" : "SK Long Range Match",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.sk.sk-pistol-match",
+      "isActive" : true,
+      "manufacturer" : "SK",
+      "product" : "SK Pistol Match",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.sk.sk-rifle-match",
+      "isActive" : true,
+      "manufacturer" : "SK",
+      "product" : "SK Rifle Match",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".22 lr",
+      "externalId" : "ammo..22-lr.sk.sk-standard-plus",
+      "isActive" : true,
+      "manufacturer" : "SK",
+      "product" : "SK Standard Plus",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".300 Win Mag",
+      "externalId" : "ammo..300-win-mag.federal.federal-gold-medal-190grs-bthp",
+      "isActive" : true,
+      "manufacturer" : "Federal",
+      "product" : "Federal Gold Medal 190grs BTHP",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".300 Win Mag",
+      "externalId" : "ammo..300-win-mag.hornady.hornady-match-195grs-eld-m",
+      "isActive" : true,
+      "manufacturer" : "Hornady",
+      "product" : "Hornady Match 195grs ELD-M",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".300 Win Mag",
+      "externalId" : "ammo..300-win-mag.lapua.lapua-scenar-185grs",
+      "isActive" : true,
+      "manufacturer" : "Lapua",
+      "product" : "Lapua Scenar 185grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".300 Win Mag",
+      "externalId" : "ammo..300-win-mag.norma.norma-golden-target-190grs",
+      "isActive" : true,
+      "manufacturer" : "Norma",
+      "product" : "Norma Golden Target 190grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".308 Win \/ 7.62x51",
+      "externalId" : "ammo..308-win--7.62x51.federal.federal-gold-medal-168grs-bthp",
+      "isActive" : true,
+      "manufacturer" : "Federal",
+      "product" : "Federal Gold Medal 168grs BTHP",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".308 Win \/ 7.62x51",
+      "externalId" : "ammo..308-win--7.62x51.federal.federal-gold-medal-175grs-bthp",
+      "isActive" : true,
+      "manufacturer" : "Federal",
+      "product" : "Federal Gold Medal 175grs BTHP",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".308 Win \/ 7.62x51",
+      "externalId" : "ammo..308-win--7.62x51.lapua.lapua-scenar-155grs",
+      "isActive" : true,
+      "manufacturer" : "Lapua",
+      "product" : "Lapua Scenar 155grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".308 Win \/ 7.62x51",
+      "externalId" : "ammo..308-win--7.62x51.lapua.lapua-scenar-175grs",
+      "isActive" : true,
+      "manufacturer" : "Lapua",
+      "product" : "Lapua Scenar 175grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".308 Win \/ 7.62x51",
+      "externalId" : "ammo..308-win--7.62x51.norma.norma-bondstrike-180grs",
+      "isActive" : true,
+      "manufacturer" : "Norma",
+      "product" : "Norma Bondstrike 180grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".308 Win \/ 7.62x51",
+      "externalId" : "ammo..308-win--7.62x51.norma.norma-fmj-147grs",
+      "isActive" : true,
+      "manufacturer" : "Norma",
+      "product" : "Norma FMJ 147grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".308 Win \/ 7.62x51",
+      "externalId" : "ammo..308-win--7.62x51.rws.rws-target-168grs",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS Target 168grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".308 Win \/ 7.62x51",
+      "externalId" : "ammo..308-win--7.62x51.sellier--bellot.sb-fmj-147grs",
+      "isActive" : true,
+      "manufacturer" : "Sellier & Bellot",
+      "product" : "S&B FMJ 147grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".32 S&W Long",
+      "externalId" : "ammo..32-sw-long.fiocchi.fiocchi-wc-98grs",
+      "isActive" : true,
+      "manufacturer" : "Fiocchi",
+      "product" : "Fiocchi WC 98grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".32 S&W Long",
+      "externalId" : "ammo..32-sw-long.magtech.magtech-98grs-lwc",
+      "isActive" : true,
+      "manufacturer" : "Magtech",
+      "product" : "Magtech 98grs LWC",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".32 S&W Long",
+      "externalId" : "ammo..32-sw-long.rws.rws-wadcutter-98grs",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS Wadcutter 98grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".32 S&W Long",
+      "externalId" : "ammo..32-sw-long.sellier--bellot.sb-wadcutter-100grs",
+      "isActive" : true,
+      "manufacturer" : "Sellier & Bellot",
+      "product" : "S&B Wadcutter 100grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".357 Magnum",
+      "externalId" : "ammo..357-magnum.federal.federal-158grs-jsp",
+      "isActive" : true,
+      "manufacturer" : "Federal",
+      "product" : "Federal 158grs JSP",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".357 Magnum",
+      "externalId" : "ammo..357-magnum.magtech.magtech-158grs-sjsp",
+      "isActive" : true,
+      "manufacturer" : "Magtech",
+      "product" : "Magtech 158grs SJSP",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".357 Magnum",
+      "externalId" : "ammo..357-magnum.norma.norma-158grs-fmj",
+      "isActive" : true,
+      "manufacturer" : "Norma",
+      "product" : "Norma 158grs FMJ",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".357 Magnum",
+      "externalId" : "ammo..357-magnum.sellier--bellot.sb-158grs-fmj",
+      "isActive" : true,
+      "manufacturer" : "Sellier & Bellot",
+      "product" : "S&B 158grs FMJ",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".38 Special",
+      "externalId" : "ammo..38-special.federal.federal-gold-medal-148grs-wc",
+      "isActive" : true,
+      "manufacturer" : "Federal",
+      "product" : "Federal Gold Medal 148grs WC",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".38 Special",
+      "externalId" : "ammo..38-special.magtech.magtech-148grs-lwc",
+      "isActive" : true,
+      "manufacturer" : "Magtech",
+      "product" : "Magtech 148grs LWC",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".38 Special",
+      "externalId" : "ammo..38-special.rws.rws-wadcutter-148grs",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS Wadcutter 148grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : ".38 Special",
+      "externalId" : "ammo..38-special.sellier--bellot.sb-wc-148grs",
+      "isActive" : true,
+      "manufacturer" : "Sellier & Bellot",
+      "product" : "S&B WC 148grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "4.5 mm Diabolo",
+      "externalId" : "ammo.4.5-mm-diabolo.gamo.gamo-match-classic",
+      "isActive" : true,
+      "manufacturer" : "Gamo",
+      "product" : "Gamo Match Classic",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "4.5 mm Diabolo",
+      "externalId" : "ammo.4.5-mm-diabolo.hn.hn-baracuda-match",
+      "isActive" : true,
+      "manufacturer" : "H&N",
+      "product" : "H&N Baracuda Match",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "4.5 mm Diabolo",
+      "externalId" : "ammo.4.5-mm-diabolo.hn.hn-finale-match-heavy",
+      "isActive" : true,
+      "manufacturer" : "H&N",
+      "product" : "H&N Finale Match Heavy",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "4.5 mm Diabolo",
+      "externalId" : "ammo.4.5-mm-diabolo.hn.hn-finale-match-light",
+      "isActive" : true,
+      "manufacturer" : "H&N",
+      "product" : "H&N Finale Match Light",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "4.5 mm Diabolo",
+      "externalId" : "ammo.4.5-mm-diabolo.jsb.jsb-match-diabolo-exact",
+      "isActive" : true,
+      "manufacturer" : "JSB",
+      "product" : "JSB Match Diabolo Exact",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "4.5 mm Diabolo",
+      "externalId" : "ammo.4.5-mm-diabolo.jsb.jsb-match-diabolo-exact-heavy",
+      "isActive" : true,
+      "manufacturer" : "JSB",
+      "product" : "JSB Match Diabolo Exact Heavy",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "4.5 mm Diabolo",
+      "externalId" : "ammo.4.5-mm-diabolo.rws.rws-hobby",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS Hobby",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "4.5 mm Diabolo",
+      "externalId" : "ammo.4.5-mm-diabolo.rws.rws-meisterkugeln",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS Meisterkugeln",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "4.5 mm Diabolo",
+      "externalId" : "ammo.4.5-mm-diabolo.rws.rws-r10-match-heavy",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS R10 Match Heavy",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "4.5 mm Diabolo",
+      "externalId" : "ammo.4.5-mm-diabolo.rws.rws-r10-match-light",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS R10 Match Light",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "5.56 NATO \/ GP90",
+      "externalId" : "ammo.5.56-nato--gp90.federal.federal-xm193-55grs-fmj",
+      "isActive" : true,
+      "manufacturer" : "Federal",
+      "product" : "Federal XM193 55grs FMJ",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "5.56 NATO \/ GP90",
+      "externalId" : "ammo.5.56-nato--gp90.norma.norma-fmj-55grs",
+      "isActive" : true,
+      "manufacturer" : "Norma",
+      "product" : "Norma FMJ 55grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "5.56 NATO \/ GP90",
+      "externalId" : "ammo.5.56-nato--gp90.ruag--swiss-p.gp90-5.6mm-fmj-55grs",
+      "isActive" : true,
+      "manufacturer" : "RUAG \/ Swiss P",
+      "product" : "GP90 5.6mm FMJ 55grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "6.5x55 Swedish",
+      "externalId" : "ammo.6.5x55-swedish.lapua.lapua-scenar-139grs",
+      "isActive" : true,
+      "manufacturer" : "Lapua",
+      "product" : "Lapua Scenar 139grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "6.5x55 Swedish",
+      "externalId" : "ammo.6.5x55-swedish.norma.norma-fmj-139grs",
+      "isActive" : true,
+      "manufacturer" : "Norma",
+      "product" : "Norma FMJ 139grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "6.5x55 Swedish",
+      "externalId" : "ammo.6.5x55-swedish.norma.norma-oryx-156grs",
+      "isActive" : true,
+      "manufacturer" : "Norma",
+      "product" : "Norma Oryx 156grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "6.5x55 Swedish",
+      "externalId" : "ammo.6.5x55-swedish.rws.rws-target-140grs",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS Target 140grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "7.5 mm GP11",
+      "externalId" : "ammo.7.5-mm-gp11.ruag--swiss-p.gp11-7.5mm-174grs",
+      "isActive" : true,
+      "manufacturer" : "RUAG \/ Swiss P",
+      "product" : "GP11 7.5mm 174grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "7.65 mm Para",
+      "externalId" : "ammo.7.65-mm-para.geco.geco-93grs-fmj",
+      "isActive" : true,
+      "manufacturer" : "Geco",
+      "product" : "Geco 93grs FMJ",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "7.65 mm Para",
+      "externalId" : "ammo.7.65-mm-para.ruag--swiss-p.swiss-p-93grs-fmj",
+      "isActive" : true,
+      "manufacturer" : "RUAG \/ Swiss P",
+      "product" : "Swiss P 93grs FMJ",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "7.65 mm Para",
+      "externalId" : "ammo.7.65-mm-para.rws.rws-93grs-fmj",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS 93grs FMJ",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.federal.federal-champion-115grs-fmj",
+      "isActive" : true,
+      "manufacturer" : "Federal",
+      "product" : "Federal Champion 115grs FMJ",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.fiocchi.fiocchi-fmj-115grs",
+      "isActive" : true,
+      "manufacturer" : "Fiocchi",
+      "product" : "Fiocchi FMJ 115grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.fiocchi.fiocchi-fmj-124grs",
+      "isActive" : true,
+      "manufacturer" : "Fiocchi",
+      "product" : "Fiocchi FMJ 124grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.geco.geco-plus-115grs-fmj",
+      "isActive" : true,
+      "manufacturer" : "Geco",
+      "product" : "Geco Plus 115grs FMJ",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.geco.geco-target-124grs-fmj",
+      "isActive" : true,
+      "manufacturer" : "Geco",
+      "product" : "Geco Target 124grs FMJ",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.magtech.magtech-fmj-115grs",
+      "isActive" : true,
+      "manufacturer" : "Magtech",
+      "product" : "Magtech FMJ 115grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.magtech.magtech-fmj-124grs",
+      "isActive" : true,
+      "manufacturer" : "Magtech",
+      "product" : "Magtech FMJ 124grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.norma.norma-mhp-108grs",
+      "isActive" : true,
+      "manufacturer" : "Norma",
+      "product" : "Norma MHP 108grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.norma.norma-range--training-115grs-fmj",
+      "isActive" : true,
+      "manufacturer" : "Norma",
+      "product" : "Norma Range & Training 115grs FMJ",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.ruag--swiss-p.swiss-p-action-115grs-fmj",
+      "isActive" : true,
+      "manufacturer" : "RUAG \/ Swiss P",
+      "product" : "Swiss P Action 115grs FMJ",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.ruag--swiss-p.swiss-p-target-115grs-fmj",
+      "isActive" : true,
+      "manufacturer" : "RUAG \/ Swiss P",
+      "product" : "Swiss P Target 115grs FMJ",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.rws.rws-fmj-115grs",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS FMJ 115grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.rws.rws-fmj-124grs",
+      "isActive" : true,
+      "manufacturer" : "RWS",
+      "product" : "RWS FMJ 124grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.sellier--bellot.sb-fmj-115grs",
+      "isActive" : true,
+      "manufacturer" : "Sellier & Bellot",
+      "product" : "S&B FMJ 115grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.sellier--bellot.sb-fmj-124grs",
+      "isActive" : true,
+      "manufacturer" : "Sellier & Bellot",
+      "product" : "S&B FMJ 124grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.winchester.winchester-fmj-115grs",
+      "isActive" : true,
+      "manufacturer" : "Winchester",
+      "product" : "Winchester FMJ 115grs",
+      "version" : 1
+    },
+    {
+      "bulletWeight" : "",
+      "caliberName" : "9 mm",
+      "externalId" : "ammo.9-mm.winchester.winchester-fmj-124grs",
+      "isActive" : true,
+      "manufacturer" : "Winchester",
+      "product" : "Winchester FMJ 124grs",
+      "version" : 1
+    }
   ],
   "assignments" : [
     {
@@ -155,10 +919,69 @@
     }
   ],
   "calibers" : [
-
+    {
+      "isActive" : true,
+      "name" : ".22 lr",
+      "notes" : "Kleinkaliber. Standard für 50m\/100m Schiessen."
+    },
+    {
+      "isActive" : true,
+      "name" : ".300 Win Mag",
+      "notes" : ""
+    },
+    {
+      "isActive" : true,
+      "name" : ".308 Win \/ 7.62x51",
+      "notes" : ""
+    },
+    {
+      "isActive" : true,
+      "name" : ".32 S&W Long",
+      "notes" : ""
+    },
+    {
+      "isActive" : true,
+      "name" : ".357 Magnum",
+      "notes" : ""
+    },
+    {
+      "isActive" : true,
+      "name" : ".38 Special",
+      "notes" : ""
+    },
+    {
+      "isActive" : true,
+      "name" : "4.5 mm Diabolo",
+      "notes" : "Luftdruckwaffen. Luftpistole \/ Luftgewehr 10m."
+    },
+    {
+      "isActive" : true,
+      "name" : "5.56 NATO \/ GP90",
+      "notes" : "Schweizer GP90 \/ 5.56x45 NATO. Stgw 90 \/ SG 550. Zugelassen OP Gewehr."
+    },
+    {
+      "isActive" : true,
+      "name" : "6.5x55 Swedish",
+      "notes" : ""
+    },
+    {
+      "isActive" : true,
+      "name" : "7.5 mm GP11",
+      "notes" : "Schweizer Ordonnanzpatrone. K31, K11. Zugelassen OP Gewehr."
+    },
+    {
+      "isActive" : true,
+      "name" : "7.65 mm Para",
+      "notes" : "Ältere Schweizer Ordonnanzpistolen (P06\/07, Luger-System)."
+    },
+    {
+      "isActive" : true,
+      "name" : "9 mm",
+      "notes" : "Standardkaliber Ordonnanzpistole CH. Zugelassen OP\/EFS."
+    }
   ],
-  "catalogLabel" : "2026v9",
-  "catalogVersion" : 9,
+  "catalogLabel" : "2026v10",
+  "catalogVersion" : 10,
   "competitions" : [
 
   ],
@@ -230,7 +1053,7 @@
       "weaponConstraint" : "free"
     }
   ],
-  "exportedAt" : "2026-07-22T18:38:46Z",
+  "exportedAt" : "2026-07-22T18:47:52Z",
   "kranzRequirements" : [
     {
       "ageCategoryRaw" : "elite",
@@ -1627,6 +2450,1390 @@
     }
   ],
   "weaponTemplates" : [
-
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.anschutz.1516",
+      "isActive" : true,
+      "manufacturer" : "Anschütz",
+      "model" : "1516",
+      "notes" : "Kleinkaliber-Sportgewehr.",
+      "serviceIntervalNote" : "Herstellerempfehlung Anschütz",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.anschutz.1907",
+      "isActive" : true,
+      "manufacturer" : "Anschütz",
+      "model" : "1907",
+      "notes" : "Präzisions-Kleinkaliber-Matchgewehr (50m\/100m).",
+      "serviceIntervalNote" : "Herstellerempfehlung Anschütz",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.anschutz.1913",
+      "isActive" : true,
+      "manufacturer" : "Anschütz",
+      "model" : "1913",
+      "notes" : "KK-Matchgewehr 50 m.",
+      "serviceIntervalNote" : "Herstellerempfehlung Anschütz",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 2000,
+      "externalId" : "weapon.anschutz.9003",
+      "isActive" : true,
+      "manufacturer" : "Anschütz",
+      "model" : "9003 Premium",
+      "notes" : "Druckluftgewehr 10m.",
+      "serviceIntervalNote" : "Service alle 2 Jahre durch Fachhändler",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "4.5 mm Diabolo"
+      ],
+      "version" : 1,
+      "weaponKind" : "airRifle"
+    },
+    {
+      "cleaningIntervalShots" : 2000,
+      "externalId" : "weapon.anschutz.9015",
+      "isActive" : true,
+      "manufacturer" : "Anschütz",
+      "model" : "9015",
+      "notes" : "Druckluftgewehr 10 m.",
+      "serviceIntervalNote" : "Service alle 2 Jahre durch Fachhändler",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "4.5 mm Diabolo"
+      ],
+      "version" : 1,
+      "weaponKind" : "airRifle"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.benelli.mp90s",
+      "isActive" : true,
+      "manufacturer" : "Benelli",
+      "model" : "MP90S",
+      "notes" : "Sport-\/Standardpistole.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr",
+        ".32 S&W Long"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.beretta.92fs",
+      "isActive" : true,
+      "manufacturer" : "Beretta",
+      "model" : "92FS",
+      "notes" : "",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.beretta.92x",
+      "isActive" : true,
+      "manufacturer" : "Beretta",
+      "model" : "92X",
+      "notes" : "",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 100,
+      "externalId" : "weapon.blaser.r8",
+      "isActive" : true,
+      "manufacturer" : "Blaser",
+      "model" : "R8",
+      "notes" : "Repetierer, auch Long Range.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".308 Win \/ 7.62x51",
+        ".300 Win Mag",
+        "6.5x55 Swedish"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 100,
+      "externalId" : "weapon.bleiker.challenger",
+      "isActive" : true,
+      "manufacturer" : "Bleiker",
+      "model" : "Challenger",
+      "notes" : "Schweizer 300 m-Matchgewehr (Spitzenklasse).",
+      "serviceIntervalNote" : "Reinigung nach jeder Session; Service bei Bedarf durch Fachkundige",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "7.5 mm GP11",
+        ".308 Win \/ 7.62x51",
+        "5.56 NATO \/ GP90"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 100,
+      "externalId" : "weapon.bleiker.exact",
+      "isActive" : true,
+      "manufacturer" : "Bleiker",
+      "model" : "Exact",
+      "notes" : "Schweizer 300 m-Matchgewehr.",
+      "serviceIntervalNote" : "Reinigung nach jeder Session; Service bei Bedarf durch Fachkundige",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "7.5 mm GP11",
+        ".308 Win \/ 7.62x51"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.bleiker.kk",
+      "isActive" : true,
+      "manufacturer" : "Bleiker",
+      "model" : "KK Challenger",
+      "notes" : "Schweizer KK-Matchgewehr 50 m.",
+      "serviceIntervalNote" : "Reinigung bei Bedarf; Service durch Fachkundige",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.canik.tp9",
+      "isActive" : true,
+      "manufacturer" : "Canik",
+      "model" : "TP9 SFx",
+      "notes" : "",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 300,
+      "externalId" : "weapon.colt.python",
+      "isActive" : true,
+      "manufacturer" : "Colt",
+      "model" : "Python",
+      "notes" : "",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".357 Magnum",
+        ".38 Special"
+      ],
+      "version" : 1,
+      "weaponKind" : "revolver"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.cz.457",
+      "isActive" : true,
+      "manufacturer" : "CZ",
+      "model" : "CZ 457",
+      "notes" : "KK-Repetierer.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.cz.75b",
+      "isActive" : true,
+      "manufacturer" : "CZ",
+      "model" : "CZ 75 B",
+      "notes" : "",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.cz.p10c",
+      "isActive" : true,
+      "manufacturer" : "CZ",
+      "model" : "CZ P-10 C",
+      "notes" : "",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.cz.shadow2",
+      "isActive" : true,
+      "manufacturer" : "CZ",
+      "model" : "CZ Shadow 2",
+      "notes" : "Wettkampfpistole. Sehr verbreitet im IPSC\/Sportschießen.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.cz.ts2",
+      "isActive" : true,
+      "manufacturer" : "CZ",
+      "model" : "CZ TS 2",
+      "notes" : "Wettkampfpistole (IPSC\/Sportschiessen).",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.fwb.2700",
+      "isActive" : true,
+      "manufacturer" : "Feinwerkbau",
+      "model" : "2700",
+      "notes" : "KK-Matchgewehr 50 m.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 2000,
+      "externalId" : "weapon.fwb.800x",
+      "isActive" : true,
+      "manufacturer" : "Feinwerkbau",
+      "model" : "800X",
+      "notes" : "Druckluftgewehr 10m.",
+      "serviceIntervalNote" : "Service alle 2 Jahre durch Fachhändler",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "4.5 mm Diabolo"
+      ],
+      "version" : 1,
+      "weaponKind" : "airRifle"
+    },
+    {
+      "cleaningIntervalShots" : 2000,
+      "externalId" : "weapon.fwb.900",
+      "isActive" : true,
+      "manufacturer" : "Feinwerkbau",
+      "model" : "900",
+      "notes" : "Druckluftgewehr 10 m.",
+      "serviceIntervalNote" : "Service alle 2 Jahre durch Fachhändler",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "4.5 mm Diabolo"
+      ],
+      "version" : 1,
+      "weaponKind" : "airRifle"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.fwb.aw93",
+      "isActive" : true,
+      "manufacturer" : "Feinwerkbau",
+      "model" : "AW93",
+      "notes" : "Sportpistole 25 m (.22).",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 2000,
+      "externalId" : "weapon.fwb.p11",
+      "isActive" : true,
+      "manufacturer" : "Feinwerkbau",
+      "model" : "P11",
+      "notes" : "Druckluftpistole 10 m.",
+      "serviceIntervalNote" : "Service alle 2 Jahre durch Fachhändler",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "4.5 mm Diabolo"
+      ],
+      "version" : 1,
+      "weaponKind" : "airPistol"
+    },
+    {
+      "cleaningIntervalShots" : 2000,
+      "externalId" : "weapon.fwb.p8x",
+      "isActive" : true,
+      "manufacturer" : "Feinwerkbau",
+      "model" : "P8X",
+      "notes" : "Druckluftpistole 10m.",
+      "serviceIntervalNote" : "Service alle 2 Jahre durch Fachhändler",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "4.5 mm Diabolo"
+      ],
+      "version" : 1,
+      "weaponKind" : "airPistol"
+    },
+    {
+      "cleaningIntervalShots" : 1000,
+      "externalId" : "weapon.glock.17",
+      "isActive" : true,
+      "manufacturer" : "Glock",
+      "model" : "Glock 17",
+      "notes" : "Gen 1–5. Zugelassen OP\/EFS.",
+      "serviceIntervalNote" : "Glock Armourer Manual",
+      "serviceIntervalShots" : 10000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 1000,
+      "externalId" : "weapon.glock.19",
+      "isActive" : true,
+      "manufacturer" : "Glock",
+      "model" : "Glock 19",
+      "notes" : "Kompaktvariante. Gen 1–5. Zugelassen OP\/EFS.",
+      "serviceIntervalNote" : "Glock Armourer Manual",
+      "serviceIntervalShots" : 10000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 1000,
+      "externalId" : "weapon.glock.26",
+      "isActive" : true,
+      "manufacturer" : "Glock",
+      "model" : "Glock 26",
+      "notes" : "Subkompakt. Gen 1–5. Zugelassen OP\/EFS.",
+      "serviceIntervalNote" : "Glock Armourer Manual",
+      "serviceIntervalShots" : 10000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 1000,
+      "externalId" : "weapon.glock.34",
+      "isActive" : true,
+      "manufacturer" : "Glock",
+      "model" : "Glock 34",
+      "notes" : "Wettkampfvariante mit langem Lauf.",
+      "serviceIntervalNote" : "Glock Armourer Manual",
+      "serviceIntervalShots" : 10000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 1000,
+      "externalId" : "weapon.glock.45",
+      "isActive" : true,
+      "manufacturer" : "Glock",
+      "model" : "Glock 45",
+      "notes" : "Crossover: Kompaktschlitten, Vollrahmen.",
+      "serviceIntervalNote" : "Glock Armourer Manual",
+      "serviceIntervalShots" : 10000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 100,
+      "externalId" : "weapon.gruenig.ft300",
+      "isActive" : true,
+      "manufacturer" : "Grünig+Elmiger",
+      "model" : "FT300 \/ Rekord",
+      "notes" : "Schweizer 300 m-Standard-\/Matchgewehr.",
+      "serviceIntervalNote" : "Reinigung nach jeder Session; Service bei Bedarf durch Fachkundige",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "7.5 mm GP11",
+        ".308 Win \/ 7.62x51"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.gruenig.kk",
+      "isActive" : true,
+      "manufacturer" : "Grünig+Elmiger",
+      "model" : "KK",
+      "notes" : "Schweizer KK-Matchgewehr 50 m.",
+      "serviceIntervalNote" : "Reinigung bei Bedarf; Service durch Fachkundige",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 100,
+      "externalId" : "weapon.gruenig.racer",
+      "isActive" : true,
+      "manufacturer" : "Grünig+Elmiger",
+      "model" : "Racer",
+      "notes" : "Schweizer 300 m-Matchgewehr.",
+      "serviceIntervalNote" : "Reinigung nach jeder Session; Service bei Bedarf durch Fachkundige",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "7.5 mm GP11",
+        ".308 Win \/ 7.62x51",
+        "5.56 NATO \/ GP90"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.haemmerli.162",
+      "isActive" : true,
+      "manufacturer" : "Hämmerli",
+      "model" : "160 \/ 162",
+      "notes" : "Freie Pistole 50 m (Einzellader).",
+      "serviceIntervalNote" : "Erfahrungswert",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.haemmerli.208s",
+      "isActive" : true,
+      "manufacturer" : "Hämmerli",
+      "model" : "208 s",
+      "notes" : "Klassische Schweizer Sportpistole.",
+      "serviceIntervalNote" : "Erfahrungswert",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.haemmerli.sp20",
+      "isActive" : true,
+      "manufacturer" : "Hämmerli",
+      "model" : "SP20",
+      "notes" : "Schweizer Sport-\/Standardpistole.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr",
+        ".32 S&W Long"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.haemmerli.xesse",
+      "isActive" : true,
+      "manufacturer" : "Hämmerli",
+      "model" : "X-esse",
+      "notes" : "Schweizer Sportpistole 25 m (.22).",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.hk.p30",
+      "isActive" : true,
+      "manufacturer" : "Heckler & Koch",
+      "model" : "P30",
+      "notes" : "",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.hk.sfp9",
+      "isActive" : true,
+      "manufacturer" : "Heckler & Koch",
+      "model" : "SFP9 \/ VP9",
+      "notes" : "",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.hk.usp",
+      "isActive" : true,
+      "manufacturer" : "Heckler & Koch",
+      "model" : "USP",
+      "notes" : "",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 300,
+      "externalId" : "weapon.manurhin.mr73",
+      "isActive" : true,
+      "manufacturer" : "Manurhin",
+      "model" : "MR73",
+      "notes" : "Match-Revolver. Verschiesst .357 Magnum und .38 Special.",
+      "serviceIntervalNote" : "Erfahrungswert",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".357 Magnum",
+        ".38 Special"
+      ],
+      "version" : 1,
+      "weaponKind" : "revolver"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.matchguns.mg2",
+      "isActive" : true,
+      "manufacturer" : "MatchGuns",
+      "model" : "MG2",
+      "notes" : "Sportpistole 25 m.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 2000,
+      "externalId" : "weapon.morini.162ei",
+      "isActive" : true,
+      "manufacturer" : "Morini",
+      "model" : "CM 162 EI",
+      "notes" : "Schweizer Präzisionsluftpistole 10m.",
+      "serviceIntervalNote" : "Service alle 2 Jahre durch Fachhändler",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "4.5 mm Diabolo"
+      ],
+      "version" : 1,
+      "weaponKind" : "airPistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.morini.cm22m",
+      "isActive" : true,
+      "manufacturer" : "Morini",
+      "model" : "CM 22M",
+      "notes" : "Schweizer Sportpistole 25 m.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.morini.cm84e",
+      "isActive" : true,
+      "manufacturer" : "Morini",
+      "model" : "CM 84E",
+      "notes" : "Schweizer Freie Pistole 50 m.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.pardini.gt9",
+      "isActive" : true,
+      "manufacturer" : "Pardini",
+      "model" : "GT9",
+      "notes" : "Zentralfeuer-Sportpistole (Gross).",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.pardini.hp",
+      "isActive" : true,
+      "manufacturer" : "Pardini",
+      "model" : "HP",
+      "notes" : "Zentralfeuer-\/Standardpistole (.32).",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".32 S&W Long"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.pardini.k12",
+      "isActive" : true,
+      "manufacturer" : "Pardini",
+      "model" : "K12",
+      "notes" : "Freie Pistole 50 m.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 2000,
+      "externalId" : "weapon.pardini.p10",
+      "isActive" : true,
+      "manufacturer" : "Pardini",
+      "model" : "P10",
+      "notes" : "Druckluftpistole 10 m.",
+      "serviceIntervalNote" : "Service alle 2 Jahre durch Fachhändler",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "4.5 mm Diabolo"
+      ],
+      "version" : 1,
+      "weaponKind" : "airPistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.pardini.sp",
+      "isActive" : true,
+      "manufacturer" : "Pardini",
+      "model" : "SP",
+      "notes" : "Sportpistole 25 m (.22).",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 300,
+      "externalId" : "weapon.ruger.gp100",
+      "isActive" : true,
+      "manufacturer" : "Ruger",
+      "model" : "GP100",
+      "notes" : "",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".357 Magnum",
+        ".38 Special"
+      ],
+      "version" : 1,
+      "weaponKind" : "revolver"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.sako.finnfire",
+      "isActive" : true,
+      "manufacturer" : "Sako",
+      "model" : "Finnfire",
+      "notes" : "KK-Repetierer.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 100,
+      "externalId" : "weapon.sako.trg",
+      "isActive" : true,
+      "manufacturer" : "Sako",
+      "model" : "TRG",
+      "notes" : "Long-Range-Präzisionsgewehr.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".308 Win \/ 7.62x51",
+        ".300 Win Mag"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 100,
+      "externalId" : "weapon.sauer.200str",
+      "isActive" : true,
+      "manufacturer" : "Sauer",
+      "model" : "200 STR",
+      "notes" : "300 m-Standardgewehr.",
+      "serviceIntervalNote" : "Reinigung nach jeder Session; Service bei Bedarf",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".308 Win \/ 7.62x51",
+        "5.56 NATO \/ GP90"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.sig.p03",
+      "isActive" : true,
+      "manufacturer" : "SIG",
+      "model" : "P03",
+      "notes" : "Schweizer Ordonnanz. Zugelassen OP\/EFS.",
+      "serviceIntervalNote" : "Erfahrungswert",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.sig.p12",
+      "isActive" : true,
+      "manufacturer" : "SIG",
+      "model" : "P12",
+      "notes" : "Schweizer Ordonnanz. Zugelassen OP\/EFS.",
+      "serviceIntervalNote" : "Erfahrungswert",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.sig.p15",
+      "isActive" : true,
+      "manufacturer" : "SIG",
+      "model" : "P15",
+      "notes" : "Aktuelle Schweizer Ordonnanz. Zugelassen OP\/EFS.",
+      "serviceIntervalNote" : "Erfahrungswert",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 300,
+      "externalId" : "weapon.sig.p210-1",
+      "isActive" : true,
+      "manufacturer" : "SIG",
+      "model" : "P210-1",
+      "notes" : "Präzisionssportpistole. Abzug ≥1360g. Zugelassen OP\/EFS.",
+      "serviceIntervalNote" : "Erfahrungswert Sportpistole",
+      "serviceIntervalShots" : 3000,
+      "typicalCaliberNames" : [
+        "9 mm",
+        "7.65 mm Para"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 300,
+      "externalId" : "weapon.sig.p210-legend",
+      "isActive" : true,
+      "manufacturer" : "SIG",
+      "model" : "P210 Legend",
+      "notes" : "Neuauflage des P210.",
+      "serviceIntervalNote" : "Erfahrungswert Sportpistole",
+      "serviceIntervalShots" : 3000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 300,
+      "externalId" : "weapon.sig.p210-super-target",
+      "isActive" : true,
+      "manufacturer" : "SIG",
+      "model" : "P210 Super Target",
+      "notes" : "Präzisionssportpistole. Zugelassen OP\/EFS.",
+      "serviceIntervalNote" : "Erfahrungswert Sportpistole",
+      "serviceIntervalShots" : 3000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.sig.p226",
+      "isActive" : true,
+      "manufacturer" : "SIG Sauer",
+      "model" : "P226",
+      "notes" : "Zugelassen OP\/EFS.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.sig.p226-x5",
+      "isActive" : true,
+      "manufacturer" : "SIG Sauer",
+      "model" : "P226 X5",
+      "notes" : "Wettkampfvariante P226. Zugelassen OP\/EFS.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.sig.p320-x5",
+      "isActive" : true,
+      "manufacturer" : "SIG Sauer",
+      "model" : "P320 X5 Legion",
+      "notes" : "Modulares Wettkampfsystem.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 300,
+      "externalId" : "weapon.sig.p49",
+      "isActive" : true,
+      "manufacturer" : "SIG",
+      "model" : "P49 (P210)",
+      "notes" : "Schweizer Ordonnanz. Abzugsgewicht ≥1360g. Zugelassen OP\/EFS.",
+      "serviceIntervalNote" : "Erfahrungswert",
+      "serviceIntervalShots" : 3000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 300,
+      "externalId" : "weapon.sig.p75",
+      "isActive" : true,
+      "manufacturer" : "SIG",
+      "model" : "P75 (P220)",
+      "notes" : "Schweizer Ordonnanz. Zugelassen OP\/EFS.",
+      "serviceIntervalNote" : "Erfahrungswert",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 50,
+      "externalId" : "weapon.sig.sg550",
+      "isActive" : true,
+      "manufacturer" : "SIG",
+      "model" : "SG 550 \/ Stgw 90",
+      "notes" : "Schweizer Ordonnanzgewehr. Reinigung nach jeder Session. Zugelassen OP Gewehr.",
+      "serviceIntervalNote" : "Armeereglament \/ Erfahrungswert",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "5.56 NATO \/ GP90"
+      ],
+      "version" : 1,
+      "weaponKind" : "assaultRifle"
+    },
+    {
+      "cleaningIntervalShots" : 50,
+      "externalId" : "weapon.sig.sg551",
+      "isActive" : true,
+      "manufacturer" : "SIG",
+      "model" : "SG 551",
+      "notes" : "Karabinervariante SG 550. Reinigung nach jeder Session.",
+      "serviceIntervalNote" : "Armeereglament \/ Erfahrungswert",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "5.56 NATO \/ GP90"
+      ],
+      "version" : 1,
+      "weaponKind" : "assaultRifle"
+    },
+    {
+      "cleaningIntervalShots" : 50,
+      "externalId" : "weapon.sig.stgw57",
+      "isActive" : true,
+      "manufacturer" : "SIG",
+      "model" : "Stgw 57 (SIG 510)",
+      "notes" : "Ältere Schweizer Ordonnanz (7.5 mm).",
+      "serviceIntervalNote" : "Reinigung nach jeder Session",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "7.5 mm GP11"
+      ],
+      "version" : 1,
+      "weaponKind" : "assaultRifle"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.sphinx.at2000",
+      "isActive" : true,
+      "manufacturer" : "Sphinx",
+      "model" : "AT 2000",
+      "notes" : "Schweizer Sportpistole. Zugelassen OP\/EFS.",
+      "serviceIntervalNote" : "Erfahrungswert",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.sphinx.at3000",
+      "isActive" : true,
+      "manufacturer" : "Sphinx",
+      "model" : "AT 3000 (120mm)",
+      "notes" : "Zugelassen OP\/EFS (120mm Lauf).",
+      "serviceIntervalNote" : "Erfahrungswert",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.sphinx.sdp",
+      "isActive" : true,
+      "manufacturer" : "Sphinx",
+      "model" : "SDP",
+      "notes" : "Schweizer Sportpistole.",
+      "serviceIntervalNote" : "Erfahrungswert",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.staccato.2011",
+      "isActive" : true,
+      "manufacturer" : "Staccato",
+      "model" : "2011",
+      "notes" : "2011-Plattform.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.steyr.fp",
+      "isActive" : true,
+      "manufacturer" : "Steyr",
+      "model" : "FP",
+      "notes" : "Freie Pistole 50 m.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 2000,
+      "externalId" : "weapon.steyr.lg110",
+      "isActive" : true,
+      "manufacturer" : "Steyr",
+      "model" : "LG110",
+      "notes" : "Druckluftgewehr 10 m.",
+      "serviceIntervalNote" : "Service alle 2 Jahre durch Fachhändler",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "4.5 mm Diabolo"
+      ],
+      "version" : 1,
+      "weaponKind" : "airRifle"
+    },
+    {
+      "cleaningIntervalShots" : 2000,
+      "externalId" : "weapon.steyr.lp10",
+      "isActive" : true,
+      "manufacturer" : "Steyr",
+      "model" : "LP10",
+      "notes" : "Druckluftpistole 10 m.",
+      "serviceIntervalNote" : "Service alle 2 Jahre durch Fachhändler",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "4.5 mm Diabolo"
+      ],
+      "version" : 1,
+      "weaponKind" : "airPistol"
+    },
+    {
+      "cleaningIntervalShots" : 2000,
+      "externalId" : "weapon.steyr.lp50",
+      "isActive" : true,
+      "manufacturer" : "Steyr",
+      "model" : "LP 50",
+      "notes" : "Österreichische Druckluftpistole 10m.",
+      "serviceIntervalNote" : "Service alle 2 Jahre durch Fachhändler",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "4.5 mm Diabolo"
+      ],
+      "version" : 1,
+      "weaponKind" : "airPistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.sw.617",
+      "isActive" : true,
+      "manufacturer" : "Smith & Wesson",
+      "model" : "617",
+      "notes" : "Kleinkaliber-Revolver (.22).",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "revolver"
+    },
+    {
+      "cleaningIntervalShots" : 300,
+      "externalId" : "weapon.sw.686",
+      "isActive" : true,
+      "manufacturer" : "Smith & Wesson",
+      "model" : "686",
+      "notes" : "Verschiesst .357 Magnum und .38 Special.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".357 Magnum",
+        ".38 Special"
+      ],
+      "version" : 1,
+      "weaponKind" : "revolver"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.sw.mp9",
+      "isActive" : true,
+      "manufacturer" : "Smith & Wesson",
+      "model" : "M&P9",
+      "notes" : "",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.tanfoglio.stock2",
+      "isActive" : true,
+      "manufacturer" : "Tanfoglio",
+      "model" : "Stock II",
+      "notes" : "Verbreitet im dynamischen Sportschiessen.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 100,
+      "externalId" : "weapon.tikka.t3x",
+      "isActive" : true,
+      "manufacturer" : "Tikka",
+      "model" : "T3x",
+      "notes" : "Repetierer (Sport \/ Long Range).",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".308 Win \/ 7.62x51",
+        "6.5x55 Swedish",
+        ".300 Win Mag"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 50,
+      "externalId" : "weapon.waffenfabrik.k11",
+      "isActive" : true,
+      "manufacturer" : "Waffenfabrik Bern",
+      "model" : "Karabiner 11 (K11)",
+      "notes" : "Älterer Schweizer Karabiner.",
+      "serviceIntervalNote" : "Reinigung nach jeder Session; Service bei Bedarf",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "7.5 mm GP11"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 50,
+      "externalId" : "weapon.waffenfabrik.k31",
+      "isActive" : true,
+      "manufacturer" : "Waffenfabrik Bern",
+      "model" : "Karabiner 31 (K31)",
+      "notes" : "Schweizer Repetierbüchse. Bei Bedarf Büchsenmacher beiziehen.",
+      "serviceIntervalNote" : "Reinigung nach jeder Session; Service bei Bedarf durch Fachkundige",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "7.5 mm GP11"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.walther.gsp-expert",
+      "isActive" : true,
+      "manufacturer" : "Walther",
+      "model" : "GSP Expert",
+      "notes" : "Sport-\/Standardpistole (Wechselsystem).",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr",
+        ".32 S&W Long"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.walther.kk300",
+      "isActive" : true,
+      "manufacturer" : "Walther",
+      "model" : "KK300",
+      "notes" : "Kleinkaliber-Matchgewehr.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.walther.kk500",
+      "isActive" : true,
+      "manufacturer" : "Walther",
+      "model" : "KK500",
+      "notes" : "KK-Matchgewehr 50 m.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        ".22 lr"
+      ],
+      "version" : 1,
+      "weaponKind" : "standardRifle"
+    },
+    {
+      "cleaningIntervalShots" : 2000,
+      "externalId" : "weapon.walther.lg400",
+      "isActive" : true,
+      "manufacturer" : "Walther",
+      "model" : "LG 400",
+      "notes" : "Druckluftgewehr 10m.",
+      "serviceIntervalNote" : "Service alle 2 Jahre durch Fachhändler",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "4.5 mm Diabolo"
+      ],
+      "version" : 1,
+      "weaponKind" : "airRifle"
+    },
+    {
+      "cleaningIntervalShots" : 2000,
+      "externalId" : "weapon.walther.lp500",
+      "isActive" : true,
+      "manufacturer" : "Walther",
+      "model" : "LP500",
+      "notes" : "Druckluftpistole 10m.",
+      "serviceIntervalNote" : "Service alle 2 Jahre durch Fachhändler",
+      "serviceIntervalShots" : 0,
+      "typicalCaliberNames" : [
+        "4.5 mm Diabolo"
+      ],
+      "version" : 1,
+      "weaponKind" : "airPistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.walther.pdp",
+      "isActive" : true,
+      "manufacturer" : "Walther",
+      "model" : "PDP",
+      "notes" : "Optics-Ready-Schlitten.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.walther.ppq",
+      "isActive" : true,
+      "manufacturer" : "Walther",
+      "model" : "PPQ M2",
+      "notes" : "",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    },
+    {
+      "cleaningIntervalShots" : 500,
+      "externalId" : "weapon.walther.q5-match",
+      "isActive" : true,
+      "manufacturer" : "Walther",
+      "model" : "Q5 Match SF",
+      "notes" : "Wettkampfpistole mit Stahlrahmen.",
+      "serviceIntervalNote" : "Herstellerempfehlung",
+      "serviceIntervalShots" : 5000,
+      "typicalCaliberNames" : [
+        "9 mm"
+      ],
+      "version" : 1,
+      "weaponKind" : "pistol"
+    }
   ]
 }
