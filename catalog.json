@@ -1,4 +1,7 @@
 {
+  "ammunitionTemplates" : [
+
+  ],
   "assignments" : [
     {
       "order" : 1,
@@ -154,8 +157,8 @@
   "calibers" : [
 
   ],
-  "catalogLabel" : "2026v8",
-  "catalogVersion" : 8,
+  "catalogLabel" : "2026v9",
+  "catalogVersion" : 9,
   "competitions" : [
 
   ],
@@ -227,7 +230,7 @@
       "weaponConstraint" : "free"
     }
   ],
-  "exportedAt" : "2026-07-22T15:59:46Z",
+  "exportedAt" : "2026-07-22T18:38:46Z",
   "kranzRequirements" : [
     {
       "ageCategoryRaw" : "elite",
@@ -1268,7 +1271,7 @@
       "version" : 1
     }
   ],
-  "schemaVersion" : 3,
+  "schemaVersion" : 4,
   "targets" : [
     {
       "allowedCaliberNames" : [
@@ -1622,5 +1625,8 @@
 
       ]
     }
+  ],
+  "weaponTemplates" : [
+
   ]
 }
