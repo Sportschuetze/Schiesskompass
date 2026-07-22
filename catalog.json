@@ -1,9 +1,161 @@
 {
+  "assignments" : [
+    {
+      "order" : 1,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "programPartExternalId" : "ch-efs-g300-1",
+      "repetition" : 1
+    },
+    {
+      "order" : 2,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "programPartExternalId" : "ch-efs-g300-2",
+      "repetition" : 1
+    },
+    {
+      "order" : 3,
+      "programExternalId" : "ch-feldschiessen-gewehr-300m",
+      "programPartExternalId" : "ch-efs-g300-3",
+      "repetition" : 1
+    },
+    {
+      "order" : 1,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "programPartExternalId" : "ch-feldschiessen-p25-60",
+      "repetition" : 1
+    },
+    {
+      "order" : 2,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "programPartExternalId" : "ch-feldschiessen-p25-50",
+      "repetition" : 1
+    },
+    {
+      "order" : 3,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "programPartExternalId" : "ch-feldschiessen-p25-40",
+      "repetition" : 1
+    },
+    {
+      "order" : 4,
+      "programExternalId" : "ch-feldschiessen-p25",
+      "programPartExternalId" : "ch-feldschiessen-p25-30",
+      "repetition" : 1
+    },
+    {
+      "order" : 1,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "programPartExternalId" : "ch-efs-p50-1",
+      "repetition" : 1
+    },
+    {
+      "order" : 2,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "programPartExternalId" : "ch-efs-p50-2",
+      "repetition" : 1
+    },
+    {
+      "order" : 3,
+      "programExternalId" : "ch-feldschiessen-p50",
+      "programPartExternalId" : "ch-efs-p50-3",
+      "repetition" : 1
+    },
+    {
+      "order" : 1,
+      "programExternalId" : "ch-freies-training-keller-5m",
+      "programPartExternalId" : "ch-freies-training-keller-5m.part.1",
+      "repetition" : 1
+    },
+    {
+      "order" : 1,
+      "programExternalId" : "ch-freies-training-p25",
+      "programPartExternalId" : "ch-training-p25-praezision-5",
+      "repetition" : 1
+    },
+    {
+      "order" : 2,
+      "programExternalId" : "ch-freies-training-p25",
+      "programPartExternalId" : "ch-training-p25-serie-10s",
+      "repetition" : 1
+    },
+    {
+      "order" : 1,
+      "programExternalId" : "ch-obligatorisch-gewehr-300m",
+      "programPartExternalId" : "ch-op-g300-1",
+      "repetition" : 1
+    },
+    {
+      "order" : 2,
+      "programExternalId" : "ch-obligatorisch-gewehr-300m",
+      "programPartExternalId" : "ch-op-g300-2",
+      "repetition" : 1
+    },
+    {
+      "order" : 3,
+      "programExternalId" : "ch-obligatorisch-gewehr-300m",
+      "programPartExternalId" : "ch-op-g300-3",
+      "repetition" : 1
+    },
+    {
+      "order" : 4,
+      "programExternalId" : "ch-obligatorisch-gewehr-300m",
+      "programPartExternalId" : "ch-op-g300-4",
+      "repetition" : 1
+    },
+    {
+      "order" : 1,
+      "programExternalId" : "ch-obligatorisch-p25",
+      "programPartExternalId" : "ch-op-p25-100",
+      "repetition" : 1
+    },
+    {
+      "order" : 2,
+      "programExternalId" : "ch-obligatorisch-p25",
+      "programPartExternalId" : "ch-op-p25-50",
+      "repetition" : 1
+    },
+    {
+      "order" : 3,
+      "programExternalId" : "ch-obligatorisch-p25",
+      "programPartExternalId" : "ch-op-p25-40",
+      "repetition" : 1
+    },
+    {
+      "order" : 4,
+      "programExternalId" : "ch-obligatorisch-p25",
+      "programPartExternalId" : "ch-op-p25-30",
+      "repetition" : 1
+    },
+    {
+      "order" : 1,
+      "programExternalId" : "ch-obligatorisch-p50",
+      "programPartExternalId" : "ch-op-p50-1",
+      "repetition" : 1
+    },
+    {
+      "order" : 2,
+      "programExternalId" : "ch-obligatorisch-p50",
+      "programPartExternalId" : "ch-op-p50-2",
+      "repetition" : 1
+    },
+    {
+      "order" : 3,
+      "programExternalId" : "ch-obligatorisch-p50",
+      "programPartExternalId" : "ch-op-p50-3",
+      "repetition" : 1
+    },
+    {
+      "order" : 4,
+      "programExternalId" : "ch-obligatorisch-p50",
+      "programPartExternalId" : "ch-op-p50-4",
+      "repetition" : 1
+    }
+  ],
   "calibers" : [
 
   ],
-  "catalogLabel" : "2026v7",
-  "catalogVersion" : 7,
+  "catalogLabel" : "2026v8",
+  "catalogVersion" : 8,
   "competitions" : [
 
   ],
@@ -75,7 +227,7 @@
       "weaponConstraint" : "free"
     }
   ],
-  "exportedAt" : "2026-07-21T17:58:38Z",
+  "exportedAt" : "2026-07-22T15:59:46Z",
   "kranzRequirements" : [
     {
       "ageCategoryRaw" : "elite",
@@ -1116,7 +1268,7 @@
       "version" : 1
     }
   ],
-  "schemaVersion" : 2,
+  "schemaVersion" : 3,
   "targets" : [
     {
       "allowedCaliberNames" : [
