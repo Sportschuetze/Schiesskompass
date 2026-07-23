@@ -1,0 +1,1800 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.sz.rsv-march-hoefe",
+      "assoc.sz.sksg"
+    ],
+    "canton" : "SZ",
+    "contactEmail" : "",
+    "externalId" : "club.sz.psae",
+    "homeRange" : {
+      "address" : "Roggenacker, 8808 Pfäffikon SZ",
+      "canton" : "SZ",
+      "externalId" : "range.sz.roggenacker",
+      "location" : "Pfäffikon SZ",
+      "name" : "Schiessanlage Roggenacker",
+      "postalCode" : "8808"
+    },
+    "location" : "Pfäffikon SZ",
+    "name" : "Pistolenschützen am Etzel",
+    "postalCode" : "8808",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "PSaE",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-56b155ef8516288e011a1c7aa9e111484600a3787b80ded63b9344b5e4ea8335",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "",
+      "endDate" : "2026-12-12T11:00:00Z",
+      "eventType" : "social",
+      "externalId" : "occ.psae.absenden.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-12-12T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-12-12T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Absenden im Rest. Schützenstube"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-12-19T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.altjahresausschiessen.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-12-19T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-12-19T11:00:00Z",
+          "endTime" : "15:30",
+          "startTime" : "13:30"
+        }
+      ],
+      "title" : "Altjahresausschiessen P25 (mit Wurst & Brot)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-04-16T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.behoerdenschiessen.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-16T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-16T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "17:30"
+        }
+      ],
+      "title" : "Behördenschiessen Gemeinde Freienbach"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "P25",
+      "endDate" : "2026-08-28T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "occ.psae.bundesprogramm-p25.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-27T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-27T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-06-24T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-08-28T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Obligatorisches Programm P25 (1.–3. Bundesprogramm)"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-08-12T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.canada-cup.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-13T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-13T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-06-17T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-08-12T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Canada-Cup P25\/P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-07-08T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.cup-abendessen.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-07-08T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-07-08T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Cup-Schiessen P25 \/ Gemeinsames Abendessen"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "P25",
+      "endDate" : "2026-05-31T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "occ.psae.efs.2026",
+      "isExternal" : false,
+      "isNational" : true,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "mainEventExternalId" : "event.ssv.efs.2026",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-29T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-29T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-05-30T10:00:00Z",
+          "endTime" : "15:30",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-05-31T10:00:00Z",
+          "endTime" : "11:30",
+          "startTime" : "09:30"
+        }
+      ],
+      "title" : "Eidg. Feldschiessen P25"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-10-10T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.endschiessen-jux.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-10-07T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-10-07T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "17:30"
+        },
+        {
+          "date" : "2026-10-10T10:00:00Z",
+          "endTime" : "11:30",
+          "startTime" : "09:30"
+        }
+      ],
+      "title" : "Endschiessen JM \/ Juxstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-08-29T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.gaesteschiessen-august.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-29T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        }
+      ],
+      "title" : "Gästeschiessen P25 im Roggenacker"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-07-02T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.gaesteschiessen-juli.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-07-02T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-07-02T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:30"
+        }
+      ],
+      "title" : "Gästeschiessen P25"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-09-12T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.gaesteschiessen-sept.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-12T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-12T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "13:30"
+        }
+      ],
+      "title" : "Gästeschiessen P25"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "",
+      "endDate" : "2026-10-08T10:00:00Z",
+      "eventType" : "social",
+      "externalId" : "occ.psae.herbstversammlung.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-10-08T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-10-08T10:00:00Z",
+          "endTime" : "21:30",
+          "startTime" : "19:30"
+        }
+      ],
+      "title" : "Herbstversammlung PSaE"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-09-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.jm-ek.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-01T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-01T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-09-30T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Einzelkonkurrenz EK P25\/P50"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-09-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.jm-ews.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-01T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-01T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-09-30T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Einzelwettschiessen EWS P25\/P50"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "P25",
+      "endDate" : "2026-05-20T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.jm-feldstich.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-01T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-01T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-05-20T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Feldstich P25"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-09-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.jm-kantonalstich.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-01T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-01T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-09-30T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Kantonalstich P25\/P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P10",
+      "endDate" : "2026-11-23T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.lupi-meisterschaft.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-18T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-18T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-19T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-20T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-21T11:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "10:00"
+        },
+        {
+          "date" : "2026-11-23T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "17:00"
+        }
+      ],
+      "title" : "Höfner Lupi Meisterschaft"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-11-08T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.martinischiessen.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-07T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-07T11:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-11-08T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Martinischiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P50",
+      "endDate" : "2026-11-07T11:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.morgartentraining.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-07T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-07T11:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "13:30"
+        }
+      ],
+      "title" : "Morgartentraining im Roggenacker"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-04-25T10:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.schiesskurs-april.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-25T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-25T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        }
+      ],
+      "title" : "Schiesskurs P25 (SPZ Roggenacker)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-06-13T10:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.schiesskurs-juni.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-13T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-13T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        }
+      ],
+      "title" : "Schiesskurs P25 (SPZ Roggenacker)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-09-12T10:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.schiesskurs-sept.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-12T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-12T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        }
+      ],
+      "title" : "Schiesskurs P25 (SPZ Roggenacker)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-08-04T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.sgm.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-15T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-15T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "17:30"
+        },
+        {
+          "date" : "2026-05-26T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-06-16T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-08-04T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "SGM P25\/P50 – Gruppenmeisterschaft (Quali-\/Hauptrunden)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "",
+      "endDate" : "2026-03-21T11:00:00Z",
+      "eventType" : "social",
+      "externalId" : "occ.psae.standreinigung.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-03-21T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-03-21T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Standreinigung Roggenacker"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-04-06T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-04-07",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-06T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-06T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-04-13T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-04-14",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-13T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-13T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-04-20T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-04-21",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-20T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-20T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-04-27T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-04-28",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-27T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-27T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-05-04T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-05-05",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-04T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-04T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-05-11T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-05-12",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-11T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-11T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-05-18T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-05-19",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-18T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-18T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-05-25T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-05-26",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-25T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-25T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-06-01T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-06-02",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-01T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-01T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-06-08T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-06-09",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-08T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-08T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-06-15T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-06-16",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-15T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-15T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-06-22T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-06-23",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-22T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-22T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-06-29T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-06-30",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-29T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-29T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-07-06T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-07-07",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-07-06T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-07-06T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-08-03T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-08-04",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-03T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-03T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-08-10T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-08-11",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-10T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-10T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-08-17T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-08-18",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-17T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-17T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-08-24T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-08-25",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-24T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-24T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-08-31T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-09-01",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-31T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-31T22:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "17:30"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-09-07T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-09-08",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-07T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-07T22:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "17:30"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-09-14T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-09-15",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-14T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-14T22:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "17:30"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-09-21T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-09-22",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-21T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-21T22:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "17:30"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-09-28T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-di.2026-09-29",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-28T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-28T22:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "17:30"
+        }
+      ],
+      "title" : "Training P25 (SPK)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-04-07T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-04-08",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-07T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-07T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-04-14T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-04-15",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-14T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-14T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-04-21T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-04-22",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-21T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-21T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-04-28T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-04-29",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-28T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-28T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-05-05T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-05-06",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-05T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-05T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-05-12T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-05-13",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-12T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-12T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-05-19T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-05-20",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-19T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-19T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-05-26T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-05-27",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-26T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-26T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-06-02T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-06-03",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-02T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-02T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-06-09T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-06-10",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-09T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-09T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-06-16T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-06-17",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-16T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-16T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-06-23T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-06-24",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-23T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-23T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-06-30T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-07-01",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-30T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-30T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-07-07T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-07-08",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-07-07T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-07-07T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-08-04T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-08-05",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-04T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-04T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-08-11T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-08-12",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-11T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-11T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-08-18T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-08-19",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-18T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-18T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-08-25T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-08-26",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-25T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-25T22:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-09-01T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-09-02",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-01T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-01T22:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "17:30"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-09-08T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-09-09",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-08T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-08T22:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "17:30"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-09-15T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-09-16",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-15T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-15T22:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "17:30"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-09-22T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-09-23",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-22T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-22T22:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "17:30"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-09-29T22:00:00Z",
+      "eventType" : "training",
+      "externalId" : "occ.psae.training-mi.2026-09-30",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-29T22:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-29T22:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "17:30"
+        }
+      ],
+      "title" : "Training P25 & P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "",
+      "endDate" : "2026-03-19T11:00:00Z",
+      "eventType" : "social",
+      "externalId" : "occ.psae.vereinsversammlung.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-03-19T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-03-19T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "19:30"
+        }
+      ],
+      "title" : "Vereinsversammlung PSaE"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-02-07T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.winterschiessen.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Roggenacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-31T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-01-31T11:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-02-01T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-02-07T11:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Winterschiessen Pfäffikon"
+    }
+  ],
+  "generatedAt" : "2026-07-23T14:06:00Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

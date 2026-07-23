@@ -1,0 +1,60 @@
+{
+  "associations" : [
+    {
+      "canton" : "",
+      "code" : "SSV",
+      "externalId" : "assoc.ssv",
+      "level" : "national",
+      "name" : "Schweizer Schiesssportverband"
+    },
+    {
+      "canton" : "SZ",
+      "code" : "RSV March-Höfe",
+      "externalId" : "assoc.sz.rsv-march-hoefe",
+      "level" : "regional",
+      "name" : "Regionaler Schützenverband March-Höfe",
+      "parentExternalId" : "assoc.sz.sksg"
+    },
+    {
+      "canton" : "SZ",
+      "code" : "SKSG",
+      "externalId" : "assoc.sz.sksg",
+      "level" : "cantonal",
+      "name" : "Schwyzer Kantonalschützengesellschaft",
+      "parentExternalId" : "assoc.ssv"
+    }
+  ],
+  "clubs" : [
+    {
+      "associationExternalIds" : [
+        "assoc.sz.rsv-march-hoefe",
+        "assoc.sz.sksg"
+      ],
+      "canton" : "SZ",
+      "contentHash" : "sha256-56b155ef8516288e011a1c7aa9e111484600a3787b80ded63b9344b5e4ea8335",
+      "eventCount" : 72,
+      "externalId" : "club.sz.psae",
+      "location" : "Pfäffikon SZ",
+      "name" : "Pistolenschützen am Etzel",
+      "path" : "clubs\/club.sz.psae.json",
+      "shortName" : "PSaE",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.sz.sksg"
+      ],
+      "canton" : "SZ",
+      "contentHash" : "sha256-81ce126e0e4ee88ddcfa73c9cec71fbadddcef372b0fbd720a86db6154a66356",
+      "eventCount" : 30,
+      "externalId" : "club.sz.sg-trachslau",
+      "location" : "Einsiedeln-Trachslau",
+      "name" : "Schützengesellschaft Trachslau",
+      "path" : "clubs\/club.sz.sg-trachslau.json",
+      "shortName" : "SG Trachslau",
+      "version" : 1
+    }
+  ],
+  "generatedAt" : "2026-07-23T14:06:00Z",
+  "schemaVersion" : 1
+}
