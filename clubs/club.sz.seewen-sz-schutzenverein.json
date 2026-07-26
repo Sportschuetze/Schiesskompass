@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "SZ",
+    "externalId" : "club.sz.seewen-sz-schutzenverein",
+    "location" : "",
+    "name" : "Seewen SZ Schützenverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-60ceb3df0d810eef9c66a7af047f8c4db83f8f9394945a49045a669135628e56",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:24:34Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

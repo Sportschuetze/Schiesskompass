@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "SZ",
+    "externalId" : "club.sz.schwyz-schutzengesellschaft",
+    "location" : "",
+    "name" : "Schwyz Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-5437e7f3169d297b81a1b0852d8be567c8774e0af4809c8b57ab40786b73191d",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:24:34Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

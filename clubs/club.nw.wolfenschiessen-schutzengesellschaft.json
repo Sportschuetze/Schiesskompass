@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "NW",
+    "externalId" : "club.nw.wolfenschiessen-schutzengesellschaft",
+    "location" : "",
+    "name" : "Wolfenschiessen Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-a98b182e42c4012c8dda25788b8c7ac3d33f86108b3fd304f9a13e90f51186c8",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:24:34Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

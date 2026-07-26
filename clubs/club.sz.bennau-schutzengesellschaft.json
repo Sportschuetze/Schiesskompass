@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "SZ",
+    "externalId" : "club.sz.bennau-schutzengesellschaft",
+    "location" : "",
+    "name" : "Bennau Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-fc510cdf3a1a1d297fe44a8eafb7639ab9ea1370b4fc19865ac89fb118129628",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:24:34Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

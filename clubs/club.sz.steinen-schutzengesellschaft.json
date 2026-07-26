@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "SZ",
+    "externalId" : "club.sz.steinen-schutzengesellschaft",
+    "location" : "",
+    "name" : "Steinen Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-2aebf414121e0f2e4383d3372c534c3c08ffde2258b66b16c35b22a94ad7f41c",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:24:34Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

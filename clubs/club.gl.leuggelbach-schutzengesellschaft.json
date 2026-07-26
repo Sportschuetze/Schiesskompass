@@ -1,0 +1,89 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "GL",
+    "externalId" : "club.gl.leuggelbach-schutzengesellschaft",
+    "location" : "",
+    "name" : "Leuggelbach Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-23ae1cd6e91ca60ca255c78a558bd519d66b833f05958b20e5f84bd04e0be9c2",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21282.11893",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Matt",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-14T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-14T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-21T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-21T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "9. Vorbachschiessen 2026"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:24:34Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

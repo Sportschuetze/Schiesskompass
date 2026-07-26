@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZG",
+    "externalId" : "club.zg.offiziersgesellschaft-des-kantons-zug-offiziersgesellschaft-des-kantons-zug",
+    "location" : "",
+    "name" : "Offiziersgesellschaft des Kantons Zug Offiziersgesellschaft des Kantons Zug",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-89dbcc6f4915f8aac67989337a604da31685baa0832889674e52e7e92a53d261",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:24:34Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

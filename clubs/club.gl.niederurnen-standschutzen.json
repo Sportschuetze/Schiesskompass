@@ -1,0 +1,74 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "GL",
+    "externalId" : "club.gl.niederurnen-standschutzen",
+    "location" : "",
+    "name" : "Niederurnen Standschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-7317ad5de790485c37e60c6ab067e9c6fe3fdbce1431c087fa18b4ca91548328",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-12T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20035.10793",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Fennen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-04T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-04T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "17:30",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-09-12T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-09-12T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "46. Linth-Escher-Schiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:24:34Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}
