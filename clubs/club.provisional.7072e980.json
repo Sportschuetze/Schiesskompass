@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "BE",
+    "externalId" : "club.provisional.7072e980",
+    "location" : "",
+    "name" : "Koppigen Pistolenschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-0d1f86183be8e75ad1f196e1d028adbcbfe0612c7bb07ba6d11c6298130049a2",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

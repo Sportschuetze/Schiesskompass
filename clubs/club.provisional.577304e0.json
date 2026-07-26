@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "BE",
+    "externalId" : "club.provisional.577304e0",
+    "location" : "",
+    "name" : "Sumiswald Feldschützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-c9425e3a7fc42416079cc0271443f92b1d31d5b7258698357478f6ee9c7d5992",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "BE",
+    "externalId" : "club.provisional.c27bff8f",
+    "location" : "",
+    "name" : "Hofstetten bei Brienz Feldschützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-b860e2a7fe2290fa76df8d6ef0f4be5f1ce5223656645041fc157c8a1999aa32",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

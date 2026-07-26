@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "BE",
+    "externalId" : "club.provisional.1b498314",
+    "location" : "",
+    "name" : "Diesse Société de tir de campagne",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-f8b362829130fae6144563c3ca494c8b43a730bbddd44bfa37a78428e3d27777",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

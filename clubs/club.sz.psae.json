@@ -5,7 +5,6 @@
       "assoc.sz.sksg"
     ],
     "canton" : "SZ",
-    "contactEmail" : "",
     "externalId" : "club.sz.psae",
     "homeRange" : {
       "address" : "Roggenacker, 8808 Pfäffikon SZ",
@@ -17,6 +16,11 @@
     },
     "location" : "Pfäffikon SZ",
     "name" : "Pistolenschützen am Etzel",
+    "offeredDisciplines" : [
+      "P10",
+      "P25",
+      "P50"
+    ],
     "postalCode" : "8808",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
@@ -29,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-56b155ef8516288e011a1c7aa9e111484600a3787b80ded63b9344b5e4ea8335",
+  "contentHash" : "sha256-fde7211408d438a0cdde188022ab6656cd769ced681ddddf2886eb43de973e24",
   "events" : [
     {
       "championshipTags" : "",
@@ -1794,7 +1798,7 @@
       "title" : "Winterschiessen Pfäffikon"
     }
   ],
-  "generatedAt" : "2026-07-23T14:06:00Z",
+  "generatedAt" : "2026-07-26T06:12:45Z",
   "schemaVersion" : 1,
   "version" : 1
 }

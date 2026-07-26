@@ -1,0 +1,109 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZH",
+    "externalId" : "club.provisional.cb754cad",
+    "location" : "",
+    "name" : "Wülflingen Schützenverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-687a44ad1249dbd49117a8f88bce4be0f64eea78485a7fd2423677fbb3bfa5e3",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P50",
+      "endDate" : "2027-05-28T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21287.11898",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Winterthur, Wülflingen, Wieshof",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-05-20T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-05-20T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:30"
+        },
+        {
+          "date" : "2027-05-20T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:30"
+        },
+        {
+          "date" : "2027-05-21T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:30"
+        },
+        {
+          "date" : "2027-05-21T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:30"
+        },
+        {
+          "date" : "2027-05-22T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-05-22T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-05-22T10:00:00Z",
+          "endTime" : "11:30",
+          "startTime" : "09:30"
+        },
+        {
+          "date" : "2027-05-22T10:00:00Z",
+          "endTime" : "11:30",
+          "startTime" : "09:30"
+        },
+        {
+          "date" : "2027-05-27T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:30"
+        },
+        {
+          "date" : "2027-05-27T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:30"
+        },
+        {
+          "date" : "2027-05-28T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:30"
+        },
+        {
+          "date" : "2027-05-28T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:30"
+        }
+      ],
+      "title" : "Wülflinger Schlossschiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

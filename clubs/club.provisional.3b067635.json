@@ -1,0 +1,59 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZH",
+    "externalId" : "club.provisional.3b067635",
+    "location" : "",
+    "name" : "Rudolfingen Militärschiessverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-b12b5e53a65be5d4fcd02c9e91dcffd66cab08ccbae32142f7ee5d245f9f32a1",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-11-15T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20621.11324",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Trüllikon, Wildensbuch, Höhi",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-14T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-14T11:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-11-15T11:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "13:00"
+        }
+      ],
+      "title" : "Kreiswinterschiessen KV Kohlfirst"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

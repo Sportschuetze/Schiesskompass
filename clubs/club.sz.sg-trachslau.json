@@ -4,7 +4,6 @@
       "assoc.sz.sksg"
     ],
     "canton" : "SZ",
-    "contactEmail" : "",
     "externalId" : "club.sz.sg-trachslau",
     "homeRange" : {
       "address" : "Trachslau, 8840 Einsiedeln",
@@ -16,6 +15,9 @@
     },
     "location" : "Einsiedeln-Trachslau",
     "name" : "Schützengesellschaft Trachslau",
+    "offeredDisciplines" : [
+      "G300"
+    ],
     "postalCode" : "8840",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
@@ -28,7 +30,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-81ce126e0e4ee88ddcfa73c9cec71fbadddcef372b0fbd720a86db6154a66356",
+  "contentHash" : "sha256-6f0065fd5f55e82bb95e3078cad3c974b42f2cd2a77011c18e8479ac3ba9b778",
   "events" : [
     {
       "championshipTags" : "",
@@ -757,7 +759,7 @@
       "title" : "Vereinstraining"
     }
   ],
-  "generatedAt" : "2026-07-23T14:06:00Z",
+  "generatedAt" : "2026-07-26T06:12:45Z",
   "schemaVersion" : 1,
   "version" : 1
 }

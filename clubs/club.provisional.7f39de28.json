@@ -1,0 +1,135 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZH",
+    "externalId" : "club.provisional.7f39de28",
+    "location" : "",
+    "name" : "Affoltern Bezirksschützenverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-a66ddb5cf60dad9637741548e9562d10c88b31512b85910f5ec595808ddd2381",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P50",
+      "endDate" : "2026-09-05T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20650.11352",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Hausen am Albis, Oberalbisstrasse",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-27T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-27T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-08-27T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "BSVA Bezirksschiessen 2026"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-19T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20666.11364",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Zwillikermoos, Affoltern am Albis",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-12T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-12T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-09-12T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-09-19T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        }
+      ],
+      "title" : "Bezirksschiessen BSVA 2026"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-01-09T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21073.11702",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Aeugst am Albis, Bolet",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-01-09T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-01-09T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        }
+      ],
+      "title" : "Bezirks-Winterschiessen BSVA 2027"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

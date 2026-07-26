@@ -1,0 +1,99 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZH",
+    "externalId" : "club.provisional.4c1cf988",
+    "location" : "",
+    "name" : "Pfäffikon ZH Pistolenschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-3e79cda7705f19e1fcab0feedbbead7bf9fb9a4cae5646447755bdaaf0712df2",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P10",
+      "endDate" : "2026-11-06T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20813.11491",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Pfäffikon, Im Saumholz",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-10-29T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-10-29T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-10-29T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-10-30T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-10-30T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-04T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-11-04T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-11-05T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-05T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-06T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-06T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "17:00"
+        }
+      ],
+      "title" : "24. Lupi-Match Züri-Oberland 2026"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

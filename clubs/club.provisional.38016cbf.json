@@ -1,0 +1,69 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZH",
+    "externalId" : "club.provisional.38016cbf",
+    "location" : "",
+    "name" : "Elgg Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-a4f93b90dfcd017c7351d3e1a97a7548cd28d72a83d9444844afd2ee5c06e099",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20563.11284",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Elgg",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-15T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-16T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-21T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Landstädtli-Schüüsse Elgg"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

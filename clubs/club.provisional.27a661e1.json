@@ -1,0 +1,97 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZH",
+    "externalId" : "club.provisional.27a661e1",
+    "location" : "",
+    "name" : "Andelfingen Schiesssportverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-608650cb2352fba407c39373c09210da5f6f2c67bbb530cf4cea49f20a25aeb1",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-05T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:18948.9749",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Kleinandelfingen, Im Riet",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-22T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-23T10:00:00Z",
+          "endTime" : "11:30",
+          "startTime" : "09:30"
+        },
+        {
+          "date" : "2026-09-04T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        }
+      ],
+      "title" : "26. Schiterbergschiessen 2026"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-11-08T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20540.11261",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Kleinandelfingen, Im Riet",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-07T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-07T11:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-11-08T11:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "13:00"
+        }
+      ],
+      "title" : "Kreiswinterschiessen KSVA 2026"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

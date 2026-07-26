@@ -1,0 +1,74 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZH",
+    "externalId" : "club.provisional.6d6f083a",
+    "location" : "",
+    "name" : "Zwillikon Feldschützen-Gesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-db6c678488f42752c60251b490f58304e230e6717543e93cd0b9add15ced719b",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-04-03T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21215.11828",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Zwillikermoos, Affoltern am Albis",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-03-19T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-03-19T11:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2027-03-20T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2027-03-21T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2027-04-02T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2027-04-03T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        }
+      ],
+      "title" : "Säuliämtler Gruppenschiessen 2027"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

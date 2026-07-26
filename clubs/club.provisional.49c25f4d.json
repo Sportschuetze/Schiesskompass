@@ -1,0 +1,69 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZH",
+    "externalId" : "club.provisional.49c25f4d",
+    "location" : "",
+    "name" : "Winterthur-Stadt Sportschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-ad28e7b1ae44ff5b03bab6f9289785bd2beacf9d21f63ad8dc8a195401906215",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G50",
+      "endDate" : "2026-08-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20732.11423",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Winterhur Veltheim",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-09T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-09T10:00:00Z",
+          "endTime" : "14:15",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-21T10:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:50"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "12:50",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-30T10:00:00Z",
+          "endTime" : "14:15",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "15. Winterthurer Liegendmatch"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

@@ -1,0 +1,99 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "BE",
+    "externalId" : "club.provisional.69942c4f",
+    "location" : "",
+    "name" : "Schwanden b. Sigriswil Militärschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-26d0dd26c95ac4b804ff788852b46e4c2008878814ba9f6a918630c3eefe1573",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20734.11425",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Schwanden",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-21T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-23T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-23T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-28T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-30T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-30T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        }
+      ],
+      "title" : "150 Jahr Jubiläum Militärschützen Schwanden mit sehr schönem Gabentempel"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

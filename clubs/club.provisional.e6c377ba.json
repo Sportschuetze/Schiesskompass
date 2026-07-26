@@ -1,0 +1,79 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZH",
+    "externalId" : "club.provisional.e6c377ba",
+    "location" : "",
+    "name" : "Fischenthal Feldschützenverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-8e05a0526c9d54eaecdddf74c711cc60e8edbda25826fe75f33849132365d2e2",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-01-24T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21231.11844",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Fischenthal, Bärenbach",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-01-16T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-01-16T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2027-01-16T11:00:00Z",
+          "endTime" : "15:30",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-01-17T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        },
+        {
+          "date" : "2027-01-23T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2027-01-23T11:00:00Z",
+          "endTime" : "15:30",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-01-24T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        }
+      ],
+      "title" : "Fischenthaler Winterschiessen 2027"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

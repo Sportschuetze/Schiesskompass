@@ -1,0 +1,59 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "BE",
+    "externalId" : "club.provisional.5c78c658",
+    "location" : "",
+    "name" : "Fraubrunnen-Hettiswil Sportschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-b558a34ed06da5d1d4b8eaed334053d1c5560bac77d117db655dcc6cd4b470e4",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-07T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21162.11786",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Grafenried (Gde Fraubrunnen)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-16T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-16T10:00:00Z",
+          "endTime" : "11:30",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2026-08-07T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "16:30"
+        }
+      ],
+      "title" : "OASSV Match Meisterschaft 2026"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

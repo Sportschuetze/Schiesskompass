@@ -1,0 +1,69 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZH",
+    "externalId" : "club.provisional.04b3f1a2",
+    "location" : "",
+    "name" : "Wald-Laupen Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-7c2840f9fc0f82df027077f014b03d49bf4be6ac5d800de519679a6ea568be6a",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-10-17T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20394.11106",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Wald, Neuholz",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-26T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-26T10:00:00Z",
+          "endTime" : "11:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-10-03T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-10-10T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-10-17T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "28. Zürcher Oberländer Liegendmatch"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

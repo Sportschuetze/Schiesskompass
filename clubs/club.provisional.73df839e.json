@@ -1,0 +1,89 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZH",
+    "externalId" : "club.provisional.73df839e",
+    "location" : "",
+    "name" : "Ossingen Schützenverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-9ff901392e194be7b1197d597925c25adbc975f53360e64754889e57e8280ac0",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20544.11265",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Ossingen, Gemeindfeld",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-21T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-23T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-28T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-08-30T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Jubiläumsschiessen - 275 Jahre Schützenverein Ossingen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

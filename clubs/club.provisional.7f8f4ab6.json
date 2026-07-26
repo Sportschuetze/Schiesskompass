@@ -1,0 +1,119 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZH",
+    "externalId" : "club.provisional.7f8f4ab6",
+    "location" : "",
+    "name" : "Hirslanden-Riesbach Infanterie Schiessverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-645ea13ea873477d245fc7b138a545e5686b84a57b8ba51621104af83ae857b6",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P10",
+      "endDate" : "2026-12-04T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21309.11920",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Zürich-Schwamendingen, Probstei",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-29T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-29T11:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-11-29T11:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-11-30T11:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-30T11:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-12-01T11:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-12-01T11:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-12-02T11:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-12-02T11:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-12-02T11:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-12-02T11:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-12-03T11:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-12-03T11:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-12-04T11:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-12-04T11:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:00"
+        }
+      ],
+      "title" : "48. Stadtzürcher Luftpistolen-Meisterschaft 2026"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

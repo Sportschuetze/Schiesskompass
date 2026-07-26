@@ -1,0 +1,89 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZH",
+    "externalId" : "club.provisional.b793bada",
+    "location" : "",
+    "name" : "Truttikon Militärschützenverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-cfc973e024c15645eb2b45f6ff35c9db80dae77ecb51962c0f58b4c6b9c8e11f",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-08-29T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21066.11695",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Truttikon, Riet",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-08-20T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-08-20T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2027-08-21T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2027-08-21T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-08-22T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-08-27T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2027-08-28T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2027-08-28T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-08-29T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Fahnenweihschiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

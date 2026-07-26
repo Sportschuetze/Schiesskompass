@@ -1,0 +1,54 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+
+    ],
+    "canton" : "ZH",
+    "externalId" : "club.provisional.d4be6239",
+    "location" : "",
+    "name" : "Altikon Schützenverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-19557e82ccd0cd50d18e50f5de64bb80e0093cb9cd78bc5f1736ea270bfe2333",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-01-30T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21082.11711",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Altikon",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-01-30T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-01-30T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        }
+      ],
+      "title" : "Sauschiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T06:12:45Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}
