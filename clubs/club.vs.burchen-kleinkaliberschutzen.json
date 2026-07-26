@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.wssv"
+    ],
+    "canton" : "VS",
+    "externalId" : "club.vs.burchen-kleinkaliberschutzen",
+    "location" : "",
+    "name" : "Bürchen Kleinkaliberschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-54802daad924c64b38318fcd4774c6f6a46cc02131185a268845a1fb744e5612",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

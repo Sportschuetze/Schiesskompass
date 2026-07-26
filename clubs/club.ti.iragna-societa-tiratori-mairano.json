@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.ftst"
+    ],
+    "canton" : "TI",
+    "externalId" : "club.ti.iragna-societa-tiratori-mairano",
+    "location" : "",
+    "name" : "Iragna Società Tiratori Mairano",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-fcd5b8eddfbf79bcb82ceac882c01bddd104d6bf514842ddcde0612f1c6dc6d7",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.agsv"
+    ],
+    "canton" : "AG",
+    "externalId" : "club.ag.fahrwangen-pistolenclub",
+    "location" : "",
+    "name" : "Fahrwangen Pistolenclub",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-a5d871d869a00ded08230dd4b71b7b5950eb22fc7305b739eb3359bbb8f380bb",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

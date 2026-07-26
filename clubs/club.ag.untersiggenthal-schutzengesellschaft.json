@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.agsv"
+    ],
+    "canton" : "AG",
+    "externalId" : "club.ag.untersiggenthal-schutzengesellschaft",
+    "location" : "",
+    "name" : "Untersiggenthal Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-14bb858b174dfbf3232fda7ff1d3f98c9aaeb2c5d5ee7fde9733ba6e750796ac",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.wssv"
+    ],
+    "canton" : "VS",
+    "externalId" : "club.vs.unnergoms-sportschutzen-unnergoms",
+    "location" : "",
+    "name" : "Unnergoms Sportschützen Unnergoms",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-9b81ab5a289c9c214f9256fe0c33d18c7e0aff40570466ec61832392eebca1e3",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

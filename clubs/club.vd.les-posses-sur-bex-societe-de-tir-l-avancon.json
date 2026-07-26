@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.avts"
+    ],
+    "canton" : "VD",
+    "externalId" : "club.vd.les-posses-sur-bex-societe-de-tir-l-avancon",
+    "location" : "",
+    "name" : "Les Posses-sur-Bex Société de tir L'Avançon",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-3b2409027423883f282581434dfe3bfa82e7cdc8612a2babaa1a981c4e4bc80a",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

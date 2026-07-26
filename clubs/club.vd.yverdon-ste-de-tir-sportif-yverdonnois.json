@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.avts"
+    ],
+    "canton" : "VD",
+    "externalId" : "club.vd.yverdon-ste-de-tir-sportif-yverdonnois",
+    "location" : "",
+    "name" : "Yverdon Sté de Tir Sportif Yverdonnois",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-f75bef5c8b3d9feb6e6d77ed088d5792061f7cbbb79fb3a795ebf63d55a42b20",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

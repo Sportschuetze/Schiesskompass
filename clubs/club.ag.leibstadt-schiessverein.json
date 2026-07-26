@@ -1,0 +1,74 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.agsv"
+    ],
+    "canton" : "AG",
+    "externalId" : "club.ag.leibstadt-schiessverein",
+    "location" : "",
+    "name" : "Leibstadt Schiessverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-a3a9b479ea59650b0829ce3e64450e4810284893f419077fab66c245e9decc20",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-03-20T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21229.11842",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Leibstadt",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-03-13T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-03-13T11:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2027-03-13T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-03-14T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-03-20T11:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2027-03-20T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "38. Einzel & Gruppenschiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

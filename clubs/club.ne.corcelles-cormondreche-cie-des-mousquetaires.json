@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.snts"
+    ],
+    "canton" : "NE",
+    "externalId" : "club.ne.corcelles-cormondreche-cie-des-mousquetaires",
+    "location" : "",
+    "name" : "Corcelles-Cormondrèche Cie des Mousquetaires",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-f23fe7166cec032bdc3364bdde464ba4fdf2a83c70b970a72fe5bf58fd6cb5fc",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

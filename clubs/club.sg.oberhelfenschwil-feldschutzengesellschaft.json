@@ -1,0 +1,127 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.oberhelfenschwil-feldschutzengesellschaft",
+    "location" : "",
+    "name" : "Oberhelfenschwil Feldschützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-b343a22e525473a24148d8e430b362622da8f0caaba1663c40f80a48aad1f8da",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20464.11176",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Tobelacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-21T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
+          "date" : "2026-08-30T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:30"
+        }
+      ],
+      "title" : "Chilbischiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-08-29T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20992.11620",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Tobelacker",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-08-20T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-08-20T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2027-08-21T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2027-08-21T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
+          "date" : "2027-08-28T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2027-08-28T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
+          "date" : "2027-08-29T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:30"
+        }
+      ],
+      "title" : "250 Jahre FSG Oberhelfenschwil - Jubiläumsschiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

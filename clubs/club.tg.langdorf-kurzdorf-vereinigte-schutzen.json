@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.tksv"
+    ],
+    "canton" : "TG",
+    "externalId" : "club.tg.langdorf-kurzdorf-vereinigte-schutzen",
+    "location" : "",
+    "name" : "Langdorf-Kurzdorf Vereinigte Schützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-c75ba4c1b8b98d6b7de33577ff9cd56e65e6cdb8ffa76c0c01e2986ebd46b207",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

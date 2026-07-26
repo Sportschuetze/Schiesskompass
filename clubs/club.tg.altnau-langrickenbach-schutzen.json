@@ -1,0 +1,79 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.tksv"
+    ],
+    "canton" : "TG",
+    "externalId" : "club.tg.altnau-langrickenbach-schutzen",
+    "location" : "",
+    "name" : "Altnau-Langrickenbach Schützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-9d91a5548ef6f90aaa0143083bd92e83c5f59d3f25dc722e6ed9967585d82f96",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-06T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:19701.10490",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schützenhaus Altnau",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-28T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-28T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-09-06T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Öpfelschüüsse"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

@@ -1,0 +1,64 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.eichenwies-militarschutzen",
+    "location" : "",
+    "name" : "Eichenwies Militärschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-45cf7aed8d0867e1f50a65cf617139393c12661e196fe1f4eb900df86bce4c02",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-15T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20486.11205",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Blatten",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-07T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-07T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-14T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Rheintaler Vereinswettkampf + Jubiläumsschiessen 75 Jahre Zeigerverband"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

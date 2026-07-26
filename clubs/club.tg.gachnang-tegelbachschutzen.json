@@ -1,0 +1,85 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.tksv"
+    ],
+    "canton" : "TG",
+    "externalId" : "club.tg.gachnang-tegelbachschutzen",
+    "location" : "",
+    "name" : "Gachnang Tegelbachschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "sourceURL" : "https:\/\/www.tegelbachschuetzen-gachnang.ch\/",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : "https:\/\/www.tegelbachschuetzen-gachnang.ch\/"
+  },
+  "contentHash" : "sha256-9f90c59d1e326cbd817357dc786d2dc837861b5a207c0e0f98dfd7bf3f31cd24",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-04-24T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21165.11789",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Lochli",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-04-16T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-04-16T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-04-17T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-04-17T10:00:00Z",
+          "endTime" : "17:30",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-04-21T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-04-23T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-04-24T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-04-24T10:00:00Z",
+          "endTime" : "17:30",
+          "startTime" : "13:30"
+        }
+      ],
+      "title" : "25. Gochlinger Liegendmatch 2027"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

@@ -1,0 +1,60 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.au-widnau-schutzengesellschaft",
+    "location" : "",
+    "name" : "Au-Widnau Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "sourceURL" : "http:\/\/www.sgaw.ch",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : "http:\/\/www.sgaw.ch"
+  },
+  "contentHash" : "sha256-72975fd43180ae0ff61a3850fe73c0f0ef2cda3af626eb058711b7c4232e68b4",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P10",
+      "endDate" : "2026-12-08T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21261.11872",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Rheinauen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-12-08T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-12-08T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        },
+        {
+          "date" : "2026-12-08T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        }
+      ],
+      "title" : "4. Widnauer Lupi-Meisterschaft"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

@@ -1,0 +1,59 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.bsv"
+    ],
+    "canton" : "GR",
+    "externalId" : "club.gr.chur-schutzengesellschaft-der-stadt",
+    "location" : "",
+    "name" : "Chur Schützengesellschaft der Stadt",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-54b18d09f27d670f620e58af47a28dd87dd4c0e7db02e757f1743cd95fe8825f",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P10",
+      "endDate" : "2026-12-02T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21263.11874",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Städtische Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-12-02T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-12-02T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        },
+        {
+          "date" : "2026-12-02T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        }
+      ],
+      "title" : "44. Luftpistolen-Meisterschaft von Chur"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

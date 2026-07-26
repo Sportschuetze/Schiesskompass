@@ -1,0 +1,90 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.sargans-schutzenverein",
+    "location" : "",
+    "name" : "Sargans Schützenverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "sourceURL" : "http:\/\/www.sv-sargans.ch",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : "http:\/\/www.sv-sargans.ch"
+  },
+  "contentHash" : "sha256-d4d804438164889cf82d59413e3b99ff605705790557b150db5c980dcf1eb2cf",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P10",
+      "endDate" : "2026-12-30T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21262.11873",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schohl",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-12-27T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-12-27T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "12:00"
+        },
+        {
+          "date" : "2026-12-27T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "12:00"
+        },
+        {
+          "date" : "2026-12-28T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "12:00"
+        },
+        {
+          "date" : "2026-12-28T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "12:00"
+        },
+        {
+          "date" : "2026-12-29T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "12:00"
+        },
+        {
+          "date" : "2026-12-29T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "12:00"
+        },
+        {
+          "date" : "2026-12-30T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "12:00"
+        },
+        {
+          "date" : "2026-12-30T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "12:00"
+        }
+      ],
+      "title" : "4. Schohl 10m Meisterschaft 2026"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

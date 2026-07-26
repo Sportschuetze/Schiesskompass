@@ -1,0 +1,70 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.oberburen-niederwil-militarschutzenverein",
+    "location" : "",
+    "name" : "Oberbüren-Niederwil Militärschützenverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "sourceURL" : "http:\/\/www.msv-on.ch",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : "http:\/\/www.msv-on.ch"
+  },
+  "contentHash" : "sha256-4b1e96244a30e91a6f841c2f34490d47bf0a225e6701510bb95bbc0495269651",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-23T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20415.11127",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Oberbüren",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-16T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-16T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-09-18T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-09-19T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-09-23T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "15:00"
+        }
+      ],
+      "title" : "19. Oberbürer Liegendmatch"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

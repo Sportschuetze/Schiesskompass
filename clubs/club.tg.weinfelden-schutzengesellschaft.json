@@ -1,0 +1,196 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.tksv"
+    ],
+    "canton" : "TG",
+    "externalId" : "club.tg.weinfelden-schutzengesellschaft",
+    "location" : "",
+    "name" : "Weinfelden Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "sourceURL" : "https:\/\/ps-weinfelden.ch",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : "https:\/\/ps-weinfelden.ch"
+  },
+  "contentHash" : "sha256-c889523d2707e47e818e089e10efe0c08f88c5bff82ae9332de7191f86a87de8",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-09-11T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21125.11749",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Hau",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-09-03T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-09-03T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "14:00"
+        },
+        {
+          "date" : "2027-09-04T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2027-09-04T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-09-05T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2027-09-10T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "14:00"
+        },
+        {
+          "date" : "2027-09-11T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-09-11T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Jubiläumsschiessen 475 Jahre SG Weinfelden"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P10",
+      "endDate" : "2026-11-18T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21278.11889",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Hau",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-11T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-11T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        },
+        {
+          "date" : "2026-11-11T11:00:00Z",
+          "endTime" : "21:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-12T11:00:00Z",
+          "endTime" : "21:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-13T11:00:00Z",
+          "endTime" : "21:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-16T11:00:00Z",
+          "endTime" : "21:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-17T11:00:00Z",
+          "endTime" : "21:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-18T11:00:00Z",
+          "endTime" : "21:30",
+          "startTime" : "17:00"
+        }
+      ],
+      "title" : "38. Lupi-Meisterschaft Weinfelden"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P10",
+      "endDate" : "2027-11-17T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21285.11896",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Hau",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-11-10T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-11-10T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        },
+        {
+          "date" : "2027-11-10T11:00:00Z",
+          "endTime" : "21:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2027-11-11T11:00:00Z",
+          "endTime" : "21:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2027-11-12T11:00:00Z",
+          "endTime" : "21:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2027-11-13T11:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "10:00"
+        },
+        {
+          "date" : "2027-11-15T11:00:00Z",
+          "endTime" : "21:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2027-11-16T11:00:00Z",
+          "endTime" : "21:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2027-11-17T11:00:00Z",
+          "endTime" : "21:30",
+          "startTime" : "17:00"
+        }
+      ],
+      "title" : "39. Lupi-Meisterschaft Weinfelden"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

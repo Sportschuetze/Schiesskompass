@@ -1,0 +1,147 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.lichtensteig-schutzengesellschaft",
+    "location" : "",
+    "name" : "Lichtensteig Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-66735d85807c319b1a4741e52f9115d4a8931d2cd52a9df49c18bc403c7f6391",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-10-05T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21043.11671",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessstand Tellsburg",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-26T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-26T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
+          "date" : "2026-09-28T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
+          "date" : "2026-09-28T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:45"
+        },
+        {
+          "date" : "2026-10-03T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        },
+        {
+          "date" : "2026-10-03T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
+          "date" : "2026-10-04T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
+          "date" : "2026-10-05T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
+          "date" : "2026-10-05T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:45"
+        }
+      ],
+      "title" : "374. Toggenburgisches Landschiessen Lichtensteig"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-10-11T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21044.11672",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessstand Tellsburg",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-10-02T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-10-02T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
+          "date" : "2027-10-04T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:45"
+        },
+        {
+          "date" : "2027-10-04T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
+          "date" : "2027-10-09T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
+          "date" : "2027-10-09T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        },
+        {
+          "date" : "2027-10-10T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
+          "date" : "2027-10-11T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:45"
+        },
+        {
+          "date" : "2027-10-11T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        }
+      ],
+      "title" : "375. Toggenburgisches Landschiessen Lichtensteig"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

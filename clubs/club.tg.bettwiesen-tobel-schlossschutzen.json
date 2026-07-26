@@ -1,0 +1,112 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.tksv"
+    ],
+    "canton" : "TG",
+    "externalId" : "club.tg.bettwiesen-tobel-schlossschutzen",
+    "location" : "",
+    "name" : "Bettwiesen-Tobel Schlossschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-784579e73694d4c3ac373e64fa3e9cedf8e1071c709c39dbc3de5870ee77d52d",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-06T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20796.11474",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-05T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "14:00"
+        },
+        {
+          "date" : "2026-09-06T10:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-09-06T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        }
+      ],
+      "title" : "Tobler Flintentag"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-09-04T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21167.11791",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-08-28T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-08-28T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2027-08-28T10:00:00Z",
+          "endTime" : "17:30",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-08-29T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2027-09-03T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:30"
+        },
+        {
+          "date" : "2027-09-04T10:00:00Z",
+          "endTime" : "17:30",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-09-04T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        }
+      ],
+      "title" : "Fusionsschiessen 2027"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

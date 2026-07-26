@@ -1,0 +1,59 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.shksv"
+    ],
+    "canton" : "SH",
+    "externalId" : "club.sh.altdorf-opfertshofen-schutzengesellschaft",
+    "location" : "",
+    "name" : "Altdorf-Opfertshofen Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-9b722afd886034d1239e859efcaf45d35a7b47902fad9e42405c9088fd058637",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-11-06T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20898.11528",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Altdorf",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-05T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-05T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-11-06T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Nachtschiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

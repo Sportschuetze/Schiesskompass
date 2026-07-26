@@ -1,0 +1,74 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.ochsenweid-schutzenverein",
+    "location" : "",
+    "name" : "Ochsenweid Schützenverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-29340ad2ce6e1e00f9c2c85f122d565d4fb058f2723459d266fb6fc12931e3e2",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-12T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20552.11273",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Ochsenweid",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-05T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-09-06T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-09-11T10:00:00Z",
+          "endTime" : "18:30",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-09-12T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "8. Ochsenweid-Schiessen St.Gallen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

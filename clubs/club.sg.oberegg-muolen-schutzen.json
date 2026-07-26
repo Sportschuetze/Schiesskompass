@@ -1,0 +1,107 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.oberegg-muolen-schutzen",
+    "location" : "",
+    "name" : "Oberegg-Muolen Schützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-d3f6629d805ba7a17ad5c22e50b6261fc4349529e1fa3dc34a2c2f785b6e89e3",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-10-18T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20308.11018",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-10-16T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-10-16T10:00:00Z",
+          "endTime" : "18:30",
+          "startTime" : "14:00"
+        },
+        {
+          "date" : "2026-10-17T10:00:00Z",
+          "endTime" : "18:30",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-10-17T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-10-18T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "23. Racletteschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-10-24T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21277.11888",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-10-22T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-10-22T10:00:00Z",
+          "endTime" : "18:30",
+          "startTime" : "14:00"
+        },
+        {
+          "date" : "2027-10-23T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2027-10-23T10:00:00Z",
+          "endTime" : "18:30",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2027-10-24T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "24. Racletteschiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.fjt"
+    ],
+    "canton" : "JU",
+    "externalId" : "club.ju.courgenay-courtemautruy-ste-de-tir-mont-terrible",
+    "location" : "",
+    "name" : "Courgenay-Courtemautruy Sté de tir Mont-Terrible",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-ccdd2fee65399014ff91d35e49f60dd79fd5e8b4b7bee27391de2c1a1ca64535",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

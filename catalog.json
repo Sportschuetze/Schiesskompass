@@ -980,8 +980,8 @@
       "notes" : "Standardkaliber Ordonnanzpistole CH. Zugelassen OP\/EFS."
     }
   ],
-  "catalogLabel" : "2026v3",
-  "catalogVersion" : 3,
+  "catalogLabel" : "2026v4",
+  "catalogVersion" : 4,
   "competitions" : [
 
   ],
@@ -1053,7 +1053,7 @@
       "weaponConstraint" : "free"
     }
   ],
-  "exportedAt" : "2026-07-26T09:34:23Z",
+  "exportedAt" : "2026-07-26T09:41:50Z",
   "kranzRequirements" : [
     {
       "ageCategoryRaw" : "elite",

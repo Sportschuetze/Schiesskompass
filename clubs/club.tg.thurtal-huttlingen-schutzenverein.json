@@ -1,0 +1,79 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.tksv"
+    ],
+    "canton" : "TG",
+    "externalId" : "club.tg.thurtal-huttlingen-schutzenverein",
+    "location" : "",
+    "name" : "Thurtal-Hüttlingen Schützenverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-ba18e7e9b92829dda3e718f98bac661e5bd0751573cc67b1fe9e744c3f1a402f",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-23T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:19648.10439",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-14T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "14:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-23T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Fusionsschiessen 2026 - SV Thurtal"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

@@ -1,0 +1,137 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.tksv"
+    ],
+    "canton" : "TG",
+    "externalId" : "club.tg.hefenhofen-dozwil-schutzengesellschaft",
+    "location" : "",
+    "name" : "Hefenhofen-Dozwil Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-ea78942d6afe23e48ec8a9a27ab523c005da9e783dc1c7e3b71ab9c5c09ed665",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-02-28T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21077.11706",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Hamisfeld",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-02-20T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-02-20T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2027-02-20T11:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2027-02-21T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2027-02-26T11:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-02-27T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2027-02-27T11:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2027-02-28T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        }
+      ],
+      "title" : "55. Oberthurg. Sturmgewehrschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-02-28T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21078.11707",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Hamisfeld",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-02-20T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-02-20T11:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2027-02-20T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2027-02-21T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2027-02-26T11:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-02-27T11:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2027-02-27T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2027-02-28T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        }
+      ],
+      "title" : "34. Oberthurg. Gewehrschiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

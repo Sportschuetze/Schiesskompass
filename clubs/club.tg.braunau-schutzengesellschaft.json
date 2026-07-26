@@ -1,0 +1,84 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.tksv"
+    ],
+    "canton" : "TG",
+    "externalId" : "club.tg.braunau-schutzengesellschaft",
+    "location" : "",
+    "name" : "Braunau Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-3393003d1f5d5d46feb9160569b0c9aa37faa3dcea3eb8cea3fb3f498cac9400",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2028-08-27T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20172.10906",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2028-08-18T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2028-08-18T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "14:00"
+        },
+        {
+          "date" : "2028-08-19T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2028-08-19T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2028-08-25T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "14:00"
+        },
+        {
+          "date" : "2028-08-26T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2028-08-26T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2028-08-27T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Jubiläumsschiessen 150 Jahre"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

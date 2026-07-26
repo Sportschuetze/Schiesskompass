@@ -1,0 +1,69 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.tksv"
+    ],
+    "canton" : "TG",
+    "externalId" : "club.tg.sulgen-schutzengesellschaft",
+    "location" : "",
+    "name" : "Sulgen Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-73bc68b61e69cd23d4fa91efbb46b0311adf94de84e733830ec27c0585e7e88e",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-10-10T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20689.11382",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Buechholz",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-10-03T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-10-03T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-10-03T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-10-10T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-10-10T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "49. Winzerschiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

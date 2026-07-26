@@ -1,0 +1,79 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.montlingen-pistolenverein",
+    "location" : "",
+    "name" : "Montlingen Pistolenverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-7d2db369e9ab212a4a303310a04724678a50fab30fa42e2e0e2e97fcde328fa4",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P50",
+      "endDate" : "2026-08-15T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21235.11848",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-14T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-08-14T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Rheintaler Vereinswettkämpfe 2026"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

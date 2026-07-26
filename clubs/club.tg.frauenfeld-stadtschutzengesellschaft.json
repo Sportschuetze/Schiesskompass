@@ -1,0 +1,80 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.tksv"
+    ],
+    "canton" : "TG",
+    "externalId" : "club.tg.frauenfeld-stadtschutzengesellschaft",
+    "location" : "",
+    "name" : "Frauenfeld Stadtschützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "sourceURL" : "http:\/\/www.ssgf.ch",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : "http:\/\/www.ssgf.ch"
+  },
+  "contentHash" : "sha256-c5896f740d5f74f59db8e3b804f3c8dd308ca759eb7d90bd5df241f83808f9fa",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P10",
+      "endDate" : "2026-11-07T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21102.11731",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiesssportzentrum Schollenholz",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-02T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-02T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-03T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-04T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-05T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-06T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-07T11:00:00Z",
+          "endTime" : "13:00",
+          "startTime" : "10:00"
+        }
+      ],
+      "title" : "42. Frauenfelder 10m-Meisterschaften"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

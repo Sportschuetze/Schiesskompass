@@ -1,0 +1,150 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.shksv"
+    ],
+    "canton" : "SH",
+    "externalId" : "club.sh.beringen-schutzengesellschaft",
+    "location" : "",
+    "name" : "Beringen Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-3b2129615846bf91003c56ebc4152f36dff83915bcb8ae9830595b3e3512aa55",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G10",
+      "endDate" : "2026-11-21T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:19840.10622",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Beringen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-19T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-19T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-11-19T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-11-20T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-11-20T11:00:00Z",
+          "endTime" : "22:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-11-21T11:00:00Z",
+          "endTime" : "14:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-11-21T11:00:00Z",
+          "endTime" : "14:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "10m Meisterschaft & Auflageschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-06T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20636.11338",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Beringen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-28T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-28T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-09-06T10:00:00Z",
+          "endTime" : "11:30",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Verbandschiessen u d Enge"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-04-18T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21290.11901",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Beringen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-04-09T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-04-09T10:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2027-04-16T10:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2027-04-17T10:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2027-04-18T10:00:00Z",
+          "endTime" : "11:30",
+          "startTime" : "08:30"
+        }
+      ],
+      "title" : "Gwaaggeschüsse"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

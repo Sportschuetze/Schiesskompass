@@ -1,0 +1,79 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.waldkirch-haggenschwil-schutzenverein-ramschwag",
+    "location" : "",
+    "name" : "Waldkirch-Häggenschwil Schützenverein Ramschwag",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-176ce6fd446e4126883d7f2fc775445af9dba106dba1d0b46ff307f545da3bd3",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-04-17T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21166.11790",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Bernhardzell",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-04-10T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-04-10T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-04-10T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-04-11T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-04-16T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2027-04-17T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-04-17T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Ramschwagschiessen 2027"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

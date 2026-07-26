@@ -1,0 +1,75 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.neckertal-sportschutzen",
+    "location" : "",
+    "name" : "Neckertal Sportschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "sourceURL" : "http:\/\/www.sportschuetzen-neckertal.ch",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : "http:\/\/www.sportschuetzen-neckertal.ch"
+  },
+  "contentHash" : "sha256-9bf786d603816c399b8387ceb7c3b8e8ad58969ba8b8d7877e9ac6bbd52babf8",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-05T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20687.11378",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Spreitenbach",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-26T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-26T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-08-28T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-09-02T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-09-04T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "24. Neckertaler Liegendmatch"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

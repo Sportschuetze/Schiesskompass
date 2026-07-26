@@ -1,0 +1,64 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.shksv"
+    ],
+    "canton" : "SH",
+    "externalId" : "club.sh.merishausen-schutzenverein",
+    "location" : "",
+    "name" : "Merishausen Schützenverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-6e1065a8c97442e36c4020bf51b82f64c6dc3169eafe9edf8287933cb9641e00",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-12-06T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20828.11495",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Merishausen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-28T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-28T11:00:00Z",
+          "endTime" : "14:00",
+          "startTime" : "10:00"
+        },
+        {
+          "date" : "2026-12-05T11:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-12-06T11:00:00Z",
+          "endTime" : "13:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "41. Chlausschiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

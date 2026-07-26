@@ -1,0 +1,69 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.flums-schutzengesellschaft",
+    "location" : "",
+    "name" : "Flums Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-f5e99e49e82b83a18231859b2a9ed6b083bcc80b3ebedc3a9edf3374ecf044fb",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-15T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20719.11410",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Rüfi",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-07-31T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-07-31T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-01T10:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-14T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "1. Augustschiessen 2026"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

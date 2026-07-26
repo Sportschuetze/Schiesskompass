@@ -1,0 +1,59 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.tksv"
+    ],
+    "canton" : "TG",
+    "externalId" : "club.tg.ermatingen-schutzengesellschaft",
+    "location" : "",
+    "name" : "Ermatingen Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-2fa3930140c235c89d45ede75b11e1c0fe9b5bacb3bb82f1e91d53a7a42eb275",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-12-13T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20803.11481",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Ermatingen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-12-12T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-12-12T11:00:00Z",
+          "endTime" : "15:45",
+          "startTime" : "09:30"
+        },
+        {
+          "date" : "2026-12-13T11:00:00Z",
+          "endTime" : "12:30",
+          "startTime" : "09:30"
+        }
+      ],
+      "title" : "80. Gangfischschiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

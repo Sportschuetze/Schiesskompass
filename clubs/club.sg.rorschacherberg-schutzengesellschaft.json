@@ -1,0 +1,112 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.rorschacherberg-schutzengesellschaft",
+    "location" : "",
+    "name" : "Rorschacherberg Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-2ea71c23c3c885c84549b2bcb60f08f935f5810658effe06e90c1fd31f1b8354",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-15T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20242.10951",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Regionale Schiessanlage Witen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-14T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "13:30"
+        }
+      ],
+      "title" : "100-Jahre Jubliäum SG Rorschacherberg"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-15T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20243.10952",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Regionale Schiessanlage Witen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-14T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-14T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "13:30"
+        }
+      ],
+      "title" : "Verbandschiessen RSV St. Gallen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

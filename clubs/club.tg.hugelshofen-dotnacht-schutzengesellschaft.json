@@ -1,0 +1,84 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.tksv"
+    ],
+    "canton" : "TG",
+    "externalId" : "club.tg.hugelshofen-dotnacht-schutzengesellschaft",
+    "location" : "",
+    "name" : "Hugelshofen-Dotnacht Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-bd0d03375bbd4039de0d6a19f96f742877e67b119ffe780d82b14e82be13ac43",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-05-09T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20724.11415",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-04-30T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-04-30T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2027-05-01T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2027-05-01T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-05-07T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2027-05-08T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2027-05-08T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-05-09T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Jubiläumsschiessen 150 Jahre SG Hugelshofen-Dotnacht"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

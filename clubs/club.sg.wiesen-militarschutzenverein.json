@@ -1,0 +1,84 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.wiesen-militarschutzenverein",
+    "location" : "",
+    "name" : "Wiesen Militärschützenverein",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-a4989ad27b07902bdfc1448b8776aac06334ff265ee881885ebe97ee64470fe5",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-05-02T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21255.11866",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Wiesen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-04-23T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-04-23T10:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        },
+        {
+          "date" : "2027-04-23T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2027-04-24T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-04-24T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-05-01T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-05-01T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-05-02T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "150 Jahre MSV Wiesen - Jubiläumsschiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

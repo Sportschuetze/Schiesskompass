@@ -1,0 +1,89 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sgksv"
+    ],
+    "canton" : "SG",
+    "externalId" : "club.sg.wil-sg-sportschutzen",
+    "location" : "",
+    "name" : "Wil SG Sportschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-49822ee93000c63e2a16919432c3564e90abca6f9197cce5c212dc35011c99f8",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P10",
+      "endDate" : "2026-11-21T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21232.11845",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Thurau, Luftdruck-Anlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-12T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-12T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-11-12T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-11-13T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-13T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-20T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-20T11:00:00Z",
+          "endTime" : "21:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-11-21T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        },
+        {
+          "date" : "2026-11-21T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        }
+      ],
+      "title" : "48. Aebtestadt LP Meisterschaft"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:41:51Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}
