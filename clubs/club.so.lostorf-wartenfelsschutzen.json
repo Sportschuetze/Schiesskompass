@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sosv"
+    ],
+    "canton" : "SO",
+    "externalId" : "club.so.lostorf-wartenfelsschutzen",
+    "location" : "",
+    "name" : "Lostorf Wartenfelsschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-2965150be77e822e9ec92e4f5853b5840ad113ddeb8bece40e678590416fd31d",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:34:23Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

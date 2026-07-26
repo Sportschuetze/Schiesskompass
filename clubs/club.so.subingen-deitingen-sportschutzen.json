@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sosv"
+    ],
+    "canton" : "SO",
+    "externalId" : "club.so.subingen-deitingen-sportschutzen",
+    "location" : "",
+    "name" : "Subingen-Deitingen Sportschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-753240309d0928bcc8de43049b4546ea6496c0fbb0e34b0c5d61a376c19ad59c",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:34:23Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

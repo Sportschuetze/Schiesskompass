@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.fsft"
+    ],
+    "canton" : "FR",
+    "externalId" : "club.fr.bussy-morens-sevaz-societe-de-tir",
+    "location" : "",
+    "name" : "Bussy-Morens-Sévaz Société de tir",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-dd6a4f924884928dfa918683dc8173ad4373bcc1fdfc2d7376cb61267ec33fa2",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:34:23Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

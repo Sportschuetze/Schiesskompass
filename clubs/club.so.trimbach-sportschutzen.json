@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sosv"
+    ],
+    "canton" : "SO",
+    "externalId" : "club.so.trimbach-sportschutzen",
+    "location" : "",
+    "name" : "Trimbach Sportschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-9582f21aecf35042cd176e6604b59a06bf616f25549ee6b4ebc3dcd11954548c",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:34:23Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

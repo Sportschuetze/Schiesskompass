@@ -1,0 +1,32 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.fsft"
+    ],
+    "canton" : "FR",
+    "externalId" : "club.fr.mezieres-societe-de-tir",
+    "location" : "",
+    "name" : "Mézières Société de tir",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-cbdf9b03fbed14d3416d204fae89344de4634e91f97f4ad5c88624670ef21962",
+  "events" : [
+
+  ],
+  "generatedAt" : "2026-07-26T09:34:23Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

@@ -1,0 +1,69 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sosv"
+    ],
+    "canton" : "SO",
+    "externalId" : "club.so.lommiswil-schutzengesellschaft",
+    "location" : "",
+    "name" : "Lommiswil Schützengesellschaft",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-74ebaf603273a6f380a7ad4a27f5a452bc2032d3ea76e126f9f8d5c5f92a2fd4",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-26T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20384.11096",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Schützenmatt",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-18T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-18T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-09-19T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-09-25T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-09-26T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "St. German Schiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:34:23Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

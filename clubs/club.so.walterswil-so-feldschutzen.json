@@ -1,0 +1,64 @@
+{
+  "club" : {
+    "associationExternalIds" : [
+      "assoc.kv.sosv"
+    ],
+    "canton" : "SO",
+    "externalId" : "club.so.walterswil-so-feldschutzen",
+    "location" : "",
+    "name" : "Walterswil SO Feldschützen",
+    "offeredDisciplines" : [
+
+    ],
+    "postalCode" : "",
+    "seasonEndDay" : 31,
+    "seasonEndMonth" : 10,
+    "seasonStartDay" : 1,
+    "seasonStartMonth" : 4,
+    "shortName" : "",
+    "trainingDiscipline" : "",
+    "trainingEndTime" : "",
+    "trainingStartTime" : "",
+    "trainingWeekday" : "",
+    "website" : ""
+  },
+  "contentHash" : "sha256-0f929901c470f1536ca9e13995df1412a84e917806c4eb0837d113fd1bfe2a11",
+  "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-12-05T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20801.11479",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Regionale Schiessanlage Kölliken",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-11-27T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-11-27T11:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-12-04T11:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2027-12-05T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "3. Reckolder-Schiessen 2027"
+    }
+  ],
+  "generatedAt" : "2026-07-26T09:34:23Z",
+  "schemaVersion" : 1,
+  "version" : 1
+}

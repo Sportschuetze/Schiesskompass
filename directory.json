@@ -1,6 +1,206 @@
 {
   "associations" : [
     {
+      "canton" : "AG",
+      "code" : "AGSV",
+      "externalId" : "assoc.kv.agsv",
+      "level" : "cantonal",
+      "name" : "Aargauer Schiesssportverband",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "AI",
+      "code" : "AIKSV",
+      "externalId" : "assoc.kv.aiksv",
+      "level" : "cantonal",
+      "name" : "Kantonalschützenverband Appenzell-Innerrhoden",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "GE",
+      "code" : "ASGT",
+      "externalId" : "assoc.kv.asgt",
+      "level" : "cantonal",
+      "name" : "Association sportive genevoise de Tir",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "VD",
+      "code" : "AVTS",
+      "externalId" : "assoc.kv.avts",
+      "level" : "cantonal",
+      "name" : "Association vaudoise de tir sportif",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "BE",
+      "code" : "BSSV",
+      "externalId" : "assoc.kv.bssv",
+      "level" : "cantonal",
+      "name" : "Berner Schiesssportverband",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "GR",
+      "code" : "BSV",
+      "externalId" : "assoc.kv.bsv",
+      "level" : "cantonal",
+      "name" : "Bündner Schiesssportverband",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "JU",
+      "code" : "FJT",
+      "externalId" : "assoc.kv.fjt",
+      "level" : "cantonal",
+      "name" : "Fédération Jurassienne de Tir",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "FR",
+      "code" : "FSFT",
+      "externalId" : "assoc.kv.fsft",
+      "level" : "cantonal",
+      "name" : "Fédération sportive fribourgeoise de tir",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "TI",
+      "code" : "FTST",
+      "externalId" : "assoc.kv.ftst",
+      "level" : "cantonal",
+      "name" : "Federazione Ticinese delle Società di Tiro",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "GL",
+      "code" : "GLKSV",
+      "externalId" : "assoc.kv.glksv",
+      "level" : "cantonal",
+      "name" : "Glarner Kantonal Schützenverband",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "NW",
+      "code" : "KSG NW",
+      "externalId" : "assoc.kv.ksgnw",
+      "level" : "cantonal",
+      "name" : "Kantonalschützengesellschaft Nidwalden",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "OW",
+      "code" : "KSG OW",
+      "externalId" : "assoc.kv.ksgow",
+      "level" : "cantonal",
+      "name" : "Kantonale Schützengesellschaft Obwalden",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "AR",
+      "code" : "KSV AR",
+      "externalId" : "assoc.kv.ksvar",
+      "level" : "cantonal",
+      "name" : "Kantonalschützenverein Appenzell-Ausserrhoden",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "UR",
+      "code" : "KSV UR",
+      "externalId" : "assoc.kv.ksvur",
+      "level" : "cantonal",
+      "name" : "Kantonalschützenverband Uri",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "LU",
+      "code" : "LKSV",
+      "externalId" : "assoc.kv.lksv",
+      "level" : "cantonal",
+      "name" : "Luzerner Kantonalschützenverein",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "SG",
+      "code" : "SG KSV",
+      "externalId" : "assoc.kv.sgksv",
+      "level" : "cantonal",
+      "name" : "St. Gallischer Kantonalschützenverband",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "SH",
+      "code" : "SH KSV",
+      "externalId" : "assoc.kv.shksv",
+      "level" : "cantonal",
+      "name" : "Schaffhauser Kantonalschützenverband",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "SZ",
+      "code" : "SKSG",
+      "externalId" : "assoc.kv.sksg",
+      "level" : "cantonal",
+      "name" : "Schwyzer Kantonal-Schützengesellschaft",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "NE",
+      "code" : "SNTS",
+      "externalId" : "assoc.kv.snts",
+      "level" : "cantonal",
+      "name" : "Société Neuchâteloise de Tir Sportif",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "SO",
+      "code" : "SOSV",
+      "externalId" : "assoc.kv.sosv",
+      "level" : "cantonal",
+      "name" : "Solothurner Schiesssportverband",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "BS",
+      "code" : "SVRB",
+      "externalId" : "assoc.kv.svrb",
+      "level" : "cantonal",
+      "name" : "Schiesssportverband Region Basel",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "TG",
+      "code" : "TKSV",
+      "externalId" : "assoc.kv.tksv",
+      "level" : "cantonal",
+      "name" : "Thurgauer Kantonalschützenverband",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "VS",
+      "code" : "WSSV",
+      "externalId" : "assoc.kv.wssv",
+      "level" : "cantonal",
+      "name" : "Walliser Schiesssportverband",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "ZH",
+      "code" : "ZHSV",
+      "externalId" : "assoc.kv.zhsv",
+      "level" : "cantonal",
+      "name" : "Zürcher Schiesssportverband",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
+      "canton" : "ZG",
+      "code" : "ZKSV",
+      "externalId" : "assoc.kv.zksv",
+      "level" : "cantonal",
+      "name" : "Zuger Kantonalschützenverband",
+      "parentExternalId" : "assoc.ssv"
+    },
+    {
       "canton" : "ZH",
       "code" : "",
       "externalId" : "assoc.provisional.022533b6",
@@ -88,6 +288,2420 @@
     }
   ],
   "clubs" : [
+    {
+      "associationExternalIds" : [
+        "assoc.kv.svrb"
+      ],
+      "canton" : "BS",
+      "contentHash" : "sha256-57fd804b581cde057600d80b150ad5c686a2afe9c4483679144b3dcf34577dcc",
+      "eventCount" : 0,
+      "externalId" : "club.bs.basel-feldschutzenverein",
+      "location" : "",
+      "name" : "Basel Feldschützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.bs.basel-feldschutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.svrb"
+      ],
+      "canton" : "BS",
+      "contentHash" : "sha256-5b32877c7f8e5f55840b8e2cede80d5b7078a319c0466d9d399b40cdbee77b7f",
+      "eventCount" : 0,
+      "externalId" : "club.bs.basel-gesellschaft-der-feuerschutzen",
+      "location" : "",
+      "name" : "Basel Gesellschaft der Feuerschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.bs.basel-gesellschaft-der-feuerschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.svrb"
+      ],
+      "canton" : "BS",
+      "contentHash" : "sha256-76823a6bb8d2f81f4b9656e7c415b00509feccfa195068ff841e52da24207269",
+      "eventCount" : 0,
+      "externalId" : "club.bs.basel-militarschutzen-gesellschaft",
+      "location" : "",
+      "name" : "Basel Militärschützen-Gesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.bs.basel-militarschutzen-gesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.svrb"
+      ],
+      "canton" : "BS",
+      "contentHash" : "sha256-9e2fbfdabc04a09f8f819ba1a0340cb0f8d53f529956743f652691bb9cbacd7e",
+      "eventCount" : 0,
+      "externalId" : "club.bs.basel-scharfschutzen-gesellschaft",
+      "location" : "",
+      "name" : "Basel Scharfschützen Gesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.bs.basel-scharfschutzen-gesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.svrb"
+      ],
+      "canton" : "BS",
+      "contentHash" : "sha256-931f483fcbfbe6b17b7e6f28460943e2b27df73e5f24aabf2ad2ecdbeb1de77c",
+      "eventCount" : 0,
+      "externalId" : "club.bs.basel-schiess-sport-helvetia",
+      "location" : "",
+      "name" : "Basel Schiess-Sport Helvetia",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.bs.basel-schiess-sport-helvetia.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.svrb"
+      ],
+      "canton" : "BS",
+      "contentHash" : "sha256-b4f84bd41bb80c71ed371b8e7937a3513eb4c29e3d4f03e1676ade6ab752b977",
+      "eventCount" : 0,
+      "externalId" : "club.bs.bettingen-feldschutzenverein",
+      "location" : "",
+      "name" : "Bettingen Feldschützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.bs.bettingen-feldschutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.svrb"
+      ],
+      "canton" : "BS",
+      "contentHash" : "sha256-118bb46fd8ba61788ac78022612ae62faa3ae101d61de8f587cb658b13cb8b48",
+      "eventCount" : 0,
+      "externalId" : "club.bs.riehen-arbeiterschutzenverein",
+      "location" : "",
+      "name" : "Riehen Arbeiterschützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.bs.riehen-arbeiterschutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.svrb"
+      ],
+      "canton" : "BS",
+      "contentHash" : "sha256-6724bfbe87938fe46c816285b9cd4dba83b1b370961d439a927b34bed843d6aa",
+      "eventCount" : 0,
+      "externalId" : "club.bs.riehen-feldschutzen",
+      "location" : "",
+      "name" : "Riehen Feldschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.bs.riehen-feldschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-341ddf7dfd74c04a67fc970df542d9109afce18f7ac06132c0296691343205ec",
+      "eventCount" : 0,
+      "externalId" : "club.fr.agriswil-ried-schutzengesellschaft",
+      "location" : "",
+      "name" : "Agriswil-Ried Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.agriswil-ried-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-5cb3b0e41d28d5ca9de46786f4844f3d148ff2b2fc90ee7acb32fd4373770a9b",
+      "eventCount" : 0,
+      "externalId" : "club.fr.alterswil-kksm",
+      "location" : "",
+      "name" : "Alterswil KKSM",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.alterswil-kksm.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-4bc193e336618c48428ee4d950a302e670c4f7514dc7d92869dcdedff978e685",
+      "eventCount" : 0,
+      "externalId" : "club.fr.alterswil-schutzengesellschaft",
+      "location" : "",
+      "name" : "Alterswil Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.alterswil-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-2b0eab132d2c311b13dfaf89413463c65208c6a381207fae8a0a0c671afb5355",
+      "eventCount" : 0,
+      "externalId" : "club.fr.attalens-chatel-societe-de-tir-sportif",
+      "location" : "",
+      "name" : "Attalens-Châtel Société de tir sportif",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.attalens-chatel-societe-de-tir-sportif.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-a019313ac3ebe2898b5e0665c2144cae91c9f1c9e04f17f8896cc16ae50ad858",
+      "eventCount" : 0,
+      "externalId" : "club.fr.attalens-societe-des-carabiniers",
+      "location" : "",
+      "name" : "Attalens Société des Carabiniers",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.attalens-societe-des-carabiniers.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-57f5d2141942494572b9dbdd0b23b6e9bd5e40c70caddad44f366721aa86fe16",
+      "eventCount" : 0,
+      "externalId" : "club.fr.aumont-societe-de-tir-aumont-et-environs",
+      "location" : "",
+      "name" : "Aumont Société de tir Aumont et environs",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.aumont-societe-de-tir-aumont-et-environs.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-cb6169fe4ff1dc24fd8cfdb176ff0584da9f0c5bcf24c56e1cbe123ef2c13628",
+      "eventCount" : 0,
+      "externalId" : "club.fr.avry-devant-pont-societe-de-tir-air-comprime",
+      "location" : "",
+      "name" : "Avry-devant-Pont Société de tir air comprimé",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.avry-devant-pont-societe-de-tir-air-comprime.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-103c51a0ee2dadf79a22d08d54844f2e2b393ea1352106bb6b19016277ecf079",
+      "eventCount" : 0,
+      "externalId" : "club.fr.avry-sur-matran-societe-de-tir",
+      "location" : "",
+      "name" : "Avry-sur-Matran Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.avry-sur-matran-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-ef0cee152d2aab4ec48a60a99ec91aba6285e25b2eaf823cdb0666b324730085",
+      "eventCount" : 0,
+      "externalId" : "club.fr.bas-intyamon-societe-de-tir",
+      "location" : "",
+      "name" : "Bas-Intyamon Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.bas-intyamon-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-b50defa074dc1c88d2c2ae92ed24f2bed5634ab198685d0c4e6e998188264efb",
+      "eventCount" : 0,
+      "externalId" : "club.fr.belfaux-societe-de-tir-les-patriotes",
+      "location" : "",
+      "name" : "Belfaux Société de tir Les Patriotes",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.belfaux-societe-de-tir-les-patriotes.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-b24cb08ea04a3e1d7e87a648a425892164d050344edc9b9327c7218ad1c17e40",
+      "eventCount" : 0,
+      "externalId" : "club.fr.billens-hennens-societe-de-tir",
+      "location" : "",
+      "name" : "Billens-Hennens Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.billens-hennens-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-49c69f1df6c8cc0d37ffdc108e1604308e1632c8867a9d943a19f68d11369508",
+      "eventCount" : 0,
+      "externalId" : "club.fr.bosingen-laupen-schutzengesellschaft",
+      "location" : "",
+      "name" : "Bösingen-Laupen Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.bosingen-laupen-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-93f08c49c9dddb3dd52e0c73c3c46ca0940c3113ab6d27437710b6dd004b4ee5",
+      "eventCount" : 0,
+      "externalId" : "club.fr.botterens-societe-de-tir",
+      "location" : "",
+      "name" : "Botterens Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.botterens-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-73e594887a4391075d1633b4d7a091617d7d76eec6bc1f7a2e91ce21e913efb7",
+      "eventCount" : 0,
+      "externalId" : "club.fr.broc-et-environs-societe-des-carabiniers",
+      "location" : "",
+      "name" : "Broc et environs Société des Carabiniers",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.broc-et-environs-societe-des-carabiniers.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-9f56216f30582af3c3a99e215a5fd2cf870445c86ed312b7845f27bd7e8d2187",
+      "eventCount" : 0,
+      "externalId" : "club.fr.broc-societe-pistolet",
+      "location" : "",
+      "name" : "Broc Société pistolet",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.broc-societe-pistolet.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-6d022ead26f25faa60cd101a0883102eb5e2216539475569ca775878333719c0",
+      "eventCount" : 0,
+      "externalId" : "club.fr.bulle-grevire-societe-de-tir-au-pistolet",
+      "location" : "",
+      "name" : "Bulle-Grevîre Société de tir au pistolet",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.bulle-grevire-societe-de-tir-au-pistolet.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-0683efb655dac5d2a6099fe83dbe425c261d36a434fbf12f14e905339c89de1a",
+      "eventCount" : 0,
+      "externalId" : "club.fr.bulle-petit-calibre",
+      "location" : "",
+      "name" : "Bulle Petit Calibre",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.bulle-petit-calibre.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-02a7002549d4468336022621dc350afa28ca2a5ed33c691b27fc83640477fc15",
+      "eventCount" : 0,
+      "externalId" : "club.fr.bulle-societe-de-tir-a-air-comprime",
+      "location" : "",
+      "name" : "Bulle Société de tir à air comprimé",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.bulle-societe-de-tir-a-air-comprime.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-72f8ca8c3576018f0b1fbcc29f38a4e0552b6150e36cf50d6f7e189bd05400f7",
+      "eventCount" : 0,
+      "externalId" : "club.fr.bulle-societe-des-carabiniers",
+      "location" : "",
+      "name" : "Bulle Société des Carabiniers",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.bulle-societe-des-carabiniers.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-dd6a4f924884928dfa918683dc8173ad4373bcc1fdfc2d7376cb61267ec33fa2",
+      "eventCount" : 0,
+      "externalId" : "club.fr.bussy-morens-sevaz-societe-de-tir",
+      "location" : "",
+      "name" : "Bussy-Morens-Sévaz Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.bussy-morens-sevaz-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-45915f74793e3e526dbb20005de17504086163d83230ee8854427c0aa02eb2aa",
+      "eventCount" : 0,
+      "externalId" : "club.fr.chables-cheyres-societe-de-tir",
+      "location" : "",
+      "name" : "Châbles-Cheyres Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.chables-cheyres-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-0b19cdef6d81221721fa7106124706ba57997b63d0d414422249ab93cc294c55",
+      "eventCount" : 0,
+      "externalId" : "club.fr.charmey-societe-de-tir-les-carabiniers",
+      "location" : "",
+      "name" : "Charmey Société de tir Les Carabiniers",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.charmey-societe-de-tir-les-carabiniers.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-9e12b33c5d504c1da9e08cbba208d4402441f31cd3703450c9558d21bdb0b2c8",
+      "eventCount" : 0,
+      "externalId" : "club.fr.chatel-st-denis-petit-calibre",
+      "location" : "",
+      "name" : "Châtel-St-Denis Petit Calibre",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.chatel-st-denis-petit-calibre.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-6eba2080c1486411af30e6144eadbf00e7368b064c5a4c0694594f6f1916ce49",
+      "eventCount" : 0,
+      "externalId" : "club.fr.chatel-st-denis-societe-de-tir-au-pistolet",
+      "location" : "",
+      "name" : "Châtel-St-Denis Société de tir au Pistolet",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.chatel-st-denis-societe-de-tir-au-pistolet.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-1b738dfef87c3b6dabc25c2bb47be552167245b96b3c7d65bcc96a566fe65332",
+      "eventCount" : 0,
+      "externalId" : "club.fr.chatel-st-denis-societe-des-carabiniers",
+      "location" : "",
+      "name" : "Châtel-St-Denis Société des Carabiniers",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.chatel-st-denis-societe-des-carabiniers.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-67810d2e4df7a481c96d82fbedfc848bdeabb86fa4379a3d61952986a7d01f91",
+      "eventCount" : 0,
+      "externalId" : "club.fr.chatonnaye-societe-de-tir",
+      "location" : "",
+      "name" : "Châtonnaye Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.chatonnaye-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-3149af68feb057ccc142081240e0f8418053e0b159a3797bc3dc3b6ad4962ebc",
+      "eventCount" : 0,
+      "externalId" : "club.fr.chavannes-les-forts-tir-sportif",
+      "location" : "",
+      "name" : "Chavannes-les-Forts Tir Sportif",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.chavannes-les-forts-tir-sportif.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-7ab8f64bdabd5ca5a28216e8fc17493e1d8d27735a81a1d62441ce6de72d5f59",
+      "eventCount" : 0,
+      "externalId" : "club.fr.corbieres-cerniat-societe-de-tir",
+      "location" : "",
+      "name" : "Corbières-Cerniat Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.corbieres-cerniat-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-10bc182aade7dc9e0857a5c4babfda950e63755887e0d882fa1f4f0584771bfc",
+      "eventCount" : 0,
+      "externalId" : "club.fr.cordast-burg-guschelmuth-schutzengesellschaft",
+      "location" : "",
+      "name" : "Cordast-Burg-Guschelmuth Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.cordast-burg-guschelmuth-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-d26532017f7b903e96d92ac5c664f674db98e2af28639a86c9f1a4b7b6b91ff6",
+      "eventCount" : 0,
+      "externalId" : "club.fr.cordast-pistolensektion",
+      "location" : "",
+      "name" : "Cordast Pistolensektion",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.cordast-pistolensektion.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-732f1b78ea04a2adb969b5cad2ba37ed5485028d2bbeab9dd4c97280b686db33",
+      "eventCount" : 0,
+      "externalId" : "club.fr.corpataux-petit-calibre",
+      "location" : "",
+      "name" : "Corpataux Petit Calibre",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.corpataux-petit-calibre.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-12314d74f390ae1d64deabd4db322c61a042cb53612e5e7be2406b140e8d70d9",
+      "eventCount" : 0,
+      "externalId" : "club.fr.cottens-et-environs-societe-des-tireurs-sportifs",
+      "location" : "",
+      "name" : "Cottens et Environs Société des tireurs sportifs",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.cottens-et-environs-societe-des-tireurs-sportifs.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-dc753a0961216838d03a78e5e7655a965ef5702a847bfdf0ca28f8904c1742f1",
+      "eventCount" : 0,
+      "externalId" : "club.fr.courgevaux-societe-de-tir",
+      "location" : "",
+      "name" : "Courgevaux Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.courgevaux-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-d238f9bfcd77cd1fff7f6f60005b60eb690dbdee996ef937701a294dc3c0d76a",
+      "eventCount" : 0,
+      "externalId" : "club.fr.courlevon-schutzengesellschaft",
+      "location" : "",
+      "name" : "Courlevon Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.courlevon-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-fd37a37bed15cd5a5d35a6caddc68accf918af3a0c801859367df89d9ce063d0",
+      "eventCount" : 0,
+      "externalId" : "club.fr.courlevon-sportschutzen",
+      "location" : "",
+      "name" : "Courlevon Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.courlevon-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-7dd4862c820708e2b63fce46a970f9dc5ea2dd61e0d9ec9b037be7a2f4273561",
+      "eventCount" : 0,
+      "externalId" : "club.fr.cournillens-societe-de-tir",
+      "location" : "",
+      "name" : "Cournillens Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.cournillens-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-1bc4b152ac11787173b3adcfbe02272e7a807a5c8ecf164872dc4de4a570e9b5",
+      "eventCount" : 0,
+      "externalId" : "club.fr.courtion-societe-de-tir",
+      "location" : "",
+      "name" : "Courtion Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.courtion-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-0f31af09e4b7e4940f2587ec755e9e6f740f3ee30216031459616ac0b193af0d",
+      "eventCount" : 0,
+      "externalId" : "club.fr.courtion-societe-de-tir-au-pistolet",
+      "location" : "",
+      "name" : "Courtion Société de tir au pistolet",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.courtion-societe-de-tir-au-pistolet.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-e92b7db509239c93e1d2365e25aef3180dd0b75ba2de8ffad0dac382f7872e81",
+      "eventCount" : 0,
+      "externalId" : "club.fr.cressier-sur-morat-societe-de-tir-militaire",
+      "location" : "",
+      "name" : "Cressier-sur-Morat Société de tir militaire",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.cressier-sur-morat-societe-de-tir-militaire.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-605531a4a2f547a2bd05b39f002d614210cbb15c558ea35ad97d826f0892c718",
+      "eventCount" : 0,
+      "externalId" : "club.fr.cugy-vesin-societe-de-tir",
+      "location" : "",
+      "name" : "Cugy-Vesin Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.cugy-vesin-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-d7f7633c003b6a6bb03b750c86afa1b5ec728b1527a9ca07c50f28172ac8347a",
+      "eventCount" : 0,
+      "externalId" : "club.fr.domdidier-societe-de-tir-au-pistolet-et-pc",
+      "location" : "",
+      "name" : "Domdidier Société de tir au Pistolet et PC",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.domdidier-societe-de-tir-au-pistolet-et-pc.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-546a3c2638c6d7e28121c9acc52ba80a24875a606c58f68f232eee9767671ce4",
+      "eventCount" : 0,
+      "externalId" : "club.fr.dompierre-russy-societe-de-tir-les-carabiniers",
+      "location" : "",
+      "name" : "Dompierre-Russy Société de Tir Les Carabiniers",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.dompierre-russy-societe-de-tir-les-carabiniers.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-88e647b161195c8d5ec565be381245071ac58dea12394bd1b4122fc215ac566f",
+      "eventCount" : 0,
+      "externalId" : "club.fr.dudingen-pistolenschiessverein",
+      "location" : "",
+      "name" : "Düdingen Pistolenschiessverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.dudingen-pistolenschiessverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-c924c27b35412f73ce292936e9e94f5d7421c353ed2ad345cb82b8e649418eab",
+      "eventCount" : 0,
+      "externalId" : "club.fr.echarlens-societe-de-tir-l-arquebuse",
+      "location" : "",
+      "name" : "Echarlens Société de tir L'Arquebuse",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.echarlens-societe-de-tir-l-arquebuse.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-c7055adced4818fd5ed289723b2d0de96ba80a9515ddfa574aa00eeaaeec1be1",
+      "eventCount" : 0,
+      "externalId" : "club.fr.ecuvillens-ste-de-tir-confrerie-des-mousquetaires",
+      "location" : "",
+      "name" : "Ecuvillens Sté de tir Confrérie des Mousquetaires",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.ecuvillens-ste-de-tir-confrerie-des-mousquetaires.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-0ddf27f38eeeb23da4ae69daff8f921763b00f4ede6c259889d15703a3bab6e8",
+      "eventCount" : 0,
+      "externalId" : "club.fr.estavayer-le-lac-et-environs-ste-de-tir-au-pistolet",
+      "location" : "",
+      "name" : "Estavayer-le-Lac et environs Sté de tir au Pistolet",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.estavayer-le-lac-et-environs-ste-de-tir-au-pistolet.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-6495a5ab9c456c54c3d31818248a0220521a0459993ec348bd6a2afa8fb6a342",
+      "eventCount" : 0,
+      "externalId" : "club.fr.estavayer-le-lac-lully-ste-de-tir-les-carabiniers",
+      "location" : "",
+      "name" : "Estavayer-le-Lac-Lully Sté de tir Les Carabiniers",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.estavayer-le-lac-lully-ste-de-tir-les-carabiniers.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-048583d7b3fb3dc943983c42436d9f7551a04776f3d78d11aa2774fb5d563569",
+      "eventCount" : 0,
+      "externalId" : "club.fr.fetigny-menieres-societe-de-tir",
+      "location" : "",
+      "name" : "Fétigny - Ménières Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.fetigny-menieres-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-6f94165288806d043bb4657a6ba8cf2d1410663ee26112fadae86a9740d7be2a",
+      "eventCount" : 0,
+      "externalId" : "club.fr.font-chatillon-societe-de-tir",
+      "location" : "",
+      "name" : "Font-Châtillon Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.font-chatillon-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-eaca2dbc0f15316d40f46c7816e41678a34a846427a3e65d116a343f667e794e",
+      "eventCount" : 0,
+      "externalId" : "club.fr.forel-autavaux-montbrelloz-societe-de-tir",
+      "location" : "",
+      "name" : "Forel-Autavaux-Montbrelloz Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.forel-autavaux-montbrelloz-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-05dc565a2792369a00375a9008b3e3b56ad260f581381c4745e9956eeae2f736",
+      "eventCount" : 0,
+      "externalId" : "club.fr.fraschels-muntelier-schutzengesellschaft",
+      "location" : "",
+      "name" : "Fräschels-Muntelier Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.fraschels-muntelier-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-510d0f11f67e637c85bbcf70372cf6cde6f9c49e607e1714718e140cf19bd518",
+      "eventCount" : 0,
+      "externalId" : "club.fr.fribourg-societe-de-tir-de-la-ville",
+      "location" : "",
+      "name" : "Fribourg Société de tir de la Ville",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.fribourg-societe-de-tir-de-la-ville.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-47d1e2586f62c1050f761b684e010317bb6447cb739d5135f27d644faff5a0bd",
+      "eventCount" : 0,
+      "externalId" : "club.fr.fribourg-societe-militaire-de-tir-au-pistolet",
+      "location" : "",
+      "name" : "Fribourg Société militaire de tir au pistolet",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.fribourg-societe-militaire-de-tir-au-pistolet.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-37d641647438562111550aed59e540ef6e06064e8d4897c820ca54594730b122",
+      "eventCount" : 0,
+      "externalId" : "club.fr.fribourg-sts-les-amis-du-petit-calibre",
+      "location" : "",
+      "name" : "Fribourg STS Les Amis du Petit Calibre",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.fribourg-sts-les-amis-du-petit-calibre.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-72d896a90142880bf71aadbe1db7fd92e66ebdd5ab2e1fcfc47be161327e50f7",
+      "eventCount" : 0,
+      "externalId" : "club.fr.galmiz-schutzengesellschaft",
+      "location" : "",
+      "name" : "Galmiz Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.galmiz-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-927b7845ff2eaddeff408406f376ee63f51f0b706c60a2a14a79343e9d4f464b",
+      "eventCount" : 0,
+      "externalId" : "club.fr.gempenach-buchslen-schutzengesellschaft",
+      "location" : "",
+      "name" : "Gempenach-Büchslen Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.gempenach-buchslen-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-0d750505490d85dc3eaa590fbd49483d67a903e9c32074dfdb4b09233e2419bc",
+      "eventCount" : 0,
+      "externalId" : "club.fr.gibloux-tir-sportif-10m",
+      "location" : "",
+      "name" : "Gibloux Tir Sportif 10m",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.gibloux-tir-sportif-10m.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-76567cf25f9949236d28e268daf3485c71f393c6e930f47ba2d74ed6949ee015",
+      "eventCount" : 0,
+      "externalId" : "club.fr.giffers-tentlingen-feldschutzengesellschaft",
+      "location" : "",
+      "name" : "Giffers-Tentlingen Feldschützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.giffers-tentlingen-feldschutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-659f390db36c3f0faf2de5930e924fc4f1c82685e082ca2420c56ef6a3e0f1dc",
+      "eventCount" : 0,
+      "externalId" : "club.fr.giffers-tentlingen-sportschutzenverein",
+      "location" : "",
+      "name" : "Giffers-Tentlingen Sportschützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.giffers-tentlingen-sportschutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-425561f308f408939eb69cd4e179602d156e7e22220c25d707b55dc6fe7e427c",
+      "eventCount" : 0,
+      "externalId" : "club.fr.gruyeres-societe-de-tir-les-mousquetaires",
+      "location" : "",
+      "name" : "Gruyères Société de tir Les Mousquetaires",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.gruyeres-societe-de-tir-les-mousquetaires.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-4c0bd098c0da607cd84ac97f7a4526e42dfac9636d5c78294823e8bcd91e43a7",
+      "eventCount" : 0,
+      "externalId" : "club.fr.gurmels-schutzengesellschaft",
+      "location" : "",
+      "name" : "Gurmels Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.gurmels-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-9f81ce35074ebf57fc2608f1cd7fa41ebf4674ef7fefe9b1f381ed3079dc5b55",
+      "eventCount" : 0,
+      "externalId" : "club.fr.haut-intyamon-societe-de-tir",
+      "location" : "",
+      "name" : "Haut-Intyamon Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.haut-intyamon-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-1c9357b9ca3d1e66c5a93ad71b809b14f1f3f636d6113a468adf3703079de5d9",
+      "eventCount" : 0,
+      "externalId" : "club.fr.haute-sarine-societe-de-tir",
+      "location" : "",
+      "name" : "Haute-Sarine Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.haute-sarine-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-74cc9903ec6d66208cf3f4fb7578b4a8ac93e76a88604dacd7f25c8e3f097e7e",
+      "eventCount" : 0,
+      "externalId" : "club.fr.hauteville-societe-de-tir-les-carabiniers",
+      "location" : "",
+      "name" : "Hauteville Société de tir Les Carabiniers",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.hauteville-societe-de-tir-les-carabiniers.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-20167d166a39b399f521211de87dc56132dd4383b7006432875aabefe275bdab",
+      "eventCount" : 0,
+      "externalId" : "club.fr.heitenried-schutzen",
+      "location" : "",
+      "name" : "Heitenried Schützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.heitenried-schutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-ed78ac3bbc5d1d86f35b2fb37a93f67caebf62de97fc6e84985811cb4dcc2c94",
+      "eventCount" : 0,
+      "externalId" : "club.fr.jaun-kleinkaliberverein",
+      "location" : "",
+      "name" : "Jaun Kleinkaliberverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.jaun-kleinkaliberverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-943d912772dbde8843a3425f3b15787337555db1377eaa1ba583933b73bbbe01",
+      "eventCount" : 0,
+      "externalId" : "club.fr.kerzers-pistolenschutzen",
+      "location" : "",
+      "name" : "Kerzers Pistolenschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.kerzers-pistolenschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-b4ed824b143711748ef7674c002e49e10eedd83bb03cd56834ecbb5327dc1ab8",
+      "eventCount" : 0,
+      "externalId" : "club.fr.kerzers-schutzengesellschaft",
+      "location" : "",
+      "name" : "Kerzers Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.kerzers-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-95fce2dd8f561e7451bc440e034c6d56e06e5decf3d5b82fbd5bd5cad50f44b4",
+      "eventCount" : 0,
+      "externalId" : "club.fr.la-roche-societe-de-tir-les-carabiniers",
+      "location" : "",
+      "name" : "La Roche Société de tir Les Carabiniers",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.la-roche-societe-de-tir-les-carabiniers.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-a2e97d930052043f4939015588f0d1061b38be05b675bcb18c824941753b0362",
+      "eventCount" : 0,
+      "externalId" : "club.fr.la-roche-ste-de-tir-au-p-c-l-amicale",
+      "location" : "",
+      "name" : "La Roche Sté de tir au P.C. L'Amicale",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.la-roche-ste-de-tir-au-p-c-l-amicale.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-78a63b8661d2a4829d56d188fd95d1c797c482417e902ed0da9342efade0cbb7",
+      "eventCount" : 0,
+      "externalId" : "club.fr.la-tour-de-treme-le-paquier-ste-de-tir-de-sauthaux",
+      "location" : "",
+      "name" : "La Tour-de-Trême-Le Pâquier Sté de tir de Sauthaux",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.la-tour-de-treme-le-paquier-ste-de-tir-de-sauthaux.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-8484143fc4d6d054c3b12f9078b06e00623a08bcb1ade0515abddf96104c86be",
+      "eventCount" : 0,
+      "externalId" : "club.fr.le-bry-societe-de-tir-l-arbalete",
+      "location" : "",
+      "name" : "Le Bry Société de tir L'Arbalète",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.le-bry-societe-de-tir-l-arbalete.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-572d921161799257cc9595470aca7cee67f8f3b32b4314203d3cc47152f8d3aa",
+      "eventCount" : 0,
+      "externalId" : "club.fr.le-cret-fr-societe-de-tir-air-comprime",
+      "location" : "",
+      "name" : "Le Crêt FR Société de tir Air comprimé",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.le-cret-fr-societe-de-tir-air-comprime.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-c5e57d39697e05b456c5b84ace40d1888166bd6b68c4f476d085ad00116e8ade",
+      "eventCount" : 0,
+      "externalId" : "club.fr.le-cret-societe-de-tir-militaire",
+      "location" : "",
+      "name" : "Le Crêt Société de tir militaire",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.le-cret-societe-de-tir-militaire.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-1a576f9702462245a39839aa9bc5efcd1afc99717f515abe3747d938f4b776e3",
+      "eventCount" : 0,
+      "externalId" : "club.fr.le-taverniers-la-corbaz-ste-des-tireurs-sportifs",
+      "location" : "",
+      "name" : "Le Taverniers - La Corbaz Sté des tireurs sportifs",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.le-taverniers-la-corbaz-ste-des-tireurs-sportifs.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-a0b9396bba977d3c93d2735213189cefdafb0e67225cd30a02e163784334d93e",
+      "eventCount" : 0,
+      "externalId" : "club.fr.lechelles-societe-de-tir",
+      "location" : "",
+      "name" : "Léchelles Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.lechelles-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-a7e20a976c619b8677e4ea24d5cff999d11822d6d411f60bf2b335706cd40344",
+      "eventCount" : 0,
+      "externalId" : "club.fr.lessoc-societe-de-tir",
+      "location" : "",
+      "name" : "Lessoc Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.lessoc-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-a35e0f2826a061a79186553e419e2fb6749df82d63ad76e59df911afd32b8200",
+      "eventCount" : 0,
+      "externalId" : "club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft",
+      "location" : "",
+      "name" : "Liebistorf-Kleinbösingen-Wallenbuch Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-94c6f026d518e879813f466dc51ac0cdea3baa1ee2ed0f9399ea2cead639f02c",
+      "eventCount" : 0,
+      "externalId" : "club.fr.lully-tir-sportif-la-mouche",
+      "location" : "",
+      "name" : "Lully Tir sportif la Mouche",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.lully-tir-sportif-la-mouche.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-29e18eae29e27c5cadd20ab32be2ea36ca8f67c7bd746deaec45d7ba99d75d53",
+      "eventCount" : 0,
+      "externalId" : "club.fr.marly-societe-de-tir",
+      "location" : "",
+      "name" : "Marly Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.marly-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-cbdf9b03fbed14d3416d204fae89344de4634e91f97f4ad5c88624670ef21962",
+      "eventCount" : 0,
+      "externalId" : "club.fr.mezieres-societe-de-tir",
+      "location" : "",
+      "name" : "Mézières Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.mezieres-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-014ce30687fc901650b268039f27a7a74dfd45c8048ed4e0a8957245101c5425",
+      "eventCount" : 0,
+      "externalId" : "club.fr.middes-societe-de-tir",
+      "location" : "",
+      "name" : "Middes Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.middes-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-c3205a8bc3936e9849d57d52916402522d80dfcc0cbeb296d33e10108eb2af56",
+      "eventCount" : 0,
+      "externalId" : "club.fr.montagny-et-environs-societe-de-tir-au-pistolet",
+      "location" : "",
+      "name" : "Montagny et environs Société de tir au Pistolet",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.montagny-et-environs-societe-de-tir-au-pistolet.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-f85981b4688af1c3b6163c339b5d2ed9227c3f5083627d228c6c258cb8135161",
+      "eventCount" : 0,
+      "externalId" : "club.fr.murist-societe-de-tir-la-moliere",
+      "location" : "",
+      "name" : "Murist Société de tir La Molière",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.murist-societe-de-tir-la-moliere.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-f45eb6b167d0780ee2c19cf2cf792e25fdc27d6165ac0937f215937434993524",
+      "eventCount" : 0,
+      "externalId" : "club.fr.murten-pistolenschutzen",
+      "location" : "",
+      "name" : "Murten Pistolenschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.murten-pistolenschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-cc1a4e092a15d98426b934f057b0138fe256e84730d2aeafb41b71111438e2d4",
+      "eventCount" : 0,
+      "externalId" : "club.fr.murten-schutzengesellschaft",
+      "location" : "",
+      "name" : "Murten Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.murten-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-d4909acc335932467d2ae767eedc8acbf36feb392c74191d8ec62e41c86d4d42",
+      "eventCount" : 0,
+      "externalId" : "club.fr.plaffeien-brunisried-sportschutzenverein",
+      "location" : "",
+      "name" : "Plaffeien-Brünisried Sportschützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.plaffeien-brunisried-sportschutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-d75fbbd884079d9f70f11adc909baf89b7a0e0600a55c853b0606fc91f390acb",
+      "eventCount" : 0,
+      "externalId" : "club.fr.plaffeien-und-umgebung-kleinkaliber-klub",
+      "location" : "",
+      "name" : "Plaffeien und Umgebung Kleinkaliber Klub",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.plaffeien-und-umgebung-kleinkaliber-klub.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-fd3f5ab05fd4c56aeded61f787fc5707fd7cd30143c2f6c6101a4ff479de2c29",
+      "eventCount" : 0,
+      "externalId" : "club.fr.plasselb-schutzengesellschaft",
+      "location" : "",
+      "name" : "Plasselb Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.plasselb-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-4b762e1e90d25066746a26aba77a6949cc3bc65ba08121e57e2cac777eea2341",
+      "eventCount" : 0,
+      "externalId" : "club.fr.pont-la-ville-societe-de-tir-air-comprime",
+      "location" : "",
+      "name" : "Pont la Ville Société de Tir Air Comprimé",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.pont-la-ville-societe-de-tir-air-comprime.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-f010582f27e6b2acfc51aa9a8ad79b532d25b5185c51792626082861fe9f485f",
+      "eventCount" : 0,
+      "externalId" : "club.fr.pont-la-ville-societe-de-tir-les-mousquetaires",
+      "location" : "",
+      "name" : "Pont-la-Ville Société de tir Les Mousquetaires",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.pont-la-ville-societe-de-tir-les-mousquetaires.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-e3e4f304ece60a605507fc4f3e59dc7dba9340645e4cb9030660e744a634e2e1",
+      "eventCount" : 1,
+      "externalId" : "club.fr.porsel-societe-de-tir",
+      "location" : "",
+      "name" : "Porsel Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.porsel-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-5de51df95d0e48b55ff6db5710ff403288a49e31804c8ea08087a708497780ab",
+      "eventCount" : 0,
+      "externalId" : "club.fr.prez-et-environs-societe-de-tir",
+      "location" : "",
+      "name" : "Préz et environs Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.prez-et-environs-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-e5c43ba2e6322dd921f688048712e8dbc911db3e9a39960221599625ed042db5",
+      "eventCount" : 0,
+      "externalId" : "club.fr.rechthalten-schutzenverein",
+      "location" : "",
+      "name" : "Rechthalten Schützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.rechthalten-schutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-300884ca646326e32f419222b5254dfc4f2680d5918f3deacec64d0645ef5144",
+      "eventCount" : 0,
+      "externalId" : "club.fr.ried-schutzengesellschaft-10-m",
+      "location" : "",
+      "name" : "Ried Schützengesellschaft 10 m",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.ried-schutzengesellschaft-10-m.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-d20681284b5972b11df473898ca1e802be298abf6e5f3903e71143067a830127",
+      "eventCount" : 0,
+      "externalId" : "club.fr.romont-societe-de-tir-au-pistolet-de-la-glane",
+      "location" : "",
+      "name" : "Romont Société de tir au pistolet de la Glâne",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.romont-societe-de-tir-au-pistolet-de-la-glane.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-a81ab1001a274ca5d1db661420e2841b7434e71c384bab456e2c9375db629f8c",
+      "eventCount" : 0,
+      "externalId" : "club.fr.romont-societe-des-carabiniers",
+      "location" : "",
+      "name" : "Romont Société des Carabiniers",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.romont-societe-des-carabiniers.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-59ab00aec93c2e4d613b336a7f637f69b6e2a5d26b7240da34163fc04ba6d27f",
+      "eventCount" : 0,
+      "externalId" : "club.fr.rue-societe-de-tir-militaire",
+      "location" : "",
+      "name" : "Rue Société de tir militaire",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.rue-societe-de-tir-militaire.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-59ad56485ddcb90e017f7694d7ebcb490714a6f1ee9c54aa4a2833962d3d36ca",
+      "eventCount" : 0,
+      "externalId" : "club.fr.rueyres-les-pres-societe-de-tir",
+      "location" : "",
+      "name" : "Rueyres-les-Prés Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.rueyres-les-pres-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-1224af5fef7a6aa641bb1b2e92379c81b425a8e1dea23c989fbbb42f830cb558",
+      "eventCount" : 0,
+      "externalId" : "club.fr.saint-aubin-societe-de-tir",
+      "location" : "",
+      "name" : "Saint-Aubin Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.saint-aubin-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-27ff816d485aba75452eb633e5c16e29001a25eeaaa5824ac9e616bf71794e2e",
+      "eventCount" : 0,
+      "externalId" : "club.fr.sales-vaulruz-societe-de-tir-les-carabiniers",
+      "location" : "",
+      "name" : "Sâles-Vaulruz Société de tir Les Carabiniers",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.sales-vaulruz-societe-de-tir-les-carabiniers.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-6cbddaf05068e46c1bd87af258d18b3cab114f3916391105ed2aa898d8e38223",
+      "eventCount" : 0,
+      "externalId" : "club.fr.salvenach-jeuss-feldschutzengesellschaft",
+      "location" : "",
+      "name" : "Salvenach-Jeuss Feldschützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.salvenach-jeuss-feldschutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-804e15944d1dcd33f4a4bfab07a4818779dda3dbee088258bdcd7eda954f5b2b",
+      "eventCount" : 0,
+      "externalId" : "club.fr.schmitten-flamatt-sportschutzen",
+      "location" : "",
+      "name" : "Schmitten-Flamatt Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.schmitten-flamatt-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-c8e9c61aadd2c3448256bbcaf1f214443b7d30686b63a18f3869e43d4e7c66b2",
+      "eventCount" : 0,
+      "externalId" : "club.fr.semsales-societe-de-tir-les-carabiniers",
+      "location" : "",
+      "name" : "Semsales Société de tir Les Carabiniers",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.semsales-societe-de-tir-les-carabiniers.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-7905e5cbe6a8f65d000b768ce5ea8b5317f2938d945bfef818e4aa282c85ee56",
+      "eventCount" : 0,
+      "externalId" : "club.fr.siviriez-societe-de-tir",
+      "location" : "",
+      "name" : "Siviriez Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.siviriez-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-6e35babed37aa08cb24334f42b461eb109dc3c05d40254ddb5d17da5d88929e3",
+      "eventCount" : 0,
+      "externalId" : "club.fr.sorens-societe-de-tir",
+      "location" : "",
+      "name" : "Sorens Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.sorens-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-9f88e0430e91d6c87c5110e3d169acbda605e0d82d75568e326ef35d916c35a1",
+      "eventCount" : 0,
+      "externalId" : "club.fr.st-antoni-schutzengesellschaft",
+      "location" : "",
+      "name" : "St. Antoni Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.st-antoni-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-9102e5f87eafb10047f0017148f35f4ddd07f6a1bd295b45772054136f8b68fc",
+      "eventCount" : 0,
+      "externalId" : "club.fr.st-aubin-societe-de-tir-air-comprime-la-taniere",
+      "location" : "",
+      "name" : "St-Aubin Société de tir air comprimé La Tanière?",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.st-aubin-societe-de-tir-air-comprime-la-taniere.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-837605a9748890e662e29fec86b7a04d9ad47123843d3651dd1435db1d129729",
+      "eventCount" : 0,
+      "externalId" : "club.fr.st-silvester-schutzengesellschaft",
+      "location" : "",
+      "name" : "St. Silvester Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.st-silvester-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-48ab962a5e4cd2cb91507731d2bff3fa390d7bc1762c22b8bb3b9b568db0114c",
+      "eventCount" : 0,
+      "externalId" : "club.fr.st-ursen-schutzengesellschaft",
+      "location" : "",
+      "name" : "St. Ursen Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.st-ursen-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-473e7fde1af7af05eb9b11f65b1471a10b13dec896cbf98397ff401c7c11c85c",
+      "eventCount" : 0,
+      "externalId" : "club.fr.sugiez-societe-de-tir-au-pistolet-du-vully",
+      "location" : "",
+      "name" : "Sugiez Société de tir au Pistolet du Vully",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.sugiez-societe-de-tir-au-pistolet-du-vully.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-0c2229639c4bff7ea534386bf9be43b52593c29c6e5f7ddd3ed68af7f9d48635",
+      "eventCount" : 0,
+      "externalId" : "club.fr.sugiez-societe-des-carabiniers-du-vully",
+      "location" : "",
+      "name" : "Sugiez Société des Carabiniers du Vully",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.sugiez-societe-des-carabiniers-du-vully.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-f3945a0d5f6f799661cc2f14372ccd6c7c4afb7bef92e49cf311884c761fe814",
+      "eventCount" : 0,
+      "externalId" : "club.fr.tafers-feldschutzengesellschaft",
+      "location" : "",
+      "name" : "Tafers Feldschützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.tafers-feldschutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-5b0be2a8112a8bc07270d8552957fb20b25cdc7a93407b51862433127ea1a00b",
+      "eventCount" : 0,
+      "externalId" : "club.fr.tafers-pistolenklub",
+      "location" : "",
+      "name" : "Tafers Pistolenklub",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.tafers-pistolenklub.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-f81258c037fc2122fae7d710d2cb5edf70b694d4cdd415ddc0aa79be398da7f9",
+      "eventCount" : 0,
+      "externalId" : "club.fr.tafers-sportschutzen",
+      "location" : "",
+      "name" : "Tafers Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.tafers-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-497675f74ad40f96a53d63b63e1f3fdf9d20f0f6dae309e12004d553015ffcac",
+      "eventCount" : 0,
+      "externalId" : "club.fr.torny-et-environs-ste-de-tir-sportif",
+      "location" : "",
+      "name" : "Torny et environs Sté de tir sportif",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.torny-et-environs-ste-de-tir-sportif.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-a601800ec4f71fd32fced1012fda159c16f50a98f2b430949c2b330625fece01",
+      "eventCount" : 0,
+      "externalId" : "club.fr.treyvaux-societe-de-tir-les-mousquetaires",
+      "location" : "",
+      "name" : "Treyvaux Société de tir Les Mousquetaires",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.treyvaux-societe-de-tir-les-mousquetaires.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-05b4f38c28443139aa0d3b4451fa2c19b0467fcae7a5f4d95b102f73ffe447d2",
+      "eventCount" : 0,
+      "externalId" : "club.fr.treyvaux-ste-de-tir-au-pist-l-echo-de-la-combert",
+      "location" : "",
+      "name" : "Treyvaux Sté de tir au pist L'Echo de la Combert",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.treyvaux-ste-de-tir-au-pist-l-echo-de-la-combert.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-ec688ac8d48554555248919b253cc84f87f55922b0d084b66c0fdcec75caa088",
+      "eventCount" : 0,
+      "externalId" : "club.fr.ueberstorf-feldschutzen",
+      "location" : "",
+      "name" : "Ueberstorf Feldschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.ueberstorf-feldschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-023b1aadabffac05ee6e608cd8a397cc0f634e59b4d342285da7694dc549b7ec",
+      "eventCount" : 0,
+      "externalId" : "club.fr.ulmiz-feldschutzen",
+      "location" : "",
+      "name" : "Ulmiz Feldschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.ulmiz-feldschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-af926e95320719adb4977e9581db2e8cb3af98896cb4f709b60d99baf6343e86",
+      "eventCount" : 0,
+      "externalId" : "club.fr.vallon-societe-de-tir-l-echo",
+      "location" : "",
+      "name" : "Vallon Société de tir L'Echo",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.vallon-societe-de-tir-l-echo.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-693deeaa2508cbf7112268ff1f9348de48545d7bb422ea3f78ac40719c5ec222",
+      "eventCount" : 0,
+      "externalId" : "club.fr.villarepos-chandossel-societe-de-tir-la-militaire",
+      "location" : "",
+      "name" : "Villarepos-Chandossel Société de tir La Militaire",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.villarepos-chandossel-societe-de-tir-la-militaire.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-73c643b80e7f5c0d284cdd9edac2c8750aeaecae651faf311bc7fb74da7bcc56",
+      "eventCount" : 0,
+      "externalId" : "club.fr.villarsiviriaux-societe-de-tir",
+      "location" : "",
+      "name" : "Villarsiviriaux Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.villarsiviriaux-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-1a7f5bae4438c13fad2340d5ae8a7611dbb0b3a9f5b0aa9ba11aca30d4420bb8",
+      "eventCount" : 0,
+      "externalId" : "club.fr.villaz-st-pierre-societe-de-tir",
+      "location" : "",
+      "name" : "Villaz-St-Pierre Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.villaz-st-pierre-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-cc2fcbfea41c8a731004b27467bea7b3565efce9a00f3ab9386739dfed893c1f",
+      "eventCount" : 0,
+      "externalId" : "club.fr.villeneuve-societe-de-tir-au-pistolet-revolver",
+      "location" : "",
+      "name" : "Villeneuve Société de tir au pistolet - revolver",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.villeneuve-societe-de-tir-au-pistolet-revolver.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-58ad94d0e46d220763662dd5aa96501dad5030d6bd6574be953530bf7a3b1f18",
+      "eventCount" : 0,
+      "externalId" : "club.fr.villeneuve-surpierre-praratoud-societe-de-tir",
+      "location" : "",
+      "name" : "Villeneuve-Surpierre-Praratoud Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.villeneuve-surpierre-praratoud-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-36de7ec3149c675e5d99395860b19ff191b94e577f1c416d112dd7b01dafa8ec",
+      "eventCount" : 0,
+      "externalId" : "club.fr.vuadens-societe-de-tir",
+      "location" : "",
+      "name" : "Vuadens Société de tir",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.vuadens-societe-de-tir.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-617d019807460e7ce4158ddcf8a4f7972034ebd04b268efaedc86a04e0eaacdb",
+      "eventCount" : 0,
+      "externalId" : "club.fr.vuadens-ste-de-tir-carabine-10m",
+      "location" : "",
+      "name" : "Vuadens Sté de tir carabine 10m",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.vuadens-ste-de-tir-carabine-10m.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-64792c1856626218065b80cef830052e368373b8862502382d65d751a0dda8dd",
+      "eventCount" : 0,
+      "externalId" : "club.fr.vuisternens-dt-romont-societe-de-tir-militaire",
+      "location" : "",
+      "name" : "Vuisternens-dt-Romont Société de tir militaire",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.vuisternens-dt-romont-societe-de-tir-militaire.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-a8053245219570fb96fe6a47521cdc4c20ba72eaf398049e736f8bcfcb65fd56",
+      "eventCount" : 0,
+      "externalId" : "club.fr.vuisternens-en-ogoz-ste-de-tir-la-giblana",
+      "location" : "",
+      "name" : "Vuisternens-en-Ogoz Sté de tir La Giblana",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.vuisternens-en-ogoz-ste-de-tir-la-giblana.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-e95b8ff5b1db1189e57e555be3decdc3eac4b45f0277fb461e004f7e21c526f3",
+      "eventCount" : 0,
+      "externalId" : "club.fr.vully-broye-ste-de-tir-air-comprime",
+      "location" : "",
+      "name" : "Vully-Broye Sté de tir Air comprimé",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.vully-broye-ste-de-tir-air-comprime.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-54fba5d9d6c4ec0210e78bb050b6c616dafc64ee4da6230ac68bbe29416f4a1a",
+      "eventCount" : 0,
+      "externalId" : "club.fr.wallenried-societe-de-tir-union",
+      "location" : "",
+      "name" : "Wallenried Société de tir Union",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.wallenried-societe-de-tir-union.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-7392f6eb1a9106af361e8f1345f8a5ec4c3f09671788f953916fde8eb6c91f5f",
+      "eventCount" : 0,
+      "externalId" : "club.fr.wunnewil-flamatt-schutzenverein",
+      "location" : "",
+      "name" : "Wünnewil-Flamatt Schützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.wunnewil-flamatt-schutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.fsft"
+      ],
+      "canton" : "FR",
+      "contentHash" : "sha256-dbfb9df5b0b2ad09268089427d3d28148ab0dfccaa2ceceef78e24ee64140c25",
+      "eventCount" : 0,
+      "externalId" : "club.fr.zollhaus-plaffeien-pistolenklub",
+      "location" : "",
+      "name" : "Zollhaus-Plaffeien Pistolenklub",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.fr.zollhaus-plaffeien-pistolenklub.json",
+      "shortName" : "",
+      "version" : 1
+    },
     {
       "associationExternalIds" : [
 
@@ -14149,6 +16763,2386 @@
     },
     {
       "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-e89e1824bbb5521174baacc129f12190d78821322cbe1e1c2f560d6934e3af3a",
+      "eventCount" : 0,
+      "externalId" : "club.so.aedermannsdorf-herbetswil-sportschutzen",
+      "location" : "",
+      "name" : "Aedermannsdorf-Herbetswil Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.aedermannsdorf-herbetswil-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-448818eaa524369a556b7f76b6103436de9aab2b5f2dbd6a9469c380e461d900",
+      "eventCount" : 0,
+      "externalId" : "club.so.aeschi-so-pistolenklub",
+      "location" : "",
+      "name" : "Aeschi SO Pistolenklub",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.aeschi-so-pistolenklub.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-6741dba19c776f4d67fce0e7920fd7f798b35a60b9b275ca9529bf292fcc66b8",
+      "eventCount" : 0,
+      "externalId" : "club.so.aeschi-so-regionalschutzenverein",
+      "location" : "",
+      "name" : "Aeschi SO Regionalschützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.aeschi-so-regionalschutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-ceb8633ad8dbadbe05bb858cfb33322f3b9165570ee488b4e5de97efb0ee8e70",
+      "eventCount" : 0,
+      "externalId" : "club.so.aeschi-so-sportschutzen",
+      "location" : "",
+      "name" : "Aeschi SO Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.aeschi-so-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-f6804c4140b7701ab9f52e8abca449d875d35c48b1ec12eca6580964bdb07fe7",
+      "eventCount" : 0,
+      "externalId" : "club.so.balm-b-messen-schutzenverein",
+      "location" : "",
+      "name" : "Balm b. Messen Schützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.balm-b-messen-schutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-0ebc5fb103010cbc9d59f5c9bcdc26e7bccbc35939801d181c49eb00effd9bf5",
+      "eventCount" : 0,
+      "externalId" : "club.so.balsthal-klus-freischutzen",
+      "location" : "",
+      "name" : "Balsthal-Klus Freischützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.balsthal-klus-freischutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-f14726f09d0f35c1c6e51e2d998a25e48cac67e4a43a768f57b4fd28e4e02c2c",
+      "eventCount" : 0,
+      "externalId" : "club.so.balsthal-klus-schutzenverein",
+      "location" : "",
+      "name" : "Balsthal-Klus Schützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.balsthal-klus-schutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-97d78ec99546212de61acb1d28fe9adf612287eb9f04828001fcc46ae2663121",
+      "eventCount" : 0,
+      "externalId" : "club.so.balsthal-pistolen-schutzengesellschaft",
+      "location" : "",
+      "name" : "Balsthal Pistolen-Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.balsthal-pistolen-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-19878ca72c23ca318641d1bd4046b027e138d2a079aaf14f71140e56207ada73",
+      "eventCount" : 0,
+      "externalId" : "club.so.barschwil-grindel-pistolensektion",
+      "location" : "",
+      "name" : "Bärschwil-Grindel Pistolensektion",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.barschwil-grindel-pistolensektion.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-3871ae270ac5ba66eb37a273a1eb4927c5a78e7b61cfc2368e3ef66b56db5531",
+      "eventCount" : 0,
+      "externalId" : "club.so.battwil-schutzengesellschaft",
+      "location" : "",
+      "name" : "Bättwil Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.battwil-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-cc5ecbfc9b11b4d9e9395d915d2c161b9473c445ee27ab38fc475eb0ecff35ce",
+      "eventCount" : 0,
+      "externalId" : "club.so.beinwil-so-schutzengesellschaft",
+      "location" : "",
+      "name" : "Beinwil SO Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.beinwil-so-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-eb2931cb7a5cc5a397928de4d027f8c7fd2b79566c7ff428d4a0c5c59d95cf2b",
+      "eventCount" : 0,
+      "externalId" : "club.so.belchen-schutzenverein",
+      "location" : "",
+      "name" : "Belchen Schützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.belchen-schutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-fb8857eb18fde373bbe2672b2ff431eefc0b6f998f433e8ba210f039ef68ce74",
+      "eventCount" : 0,
+      "externalId" : "club.so.bellach-freier-schiessverein",
+      "location" : "",
+      "name" : "Bellach Freier Schiessverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.bellach-freier-schiessverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-f0fc887240729c8d2efa6ba45ea2a43e33da8f95888b8d1d5eb8e1c4757a238c",
+      "eventCount" : 0,
+      "externalId" : "club.so.bellach-schutzengesellschaft",
+      "location" : "",
+      "name" : "Bellach Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.bellach-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-bd1691623d1aed901bf5d6e9ff2791edd5aa04526bdfed3f5537eb2cdd6e1186",
+      "eventCount" : 0,
+      "externalId" : "club.so.bellach-sportschutzen",
+      "location" : "",
+      "name" : "Bellach Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.bellach-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-1128e0fda0d1d9a92299e2c7742ba8c34629f89cffc263dbd02d103ea9d01a4a",
+      "eventCount" : 0,
+      "externalId" : "club.so.bettlach-schutzengesellschaft",
+      "location" : "",
+      "name" : "Bettlach Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.bettlach-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-c76b5e2d2764a53d8c1eb3b17814a3858d7939c669e11227a49291513799b455",
+      "eventCount" : 0,
+      "externalId" : "club.so.biberist-bucheggberg-pistolenschutzen",
+      "location" : "",
+      "name" : "Biberist-Bucheggberg Pistolenschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.biberist-bucheggberg-pistolenschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-f0a11bc79ebf398462777ea76253d48e31b775920762af581958803e5de150c6",
+      "eventCount" : 0,
+      "externalId" : "club.so.biberist-kleinkaliberschutzen",
+      "location" : "",
+      "name" : "Biberist Kleinkaliberschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.biberist-kleinkaliberschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-c08c8408587fbbea436818b9fecb78ace8f663e95cc6d033124329e1e9dbe8f7",
+      "eventCount" : 0,
+      "externalId" : "club.so.biberist-schutzengesellschaft",
+      "location" : "",
+      "name" : "Biberist Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.biberist-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-c16af352e3d389e952bc83be2c1e0351dbfa705fa6c12d4a9e2c450f0dedd6cf",
+      "eventCount" : 0,
+      "externalId" : "club.so.bibern-schutzengesellschaft",
+      "location" : "",
+      "name" : "Bibern Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.bibern-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-bce5ad21736eaff11a9155b8dab6c0258ec9abec445d51092f5625f5677fffc8",
+      "eventCount" : 0,
+      "externalId" : "club.so.biezwil-sportschutzen",
+      "location" : "",
+      "name" : "Biezwil Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.biezwil-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-f0be2b192914f0c28ba34f2ba0fe096481c111551176503fa753bffc1c7ad3d0",
+      "eventCount" : 0,
+      "externalId" : "club.so.bolken-feldschutzengesellschaft",
+      "location" : "",
+      "name" : "Bolken Feldschützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.bolken-feldschutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-ee28cfb1d6f6d1f78372179dedc4f381af5c01bf77b67dfe226013d15781813c",
+      "eventCount" : 0,
+      "externalId" : "club.so.boningen-militarschutzen",
+      "location" : "",
+      "name" : "Boningen Militärschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.boningen-militarschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-55c1909bc6b4f939757969efc1c3c9fe0d1d36f9302301fd9494bf81dd408085",
+      "eventCount" : 0,
+      "externalId" : "club.so.breitenbach-schutzengesellschaft",
+      "location" : "",
+      "name" : "Breitenbach Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.breitenbach-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-ebf7dbaf196abb7febd2abc9adf9703e4b174726452efc314dcf4000c35ffe2f",
+      "eventCount" : 0,
+      "externalId" : "club.so.brunnenthal-schutzengesellschaft",
+      "location" : "",
+      "name" : "Brunnenthal Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.brunnenthal-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-1a2ebbfc5db85626c4ef42fc845de4ae4c8be7e2de672391922d4af254df954a",
+      "eventCount" : 0,
+      "externalId" : "club.so.buren-so-feldschutzen",
+      "location" : "",
+      "name" : "Büren SO Feldschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.buren-so-feldschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-1eab026466456650b4d6af232a03fc67568bbd5bc6429167286863621496293c",
+      "eventCount" : 0,
+      "externalId" : "club.so.buren-so-pistolenclub",
+      "location" : "",
+      "name" : "Büren SO Pistolenclub",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.buren-so-pistolenclub.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-b6aa1298f342990e08e8052e0ad06e6418cc6bc698590f3fa3568b8c876048d3",
+      "eventCount" : 0,
+      "externalId" : "club.so.busserach-schutzengesellschaft",
+      "location" : "",
+      "name" : "Büsserach Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.busserach-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-699cba08715c54f3226b6697de9c0cf11ef1edc48fb8e27f5872d92f502a8303",
+      "eventCount" : 0,
+      "externalId" : "club.so.daniken-schutzengesellschaft",
+      "location" : "",
+      "name" : "Däniken Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.daniken-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-fcdb57af384b76252d6500073a28c1fdfc55f7d8414bbca7008cf8c569146105",
+      "eventCount" : 0,
+      "externalId" : "club.so.deitingen-schutzenverein",
+      "location" : "",
+      "name" : "Deitingen Schützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.deitingen-schutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-a8a2a71a87c64757db2790eeb5a3829a0400d985a90c779321f569dbeeafdf81",
+      "eventCount" : 0,
+      "externalId" : "club.so.derendingen-arbeiterschutzen",
+      "location" : "",
+      "name" : "Derendingen Arbeiterschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.derendingen-arbeiterschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-9fa03e3f2eb3a614c615fbc32937d85f4f246fe66159360f41938ff1833b7e7f",
+      "eventCount" : 0,
+      "externalId" : "club.so.derendingen-militarschutzengesellschaft",
+      "location" : "",
+      "name" : "Derendingen Militärschützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.derendingen-militarschutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-4f3546e0c4aeae4389fe1d69138a05c02e7d573573ad7c7bb999753192cde95f",
+      "eventCount" : 0,
+      "externalId" : "club.so.dornach-feldschutzen",
+      "location" : "",
+      "name" : "Dornach Feldschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.dornach-feldschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-b70097eed80f0244eff135cc4ed51617adf35ecca79e18bf2f193bd305c1185f",
+      "eventCount" : 0,
+      "externalId" : "club.so.dornach-freischutzen",
+      "location" : "",
+      "name" : "Dornach Freischützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.dornach-freischutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-d1c64acaf3ec47a94cc59164314aeb30a7fef0149e70c8d92312206f92d939f0",
+      "eventCount" : 0,
+      "externalId" : "club.so.dornach-schutzenclub",
+      "location" : "",
+      "name" : "Dornach Schützenclub",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.dornach-schutzenclub.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-f761d141159e69ac8b27de02d9a5bd99b0ba8e18dde67fa2cfb040f0c66878dc",
+      "eventCount" : 0,
+      "externalId" : "club.so.dulliken-engelbergschutzen",
+      "location" : "",
+      "name" : "Dulliken Engelbergschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.dulliken-engelbergschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-25b324281cdf336ad22c4f0bb740dc5968a6b80ddc41e7c7f7046370c4d282cd",
+      "eventCount" : 0,
+      "externalId" : "club.so.egerkingen-schutzengesellschaft",
+      "location" : "",
+      "name" : "Egerkingen Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.egerkingen-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-57f05eff706a199070e0a747776dfd646f38af05db2d8f621cf0c851c7e64568",
+      "eventCount" : 0,
+      "externalId" : "club.so.erschwil-schutzengesellschaft",
+      "location" : "",
+      "name" : "Erschwil Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.erschwil-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-55e0e3ee817e5d64c3280886d793b7ffc5738933e08e9dbf45e2ccd01e94e65b",
+      "eventCount" : 0,
+      "externalId" : "club.so.fehren-schutzengesellschaft",
+      "location" : "",
+      "name" : "Fehren Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.fehren-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-b585893f58101fd691ac4a4185ce08b1a278c482e3212d279c41ca5cdcdb5a3f",
+      "eventCount" : 0,
+      "externalId" : "club.so.fulenbach-kappel-schutzengesellschaft",
+      "location" : "",
+      "name" : "Fulenbach-Kappel Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.fulenbach-kappel-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-613a094f18a6de7944c0261ae6b8ddebccd9f9669b4c3231d6dcbdae2979ce04",
+      "eventCount" : 0,
+      "externalId" : "club.so.gachliwil-gossliwil-schutzengesellschaft",
+      "location" : "",
+      "name" : "Gächliwil-Gossliwil Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.gachliwil-gossliwil-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-0f472f2c8977db617b086c7bd2afee948829bd451efbf9091ead7560150f349d",
+      "eventCount" : 0,
+      "externalId" : "club.so.gansbrunnen-militarschutzen",
+      "location" : "",
+      "name" : "Gänsbrunnen Militärschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.gansbrunnen-militarschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-1b542bc6ae1e35c3fbfc3f51974b67bf4d2bf4042005fe4ef9445841b5c9b6a0",
+      "eventCount" : 0,
+      "externalId" : "club.so.gerlafingen-freier-schiessverein",
+      "location" : "",
+      "name" : "Gerlafingen Freier Schiessverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.gerlafingen-freier-schiessverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-c1c7c185b4f3eba99e2da017e7ac8e29c2c0f0b3e4f870def314ebe2b43998c0",
+      "eventCount" : 0,
+      "externalId" : "club.so.gerlafingen-pistolenclub",
+      "location" : "",
+      "name" : "Gerlafingen Pistolenclub",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.gerlafingen-pistolenclub.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-1a939dea6c617318e5cef6207895ade83a2986c7190a4e56c2c10f4842c1c0c5",
+      "eventCount" : 0,
+      "externalId" : "club.so.gerlafingen-sportschutzen",
+      "location" : "",
+      "name" : "Gerlafingen Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.gerlafingen-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-2333d21b574b865d58cb3fb4359bb2106a5d89fc2e70f76351a37edbb6be08ad",
+      "eventCount" : 0,
+      "externalId" : "club.so.gilgenberg-pistolensektion",
+      "location" : "",
+      "name" : "Gilgenberg Pistolensektion",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.gilgenberg-pistolensektion.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-c360a3e3ec6cbc0d8f6ce9d8592435b7a2ea80dfd52ac88e892fc394fd87478e",
+      "eventCount" : 0,
+      "externalId" : "club.so.grenchen-freischutzen-pistolensektion",
+      "location" : "",
+      "name" : "Grenchen Freischützen Pistolensektion",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.grenchen-freischutzen-pistolensektion.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-61ce4d1ca3216ca3616b4f595c049494139b5a038dcd361d020f3a785ebd9cc1",
+      "eventCount" : 0,
+      "externalId" : "club.so.gretzenbach-schutzengesellschaft",
+      "location" : "",
+      "name" : "Gretzenbach Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.gretzenbach-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-a7f53ce173c2454ed2f699be21ff8d3cb0985e035d6ec59b7bcb758e46fd39b6",
+      "eventCount" : 0,
+      "externalId" : "club.so.gretzenbach-sportschutzen",
+      "location" : "",
+      "name" : "Gretzenbach Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.gretzenbach-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-06865f0a33bc6dc13c0b95fdcd91a286b3b99f7ec1828b1b5ad17f2ff2e1ac6f",
+      "eventCount" : 0,
+      "externalId" : "club.so.grindel-feldschutzengesellschaft",
+      "location" : "",
+      "name" : "Grindel Feldschützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.grindel-feldschutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-f9e93a1867f2e66c0d9d4bb0cc522cb0ad7b86a9eea04a6a60caf0ea8aaf232c",
+      "eventCount" : 0,
+      "externalId" : "club.so.gunsberg-feldschutzen",
+      "location" : "",
+      "name" : "Günsberg Feldschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.gunsberg-feldschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-62426b6df306f240780f1058d3ed9880df6af77e61427a1e582c4920e5e71626",
+      "eventCount" : 0,
+      "externalId" : "club.so.gunsberg-sportschutzen",
+      "location" : "",
+      "name" : "Günsberg Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.gunsberg-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-88f6833cb426918e966999c108055ebab8485c57f2ab1374ec0d951d63786b5a",
+      "eventCount" : 0,
+      "externalId" : "club.so.gunzgen-militarschutzen",
+      "location" : "",
+      "name" : "Gunzgen Militärschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.gunzgen-militarschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-41598fda698e8219908e8094047daa1bef27bcb3dcae2a5055bcd7f5e1b36e35",
+      "eventCount" : 0,
+      "externalId" : "club.so.hauenstein-ifenthal-schutzengesellschaft",
+      "location" : "",
+      "name" : "Hauenstein-Ifenthal Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.hauenstein-ifenthal-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-c2796865683d551b5ec28603768cb3b3af8ab6d18068cfc04c2899303ba6d344",
+      "eventCount" : 0,
+      "externalId" : "club.so.himmelried-schutzengesellschaft",
+      "location" : "",
+      "name" : "Himmelried Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.himmelried-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-d68b48b96d7f8e6ae574dde88d4fa7b0883d457b8a1e04ccfde6737cd17f562b",
+      "eventCount" : 0,
+      "externalId" : "club.so.hofstetten-fluh-schutzengesellschaft",
+      "location" : "",
+      "name" : "Hofstetten-Flüh Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.hofstetten-fluh-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-48c89143389d3e43e00ea4085fa15043a958d8dd92da237a2c2a2944d8ddad18",
+      "eventCount" : 0,
+      "externalId" : "club.so.hofstetten-fluh-sportschutzen",
+      "location" : "",
+      "name" : "Hofstetten-Flüh Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.hofstetten-fluh-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-fde62cbd955f99443f15ceda3e4a0937cdb5b2d460ba88981f433a5b87c0e1c2",
+      "eventCount" : 0,
+      "externalId" : "club.so.holderbank-feldschutzengesellschaft",
+      "location" : "",
+      "name" : "Holderbank Feldschützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.holderbank-feldschutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-cc8f4db2f79e8033130b36adc7ec82d758a57991e1dda0ce7ef92b67f667b389",
+      "eventCount" : 0,
+      "externalId" : "club.so.horriwil-feldschutzen",
+      "location" : "",
+      "name" : "Horriwil Feldschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.horriwil-feldschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-8da501cb85b70ad28eb5d123d3a59270e2eec2a5c577557a26859f8977d65121",
+      "eventCount" : 0,
+      "externalId" : "club.so.huggerwald-schutzengesellschaft",
+      "location" : "",
+      "name" : "Huggerwald Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.huggerwald-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-1e5d5a3155770ba1c284b097588c3415b1ae64fd9da9dcc178f33751d38972f0",
+      "eventCount" : 0,
+      "externalId" : "club.so.kestenholz-feldschutzengesellschaft",
+      "location" : "",
+      "name" : "Kestenholz Feldschützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.kestenholz-feldschutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-0233914d4cc2d241bcfe7350ae8d67c2221047f0b260961d7acec8e709540bef",
+      "eventCount" : 0,
+      "externalId" : "club.so.kleinlutzel-schutzengesellschaft",
+      "location" : "",
+      "name" : "Kleinlützel Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.kleinlutzel-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-f6d0200c7119a03348035bac1ee07497bbf019b04fe5daf2a99d7bd1996313be",
+      "eventCount" : 0,
+      "externalId" : "club.so.kriegstetten-schutzengesellschaft",
+      "location" : "",
+      "name" : "Kriegstetten Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.kriegstetten-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-be0820c510d3bed02549a62ae0031c88d34b1b990ca9e940d24acad768b3cddb",
+      "eventCount" : 0,
+      "externalId" : "club.so.kyburg-so-schutzengesellschaft",
+      "location" : "",
+      "name" : "Kyburg SO Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.kyburg-so-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-b5846479bd083ee8c3c1603abc560921fb64628fb93707fa95a317e85e640faa",
+      "eventCount" : 0,
+      "externalId" : "club.so.langendorf-pistolenschutzen",
+      "location" : "",
+      "name" : "Langendorf Pistolenschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.langendorf-pistolenschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-b2afd575079cd093d7e31f0f97fa8b7b8af1d03f26e72953107493d5f097c1be",
+      "eventCount" : 0,
+      "externalId" : "club.so.langendorf-schutzengesellschaft",
+      "location" : "",
+      "name" : "Langendorf Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.langendorf-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-121168e57b2b985ee4737d5e4c9214fcab53be285959ec15e2e7a7d96dd9c9c8",
+      "eventCount" : 0,
+      "externalId" : "club.so.lauacher-schiesssportverein",
+      "location" : "",
+      "name" : "Lauacher Schiesssportverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.lauacher-schiesssportverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-b8611a8d9c72675f842cac6f399dbc4d7a219520e939d4bb768d15eb62c76f60",
+      "eventCount" : 0,
+      "externalId" : "club.so.laupersdorf-schutzenverein",
+      "location" : "",
+      "name" : "Laupersdorf Schützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.laupersdorf-schutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-7ce0bd9895ba24ea0f60c018230f668df00fb0e6ae81051736a9a0bf711416e9",
+      "eventCount" : 0,
+      "externalId" : "club.so.leberberg-sportschutzen",
+      "location" : "",
+      "name" : "Leberberg Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.leberberg-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-374ed8b6175bb631cbc9e42752816da8ebcdf187432945568001bd4a4b54b4c9",
+      "eventCount" : 0,
+      "externalId" : "club.so.leimental-pistolenclub",
+      "location" : "",
+      "name" : "Leimental Pistolenclub",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.leimental-pistolenclub.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-3c7c6a5acf8b62c92d55d7cc70abc2ab89f016fa3380cf284763f1aa9465d221",
+      "eventCount" : 0,
+      "externalId" : "club.so.lohn-ammannsegg-schutzengesellschaft",
+      "location" : "",
+      "name" : "Lohn-Ammannsegg Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.lohn-ammannsegg-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-74ebaf603273a6f380a7ad4a27f5a452bc2032d3ea76e126f9f8d5c5f92a2fd4",
+      "eventCount" : 1,
+      "externalId" : "club.so.lommiswil-schutzengesellschaft",
+      "location" : "",
+      "name" : "Lommiswil Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.lommiswil-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-2965150be77e822e9ec92e4f5853b5840ad113ddeb8bece40e678590416fd31d",
+      "eventCount" : 0,
+      "externalId" : "club.so.lostorf-wartenfelsschutzen",
+      "location" : "",
+      "name" : "Lostorf Wartenfelsschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.lostorf-wartenfelsschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-c8265090d53186674b75251fe90a90b87786d9d65ab208e18202293a12ddfc5c",
+      "eventCount" : 0,
+      "externalId" : "club.so.luterbach-kleinkaliberschutzen",
+      "location" : "",
+      "name" : "Luterbach Kleinkaliberschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.luterbach-kleinkaliberschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-dfcbffb8359c26321c4299a5a7f04ebee6d94e487bec88c88fa7a3cb200b7809",
+      "eventCount" : 0,
+      "externalId" : "club.so.luterbach-schutzenverein",
+      "location" : "",
+      "name" : "Luterbach Schützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.luterbach-schutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-158cb73eff17325686e1957c594a302df6f50463e23dcf1b887a86bdd821272f",
+      "eventCount" : 0,
+      "externalId" : "club.so.luterkofen-standschutzen",
+      "location" : "",
+      "name" : "Lüterkofen Standschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.luterkofen-standschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-45b314d69613f57f82f3d076454c19d4e9275dbca3062f3c0f390a0a90159735",
+      "eventCount" : 0,
+      "externalId" : "club.so.luterswil-biezwil-schutzengesellschaft",
+      "location" : "",
+      "name" : "Lüterswil-Biezwil Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.luterswil-biezwil-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-af664959d2be59279702f515aceb9bc22f119d5875cd99746b019443e69ca020",
+      "eventCount" : 0,
+      "externalId" : "club.so.matzendorf-schutzengesellschaft",
+      "location" : "",
+      "name" : "Matzendorf Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.matzendorf-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-3dcf52ac2617581954bb271b187d5064c57a56e0b62ae8575979a0c202c85e05",
+      "eventCount" : 0,
+      "externalId" : "club.so.meltingen-schutzengesellschaft",
+      "location" : "",
+      "name" : "Meltingen Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.meltingen-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-4c50b0cf775bc76dc72bca2d4b87b0821886a6cd6a11114733b41db46fd0035a",
+      "eventCount" : 0,
+      "externalId" : "club.so.messen-schutzengesellschaft",
+      "location" : "",
+      "name" : "Messen Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.messen-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-527a920337276ee9bf9011fa2d6ef5d7e61dc765ef99b791c0c821f4978ab3d6",
+      "eventCount" : 0,
+      "externalId" : "club.so.metzerlen-schutzengesellschaft",
+      "location" : "",
+      "name" : "Metzerlen Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.metzerlen-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-f1b661d70feef3ff12e2b6a7803ba0110d2f894ef98aa67e5a4ad48cf37c08d2",
+      "eventCount" : 0,
+      "externalId" : "club.so.muhledorf-schutzengesellschaft",
+      "location" : "",
+      "name" : "Mühledorf Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.muhledorf-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-1596070ff437e4b4536741b56aa28b0ed34bf7801f2e749028c38956aaadb018",
+      "eventCount" : 0,
+      "externalId" : "club.so.mumliswil-ramiswil-schutzen-guldental",
+      "location" : "",
+      "name" : "Mümliswil-Ramiswil Schützen Guldental",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.mumliswil-ramiswil-schutzen-guldental.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-dad851927b8ad94b0bed6dd45effc7bea082772a5173c13dabe18f837aa51280",
+      "eventCount" : 0,
+      "externalId" : "club.so.nennigkofen-lusslingen-schutzengesellschaft",
+      "location" : "",
+      "name" : "Nennigkofen-Lüsslingen Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.nennigkofen-lusslingen-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-39f9854dac6ad1dbfb4ccc73522fffe4800df0828021e03bc58824aea7548662",
+      "eventCount" : 0,
+      "externalId" : "club.so.neuendorf-harkingen-schutzenverein",
+      "location" : "",
+      "name" : "Neuendorf-Härkingen Schützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.neuendorf-harkingen-schutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-8cc5944dedea4006ff0b643f912686f7e92894bc02fbc8f5f0fcba4b4e3380f6",
+      "eventCount" : 0,
+      "externalId" : "club.so.niederbipp-sportschutzen",
+      "location" : "",
+      "name" : "Niederbipp Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.niederbipp-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-b8bd558a95d38c91ff9dba7a4198d0380b3ea9253c46775af523ec571940a2b7",
+      "eventCount" : 0,
+      "externalId" : "club.so.niederbuchsiten-schutzenverein",
+      "location" : "",
+      "name" : "Niederbuchsiten Schützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.niederbuchsiten-schutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-0829a224ecab90cac20421e20b8b9774ab83922f61fac7927835a311414f0ddd",
+      "eventCount" : 0,
+      "externalId" : "club.so.niedererlinsbach-schutzenbund",
+      "location" : "",
+      "name" : "Niedererlinsbach Schützenbund",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.niedererlinsbach-schutzenbund.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-5ca59533302991ec1380efd1f535f3c5d7b5b51a499ea5534272a7ea48c0c0f6",
+      "eventCount" : 0,
+      "externalId" : "club.so.niedergosgen-falkensteinerschutzen",
+      "location" : "",
+      "name" : "Niedergösgen Falkensteinerschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.niedergosgen-falkensteinerschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-84e8d2f580f41bb55b1bb2f9d31a76a7aa85f2430aee5cfb65f2a57b2792827e",
+      "eventCount" : 0,
+      "externalId" : "club.so.niedergosgen-pistolenschutzen",
+      "location" : "",
+      "name" : "Niedergösgen Pistolenschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.niedergosgen-pistolenschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-baa685b6e467e583b235854d914580443248005f88ba52e1f621168f82d65fc3",
+      "eventCount" : 0,
+      "externalId" : "club.so.niederwil-so-feldschutzengesellschaft",
+      "location" : "",
+      "name" : "Niederwil SO Feldschützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.niederwil-so-feldschutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-73aeca97140fb14396bc977f5247d5a4e5cb70d35dc2e2eac43c72ffd5ce1288",
+      "eventCount" : 0,
+      "externalId" : "club.so.nuglar-schutzengesellschaft",
+      "location" : "",
+      "name" : "Nuglar Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.nuglar-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-cd125eb502bac84d0fb22151d9049f839612f25616fa329e260f8f039cd0e539",
+      "eventCount" : 0,
+      "externalId" : "club.so.nuglar-st-pantaleon-pistolenklub",
+      "location" : "",
+      "name" : "Nuglar - St. Pantaleon Pistolenklub",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.nuglar-st-pantaleon-pistolenklub.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-01e5d324410fe420022f9bc50fa4148177ed7415f97ad7891aa674a4a9e606d9",
+      "eventCount" : 0,
+      "externalId" : "club.so.nunningen-feldschutzengesellschaft",
+      "location" : "",
+      "name" : "Nunningen Feldschützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.nunningen-feldschutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-952b23b26f53990ad3d00699f4721d71f3f5f36a14b3a3642aa599e57c445d76",
+      "eventCount" : 0,
+      "externalId" : "club.so.nunningen-freischutzen",
+      "location" : "",
+      "name" : "Nunningen Freischützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.nunningen-freischutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-1f9e7a7777d984d6beb709f0bd8f7f19b91e436d16a345ce8162f7f2fcff2594",
+      "eventCount" : 0,
+      "externalId" : "club.so.oberbuchsiten-schutzenverein",
+      "location" : "",
+      "name" : "Oberbuchsiten Schützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.oberbuchsiten-schutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-738d7eebb1232bc6972eef7645bd91176ace1613395e0ff8d4938595dfa901b9",
+      "eventCount" : 0,
+      "externalId" : "club.so.obererlinsbach-schutzengesellschaft",
+      "location" : "",
+      "name" : "Obererlinsbach Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.obererlinsbach-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-5f43954c24c637e66b38cd25cee460ddcf7adc0be5bf41ff199db9fbd7be04f2",
+      "eventCount" : 0,
+      "externalId" : "club.so.obergerlafingen-schutzengesellschaft",
+      "location" : "",
+      "name" : "Obergerlafingen Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.obergerlafingen-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-76f15356c7497b878db4f21c1019dd16e8d0c17e6c46680972a425baf5062522",
+      "eventCount" : 0,
+      "externalId" : "club.so.obergosgen-schutzengesellschaft",
+      "location" : "",
+      "name" : "Obergösgen Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.obergosgen-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-a992c38781e62117a900af6dbc9f3c543787c9e847aa622f5383902928e3861f",
+      "eventCount" : 0,
+      "externalId" : "club.so.obergosgen-sportschutzen",
+      "location" : "",
+      "name" : "Obergösgen Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.obergosgen-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-57e1898292f923390c712d6bfcd0a2fab771fb8b63a7f0bdef4c1afec4e89685",
+      "eventCount" : 0,
+      "externalId" : "club.so.oekingen-schutzengesellschaft",
+      "location" : "",
+      "name" : "Oekingen Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.oekingen-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-33bf92676dea9e8c1caa649257d846d45e05f9537fe31b4855cddea1f5abedb6",
+      "eventCount" : 0,
+      "externalId" : "club.so.oensingen-pistolenschutzen",
+      "location" : "",
+      "name" : "Oensingen Pistolenschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.oensingen-pistolenschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-602efafec20d2c8026dfe65a028c40a2702ef4a133184e207d3892f48b88fbd6",
+      "eventCount" : 0,
+      "externalId" : "club.so.oensingen-schutzen",
+      "location" : "",
+      "name" : "Oensingen Schützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.oensingen-schutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-c361607181f6c3fc53dedb4a5f3f22ed60b5ec7cd8e78a8fa1219e850563d43e",
+      "eventCount" : 0,
+      "externalId" : "club.so.olten-luftgewehrschutzen",
+      "location" : "",
+      "name" : "Olten Luftgewehrschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.olten-luftgewehrschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-6ef879d89fb9d9a6017a05755fb14de3a46cd6b6b71e1c4819b171ec637bbe0d",
+      "eventCount" : 0,
+      "externalId" : "club.so.olten-stadtschutzen",
+      "location" : "",
+      "name" : "Olten Stadtschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.olten-stadtschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-d549ad62a5b972d0388d70ce792cfc779e4b583082b22fb8fc3b24eb1dd55a06",
+      "eventCount" : 0,
+      "externalId" : "club.so.ramsern-schutzengesellschaft",
+      "location" : "",
+      "name" : "Ramsern Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.ramsern-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-d581e16f4a3276f09ef77618f55834be42a1173970432503c6b5a4268237f922",
+      "eventCount" : 0,
+      "externalId" : "club.so.recherswil-schutzengesellschaft",
+      "location" : "",
+      "name" : "Recherswil Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.recherswil-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-0ae911087611c065c0532babde26b1870cd760e513d6b7a2bb854af784c7ab0d",
+      "eventCount" : 0,
+      "externalId" : "club.so.riedholz-feldbrunnen-sportschutzen",
+      "location" : "",
+      "name" : "Riedholz-Feldbrunnen Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.riedholz-feldbrunnen-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-ded663bf86d2bfa992b7e764e48c535e5b2daa5ebca5cfccb49324696d227db7",
+      "eventCount" : 0,
+      "externalId" : "club.so.riedholz-schutzengesellschaft",
+      "location" : "",
+      "name" : "Riedholz Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.riedholz-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-6ddf2aa6a164d923f4e1accfaaf8f8a6fb773a62091af07fd563c802106f8821",
+      "eventCount" : 0,
+      "externalId" : "club.so.schnottwil-schutzengesellschaft",
+      "location" : "",
+      "name" : "Schnottwil Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.schnottwil-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-cb628aa1e6f20fb5dff2b307242ee46ba6d5bdaef66bb76b44c879d689acf63e",
+      "eventCount" : 0,
+      "externalId" : "club.so.schonenwerd-pistolenclub",
+      "location" : "",
+      "name" : "Schönenwerd Pistolenclub",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.schonenwerd-pistolenclub.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-9347070d13e1edf85dd88290cd9e59761d6ab550a3ed0dc8f3a0a83bc47dd690",
+      "eventCount" : 0,
+      "externalId" : "club.so.seewen-feldschutzen",
+      "location" : "",
+      "name" : "Seewen Feldschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.seewen-feldschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-3f1288867ddb44e61e3c814d40edf94a92433a72dea2fb6b1e55fd4c5efc93a9",
+      "eventCount" : 0,
+      "externalId" : "club.so.seewen-pistolensektion",
+      "location" : "",
+      "name" : "Seewen Pistolensektion",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.seewen-pistolensektion.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-7f44b271dc49a111a7646675d54026db956ea7053e76997cf358ff119830cd66",
+      "eventCount" : 0,
+      "externalId" : "club.so.selzach-altreu-sportschutzen",
+      "location" : "",
+      "name" : "Selzach-Altreu Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.selzach-altreu-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-ead87aaad1415ea36b023cbded8dce506c39935be8303d7bff9c4c2f12d83fa0",
+      "eventCount" : 0,
+      "externalId" : "club.so.solothurn-feldwaffenverein",
+      "location" : "",
+      "name" : "Solothurn Feldwaffenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.solothurn-feldwaffenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-81e2407ab197befaf55ab035590daa4fa487a07471ec61fe2e2e074ecd3e0183",
+      "eventCount" : 0,
+      "externalId" : "club.so.solothurn-pistolen-schiessverein-der-kapo",
+      "location" : "",
+      "name" : "Solothurn Pistolen-Schiessverein der KAPO",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.solothurn-pistolen-schiessverein-der-kapo.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-cc04bdd0d55b5cce0eaa9d550470ad758a4f056b1745c033e3c5a610c0280646",
+      "eventCount" : 0,
+      "externalId" : "club.so.solothurn-schiess-sektion-uov",
+      "location" : "",
+      "name" : "Solothurn Schiess-Sektion UOV",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.solothurn-schiess-sektion-uov.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-0c77b98fdc26ae067454d1b9d5d43186586754be2cd94e987a4a90a4a57c7826",
+      "eventCount" : 0,
+      "externalId" : "club.so.solothurn-schutzengesellschaft-der-stadt",
+      "location" : "",
+      "name" : "Solothurn Schützengesellschaft der Stadt",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.solothurn-schutzengesellschaft-der-stadt.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-75f3dcd1d6c4eeb48bb7440699a1d54cd5e83740cba509c64c511c8998d26ca2",
+      "eventCount" : 0,
+      "externalId" : "club.so.st-niklaus-schutzengesellschaft",
+      "location" : "",
+      "name" : "St. Niklaus Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.st-niklaus-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-71a22ecadaff304abb022e842dcbdba5a9e9d0248ae3624129bc288854676897",
+      "eventCount" : 0,
+      "externalId" : "club.so.st-pantaleon-feldschutzen",
+      "location" : "",
+      "name" : "St. Pantaleon Feldschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.st-pantaleon-feldschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-e73255483f237877055c6f71b9f0fb95b96eacdd496faf74a424c6aa9f69e26f",
+      "eventCount" : 0,
+      "externalId" : "club.so.steinhof-feldschutzen",
+      "location" : "",
+      "name" : "Steinhof Feldschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.steinhof-feldschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-753240309d0928bcc8de43049b4546ea6496c0fbb0e34b0c5d61a376c19ad59c",
+      "eventCount" : 0,
+      "externalId" : "club.so.subingen-deitingen-sportschutzen",
+      "location" : "",
+      "name" : "Subingen-Deitingen Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.subingen-deitingen-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-59969df78cd780686e1182e8a4263f0c58aa099b97681f839b2223ff132209aa",
+      "eventCount" : 0,
+      "externalId" : "club.so.subingen-schutzengesellschaft",
+      "location" : "",
+      "name" : "Subingen Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.subingen-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-9af77a7d5e62b77c64dca374ed1f0bb099a1a7444e06b0922c0ab37a5f3014dc",
+      "eventCount" : 0,
+      "externalId" : "club.so.thierstein-pistolensektion",
+      "location" : "",
+      "name" : "Thierstein Pistolensektion",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.thierstein-pistolensektion.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-afcdc4c4a3bba5abdaec33898f524b35912251cc4854340bdae114a6d04eb944",
+      "eventCount" : 0,
+      "externalId" : "club.so.trimbach-pistolenschutzen",
+      "location" : "",
+      "name" : "Trimbach Pistolenschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.trimbach-pistolenschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-9582f21aecf35042cd176e6604b59a06bf616f25549ee6b4ebc3dcd11954548c",
+      "eventCount" : 0,
+      "externalId" : "club.so.trimbach-sportschutzen",
+      "location" : "",
+      "name" : "Trimbach Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.trimbach-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-0f929901c470f1536ca9e13995df1412a84e917806c4eb0837d113fd1bfe2a11",
+      "eventCount" : 1,
+      "externalId" : "club.so.walterswil-so-feldschutzen",
+      "location" : "",
+      "name" : "Walterswil SO Feldschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.walterswil-so-feldschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-39817bddc7bfde0698be0a69e04cb08911a40b434e73be4be95f51948c06d291",
+      "eventCount" : 0,
+      "externalId" : "club.so.walterswil-so-sportschutzen",
+      "location" : "",
+      "name" : "Walterswil SO Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.walterswil-so-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-8ccb1485ddc537c3d20c7fe635fd1988b947062e62e855a3b130b71f8fee1942",
+      "eventCount" : 0,
+      "externalId" : "club.so.wangen-b-olten-sportschutzen",
+      "location" : "",
+      "name" : "Wangen b.Olten Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.wangen-b-olten-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-85c8b76a9c24f070f7a70a20ee1dc18b6fe67fba08da959953092c71aef06c22",
+      "eventCount" : 0,
+      "externalId" : "club.so.weissenstein-sportschutzen",
+      "location" : "",
+      "name" : "Weissenstein Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.weissenstein-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-842848c3321991c5ebf1ada5ee52d054651e7df52d2acc4a4dcf8e20c7c67f61",
+      "eventCount" : 0,
+      "externalId" : "club.so.welschenrohr-schutzenverein",
+      "location" : "",
+      "name" : "Welschenrohr Schützenverein",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.welschenrohr-schutzenverein.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-c9e9dffc33336e337ae9e815fc890fd2d24f43591f40599d97399f21e12d37b7",
+      "eventCount" : 0,
+      "externalId" : "club.so.welschenrohr-sportschutzen",
+      "location" : "",
+      "name" : "Welschenrohr Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.welschenrohr-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-6f5cb45ab90adf8b971d902f37837fa16d6284f15178add180dd142a02a4bc1c",
+      "eventCount" : 0,
+      "externalId" : "club.so.winistorf-sportschutzen",
+      "location" : "",
+      "name" : "Winistorf Sportschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.winistorf-sportschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-8017ee1738d5db58849b51a324bb33691cb4df2b90f627284eb0a28ba31f6288",
+      "eventCount" : 0,
+      "externalId" : "club.so.winznau-feldschutzengesellschaft",
+      "location" : "",
+      "name" : "Winznau Feldschützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.winznau-feldschutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-917f5cb9bf258d0bd235d0999e6ae3611cf0d551b7380e2d8dcc4ef85bb6a0b1",
+      "eventCount" : 0,
+      "externalId" : "club.so.wisen-schutzengesellschaft",
+      "location" : "",
+      "name" : "Wisen Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.wisen-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-1539da3923c2eb099f1e07395d5128052e2845c77c04f306ebd7e2cdc6201ab3",
+      "eventCount" : 0,
+      "externalId" : "club.so.witterswil-schutzenbund",
+      "location" : "",
+      "name" : "Witterswil Schützenbund",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.witterswil-schutzenbund.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-09d4a52176272020d840628fc1e278b5716a233d4270296b6b72471a11aacd76",
+      "eventCount" : 1,
+      "externalId" : "club.so.wolfwil-feldschutzen",
+      "location" : "",
+      "name" : "Wolfwil Feldschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.wolfwil-feldschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-a8ff4d2fe6040266fa113ffbc855d8bd5a81eea9db53c9df2da3cc36894f13de",
+      "eventCount" : 0,
+      "externalId" : "club.so.wolfwil-pistolenclub",
+      "location" : "",
+      "name" : "Wolfwil Pistolenclub",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.wolfwil-pistolenclub.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-19c5275e47148ca25dfe5a87551b4e35bdcdb5160d9406644149ef27d50bdd8b",
+      "eventCount" : 0,
+      "externalId" : "club.so.zuchwil-feldschutzen",
+      "location" : "",
+      "name" : "Zuchwil Feldschützen",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.zuchwil-feldschutzen.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
+        "assoc.kv.sosv"
+      ],
+      "canton" : "SO",
+      "contentHash" : "sha256-312e1fe4f9a2278886e09298627fbcb2cb98292719c53f84c9656e49ff90381e",
+      "eventCount" : 0,
+      "externalId" : "club.so.zullwil-schutzengesellschaft",
+      "location" : "",
+      "name" : "Zullwil Schützengesellschaft",
+      "offeredDisciplines" : [
+
+      ],
+      "path" : "clubs\/club.so.zullwil-schutzengesellschaft.json",
+      "shortName" : "",
+      "version" : 1
+    },
+    {
+      "associationExternalIds" : [
 
       ],
       "canton" : "SZ",
@@ -14899,6 +19893,6 @@
       "version" : 1
     }
   ],
-  "generatedAt" : "2026-07-26T09:24:34Z",
+  "generatedAt" : "2026-07-26T09:34:23Z",
   "schemaVersion" : 1
 }
