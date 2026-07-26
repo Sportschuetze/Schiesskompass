@@ -1,5 +1,5 @@
 {
-  "abgerufen" : "2026-07-20T10:38:06Z",
+  "abgerufen" : "2026-07-20T15:48:50Z",
   "eintraege" : [
     {
       "dateiname" : "5_70_01_d_reglement_sportschuetzenauszeichnungen_2011.pdf",
@@ -21,22 +21,10 @@
       "titel" : "dok 1104020 4029 d"
     },
     {
-      "dateiname" : "1_10_4040_d_richtlinien-fuer-sportschiessanlagen-version-8-mew_200422.pdf",
-      "pruefsumme" : "390b41ed810145238c8251b4a3f71d40acb343dd020012f312b0caa7583377fd",
-      "quelleURL" : "https://www.swissshooting.ch/media/1ajfbeso/1_10_4040_d_richtlinien-fuer-sportschiessanlagen-version-8-mew_200422.pdf",
-      "titel" : "1 10 4040 d richtlinien fuer sportschiessanlagen version 8 mew 200422"
-    },
-    {
       "dateiname" : "3_65_03_d_afb-juplusve_final_2025.pdf",
       "pruefsumme" : "e08604e1d99211fe293d963f9d322bc2cfb1c6eb045fc9e08aaeec9bc8a3da41",
       "quelleURL" : "https://www.swissshooting.ch/media/1bme4qv3/3_65_03_d_afb-juplusve_final_2025.pdf",
       "titel" : "3 65 03 d afb juplusve final 2025"
-    },
-    {
-      "dateiname" : "1_3_2_3_d_afb_esm_2026.pdf",
-      "pruefsumme" : "36aee9d3eadba47f95be9a8a7131c8ea6a95ba49a3c7b25751520416904c81c7",
-      "quelleURL" : "https://www.swissshooting.ch/media/1mkpw11e/1_3_2_3_d_afb_esm_2026.pdf",
-      "titel" : "1 3 2 3 d afb esm 2026"
     },
     {
       "dateiname" : "21810_d_afb_erleichterte_tn_wk_e1.pdf",
@@ -49,12 +37,6 @@
       "pruefsumme" : "1b900356fc593fa06fee42af010f56eca01338bbe335effbb560af18b5e15996",
       "quelleURL" : "https://www.swissshooting.ch/media/1xhnxo2u/4_41_23_d_afb_spgm_50_final_2026.pdf",
       "titel" : "4 41 23 d afb spgm 50 final 2026"
-    },
-    {
-      "dateiname" : "20180502_instruktion_kleber.pdf",
-      "pruefsumme" : "331ac020fc7ad7280e9d24e22cd010a85579417fa92c398e2675e374f5698173",
-      "quelleURL" : "https://www.swissshooting.ch/media/1xjdojd2/20180502_instruktion_kleber.pdf",
-      "titel" : "20180502 instruktion kleber"
     },
     {
       "dateiname" : "20260303_d_merkblatt-ligend-aufgelegt.pdf",
@@ -121,13 +103,6 @@
       "titel" : "35011 d sgm g300 anweisungsblatt resultaterfassung 2026"
     },
     {
-      "dateiname" : "20161003_d_f_empfehlung_recommandation_kranzlimiten_300m_2017.pdf",
-      "disziplin" : "Gewehr",
-      "pruefsumme" : "3c28ace89056be156a3e1358f5cf0c013464d83de191b1088c51a9a317802769",
-      "quelleURL" : "https://www.swissshooting.ch/media/abbpmzae/20161003_d_f_empfehlung_recommandation_kranzlimiten_300m_2017.pdf",
-      "titel" : "20161003 d f empfehlung recommandation kranzlimiten 300m 2017"
-    },
-    {
       "dateiname" : "2_18_01_d_afb-auslaender_2021.pdf",
       "pruefsumme" : "eddef494bd3b3cef6875fb219974875409ecaabaf677a964b661db7c0e859bf2",
       "quelleURL" : "https://www.swissshooting.ch/media/aeykybtg/2_18_01_d_afb-auslaender_2021.pdf",
@@ -152,12 +127,6 @@
       "titel" : "2 18 03 d afb schiessen js junioren 2017"
     },
     {
-      "dateiname" : "swiss-rapid-fire-challenge-2026_de.pdf",
-      "pruefsumme" : "03ae5a5e6e0e66a2feb4a5fc592cc1a511eaed7ecee88fa94c0e065aefe891f3",
-      "quelleURL" : "https://www.swissshooting.ch/media/bufjmvdk/swiss-rapid-fire-challenge-2026_de.pdf",
-      "titel" : "swiss rapid fire challenge 2026 de"
-    },
-    {
       "dateiname" : "dok-1104024-d.pdf",
       "pruefsumme" : "9f4b669b13ef9e31f2dfa30ad71b226acd9b12cc48749c3746e2c403710bfb1f",
       "quelleURL" : "https://www.swissshooting.ch/media/cf0iwzzd/dok-1104024-d.pdf",
@@ -174,12 +143,6 @@
       "pruefsumme" : "da0e8cd03548d4a39e26a5ade9b396af80bc82c0e7853afc2cbc5b948bcb5951",
       "quelleURL" : "https://www.swissshooting.ch/media/cxhcnpvl/20250618_veranstaltungskalender-p-10-2025-2026.pdf",
       "titel" : "20250618 veranstaltungskalender p 10 2025 2026"
-    },
-    {
-      "dateiname" : "20230427_finals_format_tokyo_version_april_2023.pdf",
-      "pruefsumme" : "4728c8917deb1ff417a30f405c1672f8ffa7473e9e985c1ce4a13492bc79a26b",
-      "quelleURL" : "https://www.swissshooting.ch/media/czsddvkk/20230427_finals_format_tokyo_version_april_2023.pdf",
-      "titel" : "20230427 finals format tokyo version april 2023"
     },
     {
       "dateiname" : "20231129_d_issf_7-gewehrregeln-deutsch-v02.pdf",
@@ -402,12 +365,6 @@
       "titel" : "dok 4044602 d 2022"
     },
     {
-      "dateiname" : "20230619_issf_2023-technical_rules.pdf",
-      "pruefsumme" : "55c71a6c71e9349bd2c8d3dd6e81f0841e8c2ca737ac3ff21840597877322690",
-      "quelleURL" : "https://www.swissshooting.ch/media/o1edqrqq/20230619_issf_2023-technical_rules.pdf",
-      "titel" : "20230619 issf 2023 technical rules"
-    },
-    {
       "dateiname" : "3_65_02_d_afb_-ausscheidung-juplusve-2026.pdf",
       "pruefsumme" : "686a5757ff2b570967feb9971c79fc1974efa91ffd140693508d03b9ea504ff7",
       "quelleURL" : "https://www.swissshooting.ch/media/o2pl5xj1/3_65_02_d_afb_-ausscheidung-juplusve-2026.pdf",
@@ -456,12 +413,6 @@
       "pruefsumme" : "bc9d58febb402f4f1dda865bde7d8aed53af6cd1e95c9267071726ad5d7a4162",
       "quelleURL" : "https://www.swissshooting.ch/media/q1glnnbs/4_54_03_d_afb_fpem_final_2026_170626.pdf",
       "titel" : "4 54 03 d afb fpem final 2026 170626"
-    },
-    {
-      "dateiname" : "20231129_d_issf_6-finalregeln-gewehr-und-pistole-paris.pdf",
-      "pruefsumme" : "ee016efca96162d3975d561e16459ae75b202c62e7f1de59862e6052509881ae",
-      "quelleURL" : "https://www.swissshooting.ch/media/qhxng3xf/20231129_d_issf_6-finalregeln-gewehr-und-pistole-paris.pdf",
-      "titel" : "20231129 d issf 6 finalregeln gewehr und pistole paris"
     },
     {
       "dateiname" : "20230619_issf_2023-rifle_rules.pdf",
@@ -583,12 +534,6 @@
       "titel" : "51 065 d 2022 klein schiessanlagen"
     },
     {
-      "dateiname" : "20230503_issf_rule_book_2023_v01_eng.pdf",
-      "pruefsumme" : "534087a2d2bd767d5a09ac45ee0d575ca48720895828b6a92ec008fa71690e6c",
-      "quelleURL" : "https://www.swissshooting.ch/media/xjppkm1p/20230503_issf_rule_book_2023_v01_eng.pdf",
-      "titel" : "20230503 issf rule book 2023 v01 eng"
-    },
-    {
       "dateiname" : "2_40_02_d_afb_dmm_sommer_2026.pdf",
       "pruefsumme" : "1e1bf01fd784ac08d59942b91c5f98e1bd214ba198fc29af36d3bbfc1a445c70",
       "quelleURL" : "https://www.swissshooting.ch/media/xniffnwr/2_40_02_d_afb_dmm_sommer_2026.pdf",
@@ -650,12 +595,6 @@
       "pruefsumme" : "668bcc7ac18ad079f7cb480d27fec8b4101824f814b8fcdee28c179a0ae8d373",
       "quelleURL" : "https://www.swissshooting.ch/media/z4wjhb5j/3_10_04_-bundesuebungen-pistole-dfi-2005.pdf",
       "titel" : "3 10 04  bundesuebungen pistole dfi 2005"
-    },
-    {
-      "dateiname" : "1322_d_weisungen_esm_2026_inhaltsverz_210524.pdf",
-      "pruefsumme" : "c3fdd3845ca48886ee1a164ddcb4528f979c4b31b340e23fb40d06355ce4073d",
-      "quelleURL" : "https://www.swissshooting.ch/media/zajlkqjj/1322_d_weisungen_esm_2026_inhaltsverz_210524.pdf",
-      "titel" : "1322 d weisungen esm 2026 inhaltsverz 210524"
     },
     {
       "dateiname" : "dok-4044201-d-2021.pdf",
