@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Erlach UOV",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Erlach UOV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d57f33e60551a55304c49587f498e5a433d068d36273eafc2dc9f26c92e043a3",
+  "contentHash" : "sha256-99924d1aa703dda014e3235f2d2d47a25b14a36d0dc1232f712affa104b30974",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

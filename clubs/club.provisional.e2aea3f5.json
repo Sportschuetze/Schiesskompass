@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Röthenbach i\/E. Pistolenklub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Röthenbach i\/E. PS",
+    "sourceURL" : "www.psroethenbach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.psroethenbach.ch"
   },
-  "contentHash" : "sha256-007ac030a3dd896c0eeb8b6f22e861f32136b47e2462ae9254f60b00680b6a9a",
+  "contentHash" : "sha256-dc4fc14d88232226a007071035eea53fcf6df1fecf318b5d6f445dab5a78c742",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

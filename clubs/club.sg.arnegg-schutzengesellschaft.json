@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Arnegg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Arnegg SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7c1445795938b741aa5f4a0beb7dd50ade8d40509fe180a1a8fe2855663bb04b",
+  "contentHash" : "sha256-c855a7000696ce8b76cc778694e689cf990cd94f3e5dc7e073530970b237fad2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

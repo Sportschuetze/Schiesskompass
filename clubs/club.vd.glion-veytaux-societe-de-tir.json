@@ -5,28 +5,31 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.glion-veytaux-societe-de-tir",
+    "foundedYear" : 1921,
     "location" : "",
+    "logoPath" : "logos\/club.vd.glion-veytaux-societe-de-tir.jpg",
     "name" : "Glion-Veytaux Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Glion-Veytaux ST",
+    "sourceURL" : "www.tir-glion-veytaux.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tir-glion-veytaux.ch"
   },
-  "contentHash" : "sha256-ee76f439516388520f4ce7a86637e14cf370223e8193bb6d5bdf208829ca6311",
+  "contentHash" : "sha256-975ddfe138c0fa2e65dbe4b8527963c2acb2cf0e18c736e1e1f67576861c0156",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

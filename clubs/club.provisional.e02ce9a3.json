@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Siselen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Siselen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-836e5b425612588dc6ed2bb48542608bb6e7975b499d74ef8b7cdc65e28cb41b",
+  "contentHash" : "sha256-bc76beb946cb076a9fbb9a8184ec3d345aa384b6748bc8d01985753ce58e243b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

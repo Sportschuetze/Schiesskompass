@@ -5,28 +5,29 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.libingen-militarschutzenverein",
+    "foundedYear" : 1818,
     "location" : "",
     "name" : "Libingen Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Libingen MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f4170f92e1c085626f36e1ec90a39a10ad9954e892694770aab74e984210a6d5",
+  "contentHash" : "sha256-494e36d1948c9521c9ee7f1c4a09d22598e987655a9ef653eac66768ad3dc650",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

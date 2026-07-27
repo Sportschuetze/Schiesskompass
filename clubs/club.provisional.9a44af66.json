@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Wohlen b. Bern Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wohlen b. Bern SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-437ad058a3eb6d3c91ac5931206fd9105b12e25d8fb2fb0802c85bfd130eb1eb",
+  "contentHash" : "sha256-100879f040049e19e27c970f4d9877111b274e573e151b83cb13de2b0baa925f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

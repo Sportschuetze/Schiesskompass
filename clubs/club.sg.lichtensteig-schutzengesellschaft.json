@@ -8,21 +8,25 @@
     "location" : "",
     "name" : "Lichtensteig Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lichtensteig SG",
+    "sourceURL" : "www.landschiessen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.landschiessen.ch"
   },
-  "contentHash" : "sha256-66735d85807c319b1a4741e52f9115d4a8931d2cd52a9df49c18bc403c7f6391",
+  "contentHash" : "sha256-0e8b59c97ed0a939939c6f849d620f28f81f5f8832beac694b373e01a13dceb9",
   "events" : [
     {
       "championshipTags" : "",
@@ -141,7 +145,7 @@
       "title" : "375. Toggenburgisches Landschiessen Lichtensteig"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

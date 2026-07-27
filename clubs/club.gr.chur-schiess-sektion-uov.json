@@ -5,28 +5,31 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.chur-schiess-sektion-uov",
+    "foundedYear" : 1936,
     "location" : "",
     "name" : "Chur Schiess-Sektion UOV",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chur UOV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fe6593346000e42e5dfbcbdbf66f041be4e1a6b0b3bcf6cf3d8dd0a85ffbd951",
+  "contentHash" : "sha256-583950ae084574b26c70713d145d0c1469e122fcad1db97e855bc54164b6e4ca",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

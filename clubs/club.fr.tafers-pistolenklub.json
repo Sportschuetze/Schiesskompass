@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Tafers Pistolenklub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Tafers PK",
+    "sourceURL" : "www.PK-Tafers.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.PK-Tafers.ch"
   },
-  "contentHash" : "sha256-5b0be2a8112a8bc07270d8552957fb20b25cdc7a93407b51862433127ea1a00b",
+  "contentHash" : "sha256-97023ed8608fe172a6a352f1ab5c2e00e09031d5182b089c5c0ae9ea69342671",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

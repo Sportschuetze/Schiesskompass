@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.dfef5284",
+    "foundedYear" : 1937,
     "location" : "",
     "name" : "Lotzwil-Langenthal Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lotzwil-Langenthal Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-873c3ac10126fe749d97d3809249ff1448f017b4977e906edcee86cff28fb052",
+  "contentHash" : "sha256-a4ae5fa97f16ae861905202d04ca295a11a0155c77e1f20311f1da2c0206a40d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

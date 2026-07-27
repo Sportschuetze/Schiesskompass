@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Losone Società di tiro Guglielmo Tell",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Losone St Guglielmo Tell",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-50174cc44610ea81897670929d9e2f35809f22d5f7e0fc7126cb2c1777adcdca",
+  "contentHash" : "sha256-b6e6c041a5bbbe545efaf159a146b29f009f550c90480fdaa84d8aaf7132490a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

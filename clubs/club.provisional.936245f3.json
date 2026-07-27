@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.936245f3",
+    "foundedYear" : 1902,
     "location" : "",
     "name" : "Balzenberg Militärschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Balzenberg MSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-864613c6f9f927974bbaead2d4b25c61cf3883a8c369fa8c8a97f32a1cdd9c23",
+  "contentHash" : "sha256-c1c78b66dede38987d50de9a5ad5166d050f6e6abc3fcf4e02ea5072f2a69bc1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

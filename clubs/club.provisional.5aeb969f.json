@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Lotzwil Arbeiterschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lotzwil AS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2e829c18855cf478c5740777f0205144297fe40ce4bf5da06bfe21d9a7acac4d",
+  "contentHash" : "sha256-bdfd34dd949f3ea9f2e45c6310137de1a9f789d5365279f020a181746de018ea",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

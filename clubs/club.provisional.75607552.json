@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.75607552",
+    "foundedYear" : 1889,
     "location" : "",
     "name" : "Wiler-Zielebach Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wiler-Zielebach FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c66b0fdac7fc93d0f9aa319572f477c12caa7c625eb4af3b6edda685773fa435",
+  "contentHash" : "sha256-56715a78504231c9c93fd07c4af4d3fb807a531517c3c2f7e78652d976bbf9cd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

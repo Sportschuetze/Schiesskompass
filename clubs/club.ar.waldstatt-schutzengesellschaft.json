@@ -6,27 +6,28 @@
     "canton" : "AR",
     "externalId" : "club.ar.waldstatt-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.ar.waldstatt-schutzengesellschaft.jpg",
     "name" : "Waldstatt Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Waldstatt SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5efd4f84ac73ac6cbe53a93a765ccccaa3b8a24f9b4731db09fb2c169afbd936",
+  "contentHash" : "sha256-888fca7421219c54fab6e5e07914eee3fb8ef873bd8a85e5e49f117850e4af50",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

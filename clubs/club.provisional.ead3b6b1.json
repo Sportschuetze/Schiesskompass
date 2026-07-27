@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Lützelflüh Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lützelflüh Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-828137d6fc286c3ab1a311fccf00d5a61fbe3c77dc8a76b5e962ddd57929f9a5",
+  "contentHash" : "sha256-e8c8a1df8ba8b96aaaaea44c1f028f8d678383d82088e6042c386b3a7ca8f663",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

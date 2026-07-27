@@ -5,28 +5,32 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.pontresina-schutzenverein",
+    "foundedYear" : 1895,
     "location" : "",
     "name" : "Pontresina Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Pontresina SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b804e826c51eca2e4b4e317013acbcbfc2b745ff5e1ef41458c2fecfb5f9ba0c",
+  "contentHash" : "sha256-1a3201ccae4bf33605558b881f4485186245fd7c140787991aab8c774d7c0431",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

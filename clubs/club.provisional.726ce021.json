@@ -5,28 +5,29 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.726ce021",
+    "foundedYear" : 1876,
     "location" : "",
     "name" : "Ellikon an der Thur Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ellikon an der Thur SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-65d860207387335ac4676c742c0b98c3826d4eaf16fb67f0c632d9e9079901b8",
+  "contentHash" : "sha256-f38785a0bd71b0b16244c1e1feda19abeb8593a3e095e7bd49d010f23e853525",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

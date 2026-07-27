@@ -6,27 +6,29 @@
     "canton" : "VS",
     "externalId" : "club.vs.bramois-ste-des-tireurs-de-la-borgne",
     "location" : "",
+    "logoPath" : "logos\/club.vs.bramois-ste-des-tireurs-de-la-borgne.jpg",
     "name" : "Bramois Sté des Tireurs de la Borgne",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bramois Sté des Tireurs de la Borgne",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-13bf5b238d6b3e69bd82b022e65414cd1c290ba8304faa4e8afc275042099f67",
+  "contentHash" : "sha256-c9d72d37cc362b747f1c46b79d7cd64a78b06e7c4bb7264a2a2da46cd9d6119e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,21 +8,21 @@
     "location" : "",
     "name" : "Braunau Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Braunau SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3393003d1f5d5d46feb9160569b0c9aa37faa3dcea3eb8cea3fb3f498cac9400",
+  "contentHash" : "sha256-eeb2ea5efebe0fc129e07678cf7f1536db77c28fb80477b2cbd642e80e3f5293",
   "events" : [
     {
       "championshipTags" : "",
@@ -78,7 +78,7 @@
       "title" : "Jubiläumsschiessen 150 Jahre"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Grandvaux-Villette Société de tir Amis du tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Grandvaux-Villette Amis du tir",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5f81fd87fc929d08ae2a68ace15882be40cc2a710b5f4a190b17a8a9fe7f3a1c",
+  "contentHash" : "sha256-f9c2d8ac165d7b759b57487136360b245432867f65e3ae93c57fcac36e1af2c9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

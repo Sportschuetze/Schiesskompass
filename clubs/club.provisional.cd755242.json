@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Uetendorf Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Uetendorf SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9bcff15d952909c9573cb749fe2104bce6e25a6749f3ecf921f271779959a8f1",
+  "contentHash" : "sha256-5a86fdb9e886ed6b337652e305c89319844c1bf022c503b06f83abbe47905ec0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.wettingen-schiesssportverein",
+    "foundedYear" : 1872,
     "location" : "",
     "name" : "Wettingen Schiesssportverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wettingen SSV",
+    "sourceURL" : "https:\/\/ssv-wettingen.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/ssv-wettingen.ch\/"
   },
-  "contentHash" : "sha256-afa0d2aabb184bc647f3597f20bfa445236ebd5c2e077a16eac324e3cb32497a",
+  "contentHash" : "sha256-28124dbdef611d533b9b7bfb421a49f4b42ad0cdb9102a8a390fe94035435d65",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

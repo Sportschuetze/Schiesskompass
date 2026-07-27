@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Le Sépey et environs Société Tireurs sportifs",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Le Sépey et environs STS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-01bf958d28eb5759832b92b1c3f8a1d1473d51bae5b4fa0e8c8aff2f6a57d253",
+  "contentHash" : "sha256-043548975d0379ec67dc714241bef87699518794cbdb5d0696402973d69cddb2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

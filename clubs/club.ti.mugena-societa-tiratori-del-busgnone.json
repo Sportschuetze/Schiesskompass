@@ -5,28 +5,29 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.mugena-societa-tiratori-del-busgnone",
+    "foundedYear" : 1925,
     "location" : "",
     "name" : "Mugena Società tiratori del Busgnone",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mugena St del Busgnone",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6200c74a4015de1a187b0558cc49e7efd703ca6a36ce94105984d79b042cb8a4",
+  "contentHash" : "sha256-e1ff120eba2c9bc2c83e3836e5bba544ba6b72ae1e59449f36ccbc75e13261cc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,30 @@
     "location" : "",
     "name" : "Payerne Union des Tireurs Payernois",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Payerne Union des Tireurs Payernois",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-aceddac192b299bc37a6638994a1f2af199617e40e7b2471c0dd01e895472bb6",
+  "contentHash" : "sha256-4677c4b0c9327de93885347f53a7f34ccd81b6b53e6cdf4382a6e485f65439d8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

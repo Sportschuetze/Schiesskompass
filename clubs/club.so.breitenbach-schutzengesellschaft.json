@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Breitenbach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Breitenbach SG",
+    "sourceURL" : "www.sg-breitenbach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-breitenbach.ch"
   },
-  "contentHash" : "sha256-55c1909bc6b4f939757969efc1c3c9fe0d1d36f9302301fd9494bf81dd408085",
+  "contentHash" : "sha256-4a7ab81180e006da105d8345ca7a8bcd99fdd82592628320c1c7dc94d473bfae",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

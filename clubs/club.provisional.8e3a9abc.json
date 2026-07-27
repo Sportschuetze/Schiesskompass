@@ -5,28 +5,31 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.8e3a9abc",
+    "foundedYear" : 1873,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.8e3a9abc.jpg",
     "name" : "Schongau Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schongau SG",
+    "sourceURL" : "www.sg-schongau.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-schongau.ch"
   },
-  "contentHash" : "sha256-50f6c94b3daf414131b1f11404dcf297bdff7d8e0de44dc4a0384829b5e90fe9",
+  "contentHash" : "sha256-3129de4e8ed73900d48e95d84b52e96d502d3cbf216a022167834c1d44781b78",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

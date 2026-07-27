@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Montcherand Sté de tir pistolet Fin Guidon",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Montcherand ST pistolet Fin Guidon",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-98afa5047d431c766cdee4bf0233a241bce100de9bc80e4bf88ba11106a9c5b5",
+  "contentHash" : "sha256-3caebb13bbb49ff7a96c9619814a1e8dae07db8c2567a373e316575f6cb44c8d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

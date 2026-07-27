@@ -6,27 +6,28 @@
     "canton" : "TG",
     "externalId" : "club.tg.wagenhausen-rhyschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.tg.wagenhausen-rhyschutzen.jpg",
     "name" : "Wagenhausen Rhyschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wagenhausen Rhy",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-25304c1ec9f60e6537b189cea82aa1b59f9d369aafa3ce76c6db1fa78d12f141",
+  "contentHash" : "sha256-aa91342a82145f627508467962b01400fe31b034c867db57172985a6ec2cda1a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

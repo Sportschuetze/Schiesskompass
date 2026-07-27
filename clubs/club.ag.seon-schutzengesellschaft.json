@@ -5,24 +5,28 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.seon-schutzengesellschaft",
+    "foundedYear" : 1974,
     "location" : "",
+    "logoPath" : "logos\/club.ag.seon-schutzengesellschaft.jpg",
     "name" : "Seon Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Seon SG",
+    "sourceURL" : "www.sgseon.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgseon.ch"
   },
-  "contentHash" : "sha256-8fd9c45c27d5ad40a7993d7c342270138fde492a6678fcfee543366661c1b19c",
+  "contentHash" : "sha256-e22044a7dff0d0c5f92bfc460cfe9d5549a2bf3691dc288e16b1b9dc8348a669",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +72,7 @@
       "title" : "37.Haebnischiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

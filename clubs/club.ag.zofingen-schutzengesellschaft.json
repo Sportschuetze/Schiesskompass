@@ -5,28 +5,33 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.zofingen-schutzengesellschaft",
+    "foundedYear" : 1528,
     "location" : "",
+    "logoPath" : "logos\/club.ag.zofingen-schutzengesellschaft.jpg",
     "name" : "Zofingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zofingen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ba958ae56f8d6e908ff9182ce27135abcad4cded1e4f68d8dcb3ea529a2b11d6",
+  "contentHash" : "sha256-cc3d91505ca89d4f18e3ba164e50a594e97463dead37356b5a75623a136a6190",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

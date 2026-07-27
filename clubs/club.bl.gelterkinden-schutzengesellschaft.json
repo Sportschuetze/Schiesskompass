@@ -5,28 +5,34 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.gelterkinden-schutzengesellschaft",
+    "foundedYear" : 1836,
     "location" : "",
     "name" : "Gelterkinden Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gelterkinden SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cded85877f50354a0b2298012598ddb2205fcd39763998a2deac948c0f2c2442",
+  "contentHash" : "sha256-7475f7bade4840bf744a90d070312f0172233085127d6df8c5d7811c4b23d113",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

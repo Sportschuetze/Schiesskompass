@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Grauholz Artillerie-Schützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Grauholz AS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-db6b1d0d9d266c50755eb8a889468ebe8db9a0fbf995a23774cd182f580a3d18",
+  "contentHash" : "sha256-34c5671deba2e8c2036a68a46d6e21026d8f004fef76cf2a36b6cd5b5e0619cc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

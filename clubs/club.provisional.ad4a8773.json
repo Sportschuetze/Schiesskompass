@@ -5,28 +5,29 @@
     ],
     "canton" : "UR",
     "externalId" : "club.provisional.ad4a8773",
+    "foundedYear" : 1910,
     "location" : "",
     "name" : "Selder Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Selder SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a6210f91d9c39bef44b161507e54b9fa1fbb4797054801e16dbd00b51773c692",
+  "contentHash" : "sha256-07b0445930105a648b9117aa283539bae415048de561880d25897b7952c6c549",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,31 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.biberist-bucheggberg-pistolenschutzen",
+    "foundedYear" : 1942,
     "location" : "",
     "name" : "Biberist-Bucheggberg Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Biberist-Bucheggberg PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c76b5e2d2764a53d8c1eb3b17814a3858d7939c669e11227a49291513799b455",
+  "contentHash" : "sha256-465259da0c519af6e2891ca35cb3aeba1f315a6e1666377476f9e3a153a927e2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

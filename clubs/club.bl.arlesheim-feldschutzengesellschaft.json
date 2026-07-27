@@ -5,28 +5,30 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.arlesheim-feldschutzengesellschaft",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Arlesheim Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Arlesheim FSG",
+    "sourceURL" : "www.fsg-arlesheim.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsg-arlesheim.ch"
   },
-  "contentHash" : "sha256-9ddc077b5bd910777a7758c9bd73134506ba7b074c89e172762541fec8642603",
+  "contentHash" : "sha256-a9def8b15e61747ca470665b160cc6f614d447e7384cc25fe16e466cb522a6d9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

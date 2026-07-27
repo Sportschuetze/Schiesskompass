@@ -5,28 +5,29 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.rothenthurm-feldschutzenverein",
+    "foundedYear" : 1777,
     "location" : "",
     "name" : "Rothenthurm Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rothenthurm FSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0c55458eb248281a5ca8f732b3ea90cf186bab1885e393001e5327140ce94140",
+  "contentHash" : "sha256-5d68f1a7f776ccfbd72617d304b98f9c5dc9be86d9186d4b2e8003e03d99727f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

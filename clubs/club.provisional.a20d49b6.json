@@ -5,28 +5,31 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.a20d49b6",
+    "foundedYear" : 2007,
     "location" : "",
     "name" : "Reichenbach i. K. Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Reichenbach i. K. SG",
+    "sourceURL" : "www.sgreichenbach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgreichenbach.ch"
   },
-  "contentHash" : "sha256-6afb3c60bda93e7ded49743ff1ba24de9625e3427c7e8f4a1197cea6bb901919",
+  "contentHash" : "sha256-f3ece6045f80cff82390ed8dd4dc9f0cd84771cdae592aa107e938c26cc2c084",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

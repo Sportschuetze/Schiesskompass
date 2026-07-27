@@ -6,27 +6,28 @@
     "canton" : "VD",
     "externalId" : "club.vd.palezieux-les-tireurs-sportifs",
     "location" : "",
+    "logoPath" : "logos\/club.vd.palezieux-les-tireurs-sportifs.jpg",
     "name" : "Palézieux Les Tireurs sportifs",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Palézieux TS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cab57d7a7e12435a98b0e07358e879b0bfd2c3c9cd68545dcdcc3cd8be5444d0",
+  "contentHash" : "sha256-b634a89b69d587d05dc0fa2d31629e5643e3b28c743f10c64e6c1186a0fbd2ba",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

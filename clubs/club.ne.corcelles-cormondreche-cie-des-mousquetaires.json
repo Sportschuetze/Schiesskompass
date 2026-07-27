@@ -5,28 +5,29 @@
     ],
     "canton" : "NE",
     "externalId" : "club.ne.corcelles-cormondreche-cie-des-mousquetaires",
+    "foundedYear" : 1773,
     "location" : "",
     "name" : "Corcelles-Cormondrèche Cie des Mousquetaires",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Corcelles-Cormondrèche CM",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f23fe7166cec032bdc3364bdde464ba4fdf2a83c70b970a72fe5bf58fd6cb5fc",
+  "contentHash" : "sha256-1837054cb8d32817aa6a3ace93fa646ddd727743510168d046a7646b1bc17dec",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

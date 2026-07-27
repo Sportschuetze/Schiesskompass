@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Genevois Carabiniers",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Carabiniers Genevois",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fdb0f59a2fbf5e18ed70e5ee1535b5782e5fa12aebaced42a488edc352c3e810",
+  "contentHash" : "sha256-c4c34e44c871ef15e81396fa8f652c0f6c7e66a859044548fb19b8c124e70cc2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

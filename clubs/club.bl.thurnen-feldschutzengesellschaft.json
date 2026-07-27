@@ -5,28 +5,29 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.thurnen-feldschutzengesellschaft",
+    "foundedYear" : 1872,
     "location" : "",
     "name" : "Thürnen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thürnen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8297a4ea70577454db2b9a9baf66d54adcb39a6d649a10f0c0b0122124cd37a6",
+  "contentHash" : "sha256-3f11d17d16ae3de5d788dd4c4175e78768c9d9ab6cc743e628b01cb18ca1a8b1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

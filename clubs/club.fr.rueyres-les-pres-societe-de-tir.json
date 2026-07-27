@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Rueyres-les-Prés Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rueyres-les-Prés ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-59ad56485ddcb90e017f7694d7ebcb490714a6f1ee9c54aa4a2833962d3d36ca",
+  "contentHash" : "sha256-8ed15596ab29b9d2cc2306335b73565d7be24f5e92b6752ac5b5758fce4f9136",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

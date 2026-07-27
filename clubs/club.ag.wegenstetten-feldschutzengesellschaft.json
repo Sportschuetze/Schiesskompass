@@ -5,28 +5,29 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.wegenstetten-feldschutzengesellschaft",
+    "foundedYear" : 1848,
     "location" : "",
     "name" : "Wegenstetten Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wegenstetten FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6398d53551ff236e1eec6cb882a848f30feedecfcad3eb135fed5fbd20a2c35a",
+  "contentHash" : "sha256-5ee4eaf82c381c92277bea3c4c160730240da4fa59894183988d67c918daa04c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

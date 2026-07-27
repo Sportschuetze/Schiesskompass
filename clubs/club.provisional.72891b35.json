@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.72891b35",
+    "foundedYear" : 1770,
     "location" : "",
     "name" : "Wiedlisbach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wiedlisbach SG",
+    "sourceURL" : "www.sgwiedlisbach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgwiedlisbach.ch"
   },
-  "contentHash" : "sha256-8c7172ac4ffc1c7fbee8dff8a7012ebb4f7b9df0305088567d02d0a0b40fe363",
+  "contentHash" : "sha256-be7a59767f710377197bd78b71a4b1d0643bd714a3975e316519d466b242d5a0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

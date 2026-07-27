@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Signau-Langnau i\/E. Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Signau-Langnau i\/E. PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7ec27e6ee2ae2df995102a2fbd38ac4d7cc0bbb9f6940353da43663231cf1c6b",
+  "contentHash" : "sha256-38c23ed011f118399f4ea890ddb5b20e2a4991cb9be318e24da1fa2ef0ff5949",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

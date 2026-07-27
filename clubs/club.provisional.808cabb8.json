@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Interlaken und Umgebung Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Interlaken uU PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2176b7072bf4e660dfc0fd4a4aaec413151f5cb01972ad1a3b81090a27403051",
+  "contentHash" : "sha256-438f729869a40734199ca098ded9906dd23e53f63c68151ce5734f8ef1689f3c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,32 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.zurzach-schutzengesellschaft",
+    "foundedYear" : 1834,
     "location" : "",
     "name" : "Zurzach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zurzach SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e5aaf9bdb0c9d151947c012876c5e96f3eb66c3b1dd85255fc616afa55308aca",
+  "contentHash" : "sha256-f1c957829fdcaa4627d37203b7f5586f39319bc21b4d6699f730ffb50ab86e33",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

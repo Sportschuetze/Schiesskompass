@@ -6,27 +6,31 @@
     "canton" : "SG",
     "externalId" : "club.sg.berneck-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.sg.berneck-schutzengesellschaft.jpg",
     "name" : "Berneck Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Berneck SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0faf6f73617fae6077bed7deb35af017c796d79190741921edb9ebc149d01ebc",
+  "contentHash" : "sha256-e946da4539a2e8bdf77e3b59c17e26a3a9e98e220046c0cb6c811870afe27d29",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

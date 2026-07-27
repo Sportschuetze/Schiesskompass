@@ -5,28 +5,31 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.oftringen-pistolenschutzen",
+    "foundedYear" : 1948,
     "location" : "",
     "name" : "Oftringen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oftringen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-65a9d03a83646dd38a150bea1c1e0eaf2adb76dd7f19e57da287d8a40c881974",
+  "contentHash" : "sha256-b6214a34e81ba1d836e5371b97fad9b34670df9b6ccd40b15b8ada35a1b0d14e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

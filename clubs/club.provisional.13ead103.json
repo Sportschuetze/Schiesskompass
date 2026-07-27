@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.13ead103",
+    "foundedYear" : 1942,
     "location" : "",
     "name" : "Kienholz-Brienz Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kienholz-Brienz Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4214fb760bb85186ea84304559f8216d1f096deb932e39a585a0ff4b6d328985",
+  "contentHash" : "sha256-62204ddecd36e694d3643886088fcdba666b1f41af5bee8c5cdaf4d17a04f0e5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

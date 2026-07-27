@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Alt St. Johann Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Alt St. Johann FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c87e5d7b3f13cbc2f4cfe1c371166c1bd6ddfa0f46275c0c1ac87706918a9a0f",
+  "contentHash" : "sha256-0feb77672390170a120526943930b0a1d27023d4c620b060c6325320086a42db",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

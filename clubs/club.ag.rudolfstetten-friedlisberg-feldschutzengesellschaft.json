@@ -5,28 +5,29 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.rudolfstetten-friedlisberg-feldschutzengesellschaft",
+    "foundedYear" : 1883,
     "location" : "",
     "name" : "Rudolfstetten-Friedlisberg Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rudolfstetten-Friedlisberg FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5a91439b950ebfba81ab37bd7d51560144a189cb7cfa79ce3d6ef22714f77029",
+  "contentHash" : "sha256-0ae7e2e9258091bd8d976bda5ceb64fb1c6d863bbb258e48b6116deaf4c20648",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

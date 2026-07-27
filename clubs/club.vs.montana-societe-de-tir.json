@@ -6,27 +6,30 @@
     "canton" : "VS",
     "externalId" : "club.vs.montana-societe-de-tir",
     "location" : "",
+    "logoPath" : "logos\/club.vs.montana-societe-de-tir.jpg",
     "name" : "Montana Société de tir",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Montana Ste Tir",
+    "sourceURL" : "www.tir-montana.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tir-montana.ch"
   },
-  "contentHash" : "sha256-3368a9ea581dab6ca83a9be31e0ebe345d5ab1d8d35aa1cf4f02f0086360b588",
+  "contentHash" : "sha256-127f62e8e9873a76af11db083cdf66d4e8e57622d3c6b2533744890430ebde3c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

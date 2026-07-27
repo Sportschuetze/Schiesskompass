@@ -6,27 +6,28 @@
     "canton" : "AG",
     "externalId" : "club.ag.bublikon-freischutzen",
     "location" : "",
+    "logoPath" : "logos\/club.ag.bublikon-freischutzen.jpg",
     "name" : "Büblikon Freischützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Büblikon FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-74e13bbddf5a59f3f1123e72e5df294ee0d0895c6936282483219198be50d825",
+  "contentHash" : "sha256-79a870571992b210ce8228335b7a08bcfb199e05c028db4604a66e16f961cedc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

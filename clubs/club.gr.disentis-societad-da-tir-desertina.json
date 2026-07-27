@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Disentis Societad da tir Desertina",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Disentis ST Desertina",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4a3e11b6b7cacb8f7bac3817462e45355820576e6c650c106733605bc7dd1553",
+  "contentHash" : "sha256-7c86cfd53227506d84d4777f4bc7d15fc39c3aa10c3825d968034e13e97344fa",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.hirschthal-schutzengesellschaft",
+    "foundedYear" : 1878,
     "location" : "",
     "name" : "Hirschthal Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hirschthal SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8e3e3f3963ef442f07af8d14c05c56759785edead6f3d4277a8e0df90b7613d3",
+  "contentHash" : "sha256-474827fc7e694271c9408f0e1c820a965484b116ac150c5faf5043d24782bbf0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

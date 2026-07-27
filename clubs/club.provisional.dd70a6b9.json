@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Bätterkinden-Kräiligen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bätterkinden-Kräiligen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e4f60d50472ec33189937fcbf09cafa9a33dc26ef3412844f571c3b525c0cbe0",
+  "contentHash" : "sha256-b588900e37837c6cea4addc8b6f37df7bfc643ba609458e3366c990d7bbcb8b3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

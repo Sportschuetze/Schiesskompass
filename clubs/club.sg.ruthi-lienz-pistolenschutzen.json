@@ -5,24 +5,29 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.ruthi-lienz-pistolenschutzen",
+    "foundedYear" : 1946,
     "location" : "",
+    "logoPath" : "logos\/club.sg.ruthi-lienz-pistolenschutzen.jpg",
     "name" : "Rüthi-Lienz Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rüthi-Lienz PS",
+    "sourceURL" : "www.pistolenruethi.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pistolenruethi.ch"
   },
-  "contentHash" : "sha256-4859682c52758ba2958d07d18b1761d40cb18fdf1441fad2f64e091fc1c5ad85",
+  "contentHash" : "sha256-6dc922a89864a5a8e03a3133d1ee80c02269ad8b9059a8a78dd686e7c029473b",
   "events" : [
     {
       "championshipTags" : "",
@@ -156,7 +161,7 @@
       "title" : "50. Rheintaler-Luftpistolenmeisterschaft mit Auflageschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

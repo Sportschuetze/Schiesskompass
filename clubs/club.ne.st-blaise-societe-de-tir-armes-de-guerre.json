@@ -5,28 +5,31 @@
     ],
     "canton" : "NE",
     "externalId" : "club.ne.st-blaise-societe-de-tir-armes-de-guerre",
+    "foundedYear" : 1872,
     "location" : "",
     "name" : "St-Blaise Société de tir Armes de Guerre",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St-Blaise ST Armes de Guerre",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4bec406f7b5011a5a25fd0aad603847d66ce6d9e594d253da7e1f68c20ff1ac1",
+  "contentHash" : "sha256-229c08156b880e24a6eb436a336cf0b151413a7a23b3ca10330d0c57d591b55e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

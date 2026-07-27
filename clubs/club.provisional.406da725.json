@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.406da725",
+    "foundedYear" : 1894,
     "location" : "",
     "name" : "Gampelen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gampelen FSG",
+    "sourceURL" : "www.fsgampelen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsgampelen.ch"
   },
-  "contentHash" : "sha256-4e9b20749d8cad347e2111338940ca457702f7dc92e0d9101f8b39ae839dc459",
+  "contentHash" : "sha256-943d0cb2c2175d6b3e07406bfd482c598773a25b16e16a10f8272d4c57b4d212",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

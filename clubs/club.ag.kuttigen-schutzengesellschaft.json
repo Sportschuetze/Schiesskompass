@@ -5,28 +5,31 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.kuttigen-schutzengesellschaft",
+    "foundedYear" : 1863,
     "location" : "",
+    "logoPath" : "logos\/club.ag.kuttigen-schutzengesellschaft.jpg",
     "name" : "Küttigen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Küttigen SG",
+    "sourceURL" : "www.sg-kuettigen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-kuettigen.ch"
   },
-  "contentHash" : "sha256-2d135058e034ad1f82d5ceb789914dc4559a9371fd31da93c43a3edd8bb29e0f",
+  "contentHash" : "sha256-87c41de6c320ed5c0f4e42c2aa138c24873f840ad246e0b228b4f61a82c9de6b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Affoltern a. A. Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Affoltern a. A. Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-57f875979b931bdf901866b683a43d7af67ac82090c2a488c8e15e5a4a80a45a",
+  "contentHash" : "sha256-0dc8d520d0eb71daff9675b036b9ddcb9e0a15bed3c4e3898d233b671f35b5b8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

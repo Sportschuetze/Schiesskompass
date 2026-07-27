@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.ec319f79",
+    "foundedYear" : 1874,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.ec319f79.jpg",
     "name" : "Zwieselberg Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "FS Zwieselberg",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3de6d2df151a6501c1c6047acc41c43c4901c421f7a6c6ba0e163d358087a2a6",
+  "contentHash" : "sha256-f57f8f4c988f25b57398a6bbac671fa700789a7096273486a04411ba9c1703a1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Oberkirch Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberkirch SG",
+    "sourceURL" : "www.sg-oberkirch.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-oberkirch.ch"
   },
-  "contentHash" : "sha256-039054f686c966716c35fd5d4f4d226ce9c4f84ee11f4a5739e3ba23828fca05",
+  "contentHash" : "sha256-bb6b62aeafc2a98d9c8a2fd0726184e52761f2763412b4c4f989741c3d7a3315",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

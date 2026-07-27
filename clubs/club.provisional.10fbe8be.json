@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.10fbe8be",
+    "foundedYear" : 1872,
     "location" : "",
     "name" : "Dägerlen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dägerlen SV",
+    "sourceURL" : "www.svdägerlen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svdägerlen.ch"
   },
-  "contentHash" : "sha256-f8b2c6dfce457b5431a4538328afc019acfcd8c9450170ae28ce569f85ed95be",
+  "contentHash" : "sha256-ed522bd240b6db6acac14702323bff70ec96275a55d1bcca56e168ded16165cc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

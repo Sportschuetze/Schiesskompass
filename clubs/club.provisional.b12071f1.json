@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Habkern Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Habkern FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0155b6d9887661f2199f9c83cf4d1262d10e1b9d854792a8d7a23a4ce7984c7e",
+  "contentHash" : "sha256-0cc45cfa030e697f177d64ff4469c488be5401c873bad4917d782b603173b533",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,27 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.27a661e1",
+    "foundedYear" : 2007,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.27a661e1.jpg",
     "name" : "Andelfingen Schiesssportverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Andelfingen SSpV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-608650cb2352fba407c39373c09210da5f6f2c67bbb530cf4cea49f20a25aeb1",
+  "contentHash" : "sha256-21b1e0ecf8e47f22805a0a986f098f96c5db8d3d51cd64bf5b9ca27146b3cae7",
   "events" : [
     {
       "championshipTags" : "",
@@ -91,7 +94,7 @@
       "title" : "Kreiswinterschiessen KSVA 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

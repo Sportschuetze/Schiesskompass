@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Lohn Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lohn SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0f7907f5fc3cd5854f221aafe4d3d7ca2cd46d8e8ef1485bad34ad7e0f7c5f5a",
+  "contentHash" : "sha256-d7f2d1501d0a64adc675b18e51ea3efee0fc992f337915af38c8e22a7eb44532",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

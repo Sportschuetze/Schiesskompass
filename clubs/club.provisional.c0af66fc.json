@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.c0af66fc",
+    "foundedYear" : 1943,
     "location" : "",
     "name" : "Sigriswil Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sigriswil Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-43242f49a97c1653430d12af10bfbef3d9ae3c6e838dcfff2a65b090d3c6ff21",
+  "contentHash" : "sha256-723974f203d0c8a1063bff71b7d024e9aff34f3622a4edd304b24052f9081b61",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

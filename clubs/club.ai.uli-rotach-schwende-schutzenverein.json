@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Uli Rotach-Schwende Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Uli Rotach-Schwende SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5cec161142b645eccde37f9a7e7ed4c3524a8e9ba37fb9cde7f6f236bda43d21",
+  "contentHash" : "sha256-e3e6739555bd48bb325dd9b0bb5cf5c2c028736a918f138c1f1d20efc9deb834",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

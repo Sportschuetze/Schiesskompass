@@ -5,28 +5,34 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.leberberg-sportschutzen",
+    "foundedYear" : 1863,
     "location" : "",
     "name" : "Leberberg Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Leberberg Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7ce0bd9895ba24ea0f60c018230f668df00fb0e6ae81051736a9a0bf711416e9",
+  "contentHash" : "sha256-9a93844fb0e11b3e0d1f8141622589637d37cd903a039cde1345c7e3b155f7d7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

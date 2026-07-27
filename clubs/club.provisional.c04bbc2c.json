@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Murten Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Murten Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1a463592ac5cba3d031f7384c72ad5b8c410de8dfa056f365a16949166957c58",
+  "contentHash" : "sha256-ed138eb80c26e986271b446d2a17038b4641ed36ab13477570fe5d0f1909f74b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

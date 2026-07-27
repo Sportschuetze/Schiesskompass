@@ -5,28 +5,29 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.les-clees-ste-de-tir-des-gorges-de-l-orbe",
+    "foundedYear" : 2005,
     "location" : "",
     "name" : "Les Clées Sté de tir des Gorges de l´Orbe",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Les Clées ST des Gorges de l´Orbe",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-dcb1a377db2c8d15489446ded1b0206a7a8f02f26de5d2bec83253c64c393d6c",
+  "contentHash" : "sha256-705d0a8e88d685eb3e6991be758ac6e09584f9f0c8ce1a263d79204809242eea",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Savièse Société de tir Les Carabiniers",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Savièse ST Les Carabiniers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3252a5053dfa1b3cca6ace95cd6eaf6bcccef3323a7ea80610c47342960c6330",
+  "contentHash" : "sha256-07c230921ee3a7b00c72d0350de46b6aaa122d651cedf2c6882e8832289131cd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

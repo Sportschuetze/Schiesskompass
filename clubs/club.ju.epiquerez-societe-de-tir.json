@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Epiquerez Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Epiquerez ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fa68149e8002f13e8b8e86dfd63a619c8b838607d936adb7d71c90161f7d96f1",
+  "contentHash" : "sha256-7987f8306c7de2665057b535518b82cdfd3cb15292c29dcc386c3d1c6c6fc840",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

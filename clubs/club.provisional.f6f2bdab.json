@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Willisau Stadtschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Willisau Stadt",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c83cf9e7f1d99d1722f60a0153afd0470c24839a532ec847967668e2f9c73534",
+  "contentHash" : "sha256-56b5490bb76f1abe808e5bc5a604f0e7c791fff1ae8051cb06e7ccaa22eadd2a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,30 @@
     "canton" : "BL",
     "externalId" : "club.bl.laufen-sportschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.bl.laufen-sportschutzen.jpg",
     "name" : "Laufen Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Laufen Sport",
+    "sourceURL" : "www.sportschuetzenlaufen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sportschuetzenlaufen.ch"
   },
-  "contentHash" : "sha256-d0a5f197368350b9540d98a80c6524a44cf67a7df3607ffef40f4786aa4dc10c",
+  "contentHash" : "sha256-d1b657df33f6dfd1cda75e1d3e3a58e54dc7c84f61876519829ea2a56bcc57d6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

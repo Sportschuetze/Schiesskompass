@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Rothrist Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rothrist FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-eba3a3d637478fa4f64011a6a04b1045fe8f42aaf9bf5abb6e25a23e2e51125a",
+  "contentHash" : "sha256-ff3366f0b862194aa597866bb63b1150a4edf85603f36ee1b9b269c2ee806c0d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,31 @@
     "canton" : "FR",
     "externalId" : "club.fr.dudingen-pistolenschiessverein",
     "location" : "",
+    "logoPath" : "logos\/club.fr.dudingen-pistolenschiessverein.jpg",
     "name" : "Düdingen Pistolenschiessverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Düdingen PSV",
+    "sourceURL" : "www.psv-duedingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.psv-duedingen.ch"
   },
-  "contentHash" : "sha256-88e647b161195c8d5ec565be381245071ac58dea12394bd1b4122fc215ac566f",
+  "contentHash" : "sha256-23bd6207eae35dda887ef1904df85f147a16bf9d43765dcae3c8e00fb794f0a8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

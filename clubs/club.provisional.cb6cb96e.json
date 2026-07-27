@@ -6,27 +6,29 @@
     "canton" : "BE",
     "externalId" : "club.provisional.cb6cb96e",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.cb6cb96e.jpg",
     "name" : "Röthenbach i\/E. Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Röthenbach i\/E. FSG",
+    "sourceURL" : "www.fs-roethenbach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fs-roethenbach.ch"
   },
-  "contentHash" : "sha256-e79916071ecceb384ace7790acc385fbb56d9dc09cf1cc67ee2cdf596daa9e9f",
+  "contentHash" : "sha256-31b2fb2af68f5248899fbd84b730057377382377cdbce8b55a73023334e7b25b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

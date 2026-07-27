@@ -6,27 +6,28 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.4eaf5ac3",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.4eaf5ac3.jpg",
     "name" : "Hombrechtikon Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hombrechtikon SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f6798b9b29abb296626cd8b87f127ce591de7e44f422826ad7dfd9947621f69a",
+  "contentHash" : "sha256-0815ec9ac17c324a4f809714f05c1a65dfc2ca8be06b55406f68d438eb223d74",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

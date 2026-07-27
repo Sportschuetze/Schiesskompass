@@ -5,24 +5,27 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.a481f268",
+    "foundedYear" : 2008,
     "location" : "",
     "name" : "Affoltern a.A. Pistolenschützen-Gesellschaft",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Affoltern a.A. PSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b345ee3258332cc916a1db6bfb6de7ff9710b57948f485d85f6d513e392c8d0a",
+  "contentHash" : "sha256-d0e29501135b53956a24eaa65fd04dc2a1c737def888f4ffdc3c6989c863547a",
   "events" : [
     {
       "championshipTags" : "",
@@ -93,7 +96,7 @@
       "title" : "Herbstschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

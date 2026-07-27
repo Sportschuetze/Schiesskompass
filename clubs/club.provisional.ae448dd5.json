@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.ae448dd5",
+    "foundedYear" : 1935,
     "location" : "",
     "name" : "Zürich Affoltern Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zürich Affoltern PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4f66cecc66a0a85a6fdfc0423a3925b8a97135698f86a649dd8794b37ca8017a",
+  "contentHash" : "sha256-f6cbbc88af0d719491df30294b44d8b1b675cad14e00a57218e53df05e1962cf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "St. Ursanne Sté de tir Clos du Doubs PC et AC",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St. Ursanne ST Clos du Doubs PC et AC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-dfb7393d43d50ee17540afd091675cb4803d910dbfd52477e7ff55cb641dcd08",
+  "contentHash" : "sha256-b9003576a0bd325939c8fcb311c1aae1ca623f3826f83583de203abfd2ebe152",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

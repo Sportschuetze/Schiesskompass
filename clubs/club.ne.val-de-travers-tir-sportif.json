@@ -6,27 +6,30 @@
     "canton" : "NE",
     "externalId" : "club.ne.val-de-travers-tir-sportif",
     "location" : "",
+    "logoPath" : "logos\/club.ne.val-de-travers-tir-sportif.jpg",
     "name" : "Val-de-Travers Tir Sportif",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Val-de-Travers TS",
+    "sourceURL" : "www.tsvdt.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tsvdt.ch"
   },
-  "contentHash" : "sha256-425065c3cbe4be6f94bc1637c8aad50759ca85fb06c36a8e445cc85d6aed70f3",
+  "contentHash" : "sha256-c524dc39990612914ed60c98ca8b0844e81c6ff233ab21757c33e26ea4edc211",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

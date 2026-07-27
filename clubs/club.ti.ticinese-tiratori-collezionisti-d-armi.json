@@ -5,28 +5,32 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.ticinese-tiratori-collezionisti-d-armi",
+    "foundedYear" : 1972,
     "location" : "",
     "name" : "Ticinese Tiratori Collezionisti d´Armi",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ticinese TCA",
+    "sourceURL" : "www.attca.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.attca.ch"
   },
-  "contentHash" : "sha256-774af2fa3526d834ff0e34fc08984ea96118883addfaacee664b0d3b6190a31e",
+  "contentHash" : "sha256-fb0c47990084d52561761becbb44455d078ac052e21f2e0743da097010466dae",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

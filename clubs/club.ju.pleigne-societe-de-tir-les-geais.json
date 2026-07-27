@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Pleigne Société de tir Les Geais",
     "offeredDisciplines" : [
-
+      "G10",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Pleigne ST Les Geais",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-21b0dc27d4013076798b01b10ed3612c25a59ac23895cb8914f3a024586bcc34",
+  "contentHash" : "sha256-bb84477fc34e05a0fccca6d99c311e609428c5a82276a2bc4d83637eb24f7e7f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

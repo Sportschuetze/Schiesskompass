@@ -5,28 +5,30 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.speer-laad-militarschutzenverein",
+    "foundedYear" : 1882,
     "location" : "",
     "name" : "Speer-Laad Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Speer-Laad MSV",
+    "sourceURL" : "www.msvspeer-laad.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.msvspeer-laad.ch"
   },
-  "contentHash" : "sha256-f71a11ac1ad0ba2a6a78b9138b2ba30f765012bf4a48d614cdf65a0965b415f5",
+  "contentHash" : "sha256-1fbfa0d6f22dff9c44ca885c4c1ceee79f3b07087a5d4908f9e6abe97104f999",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

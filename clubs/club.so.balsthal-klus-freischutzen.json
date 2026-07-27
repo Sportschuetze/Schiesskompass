@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Balsthal-Klus Freischützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Balsthal-Klus FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0ebc5fb103010cbc9d59f5c9bcdc26e7bccbc35939801d181c49eb00effd9bf5",
+  "contentHash" : "sha256-f3c293c3e44e81c1d908221d6c28a96a429b5d8ad56bfc6d22b8742a76244187",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

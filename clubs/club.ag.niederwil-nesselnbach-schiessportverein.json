@@ -5,28 +5,29 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.niederwil-nesselnbach-schiessportverein",
+    "foundedYear" : 2011,
     "location" : "",
     "name" : "Niederwil-Nesselnbach Schiessportverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niederwil-Nesselnbach SSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e4ab121e7a17006e77aaa0eb22fe98643b5bff5b366bfe5a95b37e8529b88fbb",
+  "contentHash" : "sha256-63c749a2443ed3158f194269faffb7eadcba694d3f189847bcf31ee6a89ccadb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

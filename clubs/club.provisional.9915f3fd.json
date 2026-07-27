@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Altdorf - Erstfeld Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Altdorf - Erstfeld PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a3009ce50da8bbdd69f0def2b501496ea93f213c6b9a64725942a499d895283a",
+  "contentHash" : "sha256-9b056269786ff80eca9937945fcf4a6346dd715450d1f6e6fed5bb99f2b0afb2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

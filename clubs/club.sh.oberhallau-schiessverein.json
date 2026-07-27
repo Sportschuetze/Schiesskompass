@@ -8,21 +8,22 @@
     "location" : "",
     "name" : "Oberhallau Schiessverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberhallau SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-95ad4da06dc75a828b7fcc83a092f3e019481db507c43e1dcc9c67b7e9e0ce2d",
+  "contentHash" : "sha256-c273357e0b69ee1ee9593a1771ffa54c6f37918448b2ff75ec2175f811f1eaf2",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +69,7 @@
       "title" : "Jubiläumsschiessen 500 Jahre Oberhallau"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

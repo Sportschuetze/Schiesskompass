@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Ollon Les Tireurs Boyards Réunis",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ollon TBR",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c92dc50edb2d141977895014cb354598da922ce711ba730418fbd2209a402ace",
+  "contentHash" : "sha256-5e3701fef07f1850352c9671f0e1d79a83dc57abd8de69cb47792a1923829ef6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

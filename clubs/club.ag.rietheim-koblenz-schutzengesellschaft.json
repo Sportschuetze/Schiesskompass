@@ -6,27 +6,29 @@
     "canton" : "AG",
     "externalId" : "club.ag.rietheim-koblenz-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.ag.rietheim-koblenz-schutzengesellschaft.jpg",
     "name" : "Rietheim-Koblenz Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rietheim SG Rietheim-Koblenz",
+    "sourceURL" : "www.sg-rietheimkoblenz.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-rietheimkoblenz.ch"
   },
-  "contentHash" : "sha256-9eb96022c14f743a647a5eb371e74810ec6bd16d279ccbff09096e4932756c7b",
+  "contentHash" : "sha256-273bc7bac57496a3942581c8fb212187c10039f2dcb6a2414efb79e779e8faab",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

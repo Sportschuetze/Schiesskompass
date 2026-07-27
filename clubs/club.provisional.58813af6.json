@@ -8,25 +8,30 @@
     "location" : "",
     "name" : "Münsingen Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Münsingen Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-667895c4886130acbe4365b9b5bd86036be26da1aaf5341d9cd369c70f556b41",
+  "contentHash" : "sha256-e9e6c5c4541b10aab0219fb9f55747706a9083a5c06edb6e0bcf9cde92777dad",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Bofflens Société Le Bois des Dailles",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dailles SlBdD",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b50ba583cd6e626f743632caa8652f1ff4ac2383878f9165fad0f1a53700b166",
+  "contentHash" : "sha256-313cfbb623aee98fcd5a9f2cb4a8fef33c29248e1fa4a1c8dcf584338a52a879",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

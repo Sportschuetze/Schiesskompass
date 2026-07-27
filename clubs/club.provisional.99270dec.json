@@ -8,21 +8,21 @@
     "location" : "",
     "name" : "Dachlissen-Mettmenstetten Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dachlissen-Mettmenstetten SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a16c38897505a895e509b860f1ec7e827f52503224753861a8a2321475ba5671",
+  "contentHash" : "sha256-dc763adf94e960b609dd4e45862a97f6c388e6f4b0461d49121a233ad11d7bbb",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +63,7 @@
       "title" : "Chlausschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

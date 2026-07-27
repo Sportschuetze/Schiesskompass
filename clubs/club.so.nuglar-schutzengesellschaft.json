@@ -5,28 +5,30 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.nuglar-schutzengesellschaft",
+    "foundedYear" : 1875,
     "location" : "",
     "name" : "Nuglar Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Nuglar SG",
+    "sourceURL" : "www.sg-nuglar.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-nuglar.ch"
   },
-  "contentHash" : "sha256-73aeca97140fb14396bc977f5247d5a4e5cb70d35dc2e2eac43c72ffd5ce1288",
+  "contentHash" : "sha256-eb0d3f073a129237a3aec2bf28b227f1ab036abfac11905d94c464d0aae7574f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

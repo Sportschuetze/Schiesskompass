@@ -5,24 +5,25 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.flums-schutzengesellschaft",
+    "foundedYear" : 1999,
     "location" : "",
     "name" : "Flums Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Flums SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f5e99e49e82b83a18231859b2a9ed6b083bcc80b3ebedc3a9edf3374ecf044fb",
+  "contentHash" : "sha256-460f6307dc7db60651a194a148a7bc29a026967a82f1a056462d7ffc8737df59",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +64,7 @@
       "title" : "1. Augustschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

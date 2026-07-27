@@ -5,28 +5,31 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.grellingen-pistolenclub",
+    "foundedYear" : 1952,
     "location" : "",
     "name" : "Grellingen Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Grellingen PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-eac2aca4f360249d269fc414520069d77ac164cc698df9287059e8fbdb8d7f8b",
+  "contentHash" : "sha256-97d481b734bc2e4b538773de403e9fc41e1e441da473f812fd7f8044b1a400f9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

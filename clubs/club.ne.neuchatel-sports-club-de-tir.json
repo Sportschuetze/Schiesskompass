@@ -6,27 +6,33 @@
     "canton" : "NE",
     "externalId" : "club.ne.neuchatel-sports-club-de-tir",
     "location" : "",
+    "logoPath" : "logos\/club.ne.neuchatel-sports-club-de-tir.jpg",
     "name" : "Neuchâtel-Sports Club de Tir",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Neuchâtel-Sports Cdt",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a3bd2194a096b57dcd9c7d7597d4864214eca32fae3e1436dad91d70544eeefc",
+  "contentHash" : "sha256-e02f258ba11e161fd83b5d93c32d5c61fd22ca09030ba072f7a364ef56a2ed75",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

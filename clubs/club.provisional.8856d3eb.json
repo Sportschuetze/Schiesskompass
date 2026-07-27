@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.8856d3eb",
+    "foundedYear" : 1947,
     "location" : "",
     "name" : "Gsteigwiler Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gsteigwiler Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4a77fc99a9ccf8e10a0142e5dfe1ddfb91d21c38d021bba01ba4304b751bf32a",
+  "contentHash" : "sha256-ea1e76c361d6f25197a2647422928b4d2a1629267550fbf1d7d146d43e7a799f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

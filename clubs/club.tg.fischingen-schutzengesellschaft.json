@@ -5,24 +5,26 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.fischingen-schutzengesellschaft",
+    "foundedYear" : 1876,
     "location" : "",
+    "logoPath" : "logos\/club.tg.fischingen-schutzengesellschaft.jpg",
     "name" : "Fischingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fischingen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-06ffd9c7b337566c1335817ab7766a7a4e872b8684c938b588bd71f73f4c8588",
+  "contentHash" : "sha256-0299aa38917aef97e303ffe659de6e17ffef0aadcdda3c0391d8a8bb61e2a3a1",
   "events" : [
     {
       "championshipTags" : "",
@@ -78,7 +80,7 @@
       "title" : "Jubiläumsschiessen 150 Jahre Schützengesellschaft Fischingen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.9e902537",
+    "foundedYear" : 1946,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.9e902537.jpg",
     "name" : "Hombrechtikon Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hombrechtikon Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5a7814312c3ff664f8f45d74a1272c919485417e87e2efe9b22d234d25e5dee6",
+  "contentHash" : "sha256-605e81b5397de1e35e676b9f3eae371d6c9b9a09fad65063abff9f2bb6a8601d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Obererlinsbach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Obererlinsbach SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-738d7eebb1232bc6972eef7645bd91176ace1613395e0ff8d4938595dfa901b9",
+  "contentHash" : "sha256-66b0368c527559e225acd4e62e944faac64237f3530ad4f14b3a21ce8fdf936b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

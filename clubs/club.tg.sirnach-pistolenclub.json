@@ -5,28 +5,31 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.sirnach-pistolenclub",
+    "foundedYear" : 1980,
     "location" : "",
     "name" : "Sirnach Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sirnach PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-eb93f8373651beafd800ae158b3e665611e0fe49ed77a29d0870f5ac3e5573e7",
+  "contentHash" : "sha256-42edf95fe2d6cd3a1e8dcf74b26840aa7b19367c89f3d8cfaee344d65ca569c9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

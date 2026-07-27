@@ -6,27 +6,28 @@
     "canton" : "BE",
     "externalId" : "club.provisional.02d09735",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.02d09735.jpg",
     "name" : "Corgémont Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Corgémont ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8652ed078d5deb71ed0a92bf0db18a0f4d61ecae310987e61d1ebff8d50ae4ea",
+  "contentHash" : "sha256-8c4cbc47cd23bacdf7af139ac1bb77c80b6e81bd792dc119eefb9f3f6c8fcf6e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

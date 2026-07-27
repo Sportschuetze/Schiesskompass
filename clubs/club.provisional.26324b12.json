@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Bernerbär Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bernerbär PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6c40653a6c24f6c5f51d4bf27e3f6d849b3e08241d803a6b6434bbe6faf46b19",
+  "contentHash" : "sha256-0807c92eebf735f3e3055bd7d8c3d418fdfe643d5c44ee72b4f1111fd521a6ee",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

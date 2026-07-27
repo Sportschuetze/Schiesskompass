@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Bürglen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bürglen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-49fb403e33769141ebb059f8d786cdae7aad1231c28934c3aa5f45c12a94ef38",
+  "contentHash" : "sha256-0f1da5bb5ab54e41c911aad40df3effc7c6b77e5058d2a1c0c7f2c808e2d9361",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

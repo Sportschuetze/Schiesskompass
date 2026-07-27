@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.deitingen-schutzenverein",
+    "foundedYear" : 1985,
     "location" : "",
     "name" : "Deitingen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Deitingen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fcdb57af384b76252d6500073a28c1fdfc55f7d8414bbca7008cf8c569146105",
+  "contentHash" : "sha256-25ee4c3018537cfcd6059302a9a950b5c56692906578481b1d829b9840c7d67c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

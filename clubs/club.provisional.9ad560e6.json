@@ -6,27 +6,28 @@
     "canton" : "BE",
     "externalId" : "club.provisional.9ad560e6",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.9ad560e6.jpg",
     "name" : "Oberdiessbach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberdiessbach SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-af542c54b825144469795ee0c8c247568c6c4d9f4f7cc8639a3948e99e43baaa",
+  "contentHash" : "sha256-860763096758954d730afd849291d28716d380be076e9a621814c6cbbbf938a5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

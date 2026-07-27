@@ -5,28 +5,29 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.8e5cb074",
+    "foundedYear" : 1881,
     "location" : "",
     "name" : "Höri Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Höri SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-39b35a3bde7a817b1469019faae8ccae7d4995517ae7c6455d5184e04444aa28",
+  "contentHash" : "sha256-2faf54f23ea3cf58feb99911e5da2cebd6869acb7f0f3f4c26bbdb39cd74b1b1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

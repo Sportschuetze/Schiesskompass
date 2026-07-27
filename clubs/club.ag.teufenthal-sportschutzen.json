@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Teufenthal Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Teufenthal Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8bb28c6f1a8d8bf96b955fc833c1e6d7b9535b5f3596024c98b4e2b8ab289522",
+  "contentHash" : "sha256-aa01231584e0c4b9e0743242b57064610c265c245db21b2e214a7816360afcc2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

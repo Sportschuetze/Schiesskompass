@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Steinerberg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Steinerberg SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-aa5005b60954210cbf91290aacd4bb16265b2013fff3068540b85e3b4264f984",
+  "contentHash" : "sha256-b950e574d296b71d54f1ae157201c6643d3c07cf08e9ce3fa3e83b8c2977d4b2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

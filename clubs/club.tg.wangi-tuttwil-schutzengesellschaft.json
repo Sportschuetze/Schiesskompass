@@ -6,23 +6,24 @@
     "canton" : "TG",
     "externalId" : "club.tg.wangi-tuttwil-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.tg.wangi-tuttwil-schutzengesellschaft.jpg",
     "name" : "Wängi-Tuttwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wängi-Tuttwil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5896aafb580a859917e6c5eb219c4be72d854cd96e756d25dd93b086f6313515",
+  "contentHash" : "sha256-1da8487c642fc56f3c3191e278ab627c90cf9ba517c3bd1876cb45d4e10c8aad",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +74,7 @@
       "title" : "13. Chürbis-Schüüsse"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

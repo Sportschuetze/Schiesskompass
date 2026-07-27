@@ -5,28 +5,32 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.4f05b84d",
+    "foundedYear" : 1913,
     "location" : "",
     "name" : "Niederbipp Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niederbipp PC",
+    "sourceURL" : "www.pkniederbipp.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pkniederbipp.ch"
   },
-  "contentHash" : "sha256-0ee5be9b66594f968f81295b78e21e4d4c56309b145bb269acda20ec1d86866a",
+  "contentHash" : "sha256-bec4b1a61aeafb137dd0bb0a1b646b27e1871a59c215ab765485c34addf1cf17",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

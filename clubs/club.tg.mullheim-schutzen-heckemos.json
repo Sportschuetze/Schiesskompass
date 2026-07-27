@@ -5,28 +5,29 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.mullheim-schutzen-heckemos",
+    "foundedYear" : 2019,
     "location" : "",
     "name" : "Müllheim Schützen Heckemos",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Heckemos Schützen",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-018a680b2737f17b759d0b9ef4ebca6096941ba89183432566b6dad967c44f67",
+  "contentHash" : "sha256-43427d775691be87f2dd41229755afee0b213f2daae9576203b83b0896cf9edf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

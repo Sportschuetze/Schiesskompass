@@ -6,23 +6,25 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.b793bada",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.b793bada.jpg",
     "name" : "Truttikon Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Truttikon MSV",
+    "sourceURL" : "msvtruttikon.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "msvtruttikon.ch"
   },
-  "contentHash" : "sha256-cfc973e024c15645eb2b45f6ff35c9db80dae77ecb51962c0f58b4c6b9c8e11f",
+  "contentHash" : "sha256-2ab06e6a26ed11f63359cc2a099f2d6aab5a5923637f288f3d8b98cedf140cd4",
   "events" : [
     {
       "championshipTags" : "",
@@ -83,7 +85,7 @@
       "title" : "Fahnenweihschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

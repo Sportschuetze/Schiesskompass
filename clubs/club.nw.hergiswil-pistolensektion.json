@@ -5,28 +5,33 @@
     ],
     "canton" : "NW",
     "externalId" : "club.nw.hergiswil-pistolensektion",
+    "foundedYear" : 1946,
     "location" : "",
+    "logoPath" : "logos\/club.nw.hergiswil-pistolensektion.jpg",
     "name" : "Hergiswil Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hergiswil PS",
+    "sourceURL" : "https:\/\/pshergiswil.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/pshergiswil.ch\/"
   },
-  "contentHash" : "sha256-a6024d121fbc71fdcca6be637c9e9b2436b5169c71130e63fcba7a540ba54ffe",
+  "contentHash" : "sha256-929ad9de0ed5266aea7f2caa668847943bf4f0eebd288bdf5d49fb35c6742076",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

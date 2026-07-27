@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Menziken-Burg Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Menziken-Burg Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6e25b1ae2fdd5c207a286190e4d2932f67baaa8ed9973905cf72143a5d126e12",
+  "contentHash" : "sha256-abd1a1cb195316e858a52b4326df38ce9f8ca87b25ef48df19be9e32e199c4cc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

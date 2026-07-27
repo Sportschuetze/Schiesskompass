@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Daillens Société de tir au pistolet",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Daillens STP",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-544ef566076522c6e06b6a0f08082bef16176fba511a7edc1d63e0fcb5dc537e",
+  "contentHash" : "sha256-6f61de25cc5739215b130f73c834c864c255bc7fc1c714c5155e92ff899e9762",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

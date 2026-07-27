@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Bérochale Société de Tir Sportif",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bérochale Sté TS",
+    "sourceURL" : "tir-beroche.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "tir-beroche.ch"
   },
-  "contentHash" : "sha256-a1a986a02323e2a945053e8111bc7c6fc9569828ade6fe74b36f78f17066eceb",
+  "contentHash" : "sha256-d8e678109bb3aab7fae3849209d5bfa9694833667ec046f43745883c1e18fcd1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

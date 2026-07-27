@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Aarwangen Infanterieschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aarwangen Inf. S",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-49363494fa2934f8f824e12ebb79af3a373976e3407f523fc55c4912479b2885",
+  "contentHash" : "sha256-51e1e81098c7854c21fa28b3c1ecc87562e19dea7abe145af5c763765f16736d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

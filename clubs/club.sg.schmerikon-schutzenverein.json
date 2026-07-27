@@ -5,28 +5,29 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.schmerikon-schutzenverein",
+    "foundedYear" : 1875,
     "location" : "",
     "name" : "Schmerikon Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schmerikon SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-45b8ff2144fc60cd7c016d3bc2642355f1bce74327a74a8f1ae446873bdafe44",
+  "contentHash" : "sha256-e16a196dff58bbc14aeb21f2abd92b1164fd55dece7394dffa88003d91749b2b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

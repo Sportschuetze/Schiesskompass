@@ -5,28 +5,29 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.hafelfingen-feldschutzengesellschaft",
+    "foundedYear" : 1888,
     "location" : "",
     "name" : "Häfelfingen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Häfelfingen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2fbbcd9d5640de0f46768648e5b25378770c43e5fed0ac61890905feb9df3296",
+  "contentHash" : "sha256-39e9646835a3d44db9d42c783b901b73e674d1eb060bc023605678b28441098c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

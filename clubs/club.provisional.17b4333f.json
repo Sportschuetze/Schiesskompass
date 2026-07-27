@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Schwarzenegg Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schwarzenegg Schützen",
+    "sourceURL" : "www.schuetzen-schwarzenegg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schuetzen-schwarzenegg.ch"
   },
-  "contentHash" : "sha256-1c109ee24a547060dd8b7b7c15162e88bc9925141258ae0d72ab4f85ebccf709",
+  "contentHash" : "sha256-e02e0eaa62165423784e81d3bf649f23197b2e7d1598c35b257494fab2be3ee8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

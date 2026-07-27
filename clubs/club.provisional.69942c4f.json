@@ -5,24 +5,27 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.69942c4f",
+    "foundedYear" : 1876,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.69942c4f.jpg",
     "name" : "Schwanden b. Sigriswil Militärschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schwanden b. Sigriswil MS",
+    "sourceURL" : "www.msschwanden.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.msschwanden.ch"
   },
-  "contentHash" : "sha256-26d0dd26c95ac4b804ff788852b46e4c2008878814ba9f6a918630c3eefe1573",
+  "contentHash" : "sha256-5213a53a2103c13fc40b053a5e753bebba1d0c74d211e86aa4274ea6ad5db5cc",
   "events" : [
     {
       "championshipTags" : "",
@@ -93,7 +96,7 @@
       "title" : "150 Jahr Jubiläum Militärschützen Schwanden mit sehr schönem Gabentempel"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

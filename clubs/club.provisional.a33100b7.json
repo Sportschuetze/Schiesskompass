@@ -5,28 +5,34 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.a33100b7",
+    "foundedYear" : 1818,
     "location" : "",
     "name" : "Bern Stadtschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bern Stadt",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7367776585c701db83013b78751b8c871dba62a0414ea5ada8170caaff7d8009",
+  "contentHash" : "sha256-d6102e5dce290d95353eadbec03613993311f3c61895d2ae6ced6d330366b64a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,32 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.belmont-sur-lausanne-ste-de-tir",
+    "foundedYear" : 1881,
     "location" : "",
     "name" : "Belmont-sur-Lausanne Sté de tir",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Belmont-sur-Lausanne ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d90d2de7b069d16e0de004d0b7ef6358c736d0c5198bb029312826d1f6c2bfa6",
+  "contentHash" : "sha256-8054052562de1132f046ecd790a1b9492c62b0fcd4bd24df27bdca0c5ce172df",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

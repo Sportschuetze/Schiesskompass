@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Allschwil Militärschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Allschwil MS",
+    "sourceURL" : "www.msallschwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.msallschwil.ch"
   },
-  "contentHash" : "sha256-1307faeee911e42bdf8795d88e9490da194318ae2ff2ae2dfd6078f6c13e6a34",
+  "contentHash" : "sha256-34b38c67aed6edb2f0936f7174d49a7f6a42ac9387906d9d85a473c0d93ca563",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

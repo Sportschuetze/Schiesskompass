@@ -6,27 +6,29 @@
     "canton" : "SO",
     "externalId" : "club.so.winistorf-sportschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.so.winistorf-sportschutzen.jpg",
     "name" : "Winistorf Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Winistorf Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6f5cb45ab90adf8b971d902f37837fa16d6284f15178add180dd142a02a4bc1c",
+  "contentHash" : "sha256-af28ef4377c183608e31a80a32c58e0e72f433b66bac8529374255a598d2b9da",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

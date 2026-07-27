@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.790827b4",
+    "foundedYear" : 1912,
     "location" : "",
     "name" : "Steffisburg Kleinkaliberschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Steffisburg KKS",
+    "sourceURL" : "www.kk-steffisburg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.kk-steffisburg.ch"
   },
-  "contentHash" : "sha256-b6c457b3fe2680c019794a2b77f00eb212500d8a08b7c2c6111705409b7eea38",
+  "contentHash" : "sha256-386ba133c9eb48200ffeefe3e7c4696bddeb28186c878edaa510b998f63bbfc9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

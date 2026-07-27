@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Brislach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Brislach SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4e3e78e61e08eb69c849acf6258061cafe95c3a40ce111a12515b9c1ba60c58a",
+  "contentHash" : "sha256-22564bf82b313dc029ba531f4e70a74219a2c5375a83d52d58f5ce7f20e8fed8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

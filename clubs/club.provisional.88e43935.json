@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Biel-Aegerten Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Biel-Aegerten Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1d7bfaf4f404221a39c7f1c7154a740bb89ff6d074243a9ab6eef81abd5c947d",
+  "contentHash" : "sha256-b24fcb2d91af85769b1b453ee7ec489aef187bd7f4999a1aa8d84e21148e0076",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

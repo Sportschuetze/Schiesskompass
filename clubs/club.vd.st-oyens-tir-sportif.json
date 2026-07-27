@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "St-Oyens Tir Sportif",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St-Oyens TS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-14f77573ef09d3075a246b06d62101e14c2b7322c9833dd605446cb46d5e6bc2",
+  "contentHash" : "sha256-b972d9b4008e99195bdd770f26412597830768b197b37395f8c076d96555dd63",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

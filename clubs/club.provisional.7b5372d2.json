@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.7b5372d2",
+    "foundedYear" : 1926,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.7b5372d2.jpg",
     "name" : "Dübendorf Arbeiterschützenbund",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dübendorf ASB",
+    "sourceURL" : "https:\/\/asbduebi.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/asbduebi.ch"
   },
-  "contentHash" : "sha256-2cc90b88775dbf63ca84fac44dd3b05725626641b0084cc14080cb4742979548",
+  "contentHash" : "sha256-2e4ddb4ded85ef3753ee11f2cb9bfc2ce8d6fc5cfa12946e39471debadd30642",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Penthalaz Société de tir Armes de guerre",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Penthalaz ST Armes de guerre",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-84fb1a18d893d189d20a74bdb6231c4bfebb624ff0a884a49cfadd6ccb2e1114",
+  "contentHash" : "sha256-015b25e217103dda0964c1f684d999cd56a0bf1b43148d223c1c5f7a357cfd25",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

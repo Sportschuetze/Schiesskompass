@@ -5,28 +5,30 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.innerthal-feldschutzengesellschaft",
+    "foundedYear" : 1878,
     "location" : "",
+    "logoPath" : "logos\/club.sz.innerthal-feldschutzengesellschaft.jpg",
     "name" : "Innerthal Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Innerthal FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b1e855ab433502b80973aca36c46cfbeda08401af941a9319579641e58131c3b",
+  "contentHash" : "sha256-91a8193f66618cac8e6187ad0de740fad4b1e7b4e86715995829a842e210a2b9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

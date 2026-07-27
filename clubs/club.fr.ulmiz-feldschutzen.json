@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Ulmiz Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ulmiz FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-023b1aadabffac05ee6e608cd8a397cc0f634e59b4d342285da7694dc549b7ec",
+  "contentHash" : "sha256-43f661e0db215ab122ff37862887c14a03241e6d22045b390c216b089b8a6de0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Kerns-Alpnach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kerns-Alpnach SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0e56a7cd1fd8a5a7e8f34a291fa997da7bd76f047bbdaa58adc7ca6119c51dc4",
+  "contentHash" : "sha256-14ff6b589f12baba2eee1492d40d330845f0bd9741ddacfa9fa00717e1d5179a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

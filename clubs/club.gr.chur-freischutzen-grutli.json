@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Chur Freischützen Grütli",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chur FS Grütli",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-861d32a9bd1a7cf492e33241d33255a17420d42d32443d4d8e64fc6eee93c06b",
+  "contentHash" : "sha256-88bd2ca59a1d1b88d6d8ced52b4c60137a88249f3395ee729c144510a8ec45de",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

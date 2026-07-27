@@ -5,28 +5,33 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.gippingen-schutzen",
+    "foundedYear" : 1866,
     "location" : "",
     "name" : "Gippingen Schützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gippingen S",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ed4f70629756a889d2aaff7cab6bf5bc119a94d44ad791f0ab59f135668de396",
+  "contentHash" : "sha256-b6ab19624eac6aa1aa73a10d7343e94957322d16ce9af7796351302137a1bf34",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

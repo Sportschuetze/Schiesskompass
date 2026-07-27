@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Niederdorf-Lampenberg Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niederdorf-Lampenberg SV",
+    "sourceURL" : "www.sv-niederdorf-lampenberg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sv-niederdorf-lampenberg.ch"
   },
-  "contentHash" : "sha256-d72b581d72d5c811eec680356dc13fe51dbbf77c12d71cd8b5638cb77dc39d43",
+  "contentHash" : "sha256-cc23b2e6be02e7109146163c0272c6f7365972116978b7bdc217b962dbcc3438",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

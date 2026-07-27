@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Röschenz Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Röschenz S",
+    "sourceURL" : "https:\/\/schuetzen-roeschenz.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/schuetzen-roeschenz.ch\/"
   },
-  "contentHash" : "sha256-4a7a187360735c04f46732d8ca2305210a9556de754b632e3255f118efde725b",
+  "contentHash" : "sha256-1a6884e90218ed17bc6e30bd985601a020cac0399b26525675779ccfb0fb7d86",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

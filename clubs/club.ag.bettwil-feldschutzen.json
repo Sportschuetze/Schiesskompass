@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.bettwil-feldschutzen",
+    "foundedYear" : 1918,
     "location" : "",
     "name" : "Bettwil Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bettwil FS",
+    "sourceURL" : "www.fsg-bettwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsg-bettwil.ch"
   },
-  "contentHash" : "sha256-469c0ec5649e98ff3e0cbce28f2877f3fa0774dd0fab86cd9120bbe321873355",
+  "contentHash" : "sha256-0860cc003dcae435c19a3530a3ffcd541b0e3ed94b13637c2fcf51686ce81beb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

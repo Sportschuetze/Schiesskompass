@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Yvonand Société de tir Armes de guerre",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Yvonand ST Armes de guerre",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7c5bdb13128e482ed4fc101e41c3e2b810daa0fc2a80fe1b30bce69982cc231b",
+  "contentHash" : "sha256-09cfae564181c30ed77beda21349560c0ee4b1fe58df47076878fdedf3bba9fb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

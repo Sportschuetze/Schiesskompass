@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Vicques Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vicques ST",
+    "sourceURL" : "https:\/\/www.tir-vicques.com\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.tir-vicques.com\/"
   },
-  "contentHash" : "sha256-5991c4f3aaaf7c26a5698d0a52f1b31813e776677b3a22056426383eb1d80cdf",
+  "contentHash" : "sha256-6862e425df49c4c4ae568d284bf493b46c2f2e798cd1f1c9cbd8279ea477a95e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

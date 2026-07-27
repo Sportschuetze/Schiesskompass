@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "L´Abergement-Sergey Sté de tir Les Ourloups",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "L´Abergement-Sergey ST Les Ourloups",
+    "sourceURL" : "www.lesourloups.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.lesourloups.ch"
   },
-  "contentHash" : "sha256-730b61cc5aea5d2cff1a8573dae4eb8a156ddbe206b936fcadc6bd7e993ee56f",
+  "contentHash" : "sha256-f381a4ff0717f4226a0923419153c6ba80eedbe0776a7d38c410e1295e684fe2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

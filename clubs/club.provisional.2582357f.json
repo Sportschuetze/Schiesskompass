@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Altbüron Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Altbüron FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-61af2f8ed94923c922e5503d05ebfcdd84d6ae4518c4ca14109c4245f3be59dc",
+  "contentHash" : "sha256-78b87d75f4596f2b9ffb4aae164093747328b26fbb63c4bebb9d5e5b53691d8e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

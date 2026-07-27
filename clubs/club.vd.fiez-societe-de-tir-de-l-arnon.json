@@ -5,28 +5,30 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.fiez-societe-de-tir-de-l-arnon",
+    "foundedYear" : 1881,
     "location" : "",
     "name" : "Fiez Société de Tir de l'Arnon",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fiez ST de l'Arnon",
+    "sourceURL" : "http:\/\/tir-arnon.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "http:\/\/tir-arnon.ch\/"
   },
-  "contentHash" : "sha256-dc1d46412b33320a4ff2dba23a526212f6661a2e1dce904dd7fe8b9bf1c43098",
+  "contentHash" : "sha256-5a82b058479404936084ca1897741534ef6d416ca1b6ed85be1ba6af76aa27ba",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

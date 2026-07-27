@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Heiden und Umgebung Pistolenschiessverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Heiden uU PSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-24f48cccd8788d9aee0519dfb44df0456a6a13c4985200c6bb64d7d187bf68ad",
+  "contentHash" : "sha256-27d774187b2cf1d417d4fdcc692282c048672dfda2acc200a2e916da54210a4e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

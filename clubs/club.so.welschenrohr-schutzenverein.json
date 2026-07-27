@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Welschenrohr Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Welschenrohr SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-842848c3321991c5ebf1ada5ee52d054651e7df52d2acc4a4dcf8e20c7c67f61",
+  "contentHash" : "sha256-b19b71ba37afcdf11af3155d228121483fa1e63ae1bda4f9c475bc78b85cfee8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

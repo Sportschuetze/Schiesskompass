@@ -6,27 +6,31 @@
     "canton" : "ZG",
     "externalId" : "club.zg.zug-schiess-sektion-unteroffiziersverein",
     "location" : "",
+    "logoPath" : "logos\/club.zg.zug-schiess-sektion-unteroffiziersverein.jpg",
     "name" : "Zug Schiess-Sektion Unteroffiziersverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zug UOV",
+    "sourceURL" : "www.uov-zug.ch\/schiesssektion",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.uov-zug.ch\/schiesssektion"
   },
-  "contentHash" : "sha256-09f144d58845da8e5e6038c05f6bcfaa9452e5daebc5da84b0169a7138d0a53e",
+  "contentHash" : "sha256-0b98ac51ab8de07a029af564ca36f93aa81a039091008126e23a4cc4b426bdce",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

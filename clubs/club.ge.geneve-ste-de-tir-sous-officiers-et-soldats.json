@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Genève Sté de tir Sous-officiers et soldats",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Genève ST Sous-officiers et soldats",
+    "sourceURL" : "https:\/\/sos-ge.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/sos-ge.ch\/"
   },
-  "contentHash" : "sha256-381af730e72219594d34e510b63ea2cabdbe599d51600e6c16112f22a05f5943",
+  "contentHash" : "sha256-4f960575036fac7562f76a8a4b2bd0965eea046981d409cfa0dc9739375d050c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

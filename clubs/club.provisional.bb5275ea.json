@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.bb5275ea",
+    "foundedYear" : 1867,
     "location" : "",
     "name" : "Brütten Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Brütten SV",
+    "sourceURL" : "www.sv-brütten.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sv-brütten.ch"
   },
-  "contentHash" : "sha256-53b1f3a01a50bb72d9d8d5ce093272596f44aba4b70cc798c9394df5ac3875a8",
+  "contentHash" : "sha256-5ac5be46e6f056d52f7ecb880ce75945bfd2ef2eb70388d31cdb622fed9d9dd0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

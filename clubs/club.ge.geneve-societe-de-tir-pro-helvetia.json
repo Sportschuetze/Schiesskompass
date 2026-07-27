@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Genève Société de Tir Pro-Helvetia",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Genève ST Pro Helvetia",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-37f33180282fdbb58eb6f24e217be2c151d555eea53f98d00658c99d3da2294e",
+  "contentHash" : "sha256-fd08a4c368aa5523ee5a2fbf8534f26e31fbfad9174a8670c7ae22b1b9c8f2ec",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

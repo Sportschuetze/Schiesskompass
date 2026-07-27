@@ -5,28 +5,30 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.cadenazzo-societa-tiratori-la-pianturina",
+    "foundedYear" : 1910,
     "location" : "",
+    "logoPath" : "logos\/club.ti.cadenazzo-societa-tiratori-la-pianturina.jpg",
     "name" : "Cadenazzo Società Tiratori la Pianturina",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cadenazzo ST la Pianturina",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1f810d88d6fceb4ac472b2dba6420a7e70cf30054522bdddb945ef8506bab69e",
+  "contentHash" : "sha256-150a0955271a952203b5b462e232379c490d4bacaf84e267362caf11a7a170d6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

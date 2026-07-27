@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Grabs Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Grabs SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-eb42c3d74a1f8c8e25abe4187903f2d38b0b33af0b60ff152bfcfe0e4f635e9f",
+  "contentHash" : "sha256-b5520eefe017cca88d0e7d47172a607510350752e1493dfeefc842f2f1b7bfd7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

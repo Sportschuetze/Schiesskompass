@@ -5,28 +5,29 @@
     ],
     "canton" : "AI",
     "externalId" : "club.ai.oberegg-feldschutzen",
+    "foundedYear" : 1825,
     "location" : "",
     "name" : "Oberegg Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberegg FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7b533b3fd1ec3548cab14691cd6341fb8fe37e1d0fe4679978dcbd719ed779dc",
+  "contentHash" : "sha256-c5a6ac22b7f7b427148f810ace96849c4c2c8fd893565d54031579cba5ebcbdb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

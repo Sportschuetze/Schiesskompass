@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Corbières-Cerniat Société de tir",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Corbières-Cerniat ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7ab8f64bdabd5ca5a28216e8fc17493e1d8d27735a81a1d62441ce6de72d5f59",
+  "contentHash" : "sha256-9ae50c964d2c3c7d4d25d27a461088adf59a0ca81881bd6dc334040e4ffe8026",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

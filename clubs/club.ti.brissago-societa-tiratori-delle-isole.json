@@ -6,27 +6,28 @@
     "canton" : "TI",
     "externalId" : "club.ti.brissago-societa-tiratori-delle-isole",
     "location" : "",
+    "logoPath" : "logos\/club.ti.brissago-societa-tiratori-delle-isole.jpg",
     "name" : "Brissago Società Tiratori delle Isole",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Brissago St delle Isole",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-93f9dddd894954534c6eab7f74f3c6b79ee1f5f70579d93602b0cf28f613d9c5",
+  "contentHash" : "sha256-525a5de3b7d8ae98219a809cb65a1c31732efeaf292c1825e546209f8c847688",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

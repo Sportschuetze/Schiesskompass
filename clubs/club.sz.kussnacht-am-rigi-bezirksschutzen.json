@@ -5,28 +5,29 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.kussnacht-am-rigi-bezirksschutzen",
+    "foundedYear" : 2001,
     "location" : "",
     "name" : "Küssnacht am Rigi Bezirksschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Küssnacht am Rigi BS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e8b54f27f3d751535c2ff09439cd36a935d0c923bbec8bb7576aa3d40394a864",
+  "contentHash" : "sha256-16b10cbfbb189c017724eba0270c6de334daab5780417a875d4f98832e81d5b3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

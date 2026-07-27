@@ -6,27 +6,32 @@
     "canton" : "AG",
     "externalId" : "club.ag.stein-munchwilen-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.ag.stein-munchwilen-schutzengesellschaft.jpg",
     "name" : "Stein-Münchwilen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Stein-Münchwilen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2ca3c01032d33676b5b8d208543c555659969cabd7c3f155daf97b9f0fef36ce",
+  "contentHash" : "sha256-0b63041f9c59206a77bd81bfe5b1d7f6b750dc46724eccd4822f1b0de4dcbbb0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

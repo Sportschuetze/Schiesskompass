@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Winikon-Triengen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Winikon-Triengen SV",
+    "sourceURL" : "www.svwt.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svwt.ch"
   },
-  "contentHash" : "sha256-59b0d658b3366eed5281cecf6daf8a2b22e1d015b9df54afa1f27546b0d159f2",
+  "contentHash" : "sha256-10c65dd69751ef1dff7efb20fc34551c7603bf2fd8a58c01d298bb4c2e817943",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

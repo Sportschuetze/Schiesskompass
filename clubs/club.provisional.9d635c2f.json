@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Flurlingen-Uhwiesen Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Flurlingen-Uhwiesen S",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d4bfff533780d90eb9c744dcaa7933ebe913260baa7e6807cadebef1beb51740",
+  "contentHash" : "sha256-38b455f035a4d7400dbc7cd4387119a6de9ad3568b205af772266cca6123f2f8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

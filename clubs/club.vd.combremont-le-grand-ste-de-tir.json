@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Combremont-le-Grand Sté de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Combremont-le-Grand ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9f4387c07d59ad0fc0555773041caf2e7662cad4191283a45d7976ffbbd5c1ff",
+  "contentHash" : "sha256-e344db8970f08e8909837c70620e38a9c5310f0f2804e772ded7586ca34bafc9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

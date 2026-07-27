@@ -5,28 +5,29 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.6d98a847",
+    "foundedYear" : 1872,
     "location" : "",
     "name" : "Dällikon Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dällikon SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-98569c855d0fb691fb8f1655319263e4b8e89539e9250c4997273fec768d73b8",
+  "contentHash" : "sha256-248bf91e11d88c466e5095a833dc29a16f4f97b5e2f67d2fa67b29dc4eb1efb4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

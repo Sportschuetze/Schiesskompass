@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Broc et environs Société des Carabiniers",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Broc et environs SdT des Carabiniers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-73e594887a4391075d1633b4d7a091617d7d76eec6bc1f7a2e91ce21e913efb7",
+  "contentHash" : "sha256-33ccb25b6886152799e655993ca7658e8d152eeee9ec3dbdf5644c2742e82d3b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

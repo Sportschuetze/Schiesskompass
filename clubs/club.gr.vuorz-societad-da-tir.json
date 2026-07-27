@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Vuorz Societad da tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vuorz ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9ccf16239764efb7ad5023e6e4a7f79e49c959b1aab0a3ce24d32e40c53c4e7b",
+  "contentHash" : "sha256-7d95f65ddf36d8edcea9eaf52d06b53a1332080979cdbdd02a3385279d6cadc2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

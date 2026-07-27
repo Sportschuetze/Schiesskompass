@@ -5,28 +5,29 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.mattenwil-schiessverein",
+    "foundedYear" : 1884,
     "location" : "",
     "name" : "Mättenwil Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mättenwil SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ee1f13df1e4c88ccdd14e754a49a2585cd144aa138bc50e87c0959ce00720ac4",
+  "contentHash" : "sha256-10c962f2c1d15ae15f87e6bbfacd6f84cf6933af8ac5891f4065456d6510ae8b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

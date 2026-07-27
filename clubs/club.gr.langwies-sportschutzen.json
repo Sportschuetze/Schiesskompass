@@ -5,28 +5,29 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.langwies-sportschutzen",
+    "foundedYear" : 1951,
     "location" : "",
     "name" : "Langwies Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Langwies Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-94f9f02c22f483f59206cbe0189bac8885e14e70684c962962620075e1c3d762",
+  "contentHash" : "sha256-aacd5682f12539e00096f48f1703b4fbee52baabb3e55a4969f8f8d608d33da7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

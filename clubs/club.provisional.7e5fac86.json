@@ -5,24 +5,27 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.7e5fac86",
+    "foundedYear" : 1874,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.7e5fac86.jpg",
     "name" : "Strahlegg Militärschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Strahlegg MSV",
+    "sourceURL" : "www.strahlegg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.strahlegg.ch"
   },
-  "contentHash" : "sha256-cfb71767b79d6a248b936962a669b7b5fc620066bf852cba6d03681e7924da1b",
+  "contentHash" : "sha256-5d40313c784b5531a5f5782edbdbba62ee1b857f0c44ed220d86f626bfa53662",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +76,7 @@
       "title" : "40. Strahleggschiessen MSV Strahlegg"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

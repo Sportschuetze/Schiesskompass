@@ -5,28 +5,30 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.trimbach-sportschutzen",
+    "foundedYear" : 1942,
     "location" : "",
     "name" : "Trimbach Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Trimbach Sport",
+    "sourceURL" : "www.sportschuetzen-trimbach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sportschuetzen-trimbach.ch"
   },
-  "contentHash" : "sha256-9582f21aecf35042cd176e6604b59a06bf616f25549ee6b4ebc3dcd11954548c",
+  "contentHash" : "sha256-04be4471842be83e2e1178247ad406c83e94668485fb3c3cb2110ae15d356256",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,29 @@
     "canton" : "AG",
     "externalId" : "club.ag.meisterschwanden-militarschiessverein",
     "location" : "",
+    "logoPath" : "logos\/club.ag.meisterschwanden-militarschiessverein.jpg",
     "name" : "Meisterschwanden Militärschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Meisterschwanden MSV",
+    "sourceURL" : "www.msv-meisterschwanden.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.msv-meisterschwanden.ch"
   },
-  "contentHash" : "sha256-d89696359c110fcd041ec019a079b9a054daf4babfe944467fb46b78f257542b",
+  "contentHash" : "sha256-fee329c2e884ea13d96aca448b7be5c0f336e8a723bd7c7c7bde2f95834fb198",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

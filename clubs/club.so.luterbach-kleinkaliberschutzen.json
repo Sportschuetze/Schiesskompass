@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.luterbach-kleinkaliberschutzen",
+    "foundedYear" : 1900,
     "location" : "",
     "name" : "Luterbach Kleinkaliberschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Luterbach KKS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c8265090d53186674b75251fe90a90b87786d9d65ab208e18202293a12ddfc5c",
+  "contentHash" : "sha256-38266d0d2307a19998e39e30b5645981451cbb373b6eb9b007ff9b1b49a81e14",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

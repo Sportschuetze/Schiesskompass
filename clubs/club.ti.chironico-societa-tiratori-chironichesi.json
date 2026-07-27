@@ -5,28 +5,29 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.chironico-societa-tiratori-chironichesi",
+    "foundedYear" : 1953,
     "location" : "",
     "name" : "Chironico Società Tiratori Chironichesi",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chironico St Chironichesi",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-988e7429b76ff66802aea5ba38629f019e5c00dec8456408075340b21683077b",
+  "contentHash" : "sha256-de25323c7aabf1a2fcac1c3c33377a42eb7ec032fa211cde6565b10c1e17f6e4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

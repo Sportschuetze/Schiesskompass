@@ -6,27 +6,28 @@
     "canton" : "AR",
     "externalId" : "club.ar.reute-feldschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.ar.reute-feldschutzen.jpg",
     "name" : "Reute Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Reute FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4f4109beb84f23026323125951b53a5dc8434ebf1d6071e59e187f042eda2278",
+  "contentHash" : "sha256-ace32b5a0bd12ba411ca087d1894b2f5c2832109082c75f209792a8b09f15d89",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

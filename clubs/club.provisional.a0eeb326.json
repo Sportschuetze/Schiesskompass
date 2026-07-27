@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Lyss Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lyss PS",
+    "sourceURL" : "www.pslyss.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pslyss.ch"
   },
-  "contentHash" : "sha256-3d07961fcda7e52ece649bc72f61e48f500032f2f8cfe3136440f74cdca8599f",
+  "contentHash" : "sha256-70dfec0e01f4d85bbe0d91c8f56876c69eb6c9bb9b0f3e36f0ad0cbd7cf63837",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

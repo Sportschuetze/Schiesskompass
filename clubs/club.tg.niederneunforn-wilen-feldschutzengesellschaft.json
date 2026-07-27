@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Niederneunforn-Wilen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niederneunforn-Wilen FSG",
+    "sourceURL" : "www.fsgniederneunforn.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsgniederneunforn.ch"
   },
-  "contentHash" : "sha256-16131d2ebcf245691d44272897780039cbc5c8dd0cbb4e976214cb0e5d1cb996",
+  "contentHash" : "sha256-5eab587c2f27a0cc31afecdd93a4d38e24235b8ab8dd4a8d9f321d51307a32e3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

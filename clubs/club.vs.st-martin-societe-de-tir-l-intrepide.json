@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "St-Martin Société de tir L'Intrépide",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St-Martin ST L'Intrépide",
+    "sourceURL" : "https:\/\/xn--tir-intrpide-ieb.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/xn--tir-intrpide-ieb.ch\/"
   },
-  "contentHash" : "sha256-aba5b323132bc333890a3a68487e04d27badc024aa277fffb4d978306e4438b7",
+  "contentHash" : "sha256-21789633cccf62adb61c87961f8fb02b018abcf13ea56175265571daf5ffa884",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

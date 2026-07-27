@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Ueberstorf Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ueberstorf FS",
+    "sourceURL" : "sg-ueberstorf.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "sg-ueberstorf.ch"
   },
-  "contentHash" : "sha256-ec688ac8d48554555248919b253cc84f87f55922b0d084b66c0fdcec75caa088",
+  "contentHash" : "sha256-21ba60811eda05c72b139b9d0831335381c27f0c0d0b6e02287b3437e5b71ff2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

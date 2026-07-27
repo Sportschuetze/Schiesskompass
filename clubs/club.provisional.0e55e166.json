@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Fultigen Militärschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fultigen MSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-76b195d577f59e4d789a47129cbc03a167e789862008b1bcbb5f629c55fa0084",
+  "contentHash" : "sha256-6ad9a3f62f74cad4bfcdab767e128b9b7384784fbfba92f85192338213fc64a3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Walperswil Feldschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Walperswil FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-343a3539e1064fb90519f0233747dec2744f1d2369a3ea42d8a1205bb9acb693",
+  "contentHash" : "sha256-787e5cae46448d23518bb4a5459b3d07ebc2812015fcc776550f5d19c1bbc22a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

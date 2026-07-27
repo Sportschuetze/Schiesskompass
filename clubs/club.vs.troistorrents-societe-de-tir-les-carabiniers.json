@@ -6,27 +6,32 @@
     "canton" : "VS",
     "externalId" : "club.vs.troistorrents-societe-de-tir-les-carabiniers",
     "location" : "",
+    "logoPath" : "logos\/club.vs.troistorrents-societe-de-tir-les-carabiniers.jpg",
     "name" : "Troistorrents Société de tir Les Carabiniers",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Troistorrents ST Carabiniers",
+    "sourceURL" : "www.carabinierstroistorrents.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.carabinierstroistorrents.ch"
   },
-  "contentHash" : "sha256-65bde484865355e2b04fdb7b6e46055616dae97b9c3d23445aa21d66082b7312",
+  "contentHash" : "sha256-b4358605689f2fdf670405a156c102dd221cdc0c1277979ce895c6111df09017",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

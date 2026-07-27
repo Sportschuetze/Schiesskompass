@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Richigen bei Worb Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Richigen bei Worb FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ec14a28c6ab922c334a3076ceaa8d3eb2a2b7c722a9e632a9a35606d676ee178",
+  "contentHash" : "sha256-d115017e5cc4869fcf10daddedd83bdf22d899d4fc5302fede710fef0e9e706f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,29 @@
     ],
     "canton" : "SH",
     "externalId" : "club.sh.beringen-schutzengesellschaft",
+    "foundedYear" : 1871,
     "location" : "",
+    "logoPath" : "logos\/club.sh.beringen-schutzengesellschaft.jpg",
     "name" : "Beringen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Beringen SG",
+    "sourceURL" : "www.sg-beringen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-beringen.ch"
   },
-  "contentHash" : "sha256-3b2129615846bf91003c56ebc4152f36dff83915bcb8ae9830595b3e3512aa55",
+  "contentHash" : "sha256-aa8ef1b43b89569bf25e1d51462588fb1c51a9b37dbbf9141a41a90acf5d92f9",
   "events" : [
     {
       "championshipTags" : "",
@@ -144,7 +149,7 @@
       "title" : "Gwaaggeschüsse"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Allmendingen bei Bern Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Allmendingen bei Bern FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e5558bb15f9f1ec0ecd7d3c5feaaa7befedb42bc10e323cc49331e0a9aad64cf",
+  "contentHash" : "sha256-7cc6ddb7be7ae192cf1e3084d5cd5419cb66aa825126f592764066fb7ac1972c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

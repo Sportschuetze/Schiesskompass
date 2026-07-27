@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Veyrier Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Veyrier ST",
+    "sourceURL" : "https:\/\/tir-veyrier.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/tir-veyrier.ch\/"
   },
-  "contentHash" : "sha256-1770e412d5cd535bdb8a7ef9b0be9c56c7d4cc4474fa14f0476658bf8bf72e00",
+  "contentHash" : "sha256-02c56efaf556aabaee42fde509f24d2c65d32fbcbcbd392075189ce341b2ccab",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

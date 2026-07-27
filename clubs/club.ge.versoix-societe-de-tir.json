@@ -5,28 +5,34 @@
     ],
     "canton" : "GE",
     "externalId" : "club.ge.versoix-societe-de-tir",
+    "foundedYear" : 1881,
     "location" : "",
     "name" : "Versoix Société de tir",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Versoix ST",
+    "sourceURL" : "http:\/\/www.stv-versoix.com\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "http:\/\/www.stv-versoix.com\/"
   },
-  "contentHash" : "sha256-7f8dd3acb6b8a017f6081512cef5e718969ec21054bed10c18a56244c0bfb6ce",
+  "contentHash" : "sha256-7d2d21cdb3c99fe120ea1747552fc62ed0a529340601421b22840b263d103d37",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

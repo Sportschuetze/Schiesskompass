@@ -5,28 +5,31 @@
     ],
     "canton" : "AR",
     "externalId" : "club.ar.herisau-schutzenverein",
+    "foundedYear" : 1650,
     "location" : "",
+    "logoPath" : "logos\/club.ar.herisau-schutzenverein.jpg",
     "name" : "Herisau Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Herisau SV",
+    "sourceURL" : "www.sv-herisau.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sv-herisau.ch\/"
   },
-  "contentHash" : "sha256-096426c0b2b2e73995dbf819531a4f8fc8f336c24d82c3a0d82cab3a3e5e3951",
+  "contentHash" : "sha256-f7c2b2e69c09e1ea4da2312caf2a0e16afbee229672197d48fa94d3e66d7e8d4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

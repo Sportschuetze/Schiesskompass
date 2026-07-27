@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Guttannen Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Guttannen FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ec6af768e4850dfef5fc6f3e366bdd14ee82256ea92a5dfa36fe93667dd06d33",
+  "contentHash" : "sha256-45055d1fc4405c3ed5e66f2d5a6ec567f1425d7d456b1230743e80125e238cda",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

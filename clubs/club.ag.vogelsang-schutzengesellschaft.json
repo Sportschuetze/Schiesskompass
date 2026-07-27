@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Vogelsang Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vogelsang SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-913eab9c6b74dbb67e62a5f40db9ddb6189479627e47c4ab6566bf41a89aec62",
+  "contentHash" : "sha256-5bd215b77680e6bf2231b4771f026979c4b6832ef2445d2cfb1d2cc9114fd921",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

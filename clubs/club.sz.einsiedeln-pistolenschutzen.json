@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Einsiedeln Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Einsiedeln PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b6e54c3c9acfd3a19e08b94804d978e138cb16b4b50c4425d8f70d0d8121c502",
+  "contentHash" : "sha256-a42d45f00d0184ee88eb6b6a186fd1cd3a4402114f573b014f5658eb8b7af392",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.92b56dc8",
+    "foundedYear" : 1913,
     "location" : "",
     "name" : "Berner Oberland Jungfrau Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Berner Oberland Jungfrau Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d5449035a8f56106a947a0795f813772c980c0c30d87c76bea8a9526f6e38e73",
+  "contentHash" : "sha256-3c62195770f6ef7f2bf3675bb41cdde10c5e064e5ab64f90da58ae85cfd6ca49",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Genève Société militaire, section tir",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Genève Sté militaire, tir",
+    "sourceURL" : "https:\/\/www.smg-ge.ch\/societe\/section-de-tir\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.smg-ge.ch\/societe\/section-de-tir\/"
   },
-  "contentHash" : "sha256-aa3212ef02e4ff81944fd97d05e326af2a6746589224702fcf8baa9d5240ba8d",
+  "contentHash" : "sha256-9d1985f6f813cc4f537f3d8a63eb6d10d6b6419393020448a972cb6de71f35ba",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

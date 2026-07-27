@@ -5,28 +5,30 @@
     ],
     "canton" : "AR",
     "externalId" : "club.ar.heiden-feldschutzengesellschaft",
+    "foundedYear" : 1863,
     "location" : "",
+    "logoPath" : "logos\/club.ar.heiden-feldschutzengesellschaft.jpg",
     "name" : "Heiden Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Heiden FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d1bb4816ced6dac8cfd7d52e0e015bafd5ea19e11cceaa13a1f382bf26a565c4",
+  "contentHash" : "sha256-1d7cba9f02892a9222fffe0255182b5c829a2d6825c3068e3c3a23119b2ee93b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

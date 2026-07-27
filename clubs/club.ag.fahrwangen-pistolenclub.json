@@ -5,28 +5,32 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.fahrwangen-pistolenclub",
+    "foundedYear" : 1965,
     "location" : "",
     "name" : "Fahrwangen Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fahrwangen PC",
+    "sourceURL" : "www.pcfahrwangen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pcfahrwangen.ch"
   },
-  "contentHash" : "sha256-a5d871d869a00ded08230dd4b71b7b5950eb22fc7305b739eb3359bbb8f380bb",
+  "contentHash" : "sha256-a059c6f9503735afa7f05156fd6284287877532f42a21690667e57c79e2526ee",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

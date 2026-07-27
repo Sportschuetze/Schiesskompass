@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Diegten Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Diegten SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-06664cff0380c6277e134aaacd853fec6d93d7cfb0ba287c6f68de3c97de83bf",
+  "contentHash" : "sha256-c652b4973498f6f46bdc940ec89b56eb9572507cdc6aeaeb92b0f9c64d9bc85f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

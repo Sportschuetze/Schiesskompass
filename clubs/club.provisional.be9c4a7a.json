@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Lauterbach-Tannen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lauterbach-Tannen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c35f230d39f7494c190122bbbbc0065e4315782570d35d9d8d17f326bcaf9ba6",
+  "contentHash" : "sha256-d0feaf1d7100119330171c0f27af4e3a97569f3f381085904a38c545a87ee4f2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,35 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.zuoz-societed-da-tir-sportiv",
+    "foundedYear" : 1899,
     "location" : "",
+    "logoPath" : "logos\/club.gr.zuoz-societed-da-tir-sportiv.jpg",
     "name" : "Zuoz Societed da tir sportiv",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zuoz ST sportiv",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d881bba7a68e10536046e9791917eb6b564a01bea0d5836d7607bb17cb45e169",
+  "contentHash" : "sha256-b89429eed7406af3611260ad58cf55210fcab08f85a03139e6eede193de72882",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

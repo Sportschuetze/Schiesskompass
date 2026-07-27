@@ -5,28 +5,35 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.b590d24e",
+    "foundedYear" : 1534,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.b590d24e.jpg",
     "name" : "Burgdorf Stadtschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Burgdorf Stadt",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7e62c0d7e169297697d9d5d00d6efce3f86a848f4ea2cf616140c6d3fd612efc",
+  "contentHash" : "sha256-1da9ce189393f16ab80898b5bd121d4f7286df5afd29ea4dce5c70ed413d74ee",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

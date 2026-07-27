@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Le Sentier Sté de tir Pistolet Val de Joux",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Le Sentier ST Pistolet Val de Joux",
+    "sourceURL" : "www.pvj.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pvj.ch"
   },
-  "contentHash" : "sha256-29eeb56b62a54bfbdf5e9d3cf9587ad09a1cfc4208c9c829b54ade25c13e523b",
+  "contentHash" : "sha256-61ecf028cb6749b29623effd7055d0259db64b56bc71d868a38069af5e9a9753",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

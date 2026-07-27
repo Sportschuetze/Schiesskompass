@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.b6653cb8",
+    "foundedYear" : 1876,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.b6653cb8.jpg",
     "name" : "Dorf Militärschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dorf MSV",
+    "sourceURL" : "www.msvdorf.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.msvdorf.ch"
   },
-  "contentHash" : "sha256-c6b9a95fd8bdf613ec5129b434900edaa0131a957edcc3eb89549fab202e3295",
+  "contentHash" : "sha256-49998d49317a4c224d1ecebc85bf0c0f51f471020b12a1f57b76bfda61039428",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

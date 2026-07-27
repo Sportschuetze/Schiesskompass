@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Mézières VD Sté de tir Les trois Gâchettes",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mézières VD ST Les trois Gâchettes",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a3e8ba3e4600b28dfa0d7b19de9ea6c4fd2c48971e006cf188fc4956d8871ff9",
+  "contentHash" : "sha256-a5673c017952657716dd9c073eaea2e5043cf318cfc24a4087e33ac5109fc3b2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,23 +6,26 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.4348fd86",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.4348fd86.jpg",
     "name" : "Bachtel-Hinwil Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bachtel-Hinwil PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6d162a8e09e541aa0110f96e5c8605f27f9d6d590228851f2655670083349096",
+  "contentHash" : "sha256-0e907f8048907ff2b6952be96c2862d87313ce4b019572ab817d12244aa27f01",
   "events" : [
     {
       "championshipTags" : "",
@@ -103,7 +106,7 @@
       "title" : "33. Bachtelianerschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

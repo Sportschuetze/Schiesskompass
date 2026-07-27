@@ -5,28 +5,31 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.boningen-militarschutzen",
+    "foundedYear" : 1859,
     "location" : "",
     "name" : "Boningen Militärschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Boningen MS",
+    "sourceURL" : "www.msboningen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.msboningen.ch"
   },
-  "contentHash" : "sha256-ee28cfb1d6f6d1f78372179dedc4f381af5c01bf77b67dfe226013d15781813c",
+  "contentHash" : "sha256-eaee4cd17d27890063d2a6f48cf5cb3911bead305b783c333693baab1bf1a99e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

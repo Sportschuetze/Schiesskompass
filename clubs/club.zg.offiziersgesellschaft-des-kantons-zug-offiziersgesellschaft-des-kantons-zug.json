@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Offiziersgesellschaft des Kantons Zug Offiziersgesellschaft des Kantons Zug",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Offiziersgesellschaft des Kantons Zug",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-89dbcc6f4915f8aac67989337a604da31685baa0832889674e52e7e92a53d261",
+  "contentHash" : "sha256-7f1e865d4c30777696b17c49a461e5fc67c71fd4bed4ca16ca1a7e7f486ff389",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

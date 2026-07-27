@@ -5,28 +5,31 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.kublis-pistolenschutzen",
+    "foundedYear" : 1947,
     "location" : "",
     "name" : "Küblis Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Küblis PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-156a7b27fb24f28b69482a48bd8d15e5ab48d8f256b6b1ed8e9b100ba4c18122",
+  "contentHash" : "sha256-fd46995da397a621cc9c34047be4fa66f9fdb54c438e78cc02dc72929c1c02eb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

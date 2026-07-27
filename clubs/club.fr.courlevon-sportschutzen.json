@@ -5,28 +5,29 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.courlevon-sportschutzen",
+    "foundedYear" : 1947,
     "location" : "",
     "name" : "Courlevon Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Courlevon Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fd37a37bed15cd5a5d35a6caddc68accf918af3a0c801859367df89d9ce063d0",
+  "contentHash" : "sha256-5fbbe144db8297d036188861a2f1891dbbe76a53bba7be46e1c0d1a875272bfb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

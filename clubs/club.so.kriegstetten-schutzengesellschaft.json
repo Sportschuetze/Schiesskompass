@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.kriegstetten-schutzengesellschaft",
+    "foundedYear" : 1884,
     "location" : "",
     "name" : "Kriegstetten Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kriegstetten SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f6d0200c7119a03348035bac1ee07497bbf019b04fe5daf2a99d7bd1996313be",
+  "contentHash" : "sha256-0b090555e7425241bdb7f4569fcdd4defab880c38501d64a18e0b0fef632ef8f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

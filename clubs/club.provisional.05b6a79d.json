@@ -5,28 +5,29 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.05b6a79d",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Knonau Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Knonau FSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-439e5f71b1a9663aa6e59db3e52e468c9868730659e9bbcae7d896966eb8f153",
+  "contentHash" : "sha256-a69650dab6a67b57c98271f7ea457c4f2dd793e281f3bf470959df9257043bbc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

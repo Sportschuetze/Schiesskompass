@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.oberlunkhofen-freischutzengesellschaft",
+    "foundedYear" : 1897,
     "location" : "",
     "name" : "Oberlunkhofen Freischützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberlunkhofen FSG",
+    "sourceURL" : "www.fsgol.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsgol.ch"
   },
-  "contentHash" : "sha256-ec55f0127c4932fe492f5bef2842f933400543f67f442d91f97cd2545d05d27b",
+  "contentHash" : "sha256-5bf08cdb5cde6e8de5711bdedc7191be25b180e6b85b609d70bc03822dc0084c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

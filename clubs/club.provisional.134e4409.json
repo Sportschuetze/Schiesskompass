@@ -5,28 +5,30 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.134e4409",
+    "foundedYear" : 1877,
     "location" : "",
     "name" : "Buchs LU Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Buchs LU SG",
+    "sourceURL" : "www.sgbuchs.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgbuchs.ch"
   },
-  "contentHash" : "sha256-b412c259d27eeeaef256945b657e3dd0725aaa277283d7edd5ac96379fb56c9f",
+  "contentHash" : "sha256-8f8c1b3be12039d71a46de546a30eb8c65f7919d46b992517e4910ac1ee66914",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

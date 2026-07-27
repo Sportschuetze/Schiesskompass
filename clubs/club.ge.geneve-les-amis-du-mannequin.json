@@ -5,28 +5,33 @@
     ],
     "canton" : "GE",
     "externalId" : "club.ge.geneve-les-amis-du-mannequin",
+    "foundedYear" : 1873,
     "location" : "",
     "name" : "Genève Les Amis du Mannequin",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Genève Les Amis du Mannequin",
+    "sourceURL" : "https:\/\/www.amisdumannequin.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.amisdumannequin.ch\/"
   },
-  "contentHash" : "sha256-694df8bfecd7954bbd99911039133571e11b8ba75a19aa3c9e1de8027b52d478",
+  "contentHash" : "sha256-4dd26b5d6fc534ad78b70668dcc9830a79b4fe75559731dbd62a10cbd9974e5e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

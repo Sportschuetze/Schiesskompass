@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Curtilles Société de tir sportif",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Curtilles STS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-55f84f27a727533460e52c6016f9470d564a2ee242fad3186c2c86b4283ef327",
+  "contentHash" : "sha256-6c5fc6d7c41c5f619dffe82dd56e0bc690487acffa812ee94459dc2d4ec9ce1d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

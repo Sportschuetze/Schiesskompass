@@ -5,28 +5,29 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.uttwil-schutzengesellschaft",
+    "foundedYear" : 1906,
     "location" : "",
     "name" : "Uttwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Uttwil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-720340f263a14760fe76f37961e9a4b2f48f0f8964eeadd7f77c4fbca46f17f3",
+  "contentHash" : "sha256-ba8eb623f59cf72683e6afb36884f6c854a8a490fa90a484ac645d14ed9fa611",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

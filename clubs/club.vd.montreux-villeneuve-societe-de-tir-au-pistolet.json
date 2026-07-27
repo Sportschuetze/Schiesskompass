@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Montreux-Villeneuve Société de tir au pistolet",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Montreux-Villeneuve STP",
+    "sourceURL" : "www.pistolet-mtx-vil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pistolet-mtx-vil.ch"
   },
-  "contentHash" : "sha256-9497b1ea1916450484072476d660f9695c87d22a607eda910329c5d21f1b638e",
+  "contentHash" : "sha256-8119c7459b80cef0c9805676ec7cdadfec888cedbaa71f79001b00fb9dc6e208",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

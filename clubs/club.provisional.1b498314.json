@@ -5,28 +5,31 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.1b498314",
+    "foundedYear" : 1874,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.1b498314.jpg",
     "name" : "Diesse Société de tir de campagne",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Diesse ST Campagne",
+    "sourceURL" : "www.tir-diesse.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tir-diesse.ch"
   },
-  "contentHash" : "sha256-f8b362829130fae6144563c3ca494c8b43a730bbddd44bfa37a78428e3d27777",
+  "contentHash" : "sha256-2b713cf5faa482b65a08df1e724bac8832702b7149206a50d4c29dd24b70c422",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

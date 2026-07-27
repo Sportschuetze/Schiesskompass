@@ -5,28 +5,32 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.efbb2a7f",
+    "foundedYear" : 1866,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.efbb2a7f.jpg",
     "name" : "Veltheim Schützenverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Veltheim SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0efbfb22ac553b3bf6c4358a34c6be910252c98f9f0513d60aa9999d6d822060",
+  "contentHash" : "sha256-dbb27be7f90ec0bd38daf3c35adebc6c041e90fc94fed0ad91a5dfd41b174deb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.flims-freischutzen",
+    "foundedYear" : 1828,
     "location" : "",
     "name" : "Flims Freischützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Flims FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e7d117912ce1117cd39e5ea4f304d42828f4da499aab613a4edbc98acaab6ad8",
+  "contentHash" : "sha256-82179eb10dfeb54ad47613baa160f3988acf086d05726fd79f2f6fd929cd5dec",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

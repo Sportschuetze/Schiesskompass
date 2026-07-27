@@ -8,21 +8,23 @@
     "location" : "",
     "name" : "Uznach Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Uznach PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-832772aba61620694926d8933823316de7098be3e3fb4aea21a7cac5def7ced1",
+  "contentHash" : "sha256-e04461f84fa05be9b6ce28a70d719b94e5dbe074bfb50cb1d7452d60230375e4",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,7 +60,7 @@
       "title" : "Martinischiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

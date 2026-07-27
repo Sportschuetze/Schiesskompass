@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Aefligen-Rüdtligen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aefligen-Rüdtligen SG",
+    "sourceURL" : "www.sgar.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgar.ch"
   },
-  "contentHash" : "sha256-2941a280106c33fe84da6af9b6637bbbb48309379d88d879b6b41020e15f8d7e",
+  "contentHash" : "sha256-5f95a3314bc0d7cf9e5a88389beb23d9b0c8e7df9034153b035bde291b32a0e8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

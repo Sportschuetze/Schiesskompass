@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Charmey Société de tir Les Carabiniers",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Charmey ST Les Carabiniers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0b19cdef6d81221721fa7106124706ba57997b63d0d414422249ab93cc294c55",
+  "contentHash" : "sha256-b629caf05dbf4f12ac9331eb28972d79e995f15281033d12f6f368810c4aa6d1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

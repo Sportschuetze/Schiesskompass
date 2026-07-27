@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Zizers-Untervaz Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zizers-Untervaz SV",
+    "sourceURL" : "https:\/\/sv-zizers-untervaz.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/sv-zizers-untervaz.ch\/"
   },
-  "contentHash" : "sha256-c92224a5c4268515ff1911d15b67dae3f45f8d8307c2542b596d97970268174b",
+  "contentHash" : "sha256-5fd79ba2fb314769112a8d222b2e91ee7cf605d723df6be0826bc7d39a5f03b6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

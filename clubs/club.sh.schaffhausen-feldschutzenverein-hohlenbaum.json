@@ -5,24 +5,26 @@
     ],
     "canton" : "SH",
     "externalId" : "club.sh.schaffhausen-feldschutzenverein-hohlenbaum",
+    "foundedYear" : 1872,
     "location" : "",
     "name" : "Schaffhausen Feldschützenverein Hohlenbaum",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schaffhausen FSV Hohlenbaum",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e5f41a073b15a43e4bb6e3e345c82042d726da740f0991e45d054f959a8ddd52",
+  "contentHash" : "sha256-328834a066505558b21828f75710d62a9893ae814f273efe79a8d78127269b99",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +70,7 @@
       "title" : "33. Schaffhauser Frühlingsschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

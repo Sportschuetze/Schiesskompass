@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Allschwil Pistolen-Club",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Allschwil PC",
+    "sourceURL" : "www.pcallschwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pcallschwil.ch"
   },
-  "contentHash" : "sha256-fec48c6fef3b03de349aa99333c41922207bc84d03a0a7edd4910012eae60804",
+  "contentHash" : "sha256-75c6d7803ae19dad78ab4c5a3c4fe859deccc509355ddd47497e4a707a353b5a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

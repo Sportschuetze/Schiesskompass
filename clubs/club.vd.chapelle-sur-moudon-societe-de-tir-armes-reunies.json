@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Chapelle-sur-Moudon Société de tir Armes Réunies",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chapelle-sur-Moudon SdtAR",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3ed938601ee082fa6cdcebe270d77fac6ac4c531d28321dea0fe878414bf2a9c",
+  "contentHash" : "sha256-c7a5f951dba7dcd7b60fd18ff4c83a520b7695fded0f136d9d576c923c1dcfa4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

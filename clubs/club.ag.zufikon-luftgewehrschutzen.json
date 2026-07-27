@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Zufikon Luftgewehrschützen",
     "offeredDisciplines" : [
-
+      "G10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zufikon LG",
+    "sourceURL" : "www.lg-zufikon.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.lg-zufikon.ch"
   },
-  "contentHash" : "sha256-692195eba255b3bbd80732ac0b3693de29a188474741ac5e9725c73da4eea5b9",
+  "contentHash" : "sha256-c6e444a6f556eb835febf321be41e521acf1d172e2d3d7a134803510b430ede3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

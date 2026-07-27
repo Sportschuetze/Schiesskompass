@@ -5,28 +5,30 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.arboldswil-feldschutzengesellschaft",
+    "foundedYear" : 1875,
     "location" : "",
     "name" : "Arboldswil Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Arboldswil FSG",
+    "sourceURL" : "www.fsg-arboldswil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsg-arboldswil.ch"
   },
-  "contentHash" : "sha256-1f734fafef74c3eb0d7de4ff1289dec3807aaacd9a0f6673620a252e4f512eef",
+  "contentHash" : "sha256-65fe675bdc913107339f165769c007cfbe1de4ede559ce063e05f8bcf9e5956d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

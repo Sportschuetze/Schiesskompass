@@ -6,27 +6,28 @@
     "canton" : "FR",
     "externalId" : "club.fr.chables-cheyres-societe-de-tir",
     "location" : "",
+    "logoPath" : "logos\/club.fr.chables-cheyres-societe-de-tir.jpg",
     "name" : "Châbles-Cheyres Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Châbles-Cheyres ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-45915f74793e3e526dbb20005de17504086163d83230ee8854427c0aa02eb2aa",
+  "contentHash" : "sha256-802f70eae7583d35a8d0ee920a3d20167abf378dbcfbc9b430849eae9e9f2bc1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

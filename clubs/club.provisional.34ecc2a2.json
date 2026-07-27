@@ -5,28 +5,31 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.34ecc2a2",
+    "foundedYear" : 1879,
     "location" : "",
     "name" : "Bern Pistolenschützengesellschaft der Stadt",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bern PSG der Stadt",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cfabd878d5e3abfb50628f872260d5648172625ec98baee55aab0d63386592f7",
+  "contentHash" : "sha256-e2cd549effc75f44e292f00239b16b67736be3236a8f9bdde15747c2073cc72b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

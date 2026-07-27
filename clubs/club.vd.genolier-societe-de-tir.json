@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Genolier Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Genolier ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3791dcc97561e6f69650c27a39436096ee208e2b7feb0181cab9842ad4be73d3",
+  "contentHash" : "sha256-a5f96fe3a93536e633e4837121a4307ade17c4a1941dcc184c4ea113cf5fc2a0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

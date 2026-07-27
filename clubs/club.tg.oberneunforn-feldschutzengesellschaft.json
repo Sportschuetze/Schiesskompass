@@ -5,28 +5,30 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.oberneunforn-feldschutzengesellschaft",
+    "foundedYear" : 1873,
     "location" : "",
     "name" : "Oberneunforn Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberneunforn FSG",
+    "sourceURL" : "www.fsg-oberneunforn.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsg-oberneunforn.ch"
   },
-  "contentHash" : "sha256-aba8bd63208432d391735a3aca4c9bd8fceb44f8efef1a0871385242e17622ae",
+  "contentHash" : "sha256-67dd679d52a354bf761f66fccd65bc3af23edd4940b185c1ac02d5093a69c14b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

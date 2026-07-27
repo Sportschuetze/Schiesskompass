@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Steffisburg-Heimberg Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Steffisburg-Heimberg S",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1cbfd53cc04448fc054c6795d4fdf2f2f33bd12d8f1ec9fcad32adafaa7c70b3",
+  "contentHash" : "sha256-367ad0c83b2286576b36b17823e98246fa4e943ec1b439dda24210a9502a1ddf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

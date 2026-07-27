@@ -5,28 +5,34 @@
     ],
     "canton" : "BS",
     "externalId" : "club.bs.basel-militarschutzen-gesellschaft",
+    "foundedYear" : 1880,
     "location" : "",
+    "logoPath" : "logos\/club.bs.basel-militarschutzen-gesellschaft.jpg",
     "name" : "Basel Militärschützen-Gesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Basel MSG",
+    "sourceURL" : "www.msg-basel.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.msg-basel.ch"
   },
-  "contentHash" : "sha256-76823a6bb8d2f81f4b9656e7c415b00509feccfa195068ff841e52da24207269",
+  "contentHash" : "sha256-fd2a0f28889fd28fd8a7483c5b3e95c02404baee6ca282e4a98137c1907288fd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

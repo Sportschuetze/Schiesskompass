@@ -5,28 +5,29 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.walenstadtberg-schutzengesellschaft",
+    "foundedYear" : 1878,
     "location" : "",
     "name" : "Walenstadtberg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Walenstadtberg SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4b0f9dc3db8f9a3188a4044fe6dddcca415f970e96b7db75319163a08bb6762d",
+  "contentHash" : "sha256-dd505b576b1798c3aaa5e5987b2892fcc53c1ad19483710e27fb2dd305c9c7b1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

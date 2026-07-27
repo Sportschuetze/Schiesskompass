@@ -6,27 +6,29 @@
     "canton" : "BL",
     "externalId" : "club.bl.dittingen-feldschutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.bl.dittingen-feldschutzengesellschaft.jpg",
     "name" : "Dittingen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dittingen FSG",
+    "sourceURL" : "www.feldschuetzen-dittingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.feldschuetzen-dittingen.ch"
   },
-  "contentHash" : "sha256-1896abee7dc71a3dd9a786562ce83d295dc74b6426596ecdfc3bd79fea90e38e",
+  "contentHash" : "sha256-4928f8591138828e927c1fcfbb92a639c1cdfa721a5e691b337d6c84ae20b19e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

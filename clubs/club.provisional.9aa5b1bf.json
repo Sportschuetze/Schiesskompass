@@ -5,28 +5,33 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.9aa5b1bf",
+    "foundedYear" : 1896,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.9aa5b1bf.jpg",
     "name" : "Zürich Leimbach Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zürich-Leimbach SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bfe3ad529ee7aede6b09a71de969c6e73563d2ef5f84476d8fc1e1a7a4a00b61",
+  "contentHash" : "sha256-e54e009ff06077535cc399f1c970d1abcab9663f3f112add44e4a2b825986e6d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

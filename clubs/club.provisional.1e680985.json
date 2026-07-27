@@ -5,28 +5,31 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.1e680985",
+    "foundedYear" : 1822,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.1e680985.jpg",
     "name" : "Rickenbach LU Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rickenbach LU SG",
+    "sourceURL" : "www.sg-rickenbach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-rickenbach.ch"
   },
-  "contentHash" : "sha256-a69bbc7c999e8267eca81190753dc1ecd67f7e0075741ba9d520e2f92644ea05",
+  "contentHash" : "sha256-d7fe10cebd65ec395696919f6ea34e6204a0a5c83f1c7781c37d81895eb12fe8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

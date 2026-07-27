@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.90fde321",
+    "foundedYear" : 1931,
     "location" : "",
     "name" : "Merligen Kleinkaliberschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Merligen KKS",
+    "sourceURL" : "www.kleinkalieberschuetzen-merligen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.kleinkalieberschuetzen-merligen.ch"
   },
-  "contentHash" : "sha256-9fd4a48862b45cea8b2843598dbff02e601c70e31ecc9197609ab3d79805eaa3",
+  "contentHash" : "sha256-2337308bfa8adb7a6a2f003e2bcfe4f8a87c77496889a797598d9b7df688be9a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

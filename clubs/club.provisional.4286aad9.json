@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Winkel-Rüti Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Winkel-Rüti SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9d71dcab3e662f10e0abe18638df403949bd657b6519ae2c6cc2e629c0b005fa",
+  "contentHash" : "sha256-29b9244fbbb903a70b6cc87c1406648dec77d14607ab67fde23f08c71c8e7627",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Leuggern SV historischer Waffen",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Leuggern SV historischer Waffen",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4a773b729bb0f043b3d7f359156018b1b5153797a7489dd40dedbf7cff35704a",
+  "contentHash" : "sha256-1f648fce2316a4b60e9825b886a70059c5c720b64de9a4800112662eeb44da0b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

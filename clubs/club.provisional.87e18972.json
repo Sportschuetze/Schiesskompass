@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Zauggenried Kernenried Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zauggenried Kernenried FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-060f8afa63dded962f3113c7b78cbe394834c4b3c6a9c00d055e933ba101a592",
+  "contentHash" : "sha256-a4443d7f16f5138d6016b3989adc9ac1d31bf4a9694255c4943f85bd5bd7646b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

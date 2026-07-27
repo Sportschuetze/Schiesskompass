@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Ursern Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ursern SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0ac0f20cc9d5dd7fecb63a334f25ce3c72b935fe557dec43bdd37b9bf12776c1",
+  "contentHash" : "sha256-cdb5e2079ec047036d8f86e7f0911b30aee9af4a2e369c7e89692ceb7915619e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

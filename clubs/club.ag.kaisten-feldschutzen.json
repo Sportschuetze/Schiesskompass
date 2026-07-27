@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Kaisten Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kaisten FS",
+    "sourceURL" : "www.fsgkaisten.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsgkaisten.ch"
   },
-  "contentHash" : "sha256-5f9c42e1ccb34865ae368ee86aa3df2627d27e6c90de22e5c284689c5beede44",
+  "contentHash" : "sha256-7dfec004ec25f413c04103f449c3a2f8acd4a2d3f1973cb5a895cbdfd3499020",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

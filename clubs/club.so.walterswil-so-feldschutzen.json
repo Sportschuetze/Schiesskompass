@@ -5,24 +5,27 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.walterswil-so-feldschutzen",
+    "foundedYear" : 1864,
     "location" : "",
+    "logoPath" : "logos\/club.so.walterswil-so-feldschutzen.jpg",
     "name" : "Walterswil SO Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Walterswil FS SO",
+    "sourceURL" : "www.fswalterswil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fswalterswil.ch"
   },
-  "contentHash" : "sha256-0f929901c470f1536ca9e13995df1412a84e917806c4eb0837d113fd1bfe2a11",
+  "contentHash" : "sha256-eaf3564e11372350b85a3dbf16fc0ae8d1ebfef421ea48f37c1c7a22f1f9ba80",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,7 +61,7 @@
       "title" : "3. Reckolder-Schiessen 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

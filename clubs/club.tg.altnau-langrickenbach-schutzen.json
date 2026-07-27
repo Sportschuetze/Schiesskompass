@@ -5,24 +5,26 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.altnau-langrickenbach-schutzen",
+    "foundedYear" : 1895,
     "location" : "",
     "name" : "Altnau-Langrickenbach Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Altnau-Langrickenbach S",
+    "sourceURL" : "www.schuetzen-altnau.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schuetzen-altnau.ch"
   },
-  "contentHash" : "sha256-9d91a5548ef6f90aaa0143083bd92e83c5f59d3f25dc722e6ed9967585d82f96",
+  "contentHash" : "sha256-fec99bed3f25010b4400dd034c29d880cc2c7edab0aa41c927f8e2055c381f6f",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +75,7 @@
       "title" : "Öpfelschüüsse"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

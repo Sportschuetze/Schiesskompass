@@ -5,28 +5,29 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.s-chanf-societad-da-tregants",
+    "foundedYear" : 1921,
     "location" : "",
     "name" : "S-chanf Societad da tregants",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "S-chanf ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-63e5ecc774b840a17e349c70eee93c7335a789e0ac7ee2d4da9d022be0ca8712",
+  "contentHash" : "sha256-c9b7d4a20c465e78661f3f2e0a46d95443952531c33f5cf56d05d83e9648aca9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

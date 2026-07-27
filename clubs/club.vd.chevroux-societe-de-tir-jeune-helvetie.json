@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Chevroux Société de Tir Jeune Hélvétie",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chevroux ST Jeune Helvétie",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5e508776a502c8b76e65f7b6b57ccb5636d39ed0db0e6894ba54743375e99d07",
+  "contentHash" : "sha256-27fde65b8f30440cecdd2010f77db2beda2fbd634b3485798d539259beb50921",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

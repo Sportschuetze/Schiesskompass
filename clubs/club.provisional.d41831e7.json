@@ -5,28 +5,29 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.d41831e7",
+    "foundedYear" : 1876,
     "location" : "",
     "name" : "Ballwil Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ballwil SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-14acae30eefdba6b1a6b43e92231eedd2c138a4d9cde6338c4f5acc1c436e458",
+  "contentHash" : "sha256-b0973440cead15719f5c1f700c5e629c50f679e900cdb1cc7b647060067c93c5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

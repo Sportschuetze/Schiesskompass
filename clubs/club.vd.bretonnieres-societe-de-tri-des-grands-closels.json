@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Bretonnières Société de tri des Grands Closels",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bretonnières ST des Grands Closels",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-83d7ce027cc3beacaa16eaf6800323e19dec8023f4d90a546bcf1ab4b8358e33",
+  "contentHash" : "sha256-005e8c269034a594bc4ddddc0f8a79f94b4475f3d3bae3fb56a4b8fde10f5d5d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

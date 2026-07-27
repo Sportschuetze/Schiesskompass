@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Lauerz Standschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lauerz StandSG",
+    "sourceURL" : "www.stsglauerz.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.stsglauerz.ch"
   },
-  "contentHash" : "sha256-a6aee0e76782593452d6dbb6c22097b73b39ffc233f905980b8b3cef325b4b0e",
+  "contentHash" : "sha256-77e2105f49abce4d193233162c0af270c182bbdadb0edd18e740c15a0ca09aac",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

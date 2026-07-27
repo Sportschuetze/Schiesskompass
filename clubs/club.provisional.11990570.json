@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Fraubrunnen Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fraubrunnen PC",
+    "sourceURL" : "www.pcfraubrunnen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pcfraubrunnen.ch"
   },
-  "contentHash" : "sha256-1662abd74dae423b8c677ec4cc8872c6e7b67731fe554fb691ab113cf11b4cdf",
+  "contentHash" : "sha256-489e37d24daec1a5a6f2fe1cf03f28bc273ca8ef202cb6e39b2b8a3659e79b71",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

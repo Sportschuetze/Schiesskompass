@@ -5,28 +5,32 @@
     ],
     "canton" : "OW",
     "externalId" : "club.ow.sachseln-schutzengesellschaft",
+    "foundedYear" : 1828,
     "location" : "",
+    "logoPath" : "logos\/club.ow.sachseln-schutzengesellschaft.jpg",
     "name" : "Sachseln Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sachseln SG",
+    "sourceURL" : "www.sgsachseln.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgsachseln.ch"
   },
-  "contentHash" : "sha256-51d67836a405fafdfbc69dfc85c8d73f6252eeed96d36a5f0b0809e746c0e4d7",
+  "contentHash" : "sha256-da50af2ec77d8440735bfaad2293f36f68a93abfcd71a6f84fe2b10a06cb20bb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

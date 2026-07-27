@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Bümliz Arbeiterpistolenschützen",
     "offeredDisciplines" : [
-
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bümliz APS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a6029bf595b7a5de2a19c2ae10dcb5846145d1a4b3047b966dd02bf2838ae53c",
+  "contentHash" : "sha256-771e0c9564f0da5cd26b688011852fe3345f7cb338ca2060de90ac2608ea8cbe",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

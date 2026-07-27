@@ -5,28 +5,30 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.ettenhausen-tg-feldschutzen",
+    "foundedYear" : 1874,
     "location" : "",
+    "logoPath" : "logos\/club.tg.ettenhausen-tg-feldschutzen.jpg",
     "name" : "Ettenhausen TG Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ettenhausen TG FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2c1ce0a098774a9b4731e18298fc1604a4859eb2817da9a60a20fbbe96c6f159",
+  "contentHash" : "sha256-12db9f491dbae2ac49b2d43180586676dd8040172c9585ad10f5e33ff4e747b1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

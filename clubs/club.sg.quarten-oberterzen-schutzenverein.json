@@ -6,27 +6,28 @@
     "canton" : "SG",
     "externalId" : "club.sg.quarten-oberterzen-schutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.sg.quarten-oberterzen-schutzenverein.jpg",
     "name" : "Quarten-Oberterzen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Quarten-Oberterzen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cb52dc9f2c1d3e3e6c885f6d88d5334eb47b617ba5e837a6ca981d46a038b276",
+  "contentHash" : "sha256-d2f7d6f20316a0191057a351bf2184316bccf4e81cc55e2fbe561d15311ee369",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.wallenried-societe-de-tir-union",
+    "foundedYear" : 1914,
     "location" : "",
     "name" : "Wallenried Société de tir Union",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wallenried SdT Union",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-54fba5d9d6c4ec0210e78bb050b6c616dafc64ee4da6230ac68bbe29416f4a1a",
+  "contentHash" : "sha256-4fe99f5295a033ba327a936f20d077567bcf890ea437b1c4ec349256558895b6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

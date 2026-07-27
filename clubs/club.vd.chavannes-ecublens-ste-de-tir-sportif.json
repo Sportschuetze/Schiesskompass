@@ -5,28 +5,30 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.chavannes-ecublens-ste-de-tir-sportif",
+    "foundedYear" : 1881,
     "location" : "",
     "name" : "Chavannes-Ecublens Sté de tir sportif",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chavannes-Ecublens STS",
+    "sourceURL" : "https:\/\/tirsportifchavannesecublens.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/tirsportifchavannesecublens.ch\/"
   },
-  "contentHash" : "sha256-b0e164efef5d6b5f6b6dfcc52ba5935b267a6e9e9af17ab1e8890c9e312773b2",
+  "contentHash" : "sha256-b1ee2e0fa540769e5b869a355e0edc66faf8ac1ad7d49c071d2479fa80df35f4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

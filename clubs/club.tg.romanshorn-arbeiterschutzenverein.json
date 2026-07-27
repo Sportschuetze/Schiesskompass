@@ -5,28 +5,30 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.romanshorn-arbeiterschutzenverein",
+    "foundedYear" : 1909,
     "location" : "",
+    "logoPath" : "logos\/club.tg.romanshorn-arbeiterschutzenverein.jpg",
     "name" : "Romanshorn Arbeiterschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Romanshorn ASV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bc97f153c1f9b7c688e2e83d54edb128507e253d984320ac6c68957d3ffd76dd",
+  "contentHash" : "sha256-842d7616fa81eab12b6d510868719a1c4e01b911d2cef7d74925bba78165228f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

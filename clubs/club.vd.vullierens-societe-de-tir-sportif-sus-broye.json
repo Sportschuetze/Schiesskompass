@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Vullierens Société de Tir sportif Sus-Broye",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vullierens STS Sus-Broye",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d0dad5b38fda1ea1dd0c9b51cd31e60d91871e8f283afd2882d0d53a0f722438",
+  "contentHash" : "sha256-a81eac1212eb3cfafb658e551e2e53013c757e79beec594544ad6c322fb4b85a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,27 @@
     ],
     "canton" : "SH",
     "externalId" : "club.sh.altdorf-opfertshofen-schutzengesellschaft",
+    "foundedYear" : 1885,
     "location" : "",
     "name" : "Altdorf-Opfertshofen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Altdorf-Opfertshof SG",
+    "sourceURL" : "www.sgaltdorfopfertshofen.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgaltdorfopfertshofen.ch\/"
   },
-  "contentHash" : "sha256-9b722afd886034d1239e859efcaf45d35a7b47902fad9e42405c9088fd058637",
+  "contentHash" : "sha256-bd0b94906b7e1576a81692742b1c65ca50008f331702e137f1608f0582ce6115",
   "events" : [
     {
       "championshipTags" : "",
@@ -53,7 +56,7 @@
       "title" : "Nachtschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

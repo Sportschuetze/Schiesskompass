@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.6325b675",
+    "foundedYear" : 1870,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.6325b675.jpg",
     "name" : "Reutigen Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Reutigen FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f0d25b867f50d0908d717d9d8cc3bfaf0b483f0d4932650ecb268247106d4538",
+  "contentHash" : "sha256-b20583631cdf571c797c9a4006ab8ef02bdedbdd56343775c36ece3ff9756365",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Biber SchützenClub",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Biber SC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8941d2d5b01e9523ebac137e55f22126c465db0d1d2d6fe7b409c191d8917ee9",
+  "contentHash" : "sha256-8684ffd39dbff27a8da60be4b1b20688c6dabb770e2e1965c33100c0a87e653e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

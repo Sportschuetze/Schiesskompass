@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Cottens et Environs Société des tireurs sportifs",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cottens et Environs ST TS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-12314d74f390ae1d64deabd4db322c61a042cb53612e5e7be2406b140e8d70d9",
+  "contentHash" : "sha256-4379902ae8b28bb62e60e8f50deedabc2cbfb4bc28689632d6e386dcffcba818",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

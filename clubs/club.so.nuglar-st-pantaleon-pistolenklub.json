@@ -6,27 +6,31 @@
     "canton" : "SO",
     "externalId" : "club.so.nuglar-st-pantaleon-pistolenklub",
     "location" : "",
+    "logoPath" : "logos\/club.so.nuglar-st-pantaleon-pistolenklub.jpg",
     "name" : "Nuglar - St. Pantaleon Pistolenklub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Nuglar - St. Pantaleon PK",
+    "sourceURL" : "www.pistolenklub.info",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pistolenklub.info"
   },
-  "contentHash" : "sha256-cd125eb502bac84d0fb22151d9049f839612f25616fa329e260f8f039cd0e539",
+  "contentHash" : "sha256-88d323a14a22763f3802ecfc701d63a22fb86f8577fde4537742f74a15620c55",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

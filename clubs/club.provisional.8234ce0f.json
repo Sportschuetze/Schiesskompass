@@ -5,24 +5,29 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.8234ce0f",
+    "foundedYear" : 2014,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.8234ce0f.jpg",
     "name" : "Kloten-Dietlikon Bettensee Schützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kloten-Dietlikon BS",
+    "sourceURL" : "www.bettensee-schuetzen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.bettensee-schuetzen.ch"
   },
-  "contentHash" : "sha256-c389d192b634ff43a84ee9e5b9d66b398884db3dc67eb4f6db5e2482f1e10582",
+  "contentHash" : "sha256-9ca878e1edffededefbd952068e8af6422ff35b4817bf07f3962de9010396c8d",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +73,7 @@
       "title" : "1. Augustschiessen Kloten 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Escholzmatt Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Escholzmatt SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3b2ee9129fdbce672e7dd9b60f4901c22848f036b39652194cbe1e77de2b99c4",
+  "contentHash" : "sha256-d8bffe32ae78c2088cae0d082734f94455732793aef641aa447ccd672a5e729b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

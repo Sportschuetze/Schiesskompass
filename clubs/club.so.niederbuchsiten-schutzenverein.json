@@ -5,28 +5,32 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.niederbuchsiten-schutzenverein",
+    "foundedYear" : 1990,
     "location" : "",
+    "logoPath" : "logos\/club.so.niederbuchsiten-schutzenverein.jpg",
     "name" : "Niederbuchsiten Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niederbuchsiten SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b8bd558a95d38c91ff9dba7a4198d0380b3ea9253c46775af523ec571940a2b7",
+  "contentHash" : "sha256-b873c27e741d1fa1c4b7507173fee1441101add25cd32f50308d941c7a23ccbe",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

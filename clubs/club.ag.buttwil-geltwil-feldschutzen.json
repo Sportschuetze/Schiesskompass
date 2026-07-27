@@ -6,27 +6,28 @@
     "canton" : "AG",
     "externalId" : "club.ag.buttwil-geltwil-feldschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.ag.buttwil-geltwil-feldschutzen.jpg",
     "name" : "Buttwil-Geltwil Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Buttwil-Geltwil FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7b8732e56ca3325a6c29844d20da6e57591cfc7795a730c59bacff526168fcc1",
+  "contentHash" : "sha256-a9794449d1dae494b44dff4c044b27c635fb795b0219afb416f9b3b584b777c5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,33 @@
     ],
     "canton" : "VS",
     "externalId" : "club.vs.ried-brig-glis-ssz-chalchofen",
+    "foundedYear" : 2006,
     "location" : "",
+    "logoPath" : "logos\/club.vs.ried-brig-glis-ssz-chalchofen.jpg",
     "name" : "Ried-Brig-Glis SSZ Chalchofen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ried-Brig-Glis SSZ Chalchofen",
+    "sourceURL" : "www.ssz-chalchofen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ssz-chalchofen.ch"
   },
-  "contentHash" : "sha256-95ac42e8528aa1d0568c941026416ae552261dc9db14a012614ed43cb9f0bdb2",
+  "contentHash" : "sha256-c6454ee86e7df9d26747a712a5990149df014901411c49c78dd519fcd63c5390",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

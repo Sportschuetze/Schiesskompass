@@ -6,27 +6,28 @@
     "canton" : "TG",
     "externalId" : "club.tg.uesslingen-feldschutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.tg.uesslingen-feldschutzengesellschaft.jpg",
     "name" : "Uesslingen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Uesslingen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e763b5f9aea2e52c8047bffee6df55a54690318a9337bc97a4144589bc77be3c",
+  "contentHash" : "sha256-2aa0e6c725622431f2c4b9f3d2abceeaf318fb4c51d4baac7d2291ccefdc8d5b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

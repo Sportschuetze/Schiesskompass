@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Cully Sté Les Amis du tir de la Cornallaz",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cully Sté Les Amis du tir de la Cornallaz",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-80c899a53f0370198942a2125e0bcc70eacfc5ca039a093ce516f3877ac8c862",
+  "contentHash" : "sha256-8ded8469668b458b9c1cf529c2f55c53b2d5e2d294a871668b6d61f29b0afb3f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

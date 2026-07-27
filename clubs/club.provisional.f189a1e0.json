@@ -5,28 +5,34 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.f189a1e0",
+    "foundedYear" : 1819,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.f189a1e0.jpg",
     "name" : "Sursee Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sursee FSG",
+    "sourceURL" : "www.fsg-sursee.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsg-sursee.ch"
   },
-  "contentHash" : "sha256-2ba6282ca9711a7e06ef0386180eee7ab449adbc24271d770db9f68b18ef534a",
+  "contentHash" : "sha256-cb9800d6270a4bf76c5b6471059cfb6e087e7819f0426df2ca60cb5f5cb10a2f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

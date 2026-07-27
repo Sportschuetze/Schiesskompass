@@ -6,27 +6,29 @@
     "canton" : "AG",
     "externalId" : "club.ag.beinwil-feldschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.ag.beinwil-feldschutzen.jpg",
     "name" : "Beinwil Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Beinwil FS",
+    "sourceURL" : "www.fsg-beinwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsg-beinwil.ch"
   },
-  "contentHash" : "sha256-5206d382ae4d15bf9f5f2c0043613046e1ed345dc576c5075e7b0795945f7451",
+  "contentHash" : "sha256-72af08786290268afdc7e8a9f4d4cb515cd66a9e6d36d55c672609f83ea64113",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

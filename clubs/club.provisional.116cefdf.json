@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "St. Stephan Freischützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St. Stephan FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c3cc2aa55b6cb9e8cafe4c08e7c706d2fc956089b3614c2325da82d950861f41",
+  "contentHash" : "sha256-8be5346e90f29025b46189d54155f889a5fea7a3bc7d418637e1459c4adf04a8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

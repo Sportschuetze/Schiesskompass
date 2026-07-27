@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Haldenstein Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Haldenstein SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-edc1daa2fca4dfdd0579687111c9f8a065a19743a0b92c684e241af2e90c36ab",
+  "contentHash" : "sha256-dc99453f8fedea13ef92a15e520acf9e733a921e38f055559f0cac5e38d1d085",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

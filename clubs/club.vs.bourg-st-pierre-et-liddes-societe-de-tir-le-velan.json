@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Bourg-St-Pierre et Liddes Société de tir Le Vélan",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bourg-St-Pierre et Liddes Sdt Le Vélan",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9da79eed7715a3475bcaabe93dbfeb0f1e441122b2aabfe5e9db2d586f49f269",
+  "contentHash" : "sha256-3bd57603c0ea240c2ae6d4ea04f6b8aaca225a74abe574d8775f221744244d81",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

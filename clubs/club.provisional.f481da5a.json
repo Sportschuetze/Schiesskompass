@@ -5,28 +5,31 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.f481da5a",
+    "foundedYear" : 1972,
     "location" : "",
     "name" : "Hitzkirchertal Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hitzkirchertal PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8c22b236e6fb28675578f22821a4220e6475be1ff22594d8ffd6c01df33570b1",
+  "contentHash" : "sha256-b683707323ac864bd6d87242bf4f81163507d6a357dd15030fa807df434117e2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

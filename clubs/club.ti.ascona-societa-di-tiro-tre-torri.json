@@ -5,28 +5,30 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.ascona-societa-di-tiro-tre-torri",
+    "foundedYear" : 1878,
     "location" : "",
     "name" : "Ascona Società di Tiro Tre Torri",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ascona St Tre Torri",
+    "sourceURL" : "http:\/\/tiro.bazzi.name\/Benvenuto.html",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "http:\/\/tiro.bazzi.name\/Benvenuto.html"
   },
-  "contentHash" : "sha256-d92ad1e82b9d0dcc3c913d761f9c5456ed4ea0d00309059cee266813007e3ec7",
+  "contentHash" : "sha256-2932f881a2f7c5cb44f52409e3c5893deb5df8b0ce23a86eb4794ccbf43afcc7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

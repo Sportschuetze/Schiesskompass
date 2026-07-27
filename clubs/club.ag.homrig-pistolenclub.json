@@ -5,28 +5,32 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.homrig-pistolenclub",
+    "foundedYear" : 1978,
     "location" : "",
     "name" : "Homrig Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Homrig PC",
+    "sourceURL" : "www.pc-homrig.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pc-homrig.ch"
   },
-  "contentHash" : "sha256-a7d3d7e42173a8690a3b16abe94c8bab8ebba64118a487db0c09c7256eed1c5b",
+  "contentHash" : "sha256-f5cea191107c8fd9f3eb95cf60abfdb748725ecf1f1b7dbc36e6b1508a5d49a2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

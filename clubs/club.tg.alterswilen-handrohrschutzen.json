@@ -5,28 +5,32 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.alterswilen-handrohrschutzen",
+    "foundedYear" : 1939,
     "location" : "",
+    "logoPath" : "logos\/club.tg.alterswilen-handrohrschutzen.jpg",
     "name" : "Alterswilen Handrohrschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Alterswilen HRS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d558e201eefb61ebc255f2089f2bddbe51f418e21ca58a8feb8e88d1a843e9bf",
+  "contentHash" : "sha256-9cfee3ee39a1d0383a9bb1871fa05e9aee0501e9ab84e89e32bcb31de77a4572",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

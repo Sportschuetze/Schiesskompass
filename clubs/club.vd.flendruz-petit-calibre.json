@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Flendruz Petit Calibre",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Flendruz PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-35d18aa73a37c12a0c29fd6988f353290f4b6d3920a467db1ed2b58044802488",
+  "contentHash" : "sha256-e0c3ff132f238b56b3063bd0f8afbb1b90a19412990aeeffefb76b5cb9a05e0c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

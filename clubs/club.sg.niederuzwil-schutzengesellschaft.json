@@ -5,28 +5,30 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.niederuzwil-schutzengesellschaft",
+    "foundedYear" : 1870,
     "location" : "",
+    "logoPath" : "logos\/club.sg.niederuzwil-schutzengesellschaft.png",
     "name" : "Niederuzwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niederuzwil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7a29f697b52f9324696d5135e8a222152513fac3ce9fd25a2cd386c0dc637c1f",
+  "contentHash" : "sha256-3a0cbee5ca98065218b6dd23dadb3718ae35889be1233f7227b4e417b0199767",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

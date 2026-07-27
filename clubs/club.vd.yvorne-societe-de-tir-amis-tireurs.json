@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Yvorne Société de tir Amis Tireurs",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Yvorne ST Amis Tireurs",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-84e8dac1e5bf5a330131141eb2648b354d7a801b2c28fb4e578e1a3036d0ab95",
+  "contentHash" : "sha256-35ec0033ecea9ff72ff982c7021b1ba91a5518442a19433c270817f91e881721",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

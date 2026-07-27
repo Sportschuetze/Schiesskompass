@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.beinwil-am-see-schutzengesellschaft",
+    "foundedYear" : 1861,
     "location" : "",
     "name" : "Beinwil am See Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Beinwil am See SG",
+    "sourceURL" : "https:\/\/sg-beinwilamsee.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/sg-beinwilamsee.ch\/"
   },
-  "contentHash" : "sha256-ee73ec9e86da9073812c7e8b6b498a6e32fba7a353e9e804810ea3098e6aa9ce",
+  "contentHash" : "sha256-a790db568749596c57b1ac805a8365191744dc673ca01f0af750daf1e9d7def4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

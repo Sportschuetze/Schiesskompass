@@ -6,27 +6,28 @@
     "canton" : "SO",
     "externalId" : "club.so.balm-b-messen-schutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.so.balm-b-messen-schutzenverein.jpg",
     "name" : "Balm b. Messen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Balm b. Messen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f6804c4140b7701ab9f52e8abca449d875d35c48b1ec12eca6580964bdb07fe7",
+  "contentHash" : "sha256-ecefbd0d9d6455fd510ce8f12d45e4a6de8308db8737c78bcc40adca37662bd0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

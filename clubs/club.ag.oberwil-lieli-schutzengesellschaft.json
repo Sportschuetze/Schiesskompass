@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Oberwil-Lieli Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberwil-Lieli SG",
+    "sourceURL" : "www.sgol.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgol.ch"
   },
-  "contentHash" : "sha256-533e65128cbf972267c01ef6cbf862d0f52630a36acc3650fdb0566966371a9e",
+  "contentHash" : "sha256-dcba87cc4268b53f8dba7817fc898fbd2bf7a39489d252ccddb02be761763b07",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

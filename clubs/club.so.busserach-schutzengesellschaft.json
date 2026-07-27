@@ -6,27 +6,28 @@
     "canton" : "SO",
     "externalId" : "club.so.busserach-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.so.busserach-schutzengesellschaft.jpg",
     "name" : "Büsserach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Büsserach SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b6aa1298f342990e08e8052e0ad06e6418cc6bc698590f3fa3568b8c876048d3",
+  "contentHash" : "sha256-4b4246ea51ab5952b0f27c04d311f71aef0627080f78cf0b5295f746c1350381",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

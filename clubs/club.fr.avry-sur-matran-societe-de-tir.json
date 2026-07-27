@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Avry-sur-Matran Société de tir",
     "offeredDisciplines" : [
-
+      "G10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Avry-sur-Matran ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-103c51a0ee2dadf79a22d08d54844f2e2b393ea1352106bb6b19016277ecf079",
+  "contentHash" : "sha256-547fa785cfce05a652977e884a11304c6c50f5e0332d8ea3a795782f22ebc9f2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

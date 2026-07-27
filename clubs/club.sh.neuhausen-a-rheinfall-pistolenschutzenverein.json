@@ -5,28 +5,31 @@
     ],
     "canton" : "SH",
     "externalId" : "club.sh.neuhausen-a-rheinfall-pistolenschutzenverein",
+    "foundedYear" : 1981,
     "location" : "",
     "name" : "Neuhausen a. Rheinfall Pistolenschützenverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Neuhausen a\/Rhf. PSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0ed56fafe7b947e5088553511d783d99d143bb5b08d6b5ac0d304ac4b0cbe209",
+  "contentHash" : "sha256-275685053ca10895c8da613fa423b139174d1fb68c428cd9367bc43c199fb24d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

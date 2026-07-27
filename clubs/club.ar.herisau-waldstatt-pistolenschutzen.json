@@ -6,27 +6,30 @@
     "canton" : "AR",
     "externalId" : "club.ar.herisau-waldstatt-pistolenschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.ar.herisau-waldstatt-pistolenschutzen.jpg",
     "name" : "Herisau-Waldstatt Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Herisau-Waldstatt PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-177af175829de83f4528bfa5c6df08bbe063ce83aef930bbb9b70bd9bdef0c42",
+  "contentHash" : "sha256-afc1bd722b31b6908c6b6d01f7bea9eaaf2e7eff8b42ca1ba8c780aa3e3cf5f0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

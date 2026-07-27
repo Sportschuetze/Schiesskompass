@@ -5,28 +5,30 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.stabio-societa-di-tiro-aurora",
+    "foundedYear" : 1945,
     "location" : "",
     "name" : "Stabio Società di tiro Aurora",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Stabio St Aurora",
+    "sourceURL" : "www.aurorastabio.com",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.aurorastabio.com"
   },
-  "contentHash" : "sha256-a2e6c72488dc8d56ae01f217fa589f5757ea2bc8919387b1a6aafc20688f0839",
+  "contentHash" : "sha256-e1f8728c0d3d43b73eae9e74510448e423e6a7b464dd09efa2bc5c19f8a3d6ac",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

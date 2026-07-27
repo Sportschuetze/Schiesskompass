@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Rüti-Arch Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rüti-Arch Schützen",
+    "sourceURL" : "https:\/\/schuetzen-rueti-arch.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/schuetzen-rueti-arch.ch\/"
   },
-  "contentHash" : "sha256-071162a431b5fcb2798db2020e873e4e06a8eba0db111a14532ac7a187932b95",
+  "contentHash" : "sha256-8557e7f1f19553a7cff600de09d582107c5abe1d62f62314f75e9c42e04ee667",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

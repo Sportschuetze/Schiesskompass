@@ -5,28 +5,34 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.lutry-societe-de-tir-les-mousquetaires",
+    "foundedYear" : 1926,
     "location" : "",
     "name" : "Lutry Société de tir Les Mousquetaires",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lutry ST Les Mousquetaires",
+    "sourceURL" : "https:\/\/mousquetaires.lutry.club\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/mousquetaires.lutry.club\/"
   },
-  "contentHash" : "sha256-f44eb3da61f33beeb6f3273335af4cdf0f48e11209632f7c6716750632891561",
+  "contentHash" : "sha256-d901c9dca352390e6d5bad45c0e565cea668e76ef2e880e9218119bb222e811c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

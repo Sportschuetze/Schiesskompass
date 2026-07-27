@@ -5,28 +5,30 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.cavagnago-societa-di-tiro-pizzo-erra",
+    "foundedYear" : 1947,
     "location" : "",
     "name" : "Cavagnago Società di Tiro Pizzo Erra",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cavagnago St Pizzo Erra",
+    "sourceURL" : "www.stpe-cavagnago.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.stpe-cavagnago.ch"
   },
-  "contentHash" : "sha256-4c17cf5c8442cd6e01143e04c842c7c3ea83909e7655dba825a6569a6ad49395",
+  "contentHash" : "sha256-ff408552918293a518e4fc5cfcfbab04ebf26a41f2313f7a919d73b7b1d42074",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

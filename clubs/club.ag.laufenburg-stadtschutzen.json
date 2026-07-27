@@ -5,28 +5,32 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.laufenburg-stadtschutzen",
+    "foundedYear" : 1507,
     "location" : "",
     "name" : "Laufenburg Stadtschützen",
     "offeredDisciplines" : [
-
+      "G50",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Laufenburg Stadt",
+    "sourceURL" : "https:\/\/stadtschuetzenlaufenburg.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/stadtschuetzenlaufenburg.ch\/"
   },
-  "contentHash" : "sha256-2e3c9f10931e0ec0637f0933d1db0b5e4f14281f0bf53e68a7d6602c264337db",
+  "contentHash" : "sha256-9f6e421899c2f86b0715187d795a9dec6f638c2b5e3828d5802c6c4a6a861ccb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

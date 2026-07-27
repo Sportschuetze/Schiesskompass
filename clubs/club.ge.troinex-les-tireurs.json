@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Troinex Les Tireurs",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Troinex Les Tireurs",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c47cb9371338f6228184b1feccaeb1b59dfebe9f9486f4c0925c2e6bda5d4282",
+  "contentHash" : "sha256-810c067e6f002a3c4899c3b222f360d0404970f6c19882b714a97e9458a5dc6f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

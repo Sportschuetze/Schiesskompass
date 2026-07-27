@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Ennetbaden Pistolensektion",
     "offeredDisciplines" : [
-
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ennetbaden PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-010fb87a0203d9819686894236d16675188f9a2d0a59b4dd5febc52c3dd3b7ec",
+  "contentHash" : "sha256-8c1fc84b6cdcfd1f50bab65bb76f87066caa0ed8ebc123cc771ebe10040510bc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

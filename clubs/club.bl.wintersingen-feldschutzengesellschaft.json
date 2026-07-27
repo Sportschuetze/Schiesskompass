@@ -5,28 +5,29 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.wintersingen-feldschutzengesellschaft",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Wintersingen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wintersingen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-619d148865d6e1c025e0dd7e0fe4fd9a768954400bd9385fc491551a8edb47a6",
+  "contentHash" : "sha256-d2fabb6f2485e3e95313892c8311d5541fcbece0dc44a9f74f0bae39329b818a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

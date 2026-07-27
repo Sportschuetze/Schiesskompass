@@ -6,27 +6,28 @@
     "canton" : "VD",
     "externalId" : "club.vd.orbe-tir-sportif-carabiniers",
     "location" : "",
+    "logoPath" : "logos\/club.vd.orbe-tir-sportif-carabiniers.jpg",
     "name" : "Orbe Tir Sportif Carabiniers",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Orbe TS Carabiniers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3e5f7b1b935eb967e49027757edae5f0956e7b42397ab5dee581f73bb1d2b5f4",
+  "contentHash" : "sha256-c186d2802835d28b958ddc1b0fac4fe41cf00b255a3d0c6ac7066bad9323b047",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.reinach-bl-schutzengesellschaft",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Reinach BL Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Reinach BL SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-33a63da347b05cf144a9f80548dc523fca3d440faf2383ccae527a2f2fb9107b",
+  "contentHash" : "sha256-5a068d40bc4fa1ae75f819a9cee2f82e4be44d23ebb02f4b3dae275465ca2772",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

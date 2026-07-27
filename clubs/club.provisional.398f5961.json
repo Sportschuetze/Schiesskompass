@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Bumbach Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bumbach FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4360676f316d8b73d69e9acb5c0e7003ec4ef9e77a5000e8278484384ad2a2d7",
+  "contentHash" : "sha256-42af76c35f80c50fc1ae1ce1d3976d090ffa3d55cd0624f5af59975acbe29751",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Sumiswald-Wasen Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sumiswald-Wasen Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-62ab0be4430158082d7c9ba1b45810bf750365979406d3ee46fca3db67e8ac62",
+  "contentHash" : "sha256-f6a873bcee0985b86d4fc57405037e298bbfc6cf8cda11da3b9f91520cd66bdf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

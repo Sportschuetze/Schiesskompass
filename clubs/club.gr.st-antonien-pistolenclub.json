@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "St. Antönien Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St. Antönien PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-93472a60d056feaeeb628a1a4f9e667633562b7ebd11dd6318e67f1a6cbaf621",
+  "contentHash" : "sha256-e7ba6529f55bed0d6c2d33c0a13f1b5795f601b2d8c81560e9045ecb26204fe4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

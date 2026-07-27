@@ -5,28 +5,32 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.st-luzisteig-vereinigte-schutzengesellschaft",
+    "foundedYear" : 2001,
     "location" : "",
     "name" : "St. Luzisteig Vereinigte Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St. Luzisteig VSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ab4a0eff2eb15eb789c6645656187e07fafcbee7756ad45b4f255a941def59c9",
+  "contentHash" : "sha256-10b77a4314f6a7f881d6c257f2382dd9b6d372b2776a9fbe5aa502abe6f4ce2d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

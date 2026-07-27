@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Botterens Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Botterens ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-93f08c49c9dddb3dd52e0c73c3c46ca0940c3113ab6d27437710b6dd004b4ee5",
+  "contentHash" : "sha256-7451f340eed3c677987b7f79653397d2bc36b45c4a2313bb0fa6d02a42d78ca4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

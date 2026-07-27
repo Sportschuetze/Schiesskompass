@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Tägerig Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Tägerig SG",
+    "sourceURL" : "www.sgtaegerig.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgtaegerig.ch"
   },
-  "contentHash" : "sha256-823047d402f57bc0f3d0085ca325e587dd9f0f33be1d82efb1896be85baac537",
+  "contentHash" : "sha256-c39f819e192e81f5965b97da2cced9224c4ad3ac3a84ca2ddcc583c7ac8ff6d1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

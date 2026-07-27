@@ -5,28 +5,31 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.8075fd91",
+    "foundedYear" : 1923,
     "location" : "",
     "name" : "Spiez Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Spiez Sport",
+    "sourceURL" : "www.sportschuetzen-spiez.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sportschuetzen-spiez.ch"
   },
-  "contentHash" : "sha256-7ec4d78abb6bb57d83041b5696643881be155bb7f275dba7e7987f04f3e33f2f",
+  "contentHash" : "sha256-5450a14b7aeacc32117e2ee86f4f92dad0064d8fef7a7799d5412c4aa7b3d0ad",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

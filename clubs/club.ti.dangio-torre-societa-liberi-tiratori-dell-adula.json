@@ -5,28 +5,29 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.dangio-torre-societa-liberi-tiratori-dell-adula",
+    "foundedYear" : 1898,
     "location" : "",
     "name" : "Dangio-Torre Società Liberi Tiratori dell'Adula",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dangio-Torre Slt dell'Adula",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3c64d724ad84415d4fae0007a638f7f5e55000631621ef81ad9f0cca0800b91a",
+  "contentHash" : "sha256-d3f05e13fc51c100506cefe36a6b30fa4c1c217cf42330954761ef97e192e010",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.838e537f",
+    "foundedYear" : 1869,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.838e537f.jpg",
     "name" : "Schönenberg Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schönenberg FSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1d3fdedee026b7d313a581629289957078db80dd5b8320e194f44b3ca2186be8",
+  "contentHash" : "sha256-7812fd53e1d5fcca3b0158992f74fdb6de480256e60004cb761b4a9a12ca0f0b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,28 @@
     "canton" : "GL",
     "externalId" : "club.gl.mollis-schutzen",
     "location" : "",
+    "logoPath" : "logos\/club.gl.mollis-schutzen.jpg",
     "name" : "Mollis Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mollis S",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-181522f9ca8291a1f5af0452085cd2c8f52d58be2c310ee6d03c96a291e8119c",
+  "contentHash" : "sha256-560dd36c57a19e816d75051f527bba9e65dec255962ced1583295a33312f390e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

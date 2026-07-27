@@ -6,27 +6,29 @@
     "canton" : "BE",
     "externalId" : "club.provisional.a24fa251",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.a24fa251.jpg",
     "name" : "Habkern Freischützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Habkern FS",
+    "sourceURL" : "www.freischuetzenhabkern.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.freischuetzenhabkern.ch"
   },
-  "contentHash" : "sha256-02b2d5edf6a3e2a132d393157f0223956bc773d7096cd9936af0d54cf5e58c45",
+  "contentHash" : "sha256-a8f631c9bc2487ecd1f87e2d0ab1c7fb56a8af6218bbd7b45ba5f30f0d992a36",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

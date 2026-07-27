@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Bettens Société de tir Armes de guerre",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bettens ST Armes de guerre",
+    "sourceURL" : "sites.google.com\/view\/tirbettens\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "sites.google.com\/view\/tirbettens\/"
   },
-  "contentHash" : "sha256-596d662b569120c4aaf3e810c9544546cb440d923ece609aba0105aa3d8dff43",
+  "contentHash" : "sha256-3e2e4479da29988fd7174cd9bf8165bd4d744209bcdddfb6663ae66de37bdfb0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

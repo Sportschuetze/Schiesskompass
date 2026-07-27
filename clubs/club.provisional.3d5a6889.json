@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Oberwil i\/S. Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberwil i\/S. FS",
+    "sourceURL" : "www.fsoberwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsoberwil.ch"
   },
-  "contentHash" : "sha256-5301cd2bd3c54c39b60641086b83fd581fc2f338ac56f359807def9cae587597",
+  "contentHash" : "sha256-4db3be6f6ae2ed5484d403fe29f9da43a976160de8705cb4400629b99aebeed2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

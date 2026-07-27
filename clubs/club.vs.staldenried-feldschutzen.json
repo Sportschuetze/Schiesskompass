@@ -5,28 +5,32 @@
     ],
     "canton" : "VS",
     "externalId" : "club.vs.staldenried-feldschutzen",
+    "foundedYear" : 1928,
     "location" : "",
+    "logoPath" : "logos\/club.vs.staldenried-feldschutzen.jpg",
     "name" : "Staldenried Feldschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Staldenried FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e1fd8e6e0a447467bd4f9d20a54a2926459debf8dee47cd0e3afc442d8d6a155",
+  "contentHash" : "sha256-ac4672f73a18bb71e38661cfdf4e0ea36e0764f54098eb62aeb37527a33f4fcf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

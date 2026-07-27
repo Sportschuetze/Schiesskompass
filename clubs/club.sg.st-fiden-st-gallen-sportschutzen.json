@@ -5,28 +5,32 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.st-fiden-st-gallen-sportschutzen",
+    "foundedYear" : 1620,
     "location" : "",
     "name" : "St. Fiden - St. Gallen Sportschützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St. Fiden - St. Gallen Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-745b9139edcb9e612f2aa1c57bc59f876c64d1e619133c167ffc794350361f98",
+  "contentHash" : "sha256-6ece95120353502e6186589443134926fe60ccd981c0bba3304cae46d73a1829",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

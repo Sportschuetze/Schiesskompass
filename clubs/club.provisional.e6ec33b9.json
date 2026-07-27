@@ -5,28 +5,30 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.e6ec33b9",
+    "foundedYear" : 1889,
     "location" : "",
     "name" : "Greppen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Greppen SG",
+    "sourceURL" : "www.sg-greppen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-greppen.ch"
   },
-  "contentHash" : "sha256-fc8d9c8c081f1d3191bffcd9ef835f35bef7c17a61935f6ddd069f8e4bf86e70",
+  "contentHash" : "sha256-5040a2c9b4b9ccd7c93056d8e05b3ae0b6de2eb81b5fd5d772625465fd75f8f0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

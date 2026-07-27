@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Prilly Société de tir La Défense",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Prilly ST La Défense",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-427bb4bd246dedabb135556e4f94769971b531774e1f766ce7494086d10bca1b",
+  "contentHash" : "sha256-d74ad715fc63bce31a752ea3e37c1ed3beb9a5e8e78ac791709b2173704dd9cf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

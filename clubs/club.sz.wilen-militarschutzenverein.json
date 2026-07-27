@@ -6,27 +6,28 @@
     "canton" : "SZ",
     "externalId" : "club.sz.wilen-militarschutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.sz.wilen-militarschutzenverein.jpg",
     "name" : "Wilen Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wilen MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e08c330b7c0088c803c11d0cfe7b6457bcf1be2b26b49b233a9cf438797d83b2",
+  "contentHash" : "sha256-89b303b0886079eaa04f5b918f5069dffdd531c2709684ac8ec51fbfe75094d8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

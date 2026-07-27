@@ -5,28 +5,34 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.fribourg-societe-de-tir-de-la-ville",
+    "foundedYear" : 1493,
     "location" : "",
     "name" : "Fribourg Société de tir de la Ville",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fribourg ST de la Ville",
+    "sourceURL" : "http:\/\/www.tir-fribourg.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "http:\/\/www.tir-fribourg.ch\/"
   },
-  "contentHash" : "sha256-510d0f11f67e637c85bbcf70372cf6cde6f9c49e607e1714718e140cf19bd518",
+  "contentHash" : "sha256-cbfd709b29bd7dab4b82c24180d74885a96c6d18765c7b510d8dc1eadffcdf0a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

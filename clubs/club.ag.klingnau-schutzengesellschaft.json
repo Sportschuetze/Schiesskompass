@@ -5,28 +5,32 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.klingnau-schutzengesellschaft",
+    "foundedYear" : 1410,
     "location" : "",
     "name" : "Klingnau Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Klingnau SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-dfc8af24e347004f9626c52fb2a9c101f9dc4564140c24d2e0a7c08426786356",
+  "contentHash" : "sha256-b9315a15fe7ea6831e817b1ffd23bb98152778099e746792c3f56b389453c8dd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

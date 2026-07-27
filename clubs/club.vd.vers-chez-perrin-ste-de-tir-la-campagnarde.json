@@ -5,28 +5,29 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.vers-chez-perrin-ste-de-tir-la-campagnarde",
+    "foundedYear" : 1910,
     "location" : "",
     "name" : "Vers-chez-Perrin Sté de tir La Campagnarde",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vers-chez-Perrin ST La Campagnarde",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d558dda24cb68846b4a5c925bd004bfbc79b8e395494561b9f8aae96e4bcea51",
+  "contentHash" : "sha256-ec578bba4f0fc8574564a1a0ff9b9cd3adcc633617b7635d06251d46d1978ba8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

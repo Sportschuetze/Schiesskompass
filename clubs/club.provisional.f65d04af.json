@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Lauterbrunnen Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lauterbrunnen FS",
+    "sourceURL" : "www.fs-lauterbrunnen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fs-lauterbrunnen.ch"
   },
-  "contentHash" : "sha256-6d2fe0512fe1714d99eb6967fffbac971b3e5c049016206cebe874fc8c7bb9ed",
+  "contentHash" : "sha256-e7bd1d92af56ddb6be82c6c7c6e727adb2513f9842c36312acee23a63b9ed7fd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

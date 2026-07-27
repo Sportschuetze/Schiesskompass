@@ -5,28 +5,29 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.8447a0b0",
+    "foundedYear" : 2017,
     "location" : "",
     "name" : "Roggliswil-Pfaffnau Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Roggliswil-Pfaffnau FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-aabcdeb65f10027ed9133827635277e629b2ae3cade1395deb6c132a176106b5",
+  "contentHash" : "sha256-236813ca1de1a7e77d1d7a7d44913cb3ca62735a6fcf1844bfcb274d33a0f613",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

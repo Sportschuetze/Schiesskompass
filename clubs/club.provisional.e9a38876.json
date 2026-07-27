@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Büren an der Aare Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Büren a.A. PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1db60bb4007e07dfb03f7d0d978b40e1d6e11889ca9fd2065a57b111d463d460",
+  "contentHash" : "sha256-4142d680cc959ba04c7a8eb46b5617c557660e4b17bd1cf440bfc0d08b4031ac",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

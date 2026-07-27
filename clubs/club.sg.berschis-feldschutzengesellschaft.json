@@ -5,28 +5,29 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.berschis-feldschutzengesellschaft",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Berschis Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Berschis FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d32536f398ae70114521fdd211981901c6dd6530aab1eaa414042d7d64865532",
+  "contentHash" : "sha256-7f90821a7e01ded23600b1d8780d1571ae7fd878678f6f58f805d1df2b88a89d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

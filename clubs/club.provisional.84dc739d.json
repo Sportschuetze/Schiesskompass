@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Wynigen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wynigen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ad65f5e5afeab2d5c5ead0ff29105bd587b1be96dad49bd76fe2e859322543c8",
+  "contentHash" : "sha256-f4c3f2c17bef499244c4f1e3e65acc33be5c8aadca9ef2834ef9fcde81ae8cd0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

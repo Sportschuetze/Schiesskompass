@@ -8,21 +8,21 @@
     "location" : "",
     "name" : "Zihlschlacht Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zihlschlacht FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-011cb1c4f991b1e8d584938a721141f80a791c8142789a95adc15d197be0c582",
+  "contentHash" : "sha256-91ba9de344737f1cff7c0cd731751dcc851bb1725902123932b31bf592fa0ff7",
   "events" : [
     {
       "championshipTags" : "",
@@ -78,7 +78,7 @@
       "title" : "Jubiläumsschiessen 150 Jahre"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

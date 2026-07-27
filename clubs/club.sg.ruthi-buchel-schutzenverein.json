@@ -5,28 +5,29 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.ruthi-buchel-schutzenverein",
+    "foundedYear" : 1977,
     "location" : "",
     "name" : "Rüthi-Büchel Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rüthi-Büchel SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cbbbd1f8fd209a402c5a6ae2aa3260b26c8595131d655b8f15e0470343f69800",
+  "contentHash" : "sha256-b1585c5c0a960c4e5fdd1bbef1c68c1a49bc4619b810aff6c14670f986b5320e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

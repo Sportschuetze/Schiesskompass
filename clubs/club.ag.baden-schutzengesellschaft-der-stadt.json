@@ -5,28 +5,32 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.baden-schutzengesellschaft-der-stadt",
+    "foundedYear" : 1465,
     "location" : "",
     "name" : "Baden Schützengesellschaft der Stadt",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Baden SG der Stadt",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-07cb06c1bcde5d61ac4c4985ae38697c448001925d478c94aa633549d03131bb",
+  "contentHash" : "sha256-81a011ccb566eb135f31f8e64aa441579dd7c25c9b26610bfc0b51416457ac0d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

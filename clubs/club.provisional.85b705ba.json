@@ -5,28 +5,31 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.85b705ba",
+    "foundedYear" : 1964,
     "location" : "",
     "name" : "Riedbach-Oberbottigen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Riedbach-Oberbottigen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-406e4f17753b51ff7fb9ba71d169868da024cd132ed3b99313e9f3af452505e1",
+  "contentHash" : "sha256-117757b30699326a894587b0dbaa6a547d7b9d255a80a0e4bd0e019fb4077fc5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

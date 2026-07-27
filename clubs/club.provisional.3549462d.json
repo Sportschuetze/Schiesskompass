@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Leuzigen Pistolenklub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Leuzigen PK",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-45f3d64f97a020254afeb939f2246114fc993eb558a4810a573ff9da1d1dc7ee",
+  "contentHash" : "sha256-a35a911fda58431f56f88533a720845a76598f705fcf5dea8ccccc3d2e2eb462",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

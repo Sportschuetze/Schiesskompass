@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.061fed05",
+    "foundedYear" : 1976,
     "location" : "",
     "name" : "Stammertal Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Stammertal PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-72f419b3a8b4627ebc027da0dba6c1eec639e27e793f8fa6157f6b4778444f53",
+  "contentHash" : "sha256-1b468ba3d78bee79bf558273bf9ede4a1818a13b0194ede16ab2c74479659106",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

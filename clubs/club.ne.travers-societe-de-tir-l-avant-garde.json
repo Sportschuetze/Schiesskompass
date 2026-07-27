@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Travers Société de tir L'Avant-Garde",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Travers L'Avant-Garde",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e2a44758c2cb7da19461f254ff39337f88a5fe952ea6f2762cccb813fe940a67",
+  "contentHash" : "sha256-181406fa8da67c52983b4b85a89c03d9aa6a77f9d6d704a98080756d896b5c4f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

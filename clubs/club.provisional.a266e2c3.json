@@ -5,28 +5,29 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.a266e2c3",
+    "foundedYear" : 1872,
     "location" : "",
     "name" : "Grossdietwil Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Grossdietwil SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4f750bb201997b01d0075ecdbf5835fea4fe817324ce72240bc2335a209b3990",
+  "contentHash" : "sha256-45366effd4e8812db8618fc8837b010ab1fe88aae731d202eebc685f4aeccbca",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

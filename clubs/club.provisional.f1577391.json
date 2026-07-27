@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Zollikofen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zollikofen PS",
+    "sourceURL" : "www.pistolenschuetzen-zollikofen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pistolenschuetzen-zollikofen.ch"
   },
-  "contentHash" : "sha256-37f9b0e816b49eaad084f179ce480e71a8f88d1bc4e54eea44e630d85def988e",
+  "contentHash" : "sha256-7ba8010ee9fcefd1ab4caba21bf96f5ca66b75fa46f5a24abce91b5bbc89d030",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

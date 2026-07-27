@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.f0f0d289",
+    "foundedYear" : 1890,
     "location" : "",
     "name" : "Lipperschwendi Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lipperschwendi SV",
+    "sourceURL" : "www.strahlegg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.strahlegg.ch"
   },
-  "contentHash" : "sha256-6f45dc5577e27c3bc190af3a1a44c86d59b188527f717b61014f2a25a03eea54",
+  "contentHash" : "sha256-33c59c6642dd315eb03014139798a13e867ab5231ea172f074f680be16ca4115",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Winterthur Töss Feldschützen Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Winterthur Töss FS PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1e208fc28e367475091a581bda1ead0ec62d980254bb29f0f3075c598af89063",
+  "contentHash" : "sha256-a1f099bbbba7185c594f54216d6f6de078a6c9063c5e6d55688437c50c7d46d4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

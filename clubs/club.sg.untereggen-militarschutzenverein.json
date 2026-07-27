@@ -5,28 +5,29 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.untereggen-militarschutzenverein",
+    "foundedYear" : 1871,
     "location" : "",
     "name" : "Untereggen Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Untereggen MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a1ea6748378530c2dd59dd0deb29c9c06188134b30f78d9bf95f0689e76e53c2",
+  "contentHash" : "sha256-dd18bffad7465b1a2e92ce5d7d188e9a2693ddfc2f6958972a7a7bdfa2df860a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

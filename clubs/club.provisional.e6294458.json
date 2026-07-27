@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.e6294458",
+    "foundedYear" : 1873,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.e6294458.jpg",
     "name" : "Bubikon Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bubikon SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c9aafeda756179b3e4b07ab5b09905b81ce57beaff025b6a9de6cf13acc0a9ce",
+  "contentHash" : "sha256-36c0f0d01a6bff6e67e63957c71457bf4f221b782203ddc9602c5c965460e873",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

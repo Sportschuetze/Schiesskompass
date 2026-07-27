@@ -6,27 +6,30 @@
     "canton" : "AG",
     "externalId" : "club.ag.buchs-ag-schutzenbund",
     "location" : "",
+    "logoPath" : "logos\/club.ag.buchs-ag-schutzenbund.jpg",
     "name" : "Buchs AG Schützenbund",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Buchs AG SB",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4ab142a1eabc7be3bc191b4a1d7b50d445f544d84f34ae51f8c525c45275fee5",
+  "contentHash" : "sha256-6af908a2a228ff2c766857d5bf9ccf4ae6691f708de2e1f80adf28b9d65661bf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

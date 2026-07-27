@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Echallens Société Tir Sportif",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Echallens Sté TS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0ff8659b8ac1a8c172b5c5abe387971bdb58c836cd083ed83c4d4416fa9e4437",
+  "contentHash" : "sha256-a48b2b198cf7eabc96c4ad97c72e1728fbe7b205da8d9c62c7be73eb0304776c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

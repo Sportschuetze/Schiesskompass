@@ -5,28 +5,29 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.5d040035",
+    "foundedYear" : 1883,
     "location" : "",
     "name" : "Kollbrunn Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kollbrunn SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7717631c9caca9fedc3b30916fd3d02d54bf86359e1fc88e08088664f3dcc614",
+  "contentHash" : "sha256-155345467fa4335a3defdf16c4979757e8714463a96f53f61d49f80d2ad465aa",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

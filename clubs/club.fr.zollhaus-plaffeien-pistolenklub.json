@@ -6,27 +6,31 @@
     "canton" : "FR",
     "externalId" : "club.fr.zollhaus-plaffeien-pistolenklub",
     "location" : "",
+    "logoPath" : "logos\/club.fr.zollhaus-plaffeien-pistolenklub.jpg",
     "name" : "Zollhaus-Plaffeien Pistolenklub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zollhaus-Plaffeien PK",
+    "sourceURL" : "www.pk-zollhaus-plaffeien.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pk-zollhaus-plaffeien.ch"
   },
-  "contentHash" : "sha256-dbfb9df5b0b2ad09268089427d3d28148ab0dfccaa2ceceef78e24ee64140c25",
+  "contentHash" : "sha256-3d47918d4c5bc9f6ebd3d44353861d00c6393449aee1cb1268c915443fd474c7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

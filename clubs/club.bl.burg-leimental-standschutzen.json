@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Burg-Leimental Standschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Burg-Leimental Stand",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cea015988e57fa9aa485c1c5069795d34a9d04309587b13cf86982fbb8d64ad2",
+  "contentHash" : "sha256-b16ca18bb7939e7ae92670db656b74dc0a1bf2c7842f18ea8beced95fd31b88e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

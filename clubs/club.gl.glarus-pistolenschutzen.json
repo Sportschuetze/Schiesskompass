@@ -5,28 +5,33 @@
     ],
     "canton" : "GL",
     "externalId" : "club.gl.glarus-pistolenschutzen",
+    "foundedYear" : 1863,
     "location" : "",
+    "logoPath" : "logos\/club.gl.glarus-pistolenschutzen.jpg",
     "name" : "Glarus Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Glarus PS",
+    "sourceURL" : "www.schuetzen-glarus.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schuetzen-glarus.ch"
   },
-  "contentHash" : "sha256-717f3c9405cea9f914bf899b95fe28bbbd13a483a8d424817dba6fbeecf6222b",
+  "contentHash" : "sha256-0c2df1b1b929e40e9b7b454ef1a74c3a049bf2ad661e6a522eae5fef66a02d67",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

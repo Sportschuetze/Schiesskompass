@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.hauenstein-ifenthal-schutzengesellschaft",
+    "foundedYear" : 1858,
     "location" : "",
     "name" : "Hauenstein-Ifenthal Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hauenstein-Ifenthal SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-41598fda698e8219908e8094047daa1bef27bcb3dcae2a5055bcd7f5e1b36e35",
+  "contentHash" : "sha256-1eb53e0adec06ca5d8ce7a7bc383e2401d0610d88426c5451cffa7ae1decc823",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

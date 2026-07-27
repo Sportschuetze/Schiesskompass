@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Corbeyrier Société de tir Francs Tireurs",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Corbeyrier ST Francs Tireurs",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0cdbc18dae292f78cfe21f2102f81afb7e05ce5ba28cd591712b260fd4968b61",
+  "contentHash" : "sha256-26bcc5763aeb2835cd16ecbeac50225d17d4a3cc6acad9595e250057068717db",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.nusshof-schutzengesellschaft",
+    "foundedYear" : 1912,
     "location" : "",
     "name" : "Nusshof Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Nusshof SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e4ea9226c3da502bfd095239910d28842725018b2937a837ed954f3885f72a8d",
+  "contentHash" : "sha256-d34dcd233ebe957131bdfdb49ce30eac18876eb13be8f4934dffb4dfaa10fc7b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

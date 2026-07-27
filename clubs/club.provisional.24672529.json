@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.24672529",
+    "foundedYear" : 1868,
     "location" : "",
     "name" : "Niederscherli Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niederscherli FSG",
+    "sourceURL" : "feldschuetzen-niederscherli.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "feldschuetzen-niederscherli.ch"
   },
-  "contentHash" : "sha256-f2c47483aefced4fb5bcf7a1dfbe10789c0e67d058725a2a4ef24604aea285b1",
+  "contentHash" : "sha256-c606db8fff1ea5cb432ba4c4486a3587c79624f3d4cafcf06f6d2edfabb7e044",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

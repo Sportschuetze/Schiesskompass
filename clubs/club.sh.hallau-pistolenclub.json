@@ -6,27 +6,30 @@
     "canton" : "SH",
     "externalId" : "club.sh.hallau-pistolenclub",
     "location" : "",
+    "logoPath" : "logos\/club.sh.hallau-pistolenclub.jpg",
     "name" : "Hallau Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hallau PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fd26ff53bc64cad50f50ee3fca4950d46df9f73883c6f1edb58f82218e954126",
+  "contentHash" : "sha256-8295b8ddadb8eb4feee140193e3bbbf77155dff4dc98b2ba722098974d87ad31",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,30 @@
     "canton" : "GE",
     "externalId" : "club.ge.chene-bourg-societe-de-tir-chenoise",
     "location" : "",
+    "logoPath" : "logos\/club.ge.chene-bourg-societe-de-tir-chenoise.jpg",
     "name" : "Chêne-Bourg Société de Tir Chênoise",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chênoise ST",
+    "sourceURL" : "tirchenois.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "tirchenois.ch"
   },
-  "contentHash" : "sha256-80c9601c9e04efb928fd478d428f30ef7bcdff13b720c8426541ea89ae2d02fc",
+  "contentHash" : "sha256-4167805b8e62fcf1b7bfd1e7a766c7b3c99ccdf2c21244dfd40ac4cf8761ba71",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

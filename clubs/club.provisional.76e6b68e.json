@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Opfikon-Glattbrugg Pistolenschiessverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Opfikon-Glattbrugg PSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f08fd9db4d04352d3f9f0576cd7f10cd9bf25ae425854751e176bf20127cf49e",
+  "contentHash" : "sha256-ba449d0ae03473cbd045d6fd0b39d7f5e717d41752d96a13423f9630e7a6b672",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

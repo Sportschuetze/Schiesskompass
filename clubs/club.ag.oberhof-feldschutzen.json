@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Oberhof Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberhof FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7deca28bb820196ae5623fdb93f09c6797d3447d2cbf885d27288a0dd25630f0",
+  "contentHash" : "sha256-96c416f67c9623448c9f70b560f1c0824b5c7bbbc08d9223dc2c5bcd7e2dea88",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.e2aba637",
+    "foundedYear" : 1988,
     "location" : "",
     "name" : "Hausen am Albis Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hausen am Albis SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b0bfc43edf35bf5cfb9fdd3e3a44e71c69ab4d936456ecfd615f8f80eb314eaf",
+  "contentHash" : "sha256-3363d0bc0ef567cb770418d5a1fd30c3c8ba185c9a7d767ba3b3597e3d1a21d7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

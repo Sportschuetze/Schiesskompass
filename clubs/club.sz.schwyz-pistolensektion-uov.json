@@ -5,28 +5,31 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.schwyz-pistolensektion-uov",
+    "foundedYear" : 1956,
     "location" : "",
     "name" : "Schwyz Pistolensektion UOV",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schwyz PS UOV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9cdbee22ed306f89e61852b81b2a2d1563adb39aa20347bf301c3d8c9c3befe3",
+  "contentHash" : "sha256-2324a57897f3f3c3a152caa8723528757459814c4158c7b1751980db2795e19a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

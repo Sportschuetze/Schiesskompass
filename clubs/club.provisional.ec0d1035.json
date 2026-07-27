@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Brienzwiler Freischützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Brienzwiler FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1532958a9a333136cc24667e55d02f9bd89af077109eeb24a1ca0bf7de8bdecc",
+  "contentHash" : "sha256-d428392ba371637bfeadee5c8e68c0c316a5cca66f0cbc3405306d439eb17a15",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

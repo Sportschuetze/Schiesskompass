@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.6bc622c1",
+    "foundedYear" : 1998,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.6bc622c1.jpg",
     "name" : "Jegenstorf-Münchringen Schlossschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Jegenstorf-Münchringen Schlossschützen",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-da724c58024b1004a5ceacd82f5e7c82adfb15a674ed480f5b17979fc50a776c",
+  "contentHash" : "sha256-bd796bb67d7a1ed5c45f087f45ae9653086657e41359e35ee26806211cb7b4c9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

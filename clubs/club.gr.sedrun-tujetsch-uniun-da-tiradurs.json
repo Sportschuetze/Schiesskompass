@@ -5,28 +5,31 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.sedrun-tujetsch-uniun-da-tiradurs",
+    "foundedYear" : 1922,
     "location" : "",
+    "logoPath" : "logos\/club.gr.sedrun-tujetsch-uniun-da-tiradurs.jpg",
     "name" : "Sedrun - Tujetsch Uniun da tiradurs",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sedrun - Tujetsch Udt",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e0fb178b7e1100bc7d5ec68c239ff65f0d628ed5372610aad75a482c4e32d4de",
+  "contentHash" : "sha256-af74eb57f4adaa9753e0d8d385917a1cb7931791d32c72ce628b1c6ce5f470ae",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

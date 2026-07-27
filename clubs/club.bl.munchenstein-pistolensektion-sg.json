@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Münchenstein Pistolensektion SG",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Münchenstein PS SG",
+    "sourceURL" : "https:\/\/www.pistolensektion.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.pistolensektion.ch\/"
   },
-  "contentHash" : "sha256-1a42aa9a96d3065d7011f9fadea2d548f896a4f790cc74c171d25418e53ff3e0",
+  "contentHash" : "sha256-ff41153dae6576afb81935366e75647cf5cea1877d734e2569f8ee794da66225",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

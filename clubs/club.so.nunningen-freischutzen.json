@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Nunningen Freischützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Nunningen FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-952b23b26f53990ad3d00699f4721d71f3f5f36a14b3a3642aa599e57c445d76",
+  "contentHash" : "sha256-679a44edfec39de5bd4d4d705bfdb2117887f10a2e78e7cdfdf1174033d8c663",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

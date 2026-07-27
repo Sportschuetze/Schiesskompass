@@ -5,28 +5,29 @@
     ],
     "canton" : "VS",
     "externalId" : "club.vs.visp-militarschiessverein",
+    "foundedYear" : 1919,
     "location" : "",
     "name" : "Visp Militärschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Visp MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0a5086751ef73b30a1b209c06a9dd2411a8f0135a492e63b1e0175b3e40bb152",
+  "contentHash" : "sha256-ca2c4a5108fccb61ab8e911352eff16fb2ad2959dc70a3385b848974a28febbd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "La Côtière-Engollon Armes Réunies",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "La Côtière-Engollon AR",
+    "sourceURL" : "armesreunieslacotiere.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "armesreunieslacotiere.ch"
   },
-  "contentHash" : "sha256-8973074cd52489770e6d2caef1e9de17dd63f03e6b6af7d3cadfd4017cf4d5a7",
+  "contentHash" : "sha256-7f06bfbf2f490de28c76ff5b4b1abd3a0da338cc9704cf58d2496a4d9afd0876",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

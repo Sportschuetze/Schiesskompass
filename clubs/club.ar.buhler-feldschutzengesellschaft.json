@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Bühler Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bühler FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ca635e47e6625fe2ba958e008a075a278ef807ac2dafee5b78231bbde30ea445",
+  "contentHash" : "sha256-56b3a91911d51efe22c88f2f289af31f3d290c5489cb2442e91914083b995ea8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

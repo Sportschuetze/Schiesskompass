@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Balsthal Pistolen-Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Balsthal PSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-97d78ec99546212de61acb1d28fe9adf612287eb9f04828001fcc46ae2663121",
+  "contentHash" : "sha256-4727b7b39a0d2a270e3decab839b2e646abd2ec9c97d32142abdcb8c6f1bfacb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

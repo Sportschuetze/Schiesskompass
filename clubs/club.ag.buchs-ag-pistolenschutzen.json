@@ -5,28 +5,31 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.buchs-ag-pistolenschutzen",
+    "foundedYear" : 1983,
     "location" : "",
     "name" : "Buchs AG Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Buchs AG PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-aef4bee0341e530c017750d61c61a9172eca6fe9c9c7198bbc4824958071a869",
+  "contentHash" : "sha256-2a5bc98fdf39467a746afe24ab8d42e9e307ce12ced96f428bfaa755ef76cb10",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

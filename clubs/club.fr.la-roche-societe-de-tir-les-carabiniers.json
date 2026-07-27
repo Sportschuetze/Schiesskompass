@@ -5,28 +5,29 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.la-roche-societe-de-tir-les-carabiniers",
+    "foundedYear" : 1785,
     "location" : "",
     "name" : "La Roche Société de tir Les Carabiniers",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "La Roche SdT Les Carabiniers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-95fce2dd8f561e7451bc440e034c6d56e06e5decf3d5b82fbd5bd5cad50f44b4",
+  "contentHash" : "sha256-55b5e702ec264d1e851d40dd1d575fb4ca3df71ec2caa769e941286404fce2e1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

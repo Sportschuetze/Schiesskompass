@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Corcelles-le-Jorat Société de Tir Les Coqs",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Corcelles-le-Jorat ST Les Coqs",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0a690ebb1966272c4da5e974e79054afa8a91c50464b188af60b6193a17ee111",
+  "contentHash" : "sha256-e12a57c9e5b20ee201aef30572786c626f3fc951f3f4dba548e4a1905ebdcea8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

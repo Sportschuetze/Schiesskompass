@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.7b80a81c",
+    "foundedYear" : 1866,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.7b80a81c.jpg",
     "name" : "Dinhard Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dinhard FSV",
+    "sourceURL" : "www.fsv-dinhard.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsv-dinhard.ch"
   },
-  "contentHash" : "sha256-acd2fb50f1af0eeb512202724619cf7166e98b19bd97b832921e184a08e3546e",
+  "contentHash" : "sha256-b78b20a00b50cda392b749358e60a5ee7cda3174f0d466708533a2e59a5b29bf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.gebenstorf-feldschutzengesellschaft-reuss",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Gebenstorf Feldschützengesellschaft Reuss",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gebenstorf FSG-Reuss",
+    "sourceURL" : "www.fsg-reuss.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsg-reuss.ch"
   },
-  "contentHash" : "sha256-ec79b2bbc6b2e17572c6f2061d2ef426e97ce1d0cd6215d8ed2cb85cb710d9f0",
+  "contentHash" : "sha256-adb4ddf73ffca39d22a4a3e7967f56e397fc0c6fced31287d827a23500f5d53a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

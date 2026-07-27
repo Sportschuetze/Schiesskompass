@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Ennetmoos Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ennetmoos SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-17e8938f9bf3c23cbc8bdb9fc552bb7eeef079e894fa3049c287f57b2243bd46",
+  "contentHash" : "sha256-e243d767202474e9bd5b6e80d8dccea3f70d719582016e2d330aeaac97a8b5cf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

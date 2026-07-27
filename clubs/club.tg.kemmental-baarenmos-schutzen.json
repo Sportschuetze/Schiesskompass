@@ -6,27 +6,28 @@
     "canton" : "TG",
     "externalId" : "club.tg.kemmental-baarenmos-schutzen",
     "location" : "",
+    "logoPath" : "logos\/club.tg.kemmental-baarenmos-schutzen.jpg",
     "name" : "Kemmental Bäärenmos Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bäärenmos Schützen",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-eb25867e48d805440d3f4be9b540b1dfe33f86e2f770bba3c61ca397a0f0e17d",
+  "contentHash" : "sha256-6aabc37cf1b3cec8a16b5e417f7e23022851361c1a8cc918870cb0f5d805bb60",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,31 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.buus-pistolenclub",
+    "foundedYear" : 1968,
     "location" : "",
     "name" : "Buus Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Buus PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9dedfd97d57cdb537ed3bc686ac1c6fcdc63b31ba8034590358767617f73865e",
+  "contentHash" : "sha256-7f8f77cda786be1e09f2297aa98c3c51a5696f511a0557072b5a64cc55efcdff",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

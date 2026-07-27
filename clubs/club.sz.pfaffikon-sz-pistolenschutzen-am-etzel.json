@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Pfäffikon SZ Pistolenschützen am Etzel",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Pfäffikon SZ PS am Etzel",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ff3f1b8a34f5215ae1c0eccc19b9823a5cf49817c0af90be874bfbf03bdf9487",
+  "contentHash" : "sha256-7f7d901378e4709e42a9ef02c1a81fc1c267e670e6a94c06d3b1fabf9d87989c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

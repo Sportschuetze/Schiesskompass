@@ -5,28 +5,32 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.lausanne-societe-de-tir-jeunes-patrouilleurs",
+    "foundedYear" : 1936,
     "location" : "",
     "name" : "Lausanne Société de tir Jeunes Patrouilleurs",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lausanne ST Jeunes Patrouilleurs",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-04d0f61251fdf874829474eba82ac34f17353aea52dcabed7807978f411cada7",
+  "contentHash" : "sha256-2bf5be64f3f9857d9023aaa19e7c5a622663f6797a946ef5a548a47b27baf3a7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,32 @@
     "canton" : "TI",
     "externalId" : "club.ti.faido-societa-carabinieri",
     "location" : "",
+    "logoPath" : "logos\/club.ti.faido-societa-carabinieri.jpg",
     "name" : "Faido Società Carabinieri",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Faido SC",
+    "sourceURL" : "www.carabinierifaidesi.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.carabinierifaidesi.ch"
   },
-  "contentHash" : "sha256-496e5d5f86e7e7ab7fb445da55afc47fc55c5446aa59607e810d05b3781f2ce4",
+  "contentHash" : "sha256-8b8cbfa33a1526385b62fce2770c02a29a91b854cc5643c1fa65cc4481d14782",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

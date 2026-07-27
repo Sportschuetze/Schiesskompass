@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Pully Société de tir du Volson",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Pully ST du Volson",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-926f60417419f7f889508bf7d9dbd3d34d3c53c81c8d72b648bc80c6c05f8f77",
+  "contentHash" : "sha256-849fa0bc82f8377bc1ba89b7ce2808dac57223b0412e87a464274577cef98885",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

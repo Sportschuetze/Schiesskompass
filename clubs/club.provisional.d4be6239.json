@@ -8,21 +8,22 @@
     "location" : "",
     "name" : "Altikon Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Altikon SV",
+    "sourceURL" : "www.sv-altikon.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sv-altikon.ch"
   },
-  "contentHash" : "sha256-19557e82ccd0cd50d18e50f5de64bb80e0093cb9cd78bc5f1736ea270bfe2333",
+  "contentHash" : "sha256-922a52887fb3f3440f3f6afe532dd4a6d3161a0f1ea709a6a6986bc590245ad0",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,7 +49,7 @@
       "title" : "Sauschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

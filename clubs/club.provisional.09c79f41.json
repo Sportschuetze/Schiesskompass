@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Winterthur Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Winterthur FSG",
+    "sourceURL" : "www.fsgw.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsgw.ch"
   },
-  "contentHash" : "sha256-c9837599290e20d5eb24c76a16ac4cbb0c4f0baeb37a1815f2b5056d5c319b14",
+  "contentHash" : "sha256-1ea35d3e1430cd82755d3a5633a7d380c20ddde6a76a7e2ac2e5f9923c5d0b27",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

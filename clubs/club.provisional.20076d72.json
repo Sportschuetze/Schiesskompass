@@ -5,28 +5,32 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.20076d72",
+    "foundedYear" : 1885,
     "location" : "",
     "name" : "Zürich Schiessverein 68",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zürich SV 68",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d3720499212d4af41e48b666708be40ef91c12189104f269ba94739b1416fdcf",
+  "contentHash" : "sha256-f0b9bf218573ba6f59c5d9c18ab6332fc0832621c52867362139d7b766903962",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

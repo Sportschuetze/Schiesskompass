@@ -5,28 +5,30 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.muotta-ladir-societad-da-tir",
+    "foundedYear" : 1947,
     "location" : "",
     "name" : "Muotta Ladir Societad da tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Muotta Ladir ST",
+    "sourceURL" : "www.ladir.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ladir.ch"
   },
-  "contentHash" : "sha256-b86ee35f8d121a4e1e5d73b8060f082744ec5996b526491f8beaebef83cf151b",
+  "contentHash" : "sha256-68a7f724ff18cc9918cc090681346f29faba65593ae527d43d6e681c4515c4fd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

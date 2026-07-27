@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Oberönz Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberönz SG",
+    "sourceURL" : "www.sg-oberoenz.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-oberoenz.ch"
   },
-  "contentHash" : "sha256-1ce8beb00522859948e0866d35b97a09e367154bf7206e3b53bc0bf368b5aa80",
+  "contentHash" : "sha256-5426732b7a58aa97f76b62462f8c241b51681c1288f447cad8788ccc2905b461",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

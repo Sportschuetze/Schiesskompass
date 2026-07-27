@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Rüeggisberg Kleinkaliberschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rüeggisberg KKS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f47bc261a37801c629779f7a63adf17fa9d642b449ba90053ec9e87b9b2a40c5",
+  "contentHash" : "sha256-650c6c3b2a152484cda1669a364f9ce2a979c4696b901bda5c55c83e311879b3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

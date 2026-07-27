@@ -5,28 +5,31 @@
     ],
     "canton" : "VS",
     "externalId" : "club.vs.st-leonard-ste-de-tir-la-villageoise",
+    "foundedYear" : 1906,
     "location" : "",
     "name" : "St-Léonard Sté de tir La Villageoise",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St-Léonard ST La Villageoise",
+    "sourceURL" : "http:\/\/www.lavillageoise.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "http:\/\/www.lavillageoise.ch\/"
   },
-  "contentHash" : "sha256-31285e618ac06193b1a695fcb09896ba42de6517edd027d5c433d10de526f0ca",
+  "contentHash" : "sha256-f97643e43c8dbe52eff7a8d1e7525e571e3434f679380b5dee92552138ef55f8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

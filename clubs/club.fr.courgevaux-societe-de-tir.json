@@ -6,27 +6,28 @@
     "canton" : "FR",
     "externalId" : "club.fr.courgevaux-societe-de-tir",
     "location" : "",
+    "logoPath" : "logos\/club.fr.courgevaux-societe-de-tir.jpg",
     "name" : "Courgevaux Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Courgevaux ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-dc753a0961216838d03a78e5e7655a965ef5702a847bfdf0ca28f8904c1742f1",
+  "contentHash" : "sha256-2cd5e3c8b6b498091695c45a70d5c966da73cbf038b4e56dd810bbab4acd2770",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,31 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.suhr-pistolensektion",
+    "foundedYear" : 1933,
     "location" : "",
     "name" : "Suhr Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Suhr PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a06b12a88f43a74237b040a13c55018fa8ae791272f27188e1d76d8aa03c562e",
+  "contentHash" : "sha256-29b56aab8edb55e8d4286c1443f3c8684cfb62563c91db94d2b499360f581f18",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

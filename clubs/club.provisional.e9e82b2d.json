@@ -5,28 +5,30 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.e9e82b2d",
+    "foundedYear" : 1853,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.e9e82b2d.jpg",
     "name" : "Buttisholz Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Buttisholz SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1a73a8c7cc8a60cfffd47ddc8832c9e7f80398bc48194b6cea7bf05d0e2615c0",
+  "contentHash" : "sha256-aaa810e562f685166eca203000fd1ddc5055cc6f3e40d1607fe43e6d908a9d81",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

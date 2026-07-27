@@ -5,28 +5,31 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.bad-ragaz-pistolenschutzen",
+    "foundedYear" : 1954,
     "location" : "",
     "name" : "Bad Ragaz Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bad Ragaz PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-62dc86924a66777d40a6e604ca68676bbdfded0a0283297adae2202653f2ce1d",
+  "contentHash" : "sha256-1e5e8de6a2da5de1f1ea84f6d65f17a2989f72bce3a009d8c3341e0c6c263188",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

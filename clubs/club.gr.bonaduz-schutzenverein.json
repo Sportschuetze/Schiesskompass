@@ -5,28 +5,32 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.bonaduz-schutzenverein",
+    "foundedYear" : 1992,
     "location" : "",
     "name" : "Bonaduz Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bonaduz SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8a550d9fed44c533a4ca9e3cac258284606fb843cdc069855e65db3cd45b64b7",
+  "contentHash" : "sha256-5698a2b523ee89c39caa2e79c2358143246c3e3e531fd11b82ca750d3394f591",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

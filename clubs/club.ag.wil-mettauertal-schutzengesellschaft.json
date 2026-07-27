@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Wil \/ Mettauertal Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wil \/ Mettauertal SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9e45c71dad25ae1d72d50d0c2f4b0349ceca12f905b8f07438fe5147f40ed224",
+  "contentHash" : "sha256-6d20943f0f3abe7e2454b7d2caf61d16b0858bd8bb6e268f0e834c1f04a8fce1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

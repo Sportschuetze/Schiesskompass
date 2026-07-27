@@ -5,28 +5,30 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.marbach-sg-feldschutzengesellschaft",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Marbach SG Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Marbach SG FSG",
+    "sourceURL" : "www.fsg-marbach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsg-marbach.ch"
   },
-  "contentHash" : "sha256-a463fd371c65628627d60b46836993ad54b496ab1fb82263200e2cf92b904e00",
+  "contentHash" : "sha256-8b59ec257d81a2af9f09ef03475ed81468ff28f676b1ec3efbb786d42faa189e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,32 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.treyvaux-ste-de-tir-au-pist-l-echo-de-la-combert",
+    "foundedYear" : 1945,
     "location" : "",
     "name" : "Treyvaux Sté de tir au pist L'Echo de la Combert",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Treyvaux ST au pist L'Echo de la Combert",
+    "sourceURL" : "pistolet-treyvaux.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "pistolet-treyvaux.ch\/"
   },
-  "contentHash" : "sha256-05b4f38c28443139aa0d3b4451fa2c19b0467fcae7a5f4d95b102f73ffe447d2",
+  "contentHash" : "sha256-4732a87542dd5ce8b56aa903e795b455ffa84dd54255d1b70b65de1a6f934b0e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

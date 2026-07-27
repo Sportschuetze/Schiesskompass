@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Schönengrund-Wald Sportschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schönengrund-Wald Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-64cf2da8353a467145aa95dad31b67f76661202d18f27cd8ab3c488b8d1250c4",
+  "contentHash" : "sha256-1139ca1cfddd5ec0a5e04e156b37ad6bc2cbeca26fe37b4938abb207acafe07e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

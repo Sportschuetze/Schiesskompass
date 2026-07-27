@@ -6,27 +6,28 @@
     "canton" : "SZ",
     "externalId" : "club.sz.brunnen-ingenbohl-militarschiessverein",
     "location" : "",
+    "logoPath" : "logos\/club.sz.brunnen-ingenbohl-militarschiessverein.jpg",
     "name" : "Brunnen-Ingenbohl Militärschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Brunnen-Ingenbohl MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fd4ef4e62900981888a8c93a068ecbeffd0b1219c09129e51659a2e675fb191b",
+  "contentHash" : "sha256-e5ceea848c4e464b37835f1dac2547038614a0a5ddbc6b5d27110d2349f35d85",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

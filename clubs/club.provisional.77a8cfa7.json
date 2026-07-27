@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.77a8cfa7",
+    "foundedYear" : 1898,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.77a8cfa7.jpg",
     "name" : "Stadel Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Stadel SG",
+    "sourceURL" : "www.sgstadel.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgstadel.ch"
   },
-  "contentHash" : "sha256-6997425aed09b7e579a1a9f41389b52ddce84c1a2f591afc46d4ee960f455794",
+  "contentHash" : "sha256-66a90e33f19d338d6b9e45adf5f83c39d40378c319bf657732f4406ce33ed2c7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

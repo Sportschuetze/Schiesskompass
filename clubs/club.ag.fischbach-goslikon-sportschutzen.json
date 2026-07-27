@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.fischbach-goslikon-sportschutzen",
+    "foundedYear" : 1927,
     "location" : "",
     "name" : "Fischbach-Göslikon Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fischbach-Göslikon Sport",
+    "sourceURL" : "https:\/\/www.sportschuetzen-figoe.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.sportschuetzen-figoe.ch"
   },
-  "contentHash" : "sha256-46e8a10f77226ca8625547183322762f389586c0ef250829f3b29533c5071183",
+  "contentHash" : "sha256-423b74f4ffd9ec94c6d8c66f0601aafd9e383c389e0d0b9e544ae814e7aa9a9f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

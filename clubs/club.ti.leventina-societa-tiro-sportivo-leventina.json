@@ -5,28 +5,31 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.leventina-societa-tiro-sportivo-leventina",
+    "foundedYear" : 1960,
     "location" : "",
     "name" : "Leventina Società Tiro Sportivo Leventina",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Leventina St Sportivo",
+    "sourceURL" : "www.tirosportivoleventina.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tirosportivoleventina.ch"
   },
-  "contentHash" : "sha256-7730b7e82d37d370e0987791a7938926c1f18625244322a5ca50a506c00c6bc1",
+  "contentHash" : "sha256-e103a4c41b6d6c90ec9c480600c42374151e048d47b74892e7127402762d915a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

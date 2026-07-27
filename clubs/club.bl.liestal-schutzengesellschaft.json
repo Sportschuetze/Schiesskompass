@@ -5,28 +5,35 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.liestal-schutzengesellschaft",
+    "foundedYear" : 1824,
     "location" : "",
     "name" : "Liestal Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Liestal SG",
+    "sourceURL" : "www.sgliestal.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgliestal.ch"
   },
-  "contentHash" : "sha256-f91e8b8109ede5c9ba852d8f9d1a158ea85a90bdbf9a95f52f1c9218ba66b104",
+  "contentHash" : "sha256-cd9c4e9826d3c7845dfb7037ea9dcac123fd99212337824c4b72495b062eba52",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

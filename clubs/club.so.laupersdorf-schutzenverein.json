@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Laupersdorf Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Laupersdorf SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b8611a8d9c72675f842cac6f399dbc4d7a219520e939d4bb768d15eb62c76f60",
+  "contentHash" : "sha256-533dafdd25217b37c29304872206f9af9d52a27434c044e75ee81094b95eef5e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Hofstetten-Flüh Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hofstetten-Flüh Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-48c89143389d3e43e00ea4085fa15043a958d8dd92da237a2c2a2944d8ddad18",
+  "contentHash" : "sha256-250c4d7a7dad4b39db55d3b050a7b295da70d34c05f660ea231dd20b220647c7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

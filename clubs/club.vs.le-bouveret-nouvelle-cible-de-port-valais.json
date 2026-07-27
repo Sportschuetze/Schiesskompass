@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Le Bouveret Nouvelle Cible de Port-Valais",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P25"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Le Bouveret NCPV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e235fde393d8aeebd28e98be5274810455fc9fb9630dd84690525c9ef361a034",
+  "contentHash" : "sha256-428b9486c973df5ab4972c4deaaee03972604b0b164f5b641b2fdf0720bace7d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

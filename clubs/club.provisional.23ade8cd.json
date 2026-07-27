@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Dielsdorf u. Umgebung Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dielsdorf uU Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-71193b0fab8627e756c5f65fba397632f1ffb66021f12844747cd977843c0406",
+  "contentHash" : "sha256-18818f1ac6d1df29bb058e1f08a5159e12c3ef15858da84cfaf5b7b975ed7fca",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

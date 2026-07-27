@@ -5,28 +5,32 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.f4c2b8e0",
+    "foundedYear" : 1874,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.f4c2b8e0.jpg",
     "name" : "Perlen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Perlen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-de38ca2f81a6e42320e4344f7941f8c6c39724b8808462d3046ecbee66ed8b53",
+  "contentHash" : "sha256-bcd48b7488b7ddb27f499ebc3e5dae54c5dd9425799474354509ca82ab6f849c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Wittnau - Kienberg Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wittnau - Kienberg FSG",
+    "sourceURL" : "https:\/\/www.fsg-wittnau.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.fsg-wittnau.ch\/"
   },
-  "contentHash" : "sha256-0d0211c511891e04d9062b35689e32b72a107490516668c8674fa902ffa525f2",
+  "contentHash" : "sha256-3c29ad35a7598a27f7250a999a56c517bf578db87864e0a8eef5a5efe9fb1bf0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

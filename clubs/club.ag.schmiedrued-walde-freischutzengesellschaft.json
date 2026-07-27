@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Schmiedrued-Walde Freischützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schmiedrued-Walde FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ed85ad2b95772be1ac1d5b4d60d94f1b26df9ecc2ca094527ebe48237fb93532",
+  "contentHash" : "sha256-b3421a350ce8762efd952509db03ffe8faff7c420009110a1e65782ede6ad936",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

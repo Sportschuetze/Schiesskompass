@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Genève Société de tir Servir Police",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Genève ST Servir Police",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cb5c2608d08851f42d169b9a4906b8963fe5a334e99eb6f459a861abd9b5af9d",
+  "contentHash" : "sha256-4c6f05d51c6227f40f240e1924a517a2a0f5eda6d8283f786e459d52db74132b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

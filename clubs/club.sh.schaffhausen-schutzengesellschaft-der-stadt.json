@@ -5,28 +5,33 @@
     ],
     "canton" : "SH",
     "externalId" : "club.sh.schaffhausen-schutzengesellschaft-der-stadt",
+    "foundedYear" : 1443,
     "location" : "",
     "name" : "Schaffhausen Schützengesellschaft der Stadt",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schaffhausen SG der Stadt",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3926761883a2fa0f3a22260d3b913c1aed9a0f50e508199b2afe7a5be0c0448d",
+  "contentHash" : "sha256-798947c9f4cbfb0f4f62fcf92c1c21dac14f301f750a62d3db4c4a85cde299e5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

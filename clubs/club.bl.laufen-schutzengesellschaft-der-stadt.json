@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Laufen Schützengesellschaft der Stadt",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Laufen SG der Stadt",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-580728562e8a6432f7f44bdb34671dbfb4b987a53db0fb4037a59c02bc983f9a",
+  "contentHash" : "sha256-090d3d1ed7aae4a1edf5a516df985ab454a33822960da0d717ba23db4295cdf6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

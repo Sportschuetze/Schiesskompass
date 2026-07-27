@@ -5,28 +5,31 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.mellingen-schiesssportverein",
+    "foundedYear" : 1820,
     "location" : "",
+    "logoPath" : "logos\/club.ag.mellingen-schiesssportverein.jpg",
     "name" : "Mellingen Schiesssportverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mellingen SSV",
+    "sourceURL" : "www.ssv-mellingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ssv-mellingen.ch"
   },
-  "contentHash" : "sha256-9597c4b274ca8a6b763c6c4e21d635b4215cd2ca6df3138b38583881c0cc99ea",
+  "contentHash" : "sha256-3f38a4ad4bf708fd5794d0f1db02e5b4953643298eb6146c84ecd83e195ee89e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,30 @@
     "canton" : "BL",
     "externalId" : "club.bl.munchenstein-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.bl.munchenstein-schutzengesellschaft.jpg",
     "name" : "Münchenstein Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Münchenstein SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2177aaa65f8978c0063ff1154368ee7a2cb410acbc175d7559ae1e372f2647a7",
+  "contentHash" : "sha256-c1f5e114834931dfcfcd757ebe39bb5ef106fdc38353dfbe47d286ab473e98c1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,28 @@
     "canton" : "BE",
     "externalId" : "club.provisional.98b12e37",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.98b12e37.jpg",
     "name" : "Hilterfingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hilterfingen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fc00dd70f08e385fef7baa627718a7706683715684c294304297a17ea83b4f36",
+  "contentHash" : "sha256-fbaa5fb5a01c54ba83bf52a9a7ecad9c0bf3adc5b199428a201731f0f60cabed",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

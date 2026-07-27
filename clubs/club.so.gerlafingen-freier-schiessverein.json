@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.gerlafingen-freier-schiessverein",
+    "foundedYear" : 1912,
     "location" : "",
     "name" : "Gerlafingen Freier Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gerlafingen Freier SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1b542bc6ae1e35c3fbfc3f51974b67bf4d2bf4042005fe4ef9445841b5c9b6a0",
+  "contentHash" : "sha256-ded4dbf34a79a1e48750eea3b2801b98b0f9598879c04e41086ca3f2d9383cd9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,32 @@
     "canton" : "BL",
     "externalId" : "club.bl.dubach-schutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.bl.dubach-schutzenverein.jpg",
     "name" : "Dübach Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dübach SV",
+    "sourceURL" : "www.svduebach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svduebach.ch"
   },
-  "contentHash" : "sha256-e09756ecf402727ded5a29cfce06f93aa94e98fee5826b803d29fdbee0d77a2f",
+  "contentHash" : "sha256-398066e2987fccc9732a5d2f202289f481175e5c6106ad80d774e2e1a3cf26e1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

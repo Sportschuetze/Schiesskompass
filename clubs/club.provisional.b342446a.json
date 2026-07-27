@@ -5,28 +5,33 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.b342446a",
+    "foundedYear" : 1969,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.b342446a.jpg",
     "name" : "Dietikon Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dietikon PS",
+    "sourceURL" : "www.ps-dietikon.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ps-dietikon.ch"
   },
-  "contentHash" : "sha256-4d963445104a99ec7b058cb26f5536c4382f7d310eb30ce4203cab6b1d13281e",
+  "contentHash" : "sha256-b4874c2b5f86ef5ea2ec6274f9a8ebbe21d85d11c72dbbf8cc0bfc5bf6dfc57b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

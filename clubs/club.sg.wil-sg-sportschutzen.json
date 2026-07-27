@@ -6,23 +6,27 @@
     "canton" : "SG",
     "externalId" : "club.sg.wil-sg-sportschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.sg.wil-sg-sportschutzen.jpg",
     "name" : "Wil SG Sportschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wil SG Sport",
+    "sourceURL" : "www.sportschuetzen-wil.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sportschuetzen-wil.ch\/"
   },
-  "contentHash" : "sha256-49822ee93000c63e2a16919432c3564e90abca6f9197cce5c212dc35011c99f8",
+  "contentHash" : "sha256-e6f470c2e19967aa1869edef11ee9ecdf8a7e3f4661589eccaf315a4fcd967fb",
   "events" : [
     {
       "championshipTags" : "",
@@ -83,7 +87,7 @@
       "title" : "48. Aebtestadt LP Meisterschaft"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.6e40360a",
+    "foundedYear" : 1907,
     "location" : "",
     "name" : "Leissigen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Leissigen FSG",
+    "sourceURL" : "www.fs-leissigen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fs-leissigen.ch"
   },
-  "contentHash" : "sha256-1c512f0f7b9afac20db4e24daa8d1480b221ba670fa0b1dce9636b898d95365b",
+  "contentHash" : "sha256-0eda0c6ebd45f9064264472eb9f20bee37b19a855c2155987e6804b48e718eee",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

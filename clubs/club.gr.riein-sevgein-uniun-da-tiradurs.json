@@ -6,27 +6,28 @@
     "canton" : "GR",
     "externalId" : "club.gr.riein-sevgein-uniun-da-tiradurs",
     "location" : "",
+    "logoPath" : "logos\/club.gr.riein-sevgein-uniun-da-tiradurs.jpg",
     "name" : "Riein - Sevgein Uniun da tiradurs",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Riein - Sevgein UdT",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-de3fc2134dc2c4cf70577c3f145c73704cf85282e3ec891ebb99e88ba350b273",
+  "contentHash" : "sha256-2cc2368a0bf26a3281fbfcbd8d41b9abe960d93f235176e9b3980deacf4e16cf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

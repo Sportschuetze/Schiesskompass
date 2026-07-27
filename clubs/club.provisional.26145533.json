@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.26145533",
+    "foundedYear" : 1882,
     "location" : "",
     "name" : "Walliswil b\/Niederbipp Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Walliswil b\/Niederbipp FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-87bbbef89e6bf068609cce8b51db3baa87bd8e05df4094d1cb8effcbb9eb744c",
+  "contentHash" : "sha256-e70d9a861dc94016bcdb0dcbcb4ef0cc0f5a7512fee444ae80c16ad2b441b9b0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

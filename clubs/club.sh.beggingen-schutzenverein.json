@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Beggingen Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Beggingen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-29b7d7cba3125bfffa43ef70a54380601d490ae4530c303c82585a8a5189bb0f",
+  "contentHash" : "sha256-17e8ab58fc0d72efe392305bab928ce2713d8d061712257af59b5e00080826b7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

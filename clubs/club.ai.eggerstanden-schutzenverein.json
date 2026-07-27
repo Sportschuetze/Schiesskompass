@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Eggerstanden Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Eggerstanden SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a3f086e3339cf04b518fc329ceaf0a3b3a0911dbc8dd806fa3d32d1e4dcd5a14",
+  "contentHash" : "sha256-b3fb2b53bba8e56b25b58b6f6c8e7d8a0d32c58b38c6a6807df08bac6fdc4a14",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

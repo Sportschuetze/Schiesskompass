@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Frauenfeld Pistolen SV Kantonspolizei",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Frauenfeld PSV Kapo",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7514c4069c6059f2246a68faf7a080900f6f8dcb24214f81d3810bdb3110e2df",
+  "contentHash" : "sha256-89fa92cf8aa206b4893dfae2338ad87c0fe4f3216abfab55fc4699be8b543522",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.andiast-societad-da-tir",
+    "foundedYear" : 1887,
     "location" : "",
     "name" : "Andiast Societad da tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Andiast ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3cd08e798ec680a1cfe3539d60028de576b8fc2ce7e1ce7b28d9ebf3dda17ade",
+  "contentHash" : "sha256-19b71a87bec74e1b80eac8be0178e7e07c6e2a7b4c0ea2e9f8da2eb4b104d183",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

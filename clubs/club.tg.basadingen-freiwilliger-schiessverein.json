@@ -6,27 +6,29 @@
     "canton" : "TG",
     "externalId" : "club.tg.basadingen-freiwilliger-schiessverein",
     "location" : "",
+    "logoPath" : "logos\/club.tg.basadingen-freiwilliger-schiessverein.jpg",
     "name" : "Basadingen Freiwilliger Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Basadingen FSV",
+    "sourceURL" : "www.fsv-basadingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsv-basadingen.ch"
   },
-  "contentHash" : "sha256-e99690496d9d4fc909244602b935514cedaafe056498ee538b93ce745ef5ccf2",
+  "contentHash" : "sha256-bb4f3ae2eee7aa3761ddbfffd4e5b47c25b8ecafc3009c0109a6b60e61343bd7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

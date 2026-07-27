@@ -8,25 +8,30 @@
     "location" : "",
     "name" : "Jussy Société des Carabiniers",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Jussy Sté des Carabiniers",
+    "sourceURL" : "www.carabiniers.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.carabiniers.ch"
   },
-  "contentHash" : "sha256-8825985c8070256743b792456c549740664bf61efd9bbd5a60e5ce616d71dae9",
+  "contentHash" : "sha256-e50c43cc804ca56689be56507a6fd78b28d12dc5bc390a6983977897629341d9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,31 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.alterswil-egg-militarschutzenverein",
+    "foundedYear" : 1881,
     "location" : "",
+    "logoPath" : "logos\/club.sg.alterswil-egg-militarschutzenverein.jpg",
     "name" : "Alterswil-Egg Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Alterswil-Egg MSV",
+    "sourceURL" : "www.msvaef.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.msvaef.ch"
   },
-  "contentHash" : "sha256-0e96199c58f74c77f42b0df174969ea52e73b2e941bd2e59e1bf25f56a7639cb",
+  "contentHash" : "sha256-cb53da98058e583e4edc528fef37bf731a802f132fb239bec4de7e24ccd7620a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

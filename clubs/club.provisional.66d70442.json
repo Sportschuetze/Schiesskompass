@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Loveresse Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Loveresse ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f6651d8f4f0c8072075221045b59dcfeb4fe7f80f427fa6036e0e29d51da1a09",
+  "contentHash" : "sha256-3d5601af30233d74a198d827e9ce99700387969daeeb2fcdac68e317d5c8b3f4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

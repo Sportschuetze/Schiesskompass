@@ -6,27 +6,30 @@
     "canton" : "SO",
     "externalId" : "club.so.zuchwil-feldschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.so.zuchwil-feldschutzen.jpg",
     "name" : "Zuchwil Feldschützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zuchwil FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-19c5275e47148ca25dfe5a87551b4e35bdcdb5160d9406644149ef27d50bdd8b",
+  "contentHash" : "sha256-ff5134432b32a6b1817e67eddab0ea13dedd13443fd9ad1492787193a7283ca0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

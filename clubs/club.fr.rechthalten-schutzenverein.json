@@ -5,28 +5,29 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.rechthalten-schutzenverein",
+    "foundedYear" : 1815,
     "location" : "",
     "name" : "Rechthalten Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rechthalten SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e5c43ba2e6322dd921f688048712e8dbc911db3e9a39960221599625ed042db5",
+  "contentHash" : "sha256-3b95b043524d7813740c65b5b27ea922866e107452ca0d7f8c91b1304cc724ab",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

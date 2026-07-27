@@ -6,23 +6,27 @@
     "canton" : "SG",
     "externalId" : "club.sg.liechtenstein-pistolenschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.sg.liechtenstein-pistolenschutzen.jpg",
     "name" : "Liechtenstein Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Liechtenstein PS",
+    "sourceURL" : "www.pistolenschuetzen.li",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pistolenschuetzen.li"
   },
-  "contentHash" : "sha256-b30ac012c9c8e953afcbb8d0f79bec00a7b73557c7b4d876d1bd9600d4b3d48a",
+  "contentHash" : "sha256-f531a52bf29a05db961ff537b43af7421b65d113d49b37effd765cc39f050a0e",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +77,7 @@
       "title" : "39. Josefi - Gruppenschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

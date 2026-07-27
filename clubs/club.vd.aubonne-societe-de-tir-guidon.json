@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Aubonne Société de tir Guidon",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aubonne ST Guidon",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9c5d8b2ddd014a9186c318206850ec58553fae84a5e07f74a6315a633b53e6ce",
+  "contentHash" : "sha256-99d5069dbad66cb19f3f274eae56ebf3cbc5100acc98e2ac8509ef2587a96891",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

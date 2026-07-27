@@ -5,28 +5,29 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.schindellegi-schutzenverein",
+    "foundedYear" : 1885,
     "location" : "",
     "name" : "Schindellegi Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schindellegi SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4203d41650c2dfef07eb143968dc0da1d2a4d7a5a3c3ebabfc83b832748480fe",
+  "contentHash" : "sha256-7a8f2f8dfe26f7f3c09677dae7b928abd285e365c2e0df3fa922999ce2d175a8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

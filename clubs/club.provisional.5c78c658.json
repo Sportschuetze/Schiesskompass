@@ -5,24 +5,27 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.5c78c658",
+    "foundedYear" : 2021,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.5c78c658.jpg",
     "name" : "Fraubrunnen-Hettiswil Sportschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fraubrunnen-Hettiswil Sport",
+    "sourceURL" : "https:\/\/sfh.news\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/sfh.news\/"
   },
-  "contentHash" : "sha256-b558a34ed06da5d1d4b8eaed334053d1c5560bac77d117db655dcc6cd4b470e4",
+  "contentHash" : "sha256-2ef0767a45a4945663c2d0421333ecac1905e8bbf588ff9141d3dbbcd8ab497c",
   "events" : [
     {
       "championshipTags" : "",
@@ -53,7 +56,7 @@
       "title" : "OASSV Match Meisterschaft 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

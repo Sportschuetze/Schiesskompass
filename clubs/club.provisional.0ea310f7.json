@@ -5,28 +5,29 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.0ea310f7",
+    "foundedYear" : 1839,
     "location" : "",
     "name" : "Nottwil Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Nottwil FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fd5d717456055ca1eb3e64a56057f81b5ed5a3e9d57e665021aba9fa5cd4b8ac",
+  "contentHash" : "sha256-04a5ad463619fb0ecfdf0827fa3b243a038c61041fc235bd65467677fd3bb0d0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

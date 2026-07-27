@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.seewen-feldschutzen",
+    "foundedYear" : 1893,
     "location" : "",
     "name" : "Seewen Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Seewen FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9347070d13e1edf85dd88290cd9e59761d6ab550a3ed0dc8f3a0a83bc47dd690",
+  "contentHash" : "sha256-6655046b001ef9454c07361a6f106aaf4bd633c2562c098d70bc835f04151c20",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

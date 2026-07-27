@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Aeschau\/Eggiwil Kleinkaliberschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aeschau\/Eggiwil KKS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bf04389d4af8b3cea104378395d873828bfd8fb1c065ec82f8d80469f8840564",
+  "contentHash" : "sha256-7d1f9426e875f56a3f0e722a8aaa5df68c726a620ae4cafbfb8ffecd0008c83f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

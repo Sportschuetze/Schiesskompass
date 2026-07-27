@@ -5,28 +5,32 @@
     ],
     "canton" : "SH",
     "externalId" : "club.sh.ramsen-buch-pistolenclub",
+    "foundedYear" : 1942,
     "location" : "",
+    "logoPath" : "logos\/club.sh.ramsen-buch-pistolenclub.jpg",
     "name" : "Ramsen-Buch Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ramsen-Buch PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-70620ef97858bc6aa4023db5fb9b61336b6861e5298bfc8bf1ba1d3b811d2012",
+  "contentHash" : "sha256-c1e055fd6954e6b2a2bc84cd13d85a0cf08140f5c4614043dc69354524f4be4a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

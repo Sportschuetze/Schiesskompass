@@ -5,28 +5,30 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.oberriet-feldschutzenverein",
+    "foundedYear" : 1870,
     "location" : "",
+    "logoPath" : "logos\/club.sg.oberriet-feldschutzenverein.jpg",
     "name" : "Oberriet Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberriet FSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-54e25dc115e4466b18a238e6796f79920ac60746eb73fabb1b4ebd37319ddc12",
+  "contentHash" : "sha256-db68410dc1268f732cd7d8ba6d7318a9638d520a56f00589a75ca5800b7547eb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

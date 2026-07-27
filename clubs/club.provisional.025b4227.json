@@ -5,28 +5,31 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.025b4227",
+    "foundedYear" : 1892,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.025b4227.jpg",
     "name" : "Mülchi Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mülchi SG",
+    "sourceURL" : "www.sg-muelchi.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-muelchi.ch"
   },
-  "contentHash" : "sha256-cc5f077e4083fe558ba3bc39f493dd2e5b1fc019a355f036d943456a6e6afdc1",
+  "contentHash" : "sha256-99842e81295a940d70f4c162c0a386044b5273e84f046fbb17f4992b0a4d9bf7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

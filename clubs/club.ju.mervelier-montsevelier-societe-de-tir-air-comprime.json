@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Mervelier\/Montsevelier Société de tir air comprimé",
     "offeredDisciplines" : [
-
+      "G10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mervelier\/Montsevelier ST AC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3b35cb18b5207f9e28b2d1622f9e5c66972a461fa19ea617075165c411fce39b",
+  "contentHash" : "sha256-1c4fc1a16fff35317e0af19eddd7bb8707df681cb9b23718dba401c1ca44fd07",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.thusis-sportschutzen",
+    "foundedYear" : 1952,
     "location" : "",
     "name" : "Thusis Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thusis Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-259610de54778917312ca7d0a1e287761b2cf9a5781f6488dbba9ab9323b6120",
+  "contentHash" : "sha256-0bc91d2e60aec1e745a09f958832d2d8e4f4a5eebc948784768c055298c8926f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

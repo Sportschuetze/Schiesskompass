@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Muri-Gümligen Kleinkaliber- + Armbrustschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Muri-Gümligen KK + ASV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9badcd35e9cd9073cf7ae773c50e381adc8c56387c716ece0ab35de1df10da2d",
+  "contentHash" : "sha256-d5e59bf25c29642ae4b8e85a9cf2b59b18b92bde53f21a2f764b9967f0ec8a9e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

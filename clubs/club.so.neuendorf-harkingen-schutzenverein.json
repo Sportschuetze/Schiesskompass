@@ -6,27 +6,28 @@
     "canton" : "SO",
     "externalId" : "club.so.neuendorf-harkingen-schutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.so.neuendorf-harkingen-schutzenverein.jpg",
     "name" : "Neuendorf-Härkingen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Neuendorf-Härkingen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-39f9854dac6ad1dbfb4ccc73522fffe4800df0828021e03bc58824aea7548662",
+  "contentHash" : "sha256-f20e83bdd9f912c19429fb96877f808da56106d4039a69619035ae0cfa881d6a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

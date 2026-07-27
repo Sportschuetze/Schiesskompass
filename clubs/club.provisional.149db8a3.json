@@ -5,28 +5,29 @@
     ],
     "canton" : "UR",
     "externalId" : "club.provisional.149db8a3",
+    "foundedYear" : 1791,
     "location" : "",
     "name" : "Attinghausen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Attinghausen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f028e3302650c7e62d96506a6a649765edaacbc265f9821fe2fe3e2c717e6abd",
+  "contentHash" : "sha256-256d6afa9b785437064967d599facaf231e4e0c950cd22f4052b5ba8de2b9044",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

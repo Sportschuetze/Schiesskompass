@@ -6,27 +6,29 @@
     "canton" : "AG",
     "externalId" : "club.ag.oeschgen-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.ag.oeschgen-schutzengesellschaft.jpg",
     "name" : "Oeschgen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oeschgen SG",
+    "sourceURL" : "www.sg-oeschgen.ch\/index.html",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-oeschgen.ch\/index.html"
   },
-  "contentHash" : "sha256-9495f1f8c2c2cb274c8ce02bb1bb0650cb5b21a4febfe61cfa5c67cdc6b67e00",
+  "contentHash" : "sha256-213f905bf925748e244f03d09b12050c54524c4b81d8013842a0f818e38da9a7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

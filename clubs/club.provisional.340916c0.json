@@ -6,27 +6,30 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.340916c0",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.340916c0.jpg",
     "name" : "Wald ZH Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wald ZH PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1700e51990e1c154514c71aa459513107659166c484ffe26c40ba71a67b4dd5b",
+  "contentHash" : "sha256-613ba02fccb95740c715f234f714fbeda09a62dd17d37ea09f3ec389b2f2ec25",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

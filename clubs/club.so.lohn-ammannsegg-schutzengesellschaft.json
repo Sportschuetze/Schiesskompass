@@ -6,27 +6,28 @@
     "canton" : "SO",
     "externalId" : "club.so.lohn-ammannsegg-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.so.lohn-ammannsegg-schutzengesellschaft.jpg",
     "name" : "Lohn-Ammannsegg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lohn-Ammannsegg SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3c7c6a5acf8b62c92d55d7cc70abc2ab89f016fa3380cf284763f1aa9465d221",
+  "contentHash" : "sha256-9b9b3c4f28b2b95400a86c142f423ccb38a7b75501f46cf5c41c0f68419e45f7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

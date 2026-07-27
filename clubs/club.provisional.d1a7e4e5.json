@@ -5,28 +5,31 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.d1a7e4e5",
+    "foundedYear" : 1994,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.d1a7e4e5.jpg",
     "name" : "Erlenbach-Wimmis Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Erlenbach-Wimmis SG",
+    "sourceURL" : "www.sg-erlenbach-wimmis.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-erlenbach-wimmis.ch"
   },
-  "contentHash" : "sha256-cf8168e8797f0218ba3cdceacfa2f21678c680150c93f1fc4c6f5a8c5b9fd36a",
+  "contentHash" : "sha256-8500f23c8c07aae1734900218af93ae3d8e807b39dfc369852ade043b0a48823",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

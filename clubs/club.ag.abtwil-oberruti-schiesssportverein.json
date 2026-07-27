@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Abtwil-Oberrüti Schiesssportverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Abtwil-Oberrüti SSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4944fe65a99fe148d08b978c3b70d0572faa4bd241fa99d5f07bcc6fb52fa93c",
+  "contentHash" : "sha256-a9f89e70c8eeca1b4ee3ce9cf3be9c88f8701fc2d5ea0b459335b63ae35a511f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,31 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.schafmatt-pistolenclub",
+    "foundedYear" : 1947,
     "location" : "",
     "name" : "Schafmatt Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schafmatt PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-11093ee4d0550b0c9d3c1ae5ca512d3951a5ca5101120651e5b964c67e19c486",
+  "contentHash" : "sha256-e509bcd02c178b7361821ae1ba1abf9e70643c7ead942c58de522d9deb77c620",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

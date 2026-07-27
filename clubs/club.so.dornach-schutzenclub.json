@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Dornach Schützenclub",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dornach SC",
+    "sourceURL" : "schuetzenklub-dornach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "schuetzenklub-dornach.ch"
   },
-  "contentHash" : "sha256-d1c64acaf3ec47a94cc59164314aeb30a7fef0149e70c8d92312206f92d939f0",
+  "contentHash" : "sha256-228f1dde07392d09cefdce30cae580aa9dad1b48857ffbed8973b1442c07ad7f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

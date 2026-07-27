@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Grancy - Chavannes-le-Veyron Sté de tir La Fine Douille",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Grancy - Chavannes-le-Veyron Sdt La Fine Douille",
+    "sourceURL" : "www.lafinedouille.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.lafinedouille.ch"
   },
-  "contentHash" : "sha256-b2e4fd49fbca2f0dff22a9fc981f06a8d2998721b664303a9960bcb1577eff58",
+  "contentHash" : "sha256-ca283f8e11edbe45278f8d6fa4a10b4a7ef09b53ccbd70d16b7e558a67b562fa",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

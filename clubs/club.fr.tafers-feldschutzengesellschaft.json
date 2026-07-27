@@ -5,28 +5,30 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.tafers-feldschutzengesellschaft",
+    "foundedYear" : 1846,
     "location" : "",
+    "logoPath" : "logos\/club.fr.tafers-feldschutzengesellschaft.jpg",
     "name" : "Tafers Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Tafers FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f3945a0d5f6f799661cc2f14372ccd6c7c4afb7bef92e49cf311884c761fe814",
+  "contentHash" : "sha256-0c2159ad5b09f5aab3f0da317ad579808fd2b23bf7df0ca3f8244d842774f407",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

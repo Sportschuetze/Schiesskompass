@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Yverdon-les-Bains Pistolet Carabiniers",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Yverdon-les-Bains Pistolet Carabiniers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4942b0e81e933d7166bff944b174e56d4bf262076e1a5616d91c6775d8e336f6",
+  "contentHash" : "sha256-c5aa527b1ebd8a9729d829f91849f51fe9146ee24c77b5b8426a7675af2b8e89",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

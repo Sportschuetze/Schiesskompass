@@ -5,28 +5,31 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.reigoldswil-pistolenschutzen-rifenstein",
+    "foundedYear" : 1953,
     "location" : "",
     "name" : "Reigoldswil Pistolenschützen Rifenstein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Reigoldswil PS Rifenstein",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d74f40bdd7d1e4c37fe9815f0f5d20b499fffd00867fb16d1ab86f912370282a",
+  "contentHash" : "sha256-3c21dd49962c0b2a5b0e967136fddff0f29becb942ec7492c1d42762d35aeeac",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

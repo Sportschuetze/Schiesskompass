@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Bleienbach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bleienbach SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-05f21453b53ba88d19e4bc3cccfa76b5e2425698019e5938ce193866b8d3b40b",
+  "contentHash" : "sha256-c70a17a5b302c83211f1386d84ce3ad7dd7437ab0015f8db26d9e4b439e22280",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

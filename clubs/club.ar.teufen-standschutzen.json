@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Teufen Standschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Teufen Stand",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8c07a248ac956d044ad54d07a3800788090056a0272a7db88227822b9788437c",
+  "contentHash" : "sha256-fb91384e4c0558f0f1b3206b7826e19f66ffdc9db5acf8b8b82dfd6c2980e2ed",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

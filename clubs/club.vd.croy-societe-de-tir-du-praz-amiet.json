@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Croy Société de tir du Praz-Amiet",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Croy ST du Praz-Amiet",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-da0e924e5591111892ccb3b57e5ecdd846f85c73a6e02df311500831e7f79ac7",
+  "contentHash" : "sha256-e7aae98731afcd9b10e0a25a5c5d08df628d725d79395daee2ce39d91cffb28b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

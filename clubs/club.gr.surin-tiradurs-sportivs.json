@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Surin Tiradurs sportivs",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Surin TS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-62be89c39b308ed9b3394e864bec849d4eba4284c8a942b6b9d995142d170e54",
+  "contentHash" : "sha256-a33e58572e70cd7e0d14316669896cc0ace643733267cf01ff5045dbae8c0dab",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

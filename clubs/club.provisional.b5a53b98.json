@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Wangen an der Aare Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wangen an der Aare Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a1c97c585dc73b91787c0dc1e1ca5b28ef3e7d5a68c030048dfd84ef314bf23d",
+  "contentHash" : "sha256-5e40178a8f1adf8eb3418000a792d792895bc6affdb740d8e7e45cac6d1bd08b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

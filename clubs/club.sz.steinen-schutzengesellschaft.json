@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Steinen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Steinen SG",
+    "sourceURL" : "www.sgsteinen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgsteinen.ch"
   },
-  "contentHash" : "sha256-2aebf414121e0f2e4383d3372c534c3c08ffde2258b66b16c35b22a94ad7f41c",
+  "contentHash" : "sha256-e097801e7fb1114353366ecf1408063a584b6c33c475b32de9983fdcbc8a0221",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

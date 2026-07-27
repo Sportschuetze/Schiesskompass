@@ -5,28 +5,30 @@
     ],
     "canton" : "JU",
     "externalId" : "club.ju.soyhieres-societe-de-tir",
+    "foundedYear" : 1925,
     "location" : "",
     "name" : "Soyhières Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Soyhières ST",
+    "sourceURL" : "www.tir-soyhieres.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tir-soyhieres.ch"
   },
-  "contentHash" : "sha256-35272dcaeca93673cf0591a1eeeef51a34c60774f8d2c2bcfbe4c3e145067129",
+  "contentHash" : "sha256-180fb5b938d5a27f9ee8267d58293c82712a2fcec62e156e0579ee8dba803333",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

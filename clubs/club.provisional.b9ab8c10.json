@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Ferenbalm Freischützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ferenbalm FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b6580bf49fcfeb5179ae4f8b044f590ab12d98c0fa9b6911dd953fd74a6370b0",
+  "contentHash" : "sha256-e42a63a0969f32463729d0473ad09a7b5736be89eb03b8eff0805a2315d4b224",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

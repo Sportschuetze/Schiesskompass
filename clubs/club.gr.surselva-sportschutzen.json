@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Surselva Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Surselva Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-50926f5a2a55c841da941f4f8a3dce371d693193e506c7a666c907409f64211b",
+  "contentHash" : "sha256-59d482ffbf610bbda7816f09ccfff120060efdf9bf8317b0e21cacd282481b78",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

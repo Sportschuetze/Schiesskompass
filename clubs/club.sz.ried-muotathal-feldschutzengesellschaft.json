@@ -5,28 +5,31 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.ried-muotathal-feldschutzengesellschaft",
+    "foundedYear" : 1894,
     "location" : "",
+    "logoPath" : "logos\/club.sz.ried-muotathal-feldschutzengesellschaft.jpg",
     "name" : "Ried-Muotathal Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ried-Muotathal FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3a28594d40386e17080ea37478337c84bbd27d8f7b846d4364ffe6162f0116de",
+  "contentHash" : "sha256-512e5dcb21696b555596fefbf1df2f67b79a6f3bf1e61ae3e71ea77533520e27",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

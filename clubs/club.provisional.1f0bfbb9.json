@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Kriens Arbeiterschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kriens ASV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-75db35cf0753466b67dc521bbd541e3b8a44317597ecca03ee960428a2a60143",
+  "contentHash" : "sha256-8ef0a528ce065a5b794aa8f68366dfd96cb9328e43e752992e4c3cf7d60b9d7c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

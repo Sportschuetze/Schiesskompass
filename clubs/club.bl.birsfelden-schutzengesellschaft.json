@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Birsfelden Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Birsfelden SG",
+    "sourceURL" : "www.sg-birsfelden.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-birsfelden.ch"
   },
-  "contentHash" : "sha256-d3325591a17188ca972bfc0f1db898772186b35b55e1ed01297fc04b0db1b02c",
+  "contentHash" : "sha256-8452566302fa10b9a4b0a66b06c7c402f1aa48c45bdf3064b30b8d1ae906f25e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

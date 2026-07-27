@@ -5,28 +5,29 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.seewis-dorf-schutzenverein",
+    "foundedYear" : 1894,
     "location" : "",
     "name" : "Seewis-Dorf Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Seewis-Dorf SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0b384f0ca2bf4a20c5222e4049b68cb3aae84b344b6ace089024bf6159598de8",
+  "contentHash" : "sha256-24df3193ba32781c51cc4a891ae2b6501506cf85d2342a6bda7ee209e1f98ea7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

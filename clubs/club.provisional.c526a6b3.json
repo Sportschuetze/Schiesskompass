@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.c526a6b3",
+    "foundedYear" : 1872,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.c526a6b3.jpg",
     "name" : "Lyssach Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lyssach FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9bf2b28e28bc76685c4ce70640124a41fbe5fc6ca1c5742a7db6c83d0bd3caa2",
+  "contentHash" : "sha256-f91379a628fbc76b6892a27c309853c24d39850cd9bcb5d50b1ce752bea16459",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

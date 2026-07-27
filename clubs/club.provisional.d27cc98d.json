@@ -5,28 +5,30 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.d27cc98d",
+    "foundedYear" : 2005,
     "location" : "",
     "name" : "Emmen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Emmen SG",
+    "sourceURL" : "https:\/\/www.sg-emmen.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.sg-emmen.ch\/"
   },
-  "contentHash" : "sha256-e933e20a49d48986e8af9e06d87dce40e462f1cdc17c3547123018c48e5e8190",
+  "contentHash" : "sha256-3da810ade47812c8b03c9b81fc0d074e2fa1e1ea0584fe09061cd98fc6ebcdce",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

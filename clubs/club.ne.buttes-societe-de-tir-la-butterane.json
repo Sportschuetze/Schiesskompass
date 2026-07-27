@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Buttes Société de tir La Butterane",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Buttes ST La Butterane",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-447377fa76e61a17480922e44ab0c31b31fb05fd97a1c2959d6a4c412d2b5e35",
+  "contentHash" : "sha256-5043acba2562c7c445de55efbfbf8d18aa7b34feef8b5dcaebcf088a15250b12",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.brunnenthal-schutzengesellschaft",
+    "foundedYear" : 1887,
     "location" : "",
     "name" : "Brunnenthal Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Brunnenthal SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ebf7dbaf196abb7febd2abc9adf9703e4b174726452efc314dcf4000c35ffe2f",
+  "contentHash" : "sha256-ded56edf2ebac06b7c19f5e02c54c8e2c689797c084f6c866f896266c59383c6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

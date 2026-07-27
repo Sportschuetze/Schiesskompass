@@ -5,28 +5,30 @@
     ],
     "canton" : "NE",
     "externalId" : "club.ne.cortaillod-noble-compagnie-des-mousquetaires",
+    "foundedYear" : 1499,
     "location" : "",
     "name" : "Cortaillod Noble Compagnie des Mousquetaires",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cortaillod Noble CM",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-35178e627a76a555e101ffb2aa770c0ce20d1e20f7bdfe5703455f9463656bea",
+  "contentHash" : "sha256-f34aec8ccddee6bc0e58e198f6cbf39d403055589cc4318d83d0cb9096b7460f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

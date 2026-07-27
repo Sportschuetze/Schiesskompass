@@ -5,28 +5,30 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.galgenen-infanterieschiessverein",
+    "foundedYear" : 1888,
     "location" : "",
+    "logoPath" : "logos\/club.sz.galgenen-infanterieschiessverein.jpg",
     "name" : "Galgenen Infanterieschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Galgenen Inf. SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-735c7e91ebc06a249845ab5fae8ea37b1ec3e36f1fe14f0fd40398f5de6f832e",
+  "contentHash" : "sha256-72a923e6dff2c9cf62104101c29fb536760eb28b81054eaa9e560a856322b987",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

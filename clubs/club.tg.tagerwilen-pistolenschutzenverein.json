@@ -5,28 +5,32 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.tagerwilen-pistolenschutzenverein",
+    "foundedYear" : 1929,
     "location" : "",
+    "logoPath" : "logos\/club.tg.tagerwilen-pistolenschutzenverein.jpg",
     "name" : "Tägerwilen Pistolenschützenverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Tägerwilen PSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ab26f7d0ab2650b3542d2bd0ad2fb92a7edb5f508ae67a682be9cbc8e17272fc",
+  "contentHash" : "sha256-995c937e3dae34f7d167abc5ab20fa399aff94744f12d34bd2fbaa27d91242e3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

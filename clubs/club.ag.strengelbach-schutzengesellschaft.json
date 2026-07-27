@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.strengelbach-schutzengesellschaft",
+    "foundedYear" : 1867,
     "location" : "",
     "name" : "Strengelbach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Strengelbach SG",
+    "sourceURL" : "www.sg-strengelbach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-strengelbach.ch"
   },
-  "contentHash" : "sha256-beadf95707092971c003a6de9a5d280727cf693f75b8f9c3c626f3b49d17469b",
+  "contentHash" : "sha256-0e39248aec28c6ddfc4ff118fa02fbbd9fa6a29d346fbec18c5ef1b3da98efe9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

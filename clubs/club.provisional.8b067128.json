@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.8b067128",
+    "foundedYear" : 1874,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.8b067128.jpg",
     "name" : "Buchs ZH Militärschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Buchs ZH MSV",
+    "sourceURL" : "https:\/\/msvbuchs.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/msvbuchs.ch"
   },
-  "contentHash" : "sha256-85c83cf6fd539e1c045f922996d655c0ce2340b0690aaa6fd2e1aee757c02675",
+  "contentHash" : "sha256-c0b391cf0fca5fad469aae9294ee4cf6fee48823bd151cd5202f5ddadb9d537a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

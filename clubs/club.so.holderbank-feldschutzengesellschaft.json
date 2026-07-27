@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.holderbank-feldschutzengesellschaft",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Holderbank Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Holderbank FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fde62cbd955f99443f15ceda3e4a0937cdb5b2d460ba88981f433a5b87c0e1c2",
+  "contentHash" : "sha256-a39019244b785023fbe041f225bd0bd426f4f4a7e7ab11f6f8c9c9a11fd6122e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

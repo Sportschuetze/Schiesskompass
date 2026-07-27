@@ -6,27 +6,28 @@
     "canton" : "BE",
     "externalId" : "club.provisional.cf4b6d3a",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.cf4b6d3a.jpg",
     "name" : "Oberburg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberburg SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cf754aaa2cd1f1502656616e41c783a29977f88c29fc26848148d3395ddef8c7",
+  "contentHash" : "sha256-1522bd2cfd64efe2bc8fbbe7594b6e4d296c658769e54e8a04d43c6d8a34af88",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

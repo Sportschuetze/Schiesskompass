@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Aigle Société de tir Avenir",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aigle ST Avenir",
+    "sourceURL" : "www.aveniraigle.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.aveniraigle.ch"
   },
-  "contentHash" : "sha256-496833b068d8490c90493fd45aba9926d54587533f0b5d82ace615de8560ef0d",
+  "contentHash" : "sha256-b4b089f9e8998d07dcc7b6f7734d3425f34310f9a16610334e8014d5e09f8a06",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,31 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.triboltingen-schutzengesellschaft",
+    "foundedYear" : 1888,
     "location" : "",
+    "logoPath" : "logos\/club.tg.triboltingen-schutzengesellschaft.jpg",
     "name" : "Triboltingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Triboltingen SG",
+    "sourceURL" : "www.sgtriboltingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgtriboltingen.ch"
   },
-  "contentHash" : "sha256-0450438ade1da6cfdc6c1d10545b62f0bf38e515cf033cc58344b43412407089",
+  "contentHash" : "sha256-17a49500fc111f2a6d0e3c2205c8d5d527f511effc5c4e3420cb332d1229eed1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

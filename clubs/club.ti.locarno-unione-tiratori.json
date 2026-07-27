@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Locarno Unione Tiratori",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Locarno Ut",
+    "sourceURL" : "http:\/\/www.unionetiratorilocarno.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "http:\/\/www.unionetiratorilocarno.ch"
   },
-  "contentHash" : "sha256-13985219e67f58858b15a60ad3d62771ae01fde81b36b340519f03ecf17d807c",
+  "contentHash" : "sha256-0e903cea8354785dfe8ac6db22479cca90ff143250850ba25b7b043d87d92f7a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

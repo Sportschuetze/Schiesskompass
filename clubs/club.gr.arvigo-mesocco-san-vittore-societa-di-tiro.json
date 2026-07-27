@@ -5,28 +5,30 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.arvigo-mesocco-san-vittore-societa-di-tiro",
+    "foundedYear" : 2010,
     "location" : "",
     "name" : "Arvigo-Mesocco-San Vittore Società di Tiro",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Arvigo-Mesocco-San Vittore SdT",
+    "sourceURL" : "www.amsv.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.amsv.ch"
   },
-  "contentHash" : "sha256-c164e5b4cc737289789889dbbb98ddb894d6ebe9720149180b20684f0a473ad9",
+  "contentHash" : "sha256-41b9dbabd782089eee3a220b6f73b148b20c0dc3e85a814c69dcdffb8d5cf400",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "NW",
     "externalId" : "club.nw.dallenwil-schutzengesellschaft",
+    "foundedYear" : 1837,
     "location" : "",
     "name" : "Dallenwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dallenwil SG",
+    "sourceURL" : "www.sg-dallenwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-dallenwil.ch"
   },
-  "contentHash" : "sha256-4b1e0054fcdf47658cfcdf5aca618c7c0ee115da19f57730c85cb31193c997fb",
+  "contentHash" : "sha256-b6f86a4bcd4bf1cab70a76250d2945aea2acab77c77f180c75f4758bf3b8c430",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

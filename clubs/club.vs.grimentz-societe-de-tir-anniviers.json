@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Grimentz Société de tir Anniviers",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Grimentz ST Anniviers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e5b74fc0cba5a818ca4da6e988251f2168468c8d0efa9ff037be26eb33b553a6",
+  "contentHash" : "sha256-3a7fed0734f5528bbf8e81eb5245adfeb6070076d6bd9e130df4d1802323727d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

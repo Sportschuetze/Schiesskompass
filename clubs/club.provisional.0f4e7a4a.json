@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.0f4e7a4a",
+    "foundedYear" : 1932,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.0f4e7a4a.jpg",
     "name" : "Zürich Arbeiterschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zürich ASV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cd74ab7d4298c4ced65ec77e48700580ef2f71d0ec608a2797467c223f4ae56b",
+  "contentHash" : "sha256-6dbcdcbbc562ba58b6ba8c086676a51ec6435e43dd13dde2e9860977a0128a21",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Boncourt Société de tir Armes Réunies",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Boncourt ST AR",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7aa2108c93bc8cacc5e39440eafcee0d47917507d67823d842e8a6b840f8ad13",
+  "contentHash" : "sha256-c551e2f31189af9b9549342a27db1368b7e1b0a392f292f22fef9958029c9b1b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

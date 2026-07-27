@@ -5,28 +5,29 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.hermenches-vucherens-societe-de-tir-la-colombe",
+    "foundedYear" : 2008,
     "location" : "",
     "name" : "Hermenches-Vucherens Société de tir La Colombe",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hermenches-Vucherens ST La Colombe",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-483087af6212ae4a99090addb76807d695963ccf570a592300be5dd8d6488a97",
+  "contentHash" : "sha256-9b5e89cec88f97bf0b816c114a76b2e6049a950756c67db372a3795275e08962",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

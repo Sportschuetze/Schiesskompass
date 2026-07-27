@@ -6,27 +6,31 @@
     "canton" : "BE",
     "externalId" : "club.provisional.71ac1dc4",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.71ac1dc4.jpg",
     "name" : "Schönbühl-Urtenen & Umgebung Pistolen- & Revolver-Schützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schönbühl-Urtenen uU PRS",
+    "sourceURL" : "https:\/\/prssu.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/prssu.ch"
   },
-  "contentHash" : "sha256-62cbb87b83d2d3b618cb5fc551466785c5a7c6267e23eb807925464f179f526a",
+  "contentHash" : "sha256-7ac8eb9d22d571072052c9fecac2ad5e0200029cf8e1bf59137333395eab1b86",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

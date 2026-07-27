@@ -6,27 +6,30 @@
     "canton" : "AG",
     "externalId" : "club.ag.chestenberg-schutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.ag.chestenberg-schutzenverein.jpg",
     "name" : "Chestenberg Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chestenberg SV",
+    "sourceURL" : "www.sv-chestenberg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sv-chestenberg.ch"
   },
-  "contentHash" : "sha256-7088426e15a8936922ec4b0a6a8f2ed94c9fe6e50c01e760624c71e012486d44",
+  "contentHash" : "sha256-f9cc98da31879ca8e302afdb0861bb8bdad0df563273499c3f1ab98e1c40690b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

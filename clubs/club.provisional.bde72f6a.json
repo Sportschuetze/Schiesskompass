@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Horw Pistolenclub",
     "offeredDisciplines" : [
-
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Horw PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-44f08dc4c96a11dceebf0a7d52e1070e30a3aabf223af974e29c70d23353d5dd",
+  "contentHash" : "sha256-24daef9e04d620f09a12b0e03431bc09fbfdcda6f06ef1e36023dcb577707d5d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

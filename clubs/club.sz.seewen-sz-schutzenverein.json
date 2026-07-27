@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Seewen SZ Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Seewen SZ SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-60ceb3df0d810eef9c66a7af047f8c4db83f8f9394945a49045a669135628e56",
+  "contentHash" : "sha256-a337c1e2ebc1d1a67c81d706c5978f4700f485759fd81aec9a821dbae5e3d525",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

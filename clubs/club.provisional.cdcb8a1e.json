@@ -5,28 +5,32 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.cdcb8a1e",
+    "foundedYear" : 1962,
     "location" : "",
     "name" : "Niederglatt Pistolenschützenverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niederglatt PSV",
+    "sourceURL" : "www.psvn.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.psvn.ch"
   },
-  "contentHash" : "sha256-423f3ee5a00838938137f92f3029990984390d59a81d27e241fce9ed7986a036",
+  "contentHash" : "sha256-fb5222a972b3dc819b9b8a92b6ae9c18a88ddd0bfa12f640fe185451d7de9a62",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Le Chamois Société de tir",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Le Chamois SdT",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4d5baf3ad011cf3f562d69f6ebf1aa81d4097f533e7a22e27777b0b176116e9c",
+  "contentHash" : "sha256-0d53a8a025c8cf1a70aa8a6a2c082d272ae73f138098e59b7b2da0518e140be7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

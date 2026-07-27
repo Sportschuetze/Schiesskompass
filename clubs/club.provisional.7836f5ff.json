@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Hausen am Albis Pistolen- & Rev.-Schiessverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hausen am Albis PRSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6bc44c97c8f8e48aba0e2b67107b319d3f61c44332c5fdd2efae118e640f1a4c",
+  "contentHash" : "sha256-e38f5e387ce0d100dcfd52d9372f0a5ff588b2db2bf7d86804ad949c963a2a88",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

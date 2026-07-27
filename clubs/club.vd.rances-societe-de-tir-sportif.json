@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Rances Société de tir Sportif",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rances ST Sportif",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-86f9134714d6d1daf24eb605aada327325992d6127ff32692732af2deb8a218b",
+  "contentHash" : "sha256-3f911ee7ec7da8732df507e8235353ac8f7f662a60d5e59e1a820335912f88c3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

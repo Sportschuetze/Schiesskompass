@@ -5,28 +5,31 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.thierstein-pistolensektion",
+    "foundedYear" : 1946,
     "location" : "",
     "name" : "Thierstein Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thierstein PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9af77a7d5e62b77c64dca374ed1f0bb099a1a7444e06b0922c0ab37a5f3014dc",
+  "contentHash" : "sha256-7ee93377633f63eaf29e3298fc83ab30553382bee92cd4d42a2b11204b26b6f5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

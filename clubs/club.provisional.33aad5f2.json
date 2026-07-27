@@ -5,28 +5,33 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.33aad5f2",
+    "foundedYear" : 1866,
     "location" : "",
     "name" : "Zollikon Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zollikon SV",
+    "sourceURL" : "www.sv-zollikon.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sv-zollikon.ch"
   },
-  "contentHash" : "sha256-5c6aab028ba97cf364d2b98229078a5074e4920e492bca4d2245121fdcd7e6c8",
+  "contentHash" : "sha256-6ea6fcaa86619ae4c67a8194d5b7a1141bc3a240f0df657891c85625d30e5c42",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

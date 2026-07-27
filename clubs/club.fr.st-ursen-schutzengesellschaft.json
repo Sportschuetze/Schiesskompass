@@ -6,27 +6,28 @@
     "canton" : "FR",
     "externalId" : "club.fr.st-ursen-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.fr.st-ursen-schutzengesellschaft.jpg",
     "name" : "St. Ursen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St. Ursen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-48ab962a5e4cd2cb91507731d2bff3fa390d7bc1762c22b8bb3b9b568db0114c",
+  "contentHash" : "sha256-53caedee64641596a75a0c0299639d9e6d1321cbfda7092f57cd3e77b81c2f57",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

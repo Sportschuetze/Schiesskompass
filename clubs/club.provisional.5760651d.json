@@ -5,28 +5,33 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.5760651d",
+    "foundedYear" : 1888,
     "location" : "",
     "name" : "Thun Militärschützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thun MS",
+    "sourceURL" : "www.militärschützen-thun.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.militärschützen-thun.ch"
   },
-  "contentHash" : "sha256-3a49885a0887777decb69d588855efd06fa79a9d7859827de94c841cb6319f0e",
+  "contentHash" : "sha256-55f124e2e8c2371a0a77ce3a372b14f7bafeef1190a6977f50f6359cba43628a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

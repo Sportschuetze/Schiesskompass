@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Niederglatt Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niederglatt FSG",
+    "sourceURL" : "www.fsgn.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsgn.ch"
   },
-  "contentHash" : "sha256-f39bcab983fd3ea2d3cd61a294a5271c754cd673c6f56aeb4a5fac4970121ccb",
+  "contentHash" : "sha256-2928b12e8dc350db26458d6abbaddcaaf9ed891525fc205350cddd0dc44329c1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

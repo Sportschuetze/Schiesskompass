@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "La Rippe Société de tir Le Boiron",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "La Rippe ST Le Boiron",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f0f07f528f0adee435acdd6c1ca641b582c5ab98f65c1c6f76edde9e5568c945",
+  "contentHash" : "sha256-a34dd06836327b629a8c5985bd2395d4a23d55d36d31f63977bcb9b2db907527",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

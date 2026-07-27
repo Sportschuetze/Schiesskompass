@@ -8,25 +8,31 @@
     "location" : "",
     "name" : "Bagnes Société de tir Le Pleureur",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bagnes ST Le Pleureur",
+    "sourceURL" : "www.pleureur.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pleureur.ch"
   },
-  "contentHash" : "sha256-ea2ab399955456f304521e6335f4e083a5325b89c9e2073740308402e3c10458",
+  "contentHash" : "sha256-056e7a868b107af68e851d16253f3f131cc4e615e52779438a559774e0aa02ee",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

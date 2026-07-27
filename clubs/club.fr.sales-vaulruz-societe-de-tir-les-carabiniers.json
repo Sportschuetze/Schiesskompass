@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Sâles-Vaulruz Société de tir Les Carabiniers",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sâles-Vaulruz SdT Les Carabiniers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-27ff816d485aba75452eb633e5c16e29001a25eeaaa5824ac9e616bf71794e2e",
+  "contentHash" : "sha256-875d1f453d17cf3c33fb76c920070436987164db50981117dfb589ef0b190b53",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

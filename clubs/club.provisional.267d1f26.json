@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Kirchlindach Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kirchlindach-Bremgarten FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a4f5eb4b63ec50e3b4d0183913cbd1befdeeaaefc9a74a78c0db736689064122",
+  "contentHash" : "sha256-e8701f368af920955cb39d633ef54ad01ef36203f5c8d0a3c604f5546f97984a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

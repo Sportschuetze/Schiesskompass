@@ -6,27 +6,30 @@
     "canton" : "BE",
     "externalId" : "club.provisional.b4ae1b0a",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.b4ae1b0a.jpg",
     "name" : "Diemtigtal Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Diemtigtal Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c31ebe84d73217be97718f5b0232cda31e21a4244c1121cb61a6db84145d8dda",
+  "contentHash" : "sha256-ab3cbb69d9fe6cbac7e2eee31fd83479fb80b1fe3114606e50b51bd734a94819",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

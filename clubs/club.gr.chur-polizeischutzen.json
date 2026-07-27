@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Chur Polizeischützen",
     "offeredDisciplines" : [
-
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chur Polizeischützen",
+    "sourceURL" : "www.polizeischuetzen-chur.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.polizeischuetzen-chur.ch"
   },
-  "contentHash" : "sha256-81289e7603aea5c48c5e53d9976706037a562de279a39d89572b9347e85ca774",
+  "contentHash" : "sha256-9e2116e3d5a3519c81c42c6561c798895322632fa14c15ad4a2b5e7a12365995",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,25 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.ganterschwil-militarschutzenverein",
+    "foundedYear" : 1880,
     "location" : "",
     "name" : "Ganterschwil Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ganterschwil MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-91a702de4269502005b15cf8894e78db1a28781f421d8791713acc38daf54351",
+  "contentHash" : "sha256-3a3a1779116b7774b82c132f68b45d9e1d7cdb4c5600abd50089237b4dcd3661",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +74,7 @@
       "title" : "30. Toggenburger Herbstschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,23 +6,24 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.c2f4e13c",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.c2f4e13c.jpg",
     "name" : "Langnau a.A. Albis-Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Langnau a.A. ASV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c647a9a492e795354de16423ac19c441af7b11042cef57a6c3bb84f1e98febb9",
+  "contentHash" : "sha256-caf48e320fb7bba72bbfb56f3f08b9099e2374762bb902f9980d0511740bc928",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +69,7 @@
       "title" : "15. Albisschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

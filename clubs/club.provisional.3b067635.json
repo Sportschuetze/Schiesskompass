@@ -5,24 +5,25 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.3b067635",
+    "foundedYear" : 1882,
     "location" : "",
     "name" : "Rudolfingen Militärschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rudolfingen MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b12b5e53a65be5d4fcd02c9e91dcffd66cab08ccbae32142f7ee5d245f9f32a1",
+  "contentHash" : "sha256-d4996d31d4f285a2a10df96e58eb27f15b13aa0c05ae97376377354a3960f2e2",
   "events" : [
     {
       "championshipTags" : "",
@@ -53,7 +54,7 @@
       "title" : "Kreiswinterschiessen KV Kohlfirst"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

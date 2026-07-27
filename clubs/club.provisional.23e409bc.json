@@ -5,28 +5,30 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.23e409bc",
+    "foundedYear" : 1837,
     "location" : "",
     "name" : "Adligenswil Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Adligenswil FSG",
+    "sourceURL" : "www.fsg-adligenswil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsg-adligenswil.ch"
   },
-  "contentHash" : "sha256-f6a4ba4856b7528ad0a305c08fc880b34b6c6f289e8d648c07c205436389fe7f",
+  "contentHash" : "sha256-a1d0b709159662f82fd71c91e6545fb7aa046093f112a8a68d0b94b267d14bbc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

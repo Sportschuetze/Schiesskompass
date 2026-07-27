@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "St-Barthélemy Sté de tir Armes de guerre",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St-Barthélemy ST Armes de guerre",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-80ac1055258d2ef0d694e9498820b877b2118621c4b1de082c4af36baaf7b667",
+  "contentHash" : "sha256-ccf55465f89ac0ccb31ff7728df8ba52a4800527a453f86290f207ce5b638131",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

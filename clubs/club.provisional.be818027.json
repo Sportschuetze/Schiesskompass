@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.be818027",
+    "foundedYear" : 1875,
     "location" : "",
     "name" : "Wyssachen-Schonegg Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wyssachen-Schonegg FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ef0e9abf7edca70a9612e4d5a4f40ac42cf231cbd0637ac9f193281b1e7e57c4",
+  "contentHash" : "sha256-169fac3b0a120c5e745e574d7ce695e8cfc340c0e7af1b14b27383769f56a06d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

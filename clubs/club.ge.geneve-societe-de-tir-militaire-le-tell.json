@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Genève Société de tir militaire Le Tell",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Genève ST militaire Le Tell",
+    "sourceURL" : "https:\/\/letell.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/letell.ch\/"
   },
-  "contentHash" : "sha256-4d94e4165413414cb4063b8a8ab0a76edb264d108b001e255dce03383c63bcb6",
+  "contentHash" : "sha256-9f04ab34b8ad0eb2b36375500962a2b7e57ce2ebf85f364ee830fdbcf28b9bdc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

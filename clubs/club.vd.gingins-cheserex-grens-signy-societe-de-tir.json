@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Gingins-Chéserex-Grens-Signy Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gingins-Chéserex-Grens-Signy ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4aad12fe77ad65b16485e2749c44aa7381887ca194f4512e28d3fa1c1c40a660",
+  "contentHash" : "sha256-0cf07738befc8ba2ad72041ae5036e379b0e00a048023a1fdb4d0a8580591bb5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

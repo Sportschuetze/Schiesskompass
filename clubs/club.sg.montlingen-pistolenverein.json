@@ -6,23 +6,26 @@
     "canton" : "SG",
     "externalId" : "club.sg.montlingen-pistolenverein",
     "location" : "",
+    "logoPath" : "logos\/club.sg.montlingen-pistolenverein.jpg",
     "name" : "Montlingen Pistolenverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Montlingen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7d2db369e9ab212a4a303310a04724678a50fab30fa42e2e0e2e97fcde328fa4",
+  "contentHash" : "sha256-c4a9da9b882e8cdaf5c68fcba6e3ea7d957e071ce052df7b0526cbcd55db9e95",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +76,7 @@
       "title" : "Rheintaler Vereinswettkämpfe 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

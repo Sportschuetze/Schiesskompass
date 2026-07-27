@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Avry-devant-Pont Société de tir air comprimé",
     "offeredDisciplines" : [
-
+      "G10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Avry-devant-Pont STAC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cb6169fe4ff1dc24fd8cfdb176ff0584da9f0c5bcf24c56e1cbe123ef2c13628",
+  "contentHash" : "sha256-956d6358e5454e95d1e1184519f8b2c7c1c8f3ab254c2c294451f418c2a4e5e3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

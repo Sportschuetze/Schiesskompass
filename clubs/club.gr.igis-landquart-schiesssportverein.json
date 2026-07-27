@@ -6,27 +6,30 @@
     "canton" : "GR",
     "externalId" : "club.gr.igis-landquart-schiesssportverein",
     "location" : "",
+    "logoPath" : "logos\/club.gr.igis-landquart-schiesssportverein.jpg",
     "name" : "Igis-Landquart Schiesssportverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Igis-Landquart SSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e92ece70bdda6678a105077b0bb4f027b69b2ba95b5bf38436930c12289b2eaf",
+  "contentHash" : "sha256-b643ef0b211415c86559a5294f7129d0849bebef166e7a1050e833d5e1b3757e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

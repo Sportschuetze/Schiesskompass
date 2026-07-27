@@ -5,28 +5,32 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.824d1807",
+    "foundedYear" : 1946,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.824d1807.jpg",
     "name" : "Glattfelden Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Glattfelden PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-11314d9aa5b6552c4fc73e57f1d323080f6c8dddcdfdb026d0f2a9160dd7943f",
+  "contentHash" : "sha256-e821f862355f0200a652ce692a2f78f948e55afa6ac372c4e4687937e8f86cfe",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

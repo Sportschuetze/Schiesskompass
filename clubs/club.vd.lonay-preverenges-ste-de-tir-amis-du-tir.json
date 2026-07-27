@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Lonay-Préverenges Sté de tir Amis du tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lonay-Préverenges ST Amis du tir",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7976f93ba04648a1bfb435dcfdfa786e066c1071d40e339e40fa1febd898f3f4",
+  "contentHash" : "sha256-9a235db3e0ebd36635a2c9dd30feca8df493036e33486d6f552bdcc15e1ab929",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

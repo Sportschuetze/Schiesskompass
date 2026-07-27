@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.st-sebastian-schutzenverein",
+    "foundedYear" : 1825,
     "location" : "",
     "name" : "St. Sebastian Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St. Sebastian SV",
+    "sourceURL" : "www.svmerenschwand.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svmerenschwand.ch"
   },
-  "contentHash" : "sha256-59dbc7102167cfe1e6310396e2729a6cbcabf896573a4028f5791b5a1f22b354",
+  "contentHash" : "sha256-42ec11a4a0281b491d6c679d2167f11949f4b153caad2f8bb51ddd972989c11b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

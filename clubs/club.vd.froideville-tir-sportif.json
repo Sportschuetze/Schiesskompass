@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Froideville Tir Sportif",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Froideville TS",
+    "sourceURL" : "www.froidevilletirsportif.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.froidevilletirsportif.ch"
   },
-  "contentHash" : "sha256-57481a4bce70ddd67d8d5e40b785b7b92a1973708f34267bffae602e5ab70767",
+  "contentHash" : "sha256-b03238a86a84b1cae310fcb53edc34008d28f4e6f5caed50bea92b3b0e3a1002",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

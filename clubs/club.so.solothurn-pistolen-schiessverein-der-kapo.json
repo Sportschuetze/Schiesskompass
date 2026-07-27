@@ -5,28 +5,33 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.solothurn-pistolen-schiessverein-der-kapo",
+    "foundedYear" : 1939,
     "location" : "",
+    "logoPath" : "logos\/club.so.solothurn-pistolen-schiessverein-der-kapo.jpg",
     "name" : "Solothurn Pistolen-Schiessverein der KAPO",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Solothurn PSV KAPO",
+    "sourceURL" : "www.polizei.so.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.polizei.so.ch"
   },
-  "contentHash" : "sha256-81e2407ab197befaf55ab035590daa4fa487a07471ec61fe2e2e074ecd3e0183",
+  "contentHash" : "sha256-10054729a0bcec01ddf978c3ef4a0b85391b3a9748c341e4169ab0a26b361fc0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

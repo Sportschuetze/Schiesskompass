@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.0660957f",
+    "foundedYear" : 2007,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.0660957f.jpg",
     "name" : "Niederhasli Sportschützenverein Salen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niederhasli SSV Salen",
+    "sourceURL" : "www.ssvs.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ssvs.ch"
   },
-  "contentHash" : "sha256-23d334d3c170821fb6ef6ad898b49005d172eb4b9d84463dcc75b50df37b7c8e",
+  "contentHash" : "sha256-0b0fa55c768d9fac14dc4f9b8d508dc51a6dbd8875a6415fb63b7d6ae851a922",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

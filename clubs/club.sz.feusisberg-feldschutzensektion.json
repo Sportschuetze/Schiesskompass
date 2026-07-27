@@ -6,27 +6,29 @@
     "canton" : "SZ",
     "externalId" : "club.sz.feusisberg-feldschutzensektion",
     "location" : "",
+    "logoPath" : "logos\/club.sz.feusisberg-feldschutzensektion.jpg",
     "name" : "Feusisberg Feldschützensektion",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Feusisberg FSS",
+    "sourceURL" : "www.fssfeusisberg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fssfeusisberg.ch"
   },
-  "contentHash" : "sha256-6ab6cef1c4248190adbbde9251fb56b15dc767abfea4c64a08592118ce3d83d2",
+  "contentHash" : "sha256-2072b8e417cd5488038a49f87036783b9d7db07a1a5f2685bed2454f7638ae9b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.949fbe0d",
+    "foundedYear" : 1895,
     "location" : "",
     "name" : "Zürich-Neumünster Standschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zürich-Neumünster StandSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b2c2ce8ec0fcfab42589b1b6a4e71f0891c6194f074297a5bae50928a9b857db",
+  "contentHash" : "sha256-cf22b23c7a98af263678a94b8341b4b59d6a7fe3ffe15c007a73625238e11adc",
   "events" : [
     {
       "championshipTags" : "",
@@ -83,7 +89,7 @@
       "title" : "Rehalpschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

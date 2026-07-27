@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Lauenen b. Gstaad Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lauenen b. Gstaad Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-20199fb31018489480985fa18948436d62016e1ed113e98363f0bd9406efb4c3",
+  "contentHash" : "sha256-7a6da6dc6cbb8393d2b826067e84c720fad6afecd055646c386f9e67adc3a78d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

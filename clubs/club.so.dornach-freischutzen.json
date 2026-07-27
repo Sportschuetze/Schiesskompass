@@ -8,25 +8,31 @@
     "location" : "",
     "name" : "Dornach Freischützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dornach FrS",
+    "sourceURL" : "www.freischuetzen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.freischuetzen.ch"
   },
-  "contentHash" : "sha256-b70097eed80f0244eff135cc4ed51617adf35ecca79e18bf2f193bd305c1185f",
+  "contentHash" : "sha256-729c44848cf12aabb697a7f5b29439436f710c5c393c58edd4de56c61f3e67eb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

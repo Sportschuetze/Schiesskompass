@@ -5,28 +5,30 @@
     ],
     "canton" : "JU",
     "externalId" : "club.ju.bassecourt-develier-societe-de-tir",
+    "foundedYear" : 1846,
     "location" : "",
     "name" : "Bassecourt-Develier Société de tir",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bassecourt-Develier ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-673dfed8259324ba44785d6155ada204990d8754afa7cf42bdfd5ce49886559f",
+  "contentHash" : "sha256-6713a13f9d0eb7f28b11886eca9fcb38b9e364b8d59cc4dd87d060f8508b6390",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

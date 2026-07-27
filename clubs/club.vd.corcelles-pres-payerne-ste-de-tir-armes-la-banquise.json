@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Corcelles-près-Payerne Sté de tir Armes la Banquise",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Corcelles-près-Payerne ST Armes la Banquise",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1e32e5a9724f9299a2672bbd677be3bcc02764ec6521ec40af9b33183d0fe8b7",
+  "contentHash" : "sha256-fcef5b266d8035868cb1cb9cc749a9e79c081e801f13ba4bd82f7b2615caaf9c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

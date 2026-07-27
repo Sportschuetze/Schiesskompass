@@ -5,28 +5,33 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.tesserete-club-pistola",
+    "foundedYear" : 1949,
     "location" : "",
+    "logoPath" : "logos\/club.ti.tesserete-club-pistola.jpg",
     "name" : "Tesserete Club Pistola",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Tesserete CP",
+    "sourceURL" : "www.cptesserete.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.cptesserete.ch"
   },
-  "contentHash" : "sha256-aea20d56e01913f1449041a6a0430086d60f8814e99ecf0fa17dedef9e35c8b4",
+  "contentHash" : "sha256-da2135d7c61dd02104bf550111b097169849b68951334f9d521345a7ffd106c3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

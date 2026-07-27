@@ -5,28 +5,29 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.bf236db0",
+    "foundedYear" : 1814,
     "location" : "",
     "name" : "Hasle LU Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hasle LU FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-68f49e45ab8fc943200b31d954e9396e5d853b8cb55524a54ec80063ab2b9c96",
+  "contentHash" : "sha256-1a3e90da120c130c13dc63712bed33ab5857853d5e13cbdfdb8700416a5983fb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

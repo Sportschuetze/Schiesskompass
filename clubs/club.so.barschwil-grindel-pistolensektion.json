@@ -5,28 +5,31 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.barschwil-grindel-pistolensektion",
+    "foundedYear" : 1945,
     "location" : "",
     "name" : "Bärschwil-Grindel Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bärschwil-Grindel PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-19878ca72c23ca318641d1bd4046b027e138d2a079aaf14f71140e56207ada73",
+  "contentHash" : "sha256-c342d2a015e329371b33cb0503e346a89774257485dfccc7f7491dbd5364ea5e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Itingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Itingen SG",
+    "sourceURL" : "www.sgitingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgitingen.ch"
   },
-  "contentHash" : "sha256-f1c42f81ed09925a8ace4c06d7a3da62bab169738fd9d5ae720d16825ba88006",
+  "contentHash" : "sha256-4365c2106607725de0c3021cdcd16d03a6f96c11a98cc8139bb8ecf7a145b3c2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

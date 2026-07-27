@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Schwarzenburg Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schwarzenburg Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1aeeeb11bbe1e0bc4ce038606a967d419f1d698782b4a7937be59b8464620fe7",
+  "contentHash" : "sha256-36197398e06caac2be5d97eac26fc05b68be899a06d591d9fe7baa1b7d99a7d8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

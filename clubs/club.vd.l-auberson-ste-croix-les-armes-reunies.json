@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "L´Auberson \/ Ste-Croix Les Armes Réunies",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "L´Auberson \/ Ste-Croix AR",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-946418d1a59bf22aff9644c590f1df41e21327b4ffbe3eb0ab60702b6128c6d1",
+  "contentHash" : "sha256-ced859049fc215f6c0511385a44447adc49268e1953570b4f21996895d981347",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

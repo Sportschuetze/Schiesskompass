@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Therwil Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Therwil FSG",
+    "sourceURL" : "www.fsg-therwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsg-therwil.ch"
   },
-  "contentHash" : "sha256-62e8ed665c114a86fac753a153f3a9207ed82eb8d7eae5c94a00dbf648237aa3",
+  "contentHash" : "sha256-3f56b25a4a9291007f640de163438cc776ea74a9def4a78a4cd2f375036a0c96",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

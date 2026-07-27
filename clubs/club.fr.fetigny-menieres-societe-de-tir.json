@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Fétigny - Ménières Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fétigny - Ménières SdT",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-048583d7b3fb3dc943983c42436d9f7551a04776f3d78d11aa2774fb5d563569",
+  "contentHash" : "sha256-075d22542c0a4ebcb647de93e18aad872c2ccf831717f1d1152e657b0f5c748c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

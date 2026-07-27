@@ -5,28 +5,30 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.kyburg-so-schutzengesellschaft",
+    "foundedYear" : 1872,
     "location" : "",
     "name" : "Kyburg SO Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kyburg SO SG",
+    "sourceURL" : "www.sgkyburg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgkyburg.ch"
   },
-  "contentHash" : "sha256-be0820c510d3bed02549a62ae0031c88d34b1b990ca9e940d24acad768b3cddb",
+  "contentHash" : "sha256-3828d11eccfb51b5b70de5410eac6e52672357bc06282f207947d4b6c732a8da",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

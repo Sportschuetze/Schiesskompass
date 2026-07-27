@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Châtonnaye Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Châtonnaye ST",
+    "sourceURL" : "www.tir-chatonnaye.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tir-chatonnaye.ch"
   },
-  "contentHash" : "sha256-67810d2e4df7a481c96d82fbedfc848bdeabb86fa4379a3d61952986a7d01f91",
+  "contentHash" : "sha256-fe467c16e09a0b82ec2805218bedbff744e0206a919d2b7d798c43c307b0f478",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

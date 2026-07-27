@@ -5,28 +5,29 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.sonterswil-schutzengesellschaft",
+    "foundedYear" : 1946,
     "location" : "",
     "name" : "Sonterswil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sonterswil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cd594aa4eba8b705863744892cb6957971adcf45ae326da50eacd7c55b3e2ece",
+  "contentHash" : "sha256-8817f28697e23987f5b3eb6e136647a3da59ff249363783536868f501019d876",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

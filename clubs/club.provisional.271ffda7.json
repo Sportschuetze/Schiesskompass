@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Lindau Pistolenschützenverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lindau PSV",
+    "sourceURL" : "www.psvlindau.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.psvlindau.ch"
   },
-  "contentHash" : "sha256-83916b1cab5720f0e363b6a87d10cc804cc37c70bc5d2c840cafc972d8afcaf6",
+  "contentHash" : "sha256-24282abe1903055ade95bfef3167dcc53669ebd822a16c0bbf833ce233328973",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

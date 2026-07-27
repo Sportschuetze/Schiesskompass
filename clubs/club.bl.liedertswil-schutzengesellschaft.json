@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Liedertswil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Liedertswil SG",
+    "sourceURL" : "www.bsvwaldenburg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.bsvwaldenburg.ch"
   },
-  "contentHash" : "sha256-c5d509357a1c30d417c7dcf048de1cc56c2dcc86b30643d5e69a67403b370670",
+  "contentHash" : "sha256-ab7d70440d50d47ec2c4cc964c356979227a874433bcc1d77fdfe9182c90d122",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

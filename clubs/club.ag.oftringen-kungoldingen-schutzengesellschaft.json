@@ -5,28 +5,29 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.oftringen-kungoldingen-schutzengesellschaft",
+    "foundedYear" : 1873,
     "location" : "",
     "name" : "Oftringen-Küngoldingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oftringen-Küngoldingen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7c89cf42f69bb6f300ae688f3ac9a216741ee3a5a5865d74319b60211cb56807",
+  "contentHash" : "sha256-f9d52acf0358883de049f1c336d39b16379da660861a5d3fd038e44ed0be7d4d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

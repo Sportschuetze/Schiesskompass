@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Aeschlen bei Sigriswil Infanterie Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aeschlen bei Sigriswil Inf. S",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-60eda446b3a5e7759c7cc3bce6ef0d21e6291451fe4190eac2b257ecdd39160c",
+  "contentHash" : "sha256-3101abeefee7b8c226913ba8f9bf77fd0695e2ee3e98cb97659e0230ce1019cc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

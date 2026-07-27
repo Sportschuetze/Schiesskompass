@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.89a51873",
+    "foundedYear" : 1942,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.89a51873.jpg",
     "name" : "Boltigen Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Boltigen Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-775d552b026cbc82619d4b8b676d04b9910c4fe45005f5256fbb5460ec3fc0c7",
+  "contentHash" : "sha256-461e14661117cdfddce48ed6091fddaf22eff35cd68f2c27e2b17495bf5b7876",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

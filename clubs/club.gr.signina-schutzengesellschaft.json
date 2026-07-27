@@ -5,28 +5,30 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.signina-schutzengesellschaft",
+    "foundedYear" : 2007,
     "location" : "",
+    "logoPath" : "logos\/club.gr.signina-schutzengesellschaft.jpg",
     "name" : "Signina Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Signina SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1ba2cd6fa0e4bca3d9d6e1daafbc5354e5c0c6146cc6ba3415d9060d0a2c2675",
+  "contentHash" : "sha256-f3c570c6fc498edbece0c1a67a710e4d92ecc1ba9a7e32d4b1086ee28e1987a6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

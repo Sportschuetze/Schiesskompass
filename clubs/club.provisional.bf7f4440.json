@@ -5,28 +5,31 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.bf7f4440",
+    "foundedYear" : 1997,
     "location" : "",
     "name" : "British Alpine Rifles",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "British Alpine Rifles BAR",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4bc7c3bd086f7d5078c121da664f90922e27f1c8fc59328e53563f5c8553b9d8",
+  "contentHash" : "sha256-b7c15133fac9adf1a89c4151fe8450ba5afafa3c958805e26d86f54d5bad9dfe",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

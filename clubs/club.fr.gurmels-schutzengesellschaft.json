@@ -5,28 +5,30 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.gurmels-schutzengesellschaft",
+    "foundedYear" : 1908,
     "location" : "",
+    "logoPath" : "logos\/club.fr.gurmels-schutzengesellschaft.jpg",
     "name" : "Gurmels Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gurmels SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4c0bd098c0da607cd84ac97f7a4526e42dfac9636d5c78294823e8bcd91e43a7",
+  "contentHash" : "sha256-918a8a1e0ae6bebb63f01a0202236e6f5503384130ec36c23572f2875dbd719d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

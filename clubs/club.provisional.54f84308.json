@@ -6,27 +6,31 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.54f84308",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.54f84308.jpg",
     "name" : "Wehntal Schiesssportverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wehntal SSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3cc283d5416ec0becbb58654431ae0ecfc3520ab989a06a0019d89549b3af072",
+  "contentHash" : "sha256-4574edef13e6ed7e78f5b9e2c4701fc634d5e78adcc91a2bd62ac1e8563b331b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

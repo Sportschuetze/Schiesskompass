@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Mosnang-Mühlrüti 300m Sport",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mosnang-Mühlrüti Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e78fb276006bb677531eef6dbad51d451423476ab9bafa46e644ca04970beab6",
+  "contentHash" : "sha256-0b01669b4baa8b02dc512b262e0d767892afd8aa9d8cc01e22daea6c8f9a5ddd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

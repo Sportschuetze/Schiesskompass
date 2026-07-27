@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Carrouge-Ropraz-Vulliens Sté de tir Les Maraîches",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Carrouge-Ropraz-Vulliens ST Les Maraîches",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1165f98768b77e6caa0dff5d5aa61427dd8df1b049a48f2545e07e583278a938",
+  "contentHash" : "sha256-19b557f2bfb71c2fb360b0b4dbc1e0bf0c78ba26ee853bbc2c5f2eebb33ab911",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "St-Légier-La Chiésaz Société de tir La Cible Sportive",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St-Légier-La Chiésaz ST La Cible Sportive",
+    "sourceURL" : "www.ciblesportive.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ciblesportive.ch"
   },
-  "contentHash" : "sha256-7e561ac313f5f158666f38e4b55baef9370df53a6f6354b2c0ec08a05ebbb8cf",
+  "contentHash" : "sha256-61c538fb28b3fe34d29242f17ead07ec61178792f218cce53cc0006a91a95966",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

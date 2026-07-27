@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Schwarzenburg Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schwarzenburg S",
+    "sourceURL" : "www.schuetzen-schwarzenburg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schuetzen-schwarzenburg.ch"
   },
-  "contentHash" : "sha256-9894baf115e34f40b5368983251280f48710b54431148b630e8c57dc03c32649",
+  "contentHash" : "sha256-736a74f02b92694a344649b2f96442a0303f34f2c265263d0da3be1232700482",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

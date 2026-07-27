@@ -6,27 +6,29 @@
     "canton" : "VD",
     "externalId" : "club.vd.gimel-tir-sportif",
     "location" : "",
+    "logoPath" : "logos\/club.vd.gimel-tir-sportif.jpg",
     "name" : "Gimel Tir Sportif",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gimel TS",
+    "sourceURL" : "Www.Tir-Gimel.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "Www.Tir-Gimel.ch"
   },
-  "contentHash" : "sha256-31a8a2c3fd98384d1a64d5a6a4670c72e8cbe8dee88e94e4797f376f59cc62c4",
+  "contentHash" : "sha256-bc84df375f0233d0db24e413c4439fd7de3c74def007381e96d7014a8259fbb3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

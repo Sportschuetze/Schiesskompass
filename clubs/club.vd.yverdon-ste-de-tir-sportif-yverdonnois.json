@@ -5,28 +5,32 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.yverdon-ste-de-tir-sportif-yverdonnois",
+    "foundedYear" : 2008,
     "location" : "",
     "name" : "Yverdon Sté de Tir Sportif Yverdonnois",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Yverdon StéSportif",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f75bef5c8b3d9feb6e6d77ed088d5792061f7cbbb79fb3a795ebf63d55a42b20",
+  "contentHash" : "sha256-c88337e60ae520320da6f5e4276a349a6a88b73d09f66957d99bf3783d45ca63",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

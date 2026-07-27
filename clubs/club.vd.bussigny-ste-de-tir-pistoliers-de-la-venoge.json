@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Bussigny Sté de tir Pistoliers de la Venoge",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bussigny STP de la Venoge",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ef7db67bdbde67a04f26d0391de6547d055be1c8a013c8f82a01fe99a48cf8db",
+  "contentHash" : "sha256-672488557780db100c998f0549858de8b9f00332ad9ec06f851d97f344978a54",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

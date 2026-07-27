@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Freienbach-Pfäffikon Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Freienbach-Pfäffikon SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-45b425431af3a8bc09d4dd45dc4c1f1a3ec8b51124dcf47e2c06edd9923a6341",
+  "contentHash" : "sha256-12ded9b7cb848dd300ef9e141566378f34bc4e69261707e16afed250215a6c3e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

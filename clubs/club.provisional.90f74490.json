@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.90f74490",
+    "foundedYear" : 1886,
     "location" : "",
     "name" : "Dänikon-Hüttikon Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dänikon-Hüttikon SV",
+    "sourceURL" : "https:\/\/www.svdaenikon-huettikon.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.svdaenikon-huettikon.ch\/"
   },
-  "contentHash" : "sha256-26dfc1f3be4a52c85153c951f6109168d6ccf8c35918e7787af26d30a1b42ec6",
+  "contentHash" : "sha256-b4199051d98538cc28612d9b29e0065217610612113507e4cf92f168fe2acd53",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,26 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.f2bb3e21",
+    "foundedYear" : 1970,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.f2bb3e21.jpg",
     "name" : "Bäretswil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bäretswil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-52ee82a286f6f8c13686edd05bbf07a430a788a2f007efa7cdb3880ad3432fa9",
+  "contentHash" : "sha256-35ba7615398c7cd2e48d049a24ad32b72dbf90f6e8359eabf0dfa5afb16a50a8",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +75,7 @@
       "title" : "31. Guyer-Zellerschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

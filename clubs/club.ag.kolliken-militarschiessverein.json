@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Kölliken Militärschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kölliken MSV",
+    "sourceURL" : "www.msv-koelliken.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.msv-koelliken.ch"
   },
-  "contentHash" : "sha256-a87fa184b3d359eda1354c7478f51b4b51f25c85ef86e989df7e7775ae2cbb6f",
+  "contentHash" : "sha256-be2cb4d2314978661de752af59d436262a1f308741f2e86a33a7110d048688da",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

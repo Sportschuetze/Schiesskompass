@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.fulenbach-kappel-schutzengesellschaft",
+    "foundedYear" : 1983,
     "location" : "",
     "name" : "Fulenbach-Kappel Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fulenbach-Kappel SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b585893f58101fd691ac4a4185ce08b1a278c482e3212d279c41ca5cdcdb5a3f",
+  "contentHash" : "sha256-9133aa614b87a6ba014b50f29e6981d73d29e22ffda9da375e1d5132aa7b1a94",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

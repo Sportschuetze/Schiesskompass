@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "L´Isle et environs Sté de tir Francs-Tireurs",
     "offeredDisciplines" : [
-
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "L´Isle et environs ST Francs-Tireurs",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b440357c1a5365fde6768f6b702ed76778c84693f8afc7365be5aea796fbafe5",
+  "contentHash" : "sha256-60bf4a27708544a68732a587b718e22a7159eabd86a8f19669abb13c3de96769",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

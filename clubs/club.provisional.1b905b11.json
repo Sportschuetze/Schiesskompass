@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Hausen bei Meiringen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hausen bei Meiringen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-991ac447cf4637a189c900c017edd0c43cd3c34288c24e66fb3c68dacb9b6e75",
+  "contentHash" : "sha256-6292755a6c5ba9783bc339598d116164a3381e430ae39f1540917a281a961775",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

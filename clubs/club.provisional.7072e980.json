@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Koppigen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Koppigen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0d1f86183be8e75ad1f196e1d028adbcbfe0612c7bb07ba6d11c6298130049a2",
+  "contentHash" : "sha256-b5f0f2fa6b4fa2acc27094360c9f7a3f21da7ef336798b5d17c5d72985ce2eba",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

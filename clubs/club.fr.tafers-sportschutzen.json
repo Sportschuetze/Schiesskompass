@@ -6,27 +6,29 @@
     "canton" : "FR",
     "externalId" : "club.fr.tafers-sportschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.fr.tafers-sportschutzen.jpg",
     "name" : "Tafers Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Tafers Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f81258c037fc2122fae7d710d2cb5edf70b694d4cdd415ddc0aa79be398da7f9",
+  "contentHash" : "sha256-29c7764353a8c6f606d83a2a002c415dc4a3b3194b45a95242e3156e6724bb27",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

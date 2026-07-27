@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.6fbe64e5",
+    "foundedYear" : 1905,
     "location" : "",
     "name" : "Alchenstorf Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Alchenstorf FS",
+    "sourceURL" : "www.fsalchenstorf.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsalchenstorf.ch"
   },
-  "contentHash" : "sha256-fe48d0cd7f371ade7dc890576df4f0ed3f6125a28a9368a564fe1795dbce5e4f",
+  "contentHash" : "sha256-ed176767630f9192a9f5d2a609c1d0ff6f2341cc6c2501354768a9ecffbaba1f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.49ad017b",
+    "foundedYear" : 1943,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.49ad017b.jpg",
     "name" : "Adelboden Kleinkaliberschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Adelboden KKS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f8bca14825962832c83df7b9d3c2ad8aaa13dbfcc2c25ab7b7e24fbe3008869b",
+  "contentHash" : "sha256-a51ffcf65cb7fe8ac211b0e03070d628376984e132eb43e8abb06bc6f17d7b9c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

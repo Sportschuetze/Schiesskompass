@@ -5,28 +5,31 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.rivera-unione-tiratori-monte-ceneri",
+    "foundedYear" : 1966,
     "location" : "",
     "name" : "Rivera Unione Tiratori Monte Ceneri",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rivera Ut Monte Ceneri",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c284be53b4d03ef4c7f4913061765e7792f21fb65decf94afd291cc55b0d31ca",
+  "contentHash" : "sha256-e30f52badd7d9cd37275a0153c652a4c0a0152ec2dc4ba573410936c58eda43a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

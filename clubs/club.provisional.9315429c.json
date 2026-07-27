@@ -6,23 +6,29 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.9315429c",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.9315429c.jpg",
     "name" : "Zürich Schützengesellschaft der Stadt",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zürich SG der Stadt",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8ae5b79038899248e342fecf63967173553784d1cbcc513ed827ea4d016c3b57",
+  "contentHash" : "sha256-63527fa5c84dc37675206976a2b6638439215e1c648493935f6897f95e04da59",
   "events" : [
     {
       "championshipTags" : "",
@@ -96,7 +102,7 @@
       "title" : "2.Albisgütli-Liegendmatch Gewehr 50m"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

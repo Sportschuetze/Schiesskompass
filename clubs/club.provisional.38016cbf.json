@@ -5,24 +5,25 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.38016cbf",
+    "foundedYear" : 1830,
     "location" : "",
     "name" : "Elgg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Elgg SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a4f93b90dfcd017c7351d3e1a97a7548cd28d72a83d9444844afd2ee5c06e099",
+  "contentHash" : "sha256-22f8eca2c2118bdd68c059267fe437e9c1a54de0898c21043b8e6037548ea18c",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +64,7 @@
       "title" : "Landstädtli-Schüüsse Elgg"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

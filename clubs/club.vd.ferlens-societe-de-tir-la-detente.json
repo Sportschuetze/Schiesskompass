@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Ferlens Société de tir La Détente",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ferlens ST La Détente",
+    "sourceURL" : "www.refugeladetente.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.refugeladetente.ch\/"
   },
-  "contentHash" : "sha256-c2804747f65f0da5cd0a73adca182878a7c366f18d633ba89052933287a4c122",
+  "contentHash" : "sha256-d20883965945cbd111a0c2e05f73c4b555b243affcbd1fb2812023a31881eede",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

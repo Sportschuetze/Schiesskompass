@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.9069b253",
+    "foundedYear" : 1877,
     "location" : "",
     "name" : "Gondiswil Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gondiswil FSG",
+    "sourceURL" : "fsg-gondiswil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "fsg-gondiswil.ch"
   },
-  "contentHash" : "sha256-4a0fade78f190da46887d531fc0732a0fc88fcf2454db37f6bf8e691ab26650b",
+  "contentHash" : "sha256-2d2492b07232035747f47a4b2f6f6ea77d6abce2045b3b08551cd30c4daa82ed",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

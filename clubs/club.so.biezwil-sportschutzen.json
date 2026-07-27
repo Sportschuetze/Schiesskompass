@@ -5,28 +5,30 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.biezwil-sportschutzen",
+    "foundedYear" : 1943,
     "location" : "",
     "name" : "Biezwil Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Biezwil Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bce5ad21736eaff11a9155b8dab6c0258ec9abec445d51092f5625f5677fffc8",
+  "contentHash" : "sha256-9b066e1e8326b2fa58a1de2ef1a2f684c23ec6820f657edd1e96b8df39f5c6da",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

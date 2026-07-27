@@ -5,28 +5,29 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.sta-maria-v-m-societa-da-tregants",
+    "foundedYear" : 1929,
     "location" : "",
     "name" : "Sta. Maria v. M. Società da tregants",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sta. Maria v. M. ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fea2a65fff8de39693cb3bb871f8fd1c51b9decf02af45cf62544b43dbe0e2ef",
+  "contentHash" : "sha256-bf4cc1a3b482560257afd1b8f8b4f58c48a9f3c1bc0f05ce5e52d8f9e95cc1c4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

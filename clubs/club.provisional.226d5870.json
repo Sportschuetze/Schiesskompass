@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Renan BE Société de tir La Suze",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Renan BE ST La Suze",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0abc0a80c2d86074346a83efba654eb469a97d4afe2157ce5af26c75e6e26928",
+  "contentHash" : "sha256-2e24137f3f0c46e18c1a1976feb7c8be43c0e68e0c83e460fc415370b6a957a0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

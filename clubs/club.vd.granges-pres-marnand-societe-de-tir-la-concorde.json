@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Granges-près-Marnand Société de tir La Concorde",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Granges-près-Marnand ST La Concorde",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-43cd6bcaa114d3c47da0fe1f406b691246f38805cb5913bb01107c9af86a6c5c",
+  "contentHash" : "sha256-95de420e6c9824e552efd2a2203405d9192dbf430eacdbf3963a78df12f97595",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

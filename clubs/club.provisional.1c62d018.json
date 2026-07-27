@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Affoltern im Emmental Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Affoltern im Emmental FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-367d41b5c8536285904b83baa5153a9483f68a985de21c69d52b8508a17ebbef",
+  "contentHash" : "sha256-2f78e563221bd3a6c68127b34270e018840b30007c55935f5c4b0028e2249aa6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

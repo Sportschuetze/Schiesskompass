@@ -5,28 +5,29 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.giffers-tentlingen-feldschutzengesellschaft",
+    "foundedYear" : 1826,
     "location" : "",
     "name" : "Giffers-Tentlingen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Giffers-Tentlingen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-76567cf25f9949236d28e268daf3485c71f393c6e930f47ba2d74ed6949ee015",
+  "contentHash" : "sha256-f2942d0d560afdb76fa4a34c178898699333363f90af52cea36da90becfed89c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.loco-societa-tiratori-delle-sponde",
+    "foundedYear" : 1885,
     "location" : "",
     "name" : "Loco Società Tiratori delle Sponde",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Loco St delle Sponde",
+    "sourceURL" : "www.tiratoridellesponde.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tiratoridellesponde.ch"
   },
-  "contentHash" : "sha256-ab511140ef7ff92fa55b2964d88f5810f6bd768ea1f315dfdd29cd03df343d3e",
+  "contentHash" : "sha256-fce60bf3b67d339db9bd93b2dfe5ea66b7783b4c6c3f3d981dbf3ab93eb21ba8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

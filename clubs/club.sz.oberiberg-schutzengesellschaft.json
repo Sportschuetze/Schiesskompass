@@ -5,28 +5,29 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.oberiberg-schutzengesellschaft",
+    "foundedYear" : 1704,
     "location" : "",
     "name" : "Oberiberg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberiberg SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-32399170f37106af6702eefdb2f493ea0d3169734996bdc124d7a6151b0b8797",
+  "contentHash" : "sha256-6bcc9e5a83cf71504ab49e27b4f960efd10ef42fd43d978fb3df28dd3bf8cae1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

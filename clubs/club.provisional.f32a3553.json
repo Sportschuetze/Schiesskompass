@@ -5,24 +5,26 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.f32a3553",
+    "foundedYear" : 1862,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.f32a3553.jpg",
     "name" : "Wallisellen Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wallisellen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-24ba884f0ed08ff9ad776113904fea43305e8d674d7456b1935b56328d6ab37b",
+  "contentHash" : "sha256-8d458118114d3f321574151149fd0c20898a8b451c0a103699ee497226f64853",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,7 +60,7 @@
       "title" : "69. Winterschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Cronay Société de tir du Montélaz",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cronay ST du Montélaz",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e5c17e96ae8cc9a36baaff8edc41749d7842bcb0ecbbda91399f24cf75d162bf",
+  "contentHash" : "sha256-48e9bb7fab67fceb2b2afaf5eedd28cb06a69b3e186815c63f26e35c5907ef8d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

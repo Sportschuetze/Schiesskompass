@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Oleyres Société de tir Les Renards",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oleyres ST Les Renards",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-45682bcc03a859c4a803d7a908cb739f1c21956b0c841e3c19f49ed537030bd5",
+  "contentHash" : "sha256-859d9638872956041b315ea21e20c5c9c85e441e364c0c05a6c9739ed3eca741",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

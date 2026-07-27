@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.fb8861f8",
+    "foundedYear" : 2007,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.fb8861f8.jpg",
     "name" : "Maur-Binz-Fällanden Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Maur-Binz-Fällanden SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2ad5758c30b195a379df4fe9ffb28a15d5f217b02a45ffe491aad7b05fa549db",
+  "contentHash" : "sha256-c39b44a7944d0e17ce0de248bd07ab9fa670dce3423056a833f5e6a46b5b39cb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

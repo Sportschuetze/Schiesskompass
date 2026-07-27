@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Flums Pistolenschützenverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Flums PSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b2c4e6bc780567b9ad4468e42d5d7eb2b8bb9d2080feb31d516070a8c9f73e73",
+  "contentHash" : "sha256-8c2b442c0dd607d59592e3fe9741e6dcc16927ebd1b4bd16548e129c8b752ca9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

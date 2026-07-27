@@ -6,27 +6,28 @@
     "canton" : "BE",
     "externalId" : "club.provisional.06f33d30",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.06f33d30.jpg",
     "name" : "Wangenried Infanterie Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wangenried Inf. SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-49b88a2169855fc4c29b09759a10f8a53918e826e5513db908ece0d23cbe6140",
+  "contentHash" : "sha256-350c5f89216770ec783af86825d3405474483e3de981c77002c49cae694cab3f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

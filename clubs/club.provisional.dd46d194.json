@@ -6,27 +6,28 @@
     "canton" : "BE",
     "externalId" : "club.provisional.dd46d194",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.dd46d194.jpg",
     "name" : "Oberried am Brienzersee Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberried am Brienzersee FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0761f3a5fc5b0b4e1c4828b686f93c8c39ede2d7a6336f61f8da55e2d9eea4e1",
+  "contentHash" : "sha256-6600d1d8ab48c45f69c4e48ced568e9c02ed82829f53e4db5f2efaf0ed38644b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

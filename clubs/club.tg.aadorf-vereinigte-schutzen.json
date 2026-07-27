@@ -6,23 +6,24 @@
     "canton" : "TG",
     "externalId" : "club.tg.aadorf-vereinigte-schutzen",
     "location" : "",
+    "logoPath" : "logos\/club.tg.aadorf-vereinigte-schutzen.jpg",
     "name" : "Aadorf Vereinigte Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aadorf VS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c235e27ab9cefa0dde3216582098b62620ae3b10dbc2615ed87668cd7a8ddca1",
+  "contentHash" : "sha256-406cf7c3bfc26ee142bc042b49ced051e4550d1c0cd1102107bce55df752827c",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +74,7 @@
       "title" : "Jubiläumsschiessen 150 Jahre Vereinigte Schützen Aadorf"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

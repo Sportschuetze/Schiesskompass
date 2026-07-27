@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Yens-sur-Morges Société de tir L'Avenir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Yens-sur-Morges ST L'Avenir",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-501f7f943b90236d2f205906e07a83ca57b0d257baad29eba354d91391cf2fb7",
+  "contentHash" : "sha256-9592d05618ea43ee8104173fdfea5f0afe523c8ee956c4e901d2d58e2ede8326",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

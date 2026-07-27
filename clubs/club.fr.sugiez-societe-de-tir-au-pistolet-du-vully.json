@@ -6,27 +6,31 @@
     "canton" : "FR",
     "externalId" : "club.fr.sugiez-societe-de-tir-au-pistolet-du-vully",
     "location" : "",
+    "logoPath" : "logos\/club.fr.sugiez-societe-de-tir-au-pistolet-du-vully.jpg",
     "name" : "Sugiez Société de tir au Pistolet du Vully",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sugiez Pistolet Vully",
+    "sourceURL" : "www.pistoletvully.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pistoletvully.ch"
   },
-  "contentHash" : "sha256-473e7fde1af7af05eb9b11f65b1471a10b13dec896cbf98397ff401c7c11c85c",
+  "contentHash" : "sha256-d88d99e8ffcea360a6dc3941494eb9fd74d0611fe18a394a8a17c625db7e8e7d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

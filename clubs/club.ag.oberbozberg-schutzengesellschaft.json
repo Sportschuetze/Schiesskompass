@@ -5,28 +5,29 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.oberbozberg-schutzengesellschaft",
+    "foundedYear" : 1899,
     "location" : "",
     "name" : "Oberbözberg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberbözberg SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2cccd76dcc730aefc5cb284ec7063bd4a5465ff9c87dbe6b75b7e543717a64e2",
+  "contentHash" : "sha256-4d2611317245956579f7623c8f074aca7fa0c8d62d8c4d8b6d972e6e2dafcdb4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

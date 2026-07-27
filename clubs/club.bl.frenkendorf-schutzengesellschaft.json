@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Frenkendorf Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Frenkendorf SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ebdfe6d99e4d79ae6a64284450f0c4aece1e498814e91f1542253057ae40411b",
+  "contentHash" : "sha256-2625fa8b480724256ed36e7ed277c55f73f1219a01d74fb2b6fd28aca969fc6b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

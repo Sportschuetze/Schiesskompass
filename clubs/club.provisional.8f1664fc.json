@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Weiach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Weiach SG",
+    "sourceURL" : "www.sgweiach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgweiach.ch"
   },
-  "contentHash" : "sha256-e289554d1eb7a36763eac64b92d8419d15500413fb116a602356542635c511fa",
+  "contentHash" : "sha256-9855571282f89ae974db3e69d121fd709844a8265a68b7cad7375d8ce72969ba",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

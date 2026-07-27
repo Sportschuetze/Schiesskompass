@@ -6,23 +6,24 @@
     "canton" : "TG",
     "externalId" : "club.tg.hefenhofen-dozwil-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.tg.hefenhofen-dozwil-schutzengesellschaft.jpg",
     "name" : "Hefenhofen-Dozwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hefenhofen-Dozwil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ea78942d6afe23e48ec8a9a27ab523c005da9e783dc1c7e3b71ab9c5c09ed665",
+  "contentHash" : "sha256-7ffd007f645e56e68fec78b3ef71efadbab16e20104cfc4e04cd8dea4566fa2e",
   "events" : [
     {
       "championshipTags" : "",
@@ -131,7 +132,7 @@
       "title" : "34. Oberthurg. Gewehrschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

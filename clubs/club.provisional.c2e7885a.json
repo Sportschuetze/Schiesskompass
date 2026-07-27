@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Allmendingen bei Thun Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Allmendingen bei Thun FSG",
+    "sourceURL" : "www.fs-allmendingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fs-allmendingen.ch"
   },
-  "contentHash" : "sha256-dec7602579c223535093eb9ff86464c2b02b1e10f3d14d59bb137d17585f9790",
+  "contentHash" : "sha256-822ed3c8a7b20067c3c302012bcb4bf42ec68abc9e9df09496125bc132667aa2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

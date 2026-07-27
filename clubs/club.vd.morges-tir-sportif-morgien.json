@@ -6,27 +6,28 @@
     "canton" : "VD",
     "externalId" : "club.vd.morges-tir-sportif-morgien",
     "location" : "",
+    "logoPath" : "logos\/club.vd.morges-tir-sportif-morgien.jpg",
     "name" : "Morges Tir sportif Morgien",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Morges TS Morgien",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f32e84842e2472e4be04b3488e1748524eec508d79da0276e8909825cff1239d",
+  "contentHash" : "sha256-2848a7e195da299392847bfcf4d156fbbe44ecb591ccf288c7805aef6fe57c97",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

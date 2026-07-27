@@ -5,28 +5,31 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.reichenburg-feldschutzen",
+    "foundedYear" : 1877,
     "location" : "",
+    "logoPath" : "logos\/club.sz.reichenburg-feldschutzen.jpg",
     "name" : "Reichenburg Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Reichenburg FS",
+    "sourceURL" : "www.fsreichenburg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsreichenburg.ch"
   },
-  "contentHash" : "sha256-01a7cf90eb7f1e17f5030cc807fbc2cebe4b405c1e448726f2e7cb8449646cc0",
+  "contentHash" : "sha256-7728c678b577c2a2c6618758bbb5a36241663666b0110aaf89df5630ab37dad3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

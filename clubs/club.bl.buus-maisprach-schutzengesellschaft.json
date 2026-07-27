@@ -5,28 +5,31 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.buus-maisprach-schutzengesellschaft",
+    "foundedYear" : 2009,
     "location" : "",
+    "logoPath" : "logos\/club.bl.buus-maisprach-schutzengesellschaft.jpg",
     "name" : "Buus-Maisprach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Buus-Maisprach SG",
+    "sourceURL" : "www.sg-buus-maisprach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-buus-maisprach.ch"
   },
-  "contentHash" : "sha256-4f53a3c64c3b44653463dfb5192ff48e035b44aea30567d152f6829779c7dd47",
+  "contentHash" : "sha256-d3360e77e63f93a2dfa0b808b5505ef5cfffc03e1f83c61e097fa8bf8452978b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Niedermuhlern Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niedermuhlern SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-523b9089dfce1001e542d97adef1242408b6966a8e40271acd23c4f38e3bb56c",
+  "contentHash" : "sha256-7be3db1c77d3b0bbb8b903ae141da24880e23321bce9442f1bb2121e6258d68c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

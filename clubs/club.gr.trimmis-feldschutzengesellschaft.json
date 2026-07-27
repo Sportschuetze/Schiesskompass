@@ -5,28 +5,30 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.trimmis-feldschutzengesellschaft",
+    "foundedYear" : 1890,
     "location" : "",
+    "logoPath" : "logos\/club.gr.trimmis-feldschutzengesellschaft.jpg",
     "name" : "Trimmis Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Trimmis FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-48fe0301f529d78caf4381eeb1dfce51ebe039336d3aad6083ed95f347c1e52b",
+  "contentHash" : "sha256-33f6c6bd11caa3845fe6b34135f14dbaa98634a220e173a9d9ad9b7e5661384c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

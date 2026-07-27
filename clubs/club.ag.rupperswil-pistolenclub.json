@@ -5,28 +5,33 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.rupperswil-pistolenclub",
+    "foundedYear" : 1958,
     "location" : "",
+    "logoPath" : "logos\/club.ag.rupperswil-pistolenclub.jpg",
     "name" : "Rupperswil Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rupperswil PC",
+    "sourceURL" : "www.pc-rupperswil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pc-rupperswil.ch"
   },
-  "contentHash" : "sha256-3ec9bdf4fab90402b928043c925512382df0efc3bf046fd2e9fa5c62b154a30a",
+  "contentHash" : "sha256-bb14a35a94052c5d35b4b3029fb37d612d24d0c1b667eb3f0ab78617f62327c9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

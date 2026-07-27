@@ -5,28 +5,30 @@
     ],
     "canton" : "AI",
     "externalId" : "club.ai.schlatt-haslen-bezirksschutzen",
+    "foundedYear" : 2008,
     "location" : "",
+    "logoPath" : "logos\/club.ai.schlatt-haslen-bezirksschutzen.jpg",
     "name" : "Schlatt-Haslen Bezirksschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schlatt-Haslen BS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-45fb1a64c022d25a8f855b94bcaf237402c4b437c245e52e268e8ef9d53156f3",
+  "contentHash" : "sha256-0f311dad06e88515acc33cc5fa8bff85419d566ebe7a1bf2db2691035a0bd692",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

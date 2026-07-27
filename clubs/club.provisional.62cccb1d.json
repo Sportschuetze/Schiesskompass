@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Muri-Gümligen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Muri-Gümligen SG",
+    "sourceURL" : "https:\/\/schuetzen-muri-guemligen.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/schuetzen-muri-guemligen.ch\/"
   },
-  "contentHash" : "sha256-341a5642fe5c704fa9f93478824eae33ab15d6205c90061831b4fe63c73e7dc4",
+  "contentHash" : "sha256-2c290855ddb398ea9510c1493bf179a178671051e9e97f7f82cae0c70ee922f9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

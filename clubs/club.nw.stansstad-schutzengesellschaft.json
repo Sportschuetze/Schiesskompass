@@ -5,28 +5,29 @@
     ],
     "canton" : "NW",
     "externalId" : "club.nw.stansstad-schutzengesellschaft",
+    "foundedYear" : 1836,
     "location" : "",
     "name" : "Stansstad Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Stansstad SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f2a97d536836e757c35547e0d0b6fc5c1430765fd7f2c75752a9bf4ad849244d",
+  "contentHash" : "sha256-5451f6aee7bc7d46e6545d025638050c4e2dbb5f96c9ec591d6d347db0ffd4c5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

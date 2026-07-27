@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Satigny Carabiniers Réunis",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Satigny Carabiniers Réunis",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-68442190d71e3a28d05aa8c47666b03dd65a726bc15174f1540ad58e7e091a9f",
+  "contentHash" : "sha256-ffacdcd243472c39958b2a80eef9ccecd96e061eaf040be195bbdc2eb48b68a6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

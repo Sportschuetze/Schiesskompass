@@ -5,28 +5,33 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.e5fcb6b8",
+    "foundedYear" : 1937,
     "location" : "",
     "name" : "Bienne Société de tir Sof et sdt romands",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bienne SdT Sof et sdt romands",
+    "sourceURL" : "https:\/\/tir-bienne.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/tir-bienne.ch\/"
   },
-  "contentHash" : "sha256-f067851bd09ea0d775071fd6d56750018a4c8b9287f7cb39d81994df819423f7",
+  "contentHash" : "sha256-bd33dc6583fb3ca3a512024bd5aa9194a53e1b591d7c50b0010672a275111b6f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

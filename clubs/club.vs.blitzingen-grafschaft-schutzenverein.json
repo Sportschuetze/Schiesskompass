@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Blitzingen-Grafschaft Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Blitzingen-Grafschaft SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e7b45e9b36af7a2a626fd0f96742d24f28ea5e3125cc0e35adab7ee8834d3c9f",
+  "contentHash" : "sha256-f73062d57ff9bae0040c4df2695938c6d6850031d282f5a4a781a1b8e342d44b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

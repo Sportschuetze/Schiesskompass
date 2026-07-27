@@ -5,28 +5,34 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.lausen-schutzenverein",
+    "foundedYear" : 1878,
     "location" : "",
+    "logoPath" : "logos\/club.bl.lausen-schutzenverein.jpg",
     "name" : "Lausen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lausen SV",
+    "sourceURL" : "www.schuetzenvereinlausen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schuetzenvereinlausen.ch"
   },
-  "contentHash" : "sha256-47295037500f8e2c800b342f236698172240fdf2ae021dd08835dfc1705cb55e",
+  "contentHash" : "sha256-67a8ab10590586d45b84bf76d8d59939b9bdd9eb8af03950314de9e750b998ad",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

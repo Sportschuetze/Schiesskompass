@@ -5,24 +5,27 @@
     ],
     "canton" : "AR",
     "externalId" : "club.ar.urnasch-pistolensektion",
+    "foundedYear" : 1946,
     "location" : "",
     "name" : "Urnäsch Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Urnäsch PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-40554192dcca14daa936de2148ccfd6fcc03a67384498fe11c52b72e847aa796",
+  "contentHash" : "sha256-aa56289cc03d465d4f6728cb927aabe79e6317c25ee303b1cc81b2612e2787a9",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,7 +61,7 @@
       "title" : "Herbstmonetschüüsse"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

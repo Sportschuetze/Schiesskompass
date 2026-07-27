@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Giubiasco Società tiratori del Circolo",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Giubiasco St del Circolo",
+    "sourceURL" : "https:\/\/tiratorigiubiasco.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/tiratorigiubiasco.ch\/"
   },
-  "contentHash" : "sha256-3e43841caa7a60d9f7cbbf9bff39959bca5f516547c32d54b19f7400066f4650",
+  "contentHash" : "sha256-fd152014b0243a4bb19fcaf42dbaa8ae84ed61b150f5ffba613b4bbbef98e702",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.66bbbd4f",
+    "foundedYear" : 1867,
     "location" : "",
     "name" : "Kehrsatz-Zimmerwald Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kehrsatz-Zimmerwald SV",
+    "sourceURL" : "www.svkezi.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svkezi.ch"
   },
-  "contentHash" : "sha256-1fa88072e6f6f05b5a46fec8c1e091c253432f8e79a22705586f62a29baa2a89",
+  "contentHash" : "sha256-28460372661c625e8a95f04b4caa4eea982a7d2bc92ea3eab0ec6e57bdd4b7f7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

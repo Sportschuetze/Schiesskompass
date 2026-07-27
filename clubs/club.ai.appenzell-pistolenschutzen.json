@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Appenzell Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Appenzell PS",
+    "sourceURL" : "https:\/\/www.ps-appenzell.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.ps-appenzell.ch"
   },
-  "contentHash" : "sha256-2ed9854d4ffe125fc072a34ad4f0555ea4627b3286f151c4f0a9f141d721b303",
+  "contentHash" : "sha256-df0b03f24ee86103456b4e39f0004ad222adb25ce8d4d0f7977787e6f82b9d68",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

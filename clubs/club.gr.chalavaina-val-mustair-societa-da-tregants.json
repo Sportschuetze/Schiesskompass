@@ -5,28 +5,30 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.chalavaina-val-mustair-societa-da-tregants",
+    "foundedYear" : 2002,
     "location" : "",
     "name" : "Chalavaina Val Müstair Società da tregants",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chalavaina Val Müstair ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bc64261a8f18f37ea4051d3509fb491b656104e5d55624eb09d11c6f66bf2a16",
+  "contentHash" : "sha256-aee403ae60eb8d7214d08a1f3501a0d8d886ec4faee35b15495ea38f0efb40fe",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

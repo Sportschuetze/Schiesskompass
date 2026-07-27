@@ -5,28 +5,31 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.birmenstorf-schutzengesellschaft",
+    "foundedYear" : 1860,
     "location" : "",
+    "logoPath" : "logos\/club.ag.birmenstorf-schutzengesellschaft.jpg",
     "name" : "Birmenstorf Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Birmenstorf SG",
+    "sourceURL" : "www.sgbirmenstorf.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgbirmenstorf.ch"
   },
-  "contentHash" : "sha256-1fe516860c94c3b9f7e08ad48f6565d611a219ee8e5f3b5a47e0ca3feffb7288",
+  "contentHash" : "sha256-c60eef3f0af99e154dbc99a2810447a0244a6ac8ccb6b81d2efdbbec55ca58f1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

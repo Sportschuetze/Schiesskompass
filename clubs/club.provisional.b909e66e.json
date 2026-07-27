@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Signau-Höhe Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Signau-Höhe SG",
+    "sourceURL" : "www.sg-hoehe.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-hoehe.ch"
   },
-  "contentHash" : "sha256-aa13f542f376f375ce851324885c099df24fd372ac842b0a018731f57d0de0fa",
+  "contentHash" : "sha256-e6c7196eba977c09e79588fa1ad67e131ab861f775dd03abdfec06a9314b8c96",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

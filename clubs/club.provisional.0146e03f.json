@@ -6,27 +6,28 @@
     "canton" : "BE",
     "externalId" : "club.provisional.0146e03f",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.0146e03f.jpg",
     "name" : "Bowil Kleinkaliberschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bowil KKS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0d700e8cd5aabc813ee5ed75f67771c85ca030d78b5f78f81e4954c5cdd699a1",
+  "contentHash" : "sha256-5a8efaff7fd6c42417f5fd34ff87a4db576f593d644cd280717c74a162af2ef5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

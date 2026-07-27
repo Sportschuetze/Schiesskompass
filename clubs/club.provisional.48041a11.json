@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Zürich Oerlikon-Seebach Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zürich Oerlikon-Seebach PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-de7fd9a626b80319093c636d23f32058f2f10c28448cb266c67486ca742e0bca",
+  "contentHash" : "sha256-a8fe8d2443ff076874c5a7cf07944a1863ed16b8a63ae06be0e5d8666298409c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.valeyres-sous-rances-ste-le-goupil-tir-sportif",
+    "foundedYear" : 1898,
     "location" : "",
+    "logoPath" : "logos\/club.vd.valeyres-sous-rances-ste-le-goupil-tir-sportif.jpg",
     "name" : "Valeyres-sous-Rances Sté Le Goupil, Tir sportif",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Valeyres-sous-Rances Sté Le Goupil TS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-dcc27c55f4ea84935b1425e8b4b03aa86c61dcd792597d44f02f571eb25657d8",
+  "contentHash" : "sha256-ea0cf48269d2aa6baf60b52d0c81d9fe20d27b9fc6bce457edd73e200d56f267",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

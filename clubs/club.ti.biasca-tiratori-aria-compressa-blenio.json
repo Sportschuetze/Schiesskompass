@@ -5,28 +5,30 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.biasca-tiratori-aria-compressa-blenio",
+    "foundedYear" : 2000,
     "location" : "",
     "name" : "Biasca Tiratori Aria Compressa Blenio",
     "offeredDisciplines" : [
-
+      "G10",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Biasca Tiratori Aria Compressa Blenio",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2286a14326ec6eb87f8a55a78a99ecd2290b43f4e2c3f3f8d7bec16ee350df47",
+  "contentHash" : "sha256-d63a3dccbe47970a37236e34d5ded16c84ad3ea73e6d51ede52523b66db0f77e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

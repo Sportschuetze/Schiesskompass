@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Briglina Schiesssportverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Briglina SSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-86d92f957c46c9bab181edc7846ff614306f5c7ac29653fe54289fded201dcc2",
+  "contentHash" : "sha256-b3d41685abae48ae985aab8c0580eb9197ab0c6579c3445d23cfb51140da12ce",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

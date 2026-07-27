@@ -5,28 +5,32 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.ober-niederburen-pistolenschutzen",
+    "foundedYear" : 1951,
     "location" : "",
     "name" : "Ober-\/Niederbüren Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ober-\/Niederbüren PS",
+    "sourceURL" : "www.pson.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pson.ch"
   },
-  "contentHash" : "sha256-d32bd23266e25474c97723ceb159301b0ac65dfa681d4e552ccbf3d8270e0b40",
+  "contentHash" : "sha256-8c0104dcf129a12ed7b0a84b8510453084231c27eae6e8db16139c3dbaac4e1d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

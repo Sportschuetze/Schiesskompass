@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Grindel Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Grindel FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-06865f0a33bc6dc13c0b95fdcd91a286b3b99f7ec1828b1b5ad17f2ff2e1ac6f",
+  "contentHash" : "sha256-0a49eeda541cb70224704a68ba42a0b927f26122b5d9535c99502893323fda15",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

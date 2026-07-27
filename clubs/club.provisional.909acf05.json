@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Saanen-Gstaad Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Saanen-Gstaad PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-988329865507f04383fc0edc3b1db6fdf360d5e14b4174221961c1a4ebe8b806",
+  "contentHash" : "sha256-00b34c355ca1d504c35c152f5bd00d6594c88915bc561f4bc49deb19edf004b2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

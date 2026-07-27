@@ -6,27 +6,28 @@
     "canton" : "BE",
     "externalId" : "club.provisional.35671973",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.35671973.jpg",
     "name" : "Seeberg-Grasswil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Seeberg-Grasswil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-14dce1f055ee36071fe414c7c1b7b553857eb1bd164701a52cf09e388437411b",
+  "contentHash" : "sha256-95c9ab42470c5f15a4c47c3ec9772a02e806f581e1bd76ec603cfb2503bce1f6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

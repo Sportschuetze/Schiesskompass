@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Oberzeihen Schützenverein Helvetia",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberzeihen SV Helvetia",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-28be1c88a83890c8a8dc476488e801e51a86e16b9723784b9bbd6bfbcf729f6c",
+  "contentHash" : "sha256-760e03a908cf8f9daae04387471312621bb99901eb81cbe760c62dd03bd48712",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

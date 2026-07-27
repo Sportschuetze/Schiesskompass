@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Riffenmatt Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Riffenmatt FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2ab57c5b0f0315cc9507232e249bb713e694ad6be562fb8495c00f74de75e410",
+  "contentHash" : "sha256-72d57e58054d96448977db8ff52ffe2f4b7b67028ad02afe60d34dbe7d7cd587",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

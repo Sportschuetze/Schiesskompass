@@ -5,28 +5,31 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.eschenbach-neuhaus-schutzengesellschaft",
+    "foundedYear" : 1875,
     "location" : "",
+    "logoPath" : "logos\/club.sg.eschenbach-neuhaus-schutzengesellschaft.jpg",
     "name" : "Eschenbach-Neuhaus Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Eschenbach-Neuhaus SG",
+    "sourceURL" : "https:\/\/www.sg-eschenbach-neuhaus.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.sg-eschenbach-neuhaus.ch"
   },
-  "contentHash" : "sha256-cd8ad16708c4aca3aa2b314b5278800eaabc9bd3e779d42689c1ec59c5d2f5a5",
+  "contentHash" : "sha256-a385304998b96db93b5560321fbfa38e2fe3e7b391251e5ba6827ee1e4e7199a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

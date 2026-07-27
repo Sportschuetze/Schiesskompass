@@ -5,24 +5,28 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.4ec73c93",
+    "foundedYear" : 1979,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.4ec73c93.jpg",
     "name" : "Wallisellen Sportschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wallisellen SSG",
+    "sourceURL" : "www.ssgw.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ssgw.ch"
   },
-  "contentHash" : "sha256-71ca0e794086145ae393b474959363fd139f776ab3d34c443009c3c7727f3ce6",
+  "contentHash" : "sha256-b86e06c600ee34fb186edddfb81e30f3ec3b7d35a3f02b017300a9f8590beb42",
   "events" : [
     {
       "championshipTags" : "",
@@ -83,7 +87,7 @@
       "title" : "Unterland-Tournee 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

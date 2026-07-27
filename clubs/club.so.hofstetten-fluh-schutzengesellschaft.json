@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Hofstetten-Flüh Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hofstetten-Flüh SG",
+    "sourceURL" : "www.sghf.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sghf.ch"
   },
-  "contentHash" : "sha256-d68b48b96d7f8e6ae574dde88d4fa7b0883d457b8a1e04ccfde6737cd17f562b",
+  "contentHash" : "sha256-71a88841a860a2a2df24d5b4bd6c66e92656b13759560cbba5fd62291384a7e4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

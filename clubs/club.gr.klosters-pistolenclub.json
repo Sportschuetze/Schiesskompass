@@ -5,28 +5,31 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.klosters-pistolenclub",
+    "foundedYear" : 1947,
     "location" : "",
     "name" : "Klosters Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Klosters PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f59d61b5068b80f66d2b69ff17b3ab50faec61d66d92a0599eef6b9ef5a5464d",
+  "contentHash" : "sha256-4f69b279ce61db751f26a3b859625ab09ffffa722c984b9e6df9723386646517",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

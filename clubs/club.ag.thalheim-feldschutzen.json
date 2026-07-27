@@ -5,24 +5,27 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.thalheim-feldschutzen",
+    "foundedYear" : 1877,
     "location" : "",
+    "logoPath" : "logos\/club.ag.thalheim-feldschutzen.jpg",
     "name" : "Thalheim Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thalheim FS",
+    "sourceURL" : "www.fsg-thalheim.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsg-thalheim.ch"
   },
-  "contentHash" : "sha256-34517988c9cd3ccffc6a56a85dba6e80d566af7d8a34f18a81e2c764c8525178",
+  "contentHash" : "sha256-f7d624d59cb6f7ea13b61f1f3c4fe0a71d2ad5d0324fcfbfa12944cbd079d961",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +76,7 @@
       "title" : "9. Ruine Schenkenberg Schiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

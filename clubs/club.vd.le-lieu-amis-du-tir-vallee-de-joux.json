@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Le Lieu Amis du Tir Vallée de Joux",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Le Lieu Amis du Tir Vallée de Joux",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-01eecabb45ae5f6cf1c048cf7c8a741c9cf885ffd7d10f37131f30b10f0f0f06",
+  "contentHash" : "sha256-614d078033f6640848324c1b4e11a9dcc9bcc54fea9804b9c7f3687e86bf5846",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

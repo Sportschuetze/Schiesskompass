@@ -8,21 +8,22 @@
     "location" : "",
     "name" : "Leutwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Leutwil SG",
+    "sourceURL" : "www.sg-leutwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-leutwil.ch"
   },
-  "contentHash" : "sha256-21618b0bff978f2771d762d765fdb6d21fffd5b551f2b01a09f7768cf455c0e7",
+  "contentHash" : "sha256-f5bd8c2dd9f3974f65558c1d93f7f5b21fc211187d69342283fc6ef1963600fa",
   "events" : [
     {
       "championshipTags" : "",
@@ -44,7 +45,7 @@
       "title" : "1. Wampfle-Schiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

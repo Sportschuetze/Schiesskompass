@@ -5,28 +5,29 @@
     ],
     "canton" : "UR",
     "externalId" : "club.provisional.6333f198",
+    "foundedYear" : 2005,
     "location" : "",
     "name" : "Schattdorf Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schattdorf SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fc1876aea9a17959641b4756c82e7c6591eb16a4062253a88dc803346d20ea78",
+  "contentHash" : "sha256-5f0d469ea2c5448429ee44c98b7edb0687da9ce3c7865ae7a69a739f6459b942",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

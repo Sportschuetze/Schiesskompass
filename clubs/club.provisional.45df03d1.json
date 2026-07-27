@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Affoltern a.A. Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Affoltern a.A. SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d72eefd69ca332bf12ef8d826a86cd45733324beba9f28b2048acaa57092efcb",
+  "contentHash" : "sha256-04318bbf67bcfac43de52cf748fb55d1ef60cf922f2b1b32868299be0118eddd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

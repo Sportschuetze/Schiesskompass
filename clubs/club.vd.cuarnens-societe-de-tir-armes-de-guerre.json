@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Cuarnens Société de tir Armes de guerre",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cuarnens ST Armes de guerre",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f41e8bf4ac9f637ed408334867b6f9206711609de9ca143e4a4025624eb06de0",
+  "contentHash" : "sha256-d08e828e66d9609478a66c52f94ad4cbbc1605e4a4ff4bb602231df267af8f4e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

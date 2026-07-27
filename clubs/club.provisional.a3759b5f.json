@@ -8,21 +8,21 @@
     "location" : "",
     "name" : "Schwarzhäusern Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schwarzhäusern FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-da3070d10efb6ac9ddfdff5e8fffae51e17e8995914b4b39aeccbffd2fa11a9f",
+  "contentHash" : "sha256-990bde12316d71c3c87afdf2dc0947c406b602c0f20980338b9bbacb17544422",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,7 +48,7 @@
       "title" : "1. Augustschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

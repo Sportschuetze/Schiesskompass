@@ -5,28 +5,32 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.lucens-societe-de-tir-armes-reunies",
+    "foundedYear" : 1869,
     "location" : "",
     "name" : "Lucens Société de tir Armes Réunies",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50",
+      "P10",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lucens ST AR",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ab69867764b12c81bfaa1ee332dc506feb92469327c9056a3c7cbd1ee581061b",
+  "contentHash" : "sha256-0f53fc4e9678eb52a63977b209ca5d48eeebe28ee2daa11ac9678f7d39a97b45",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

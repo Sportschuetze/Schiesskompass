@@ -5,28 +5,29 @@
     ],
     "canton" : "GL",
     "externalId" : "club.gl.luchsingen-feldschutzengesellschaft",
+    "foundedYear" : 1880,
     "location" : "",
     "name" : "Luchsingen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Luchsingen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2d55d12ac949c69a4048bbd11acd4005eff4b2aef6377ac067f05cd62fbc2fec",
+  "contentHash" : "sha256-247700cca928102ada9d975249b0e1f96365370bffed71952ec2dfb0402f05ed",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

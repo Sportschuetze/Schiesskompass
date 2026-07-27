@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Crémines Société de tir Le Cornet",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Crémines ST Le Cornet",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-dfb33dae51b021fae08d3890a5589c2f088c468bf3fa5e799b335774b4033519",
+  "contentHash" : "sha256-b31d9098f057a8156452b53e2388442032614c6d6e2efe9ccd18295eb13f824b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

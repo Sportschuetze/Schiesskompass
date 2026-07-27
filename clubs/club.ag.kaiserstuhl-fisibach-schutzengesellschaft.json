@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Kaiserstuhl - Fisibach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kaiserstuhl - Fisibach SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d54008cbf30525848c2f4a18792374839a20233327fd44eec0e0e244a2c6d7b4",
+  "contentHash" : "sha256-2bcef7ce798da90a37888986ddec46cd715fb847c9453345aed1350a7efe207d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,29 @@
     "canton" : "NE",
     "externalId" : "club.ne.dombresson-villiers-societe-de-tir-patrie",
     "location" : "",
+    "logoPath" : "logos\/club.ne.dombresson-villiers-societe-de-tir-patrie.jpg",
     "name" : "Dombresson-Villiers Société de tir Patrie",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dombresson-Villiers ST Patrie",
+    "sourceURL" : "www.tirpatrie.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tirpatrie.ch"
   },
-  "contentHash" : "sha256-94fde3af7b83e9cb34a7f747256305514de50b4587d3af88b516033d9204222e",
+  "contentHash" : "sha256-10fd7c25ada704335adc2ddedc954f026fb21ca67be0ef1b8d7866bb1352016c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

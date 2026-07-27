@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Diepoldsau-Schmitter Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Diepoldsau-Schmitter SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a72340e9e4f7f37465ff41ba20efebd3e93f2e341febab90f16b3e186489f2a6",
+  "contentHash" : "sha256-69e7299560ad80d4d81ae710422e1521e80b6a82019308cdd2b32b03d0b560de",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

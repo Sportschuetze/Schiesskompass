@@ -6,27 +6,31 @@
     "canton" : "TG",
     "externalId" : "club.tg.arbon-pistolenschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.tg.arbon-pistolenschutzen.jpg",
     "name" : "Arbon Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Arbon PS",
+    "sourceURL" : "pistolenschuetzen.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "pistolenschuetzen.ch\/"
   },
-  "contentHash" : "sha256-d59e6b786e978bb8b6b970210818458d02bb338c8670ca19a8e1017015340488",
+  "contentHash" : "sha256-8b533f43f85960387f97b2d4809a5253b32825b87fe99d7141576e4317821a87",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

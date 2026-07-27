@@ -5,28 +5,29 @@
     ],
     "canton" : "GE",
     "externalId" : "club.ge.laconnex-societe-de-tir",
+    "foundedYear" : 1862,
     "location" : "",
     "name" : "Laconnex Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Laconnex ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d472acf995482c50c175aa8bfccc0c365695285d23de635e219c2bb93f348f31",
+  "contentHash" : "sha256-31d4ef095f7078f8d784ff34c73e4a02b41f4e2792ccbca41a9b32ce802e742b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

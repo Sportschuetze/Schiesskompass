@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Engi Pistolenschützenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Engi PSC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-69748da305885386e8ddd8706c18a13cfca42a73758e4353aa99d2e150b1777a",
+  "contentHash" : "sha256-6a24b2f4c96ddc75cf37ed72306331979bd66ad9c692fa5cd4a05d5357524b31",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

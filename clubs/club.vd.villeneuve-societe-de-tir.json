@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Villeneuve Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Villeneuve ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-edc93e9b8a497243d981a9a72f5bab0bf2d6d80b86323a59cc851adb05f13319",
+  "contentHash" : "sha256-ab186c66ca9776c2b1a9caa78882b778e04889ac8f752be624cc706741b8e67f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.battwil-schutzengesellschaft",
+    "foundedYear" : 1872,
     "location" : "",
     "name" : "Bättwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bättwil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3871ae270ac5ba66eb37a273a1eb4927c5a78e7b61cfc2368e3ef66b56db5531",
+  "contentHash" : "sha256-5b616a9a7f3e4675b7ecdcb7bc10d8d7aab4e19107ac65402f24aacff2d25c18",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,34 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.st-moritz-julia-schutzenverein",
+    "foundedYear" : 2017,
     "location" : "",
     "name" : "St. Moritz-Julia Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St. Moritz-Julia SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-92a7f0368f756d866810764349f44b7c2d91af8c694f4822fc6be7566fce6b6f",
+  "contentHash" : "sha256-d72b6c635cc5f29a52214296b15b28a3c4befcb30ccbbc20e8e0085850f7aabe",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

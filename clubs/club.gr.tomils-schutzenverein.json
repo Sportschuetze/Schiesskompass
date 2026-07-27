@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Tomils Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Tomils SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8bc68d159e72925874347ae9c26c54f87eaef1b95f6119c6c67097fb633b0da5",
+  "contentHash" : "sha256-9ef9161bb50fb8e6e9374d48d4e34c7fa5fc2ab48c50fd534eb80cbe30fd0127",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

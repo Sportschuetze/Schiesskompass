@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Rothenburg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rothenburg SG",
+    "sourceURL" : "https:\/\/www.sgrothenburg.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.sgrothenburg.ch\/"
   },
-  "contentHash" : "sha256-30fbdbdf734b2aed29c3e706d4373251eaf7a275a1c5a2c88d7c53549c2f6eb5",
+  "contentHash" : "sha256-ce88a188dc5042c7c511e3dd9a967591cc3a3662c8633fc603a8269db51318f8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

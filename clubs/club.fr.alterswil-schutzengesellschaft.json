@@ -5,28 +5,31 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.alterswil-schutzengesellschaft",
+    "foundedYear" : 1867,
     "location" : "",
+    "logoPath" : "logos\/club.fr.alterswil-schutzengesellschaft.jpg",
     "name" : "Alterswil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Alterswil SG",
+    "sourceURL" : "www.sgalterswil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgalterswil.ch"
   },
-  "contentHash" : "sha256-4bc193e336618c48428ee4d950a302e670c4f7514dc7d92869dcdedff978e685",
+  "contentHash" : "sha256-37aca711cf3ca132b6d5b678ad39abc384f90e552a67a96512e145f34b29b34d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

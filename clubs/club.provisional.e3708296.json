@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.e3708296",
+    "foundedYear" : 1878,
     "location" : "",
     "name" : "Langnau i\/E. Schützenverein an der Ilfis",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Langnau i\/E. SV an der Ilfis",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a325020e2e21cf18cd9ab1c2338ec283364e9cdb2f9fa09b7bfcaa5a4b9ca8e0",
+  "contentHash" : "sha256-f14da8c6a1fa9182b04bf6c225e2c5c8fe272b0a912243c68b6aea4ae5dd6230",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

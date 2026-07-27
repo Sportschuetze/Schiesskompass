@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "St-Sulpice Société de tir Tir Sportif",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St-Sulpice ST TS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8d6af2359725d43d60abf2c71c347e9b263fb5de70a4c6761e9b15746119056e",
+  "contentHash" : "sha256-55af2d4db9273ba0ca2a47b3e6e64b7ae05fe5f1f67568f01bcf4a6aa027b2a3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

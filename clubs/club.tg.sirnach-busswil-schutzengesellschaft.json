@@ -5,28 +5,30 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.sirnach-busswil-schutzengesellschaft",
+    "foundedYear" : 1999,
     "location" : "",
     "name" : "Sirnach-Busswil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sirnach-Busswil SG",
+    "sourceURL" : "www.sgsb.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgsb.ch"
   },
-  "contentHash" : "sha256-133e769ec01d9a22079cd5496d26c2c93a42c3ae1f1169dc39bd22f0502f7cfe",
+  "contentHash" : "sha256-4c2ce67381618fb9d47a2604f4f7e52990c6f440975560699027ef5b63acfd02",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

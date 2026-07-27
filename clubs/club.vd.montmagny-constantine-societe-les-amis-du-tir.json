@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Montmagny-Constantine Société Les Amis du Tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sdt Amis du Tir",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-40451bf2a215e5d65f5165ec0bc72cfaef252f14a978522d38eb45fc555d2f2f",
+  "contentHash" : "sha256-91eb5ac2c9eb3790955338fcb2f44d7d52f9f322fad9d31feb250e33ac0d7661",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

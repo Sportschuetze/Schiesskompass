@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Mischabel-Matterhorn Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mischabel-Matterhorn Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-300d54160f4c6a27b5272e0123c4ff10f567df6700940628c34b18013a9796ba",
+  "contentHash" : "sha256-d4cd84e6d5bc927bf228a9d89e461bce47ef5ef59766b2161b7335a494fea52f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

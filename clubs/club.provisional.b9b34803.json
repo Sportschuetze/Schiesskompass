@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Dieterswil Moosaffoltern Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dieterswil Moosaffoltern SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-47995691aef174cb81232edd1abcf9ac97d981760aaf769195f7f54d82d835b6",
+  "contentHash" : "sha256-8d896ca9287b4536e76d0723fdeece601bcdf63740c4bcf3168a638f735077f0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "SH",
     "externalId" : "club.sh.siblingen-schutzengesellschaft",
+    "foundedYear" : 1860,
     "location" : "",
     "name" : "Siblingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Siblingen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e2cb0fca3871ac1e76a296203fc78948a8d6776d32f061d27e4d1f91924dcf27",
+  "contentHash" : "sha256-e4380455f8defabafcfabfafa18df2f8fed6e0245af815d685fcb9b5bcfd2e96",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Waldenburg Militärschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Waldenburg MS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d6743f19d6eb9a1b19f2139b31ec7e7fd0b46e6ae792e3ef05faa022ae7b8f83",
+  "contentHash" : "sha256-51331a7aa4d32fad8a92f7aeec6c1f6a93f2e9a8e9a428f709b0bc04c813eeed",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

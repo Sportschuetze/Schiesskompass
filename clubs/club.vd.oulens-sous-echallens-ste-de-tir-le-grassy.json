@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Oulens-sous-Echallens Sté de tir Le Grassy",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oulens-sous-Echallens ST Le Grassy",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-709f0cfa1efb116972b2439a331eacc6a1101df89deeca6eae0a14537d5263ab",
+  "contentHash" : "sha256-2cfade3f9ae92ea80d56861c2340d2a7034cb49c3dafb3da71edf86eb9771aaa",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

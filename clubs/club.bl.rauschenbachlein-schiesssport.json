@@ -5,28 +5,32 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.rauschenbachlein-schiesssport",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Rauschenbächlein Schiesssport",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rauschenbächlein SP",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9af39d0aeaa30ef7d0b6f9e561a816885bc470ad547f2ac11f42e6f6ba707010",
+  "contentHash" : "sha256-1406a55de7e1218f091d1f52beefa90dd408db05dc14dfbc8e47bbdbf4cc42cd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,28 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.4c1cf988",
+    "foundedYear" : 1910,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.4c1cf988.jpg",
     "name" : "Pfäffikon ZH Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Pfäffikon ZH PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3e79cda7705f19e1fcab0feedbbead7bf9fb9a4cae5646447755bdaaf0712df2",
+  "contentHash" : "sha256-0dd779b4ef22c72b570686498485d57041113cd701f92e9fba9d83e9ab169ff6",
   "events" : [
     {
       "championshipTags" : "",
@@ -93,7 +97,7 @@
       "title" : "24. Lupi-Match Züri-Oberland 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

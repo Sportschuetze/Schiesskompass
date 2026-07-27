@@ -5,28 +5,30 @@
     ],
     "canton" : "NW",
     "externalId" : "club.nw.wolfenschiessen-schutzengesellschaft",
+    "foundedYear" : 1837,
     "location" : "",
     "name" : "Wolfenschiessen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wolfenschiessen SG",
+    "sourceURL" : "www.sgwolfenschiessen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgwolfenschiessen.ch"
   },
-  "contentHash" : "sha256-a98b182e42c4012c8dda25788b8c7ac3d33f86108b3fd304f9a13e90f51186c8",
+  "contentHash" : "sha256-178ae0fb2baa40bbd1f90895b97aed702cf9ac1a4584895847fe4250ee8f799b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

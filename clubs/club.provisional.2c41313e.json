@@ -6,27 +6,33 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.2c41313e",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.2c41313e.jpg",
     "name" : "Illnau-Effretikon Schiesssportverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Illnau-Effretikon SSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7b8cc32994e588118aaa432751e41836e09c510e1d811ae77bc3674792a4eba9",
+  "contentHash" : "sha256-50833e75e60d913314105a8b43bd4c374a730df84968a09a5c2e39fcc7ad0e21",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

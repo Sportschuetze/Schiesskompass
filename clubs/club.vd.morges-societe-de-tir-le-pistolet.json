@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Morges Société de tir Le Pistolet",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Morges STP",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fa7d8a4965b4103907d09114056f1bd31a0c0b2874097f409844f15552c0bcc3",
+  "contentHash" : "sha256-b93e0a9ad1bb3ceba0cf2d4e698a9f27521cbfc7a324eb3fa21b02e2c586f9d8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

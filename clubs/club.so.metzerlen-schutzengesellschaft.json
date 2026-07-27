@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Metzerlen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Metzerlen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-527a920337276ee9bf9011fa2d6ef5d7e61dc765ef99b791c0c821f4978ab3d6",
+  "contentHash" : "sha256-d281c0e2d51b1f0df37b445e3fb96d08dbeb1ac603ec564d8f322cb581be7009",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

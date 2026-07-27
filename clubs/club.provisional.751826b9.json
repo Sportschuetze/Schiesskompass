@@ -5,28 +5,33 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.751826b9",
+    "foundedYear" : 1875,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.751826b9.jpg",
     "name" : "Birmensdorf Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Birmensdorf FSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3d153cd4f3369cba0557675664a0188f09a624a9d0c7905ff5d52bb7827e9803",
+  "contentHash" : "sha256-b90630eafe0fecc794c5ab9d69c9b79480946db588d48ce6f03211dd31737c5a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

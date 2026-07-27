@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Trin Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Trin SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e56794d4cc9ddca8e3582898e130a0b34ad0b998eefad500d70d96d098fd0cc3",
+  "contentHash" : "sha256-a2f1606f9646b72809462cfa3676e45a30f2272bbd31c47ccb3b09f1d4f7ba00",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,31 @@
     "canton" : "TI",
     "externalId" : "club.ti.gaggio-societa-tiratori",
     "location" : "",
+    "logoPath" : "logos\/club.ti.gaggio-societa-tiratori.jpg",
     "name" : "Gaggio Società Tiratori",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gaggio ST",
+    "sourceURL" : "www.tiratoridelgaggio.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tiratoridelgaggio.ch"
   },
-  "contentHash" : "sha256-76f5b77fa0fc20dd07e5d5c5b371c938f6b364b16e4f76e079261d93e381fedd",
+  "contentHash" : "sha256-4657ac973fada56c9587e675721d61c5624ee64637de61089a4f3ab263d65d66",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

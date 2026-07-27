@@ -5,28 +5,35 @@
     ],
     "canton" : "GE",
     "externalId" : "club.ge.geneve-societe-de-tir-du-rhone-societe-de-tir-du-rhone",
+    "foundedYear" : 2023,
     "location" : "",
     "name" : "Genève société de tir du Rhône Société de tir du Rhône",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Genève SdT du Rhône",
+    "sourceURL" : "www.tirdurhone.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tirdurhone.ch"
   },
-  "contentHash" : "sha256-2b4883dc65e1e1e8f1caad1cf55bed5697def5bfe62a217d7d2df3d65b202f85",
+  "contentHash" : "sha256-eb51dbf975a58e3462e8d384415f4c81c1353d3f36268e899bf5ebbcb67f9ddb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

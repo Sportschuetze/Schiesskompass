@@ -5,28 +5,30 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.cordast-burg-guschelmuth-schutzengesellschaft",
+    "foundedYear" : 1919,
     "location" : "",
     "name" : "Cordast-Burg-Guschelmuth Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cordast-Burg-Guschelm SG",
+    "sourceURL" : "sg-cordast.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "sg-cordast.ch"
   },
-  "contentHash" : "sha256-10bc182aade7dc9e0857a5c4babfda950e63755887e0d882fa1f4f0584771bfc",
+  "contentHash" : "sha256-6256f8065cb974ddb4e159117baafc643b49d695d70563faadc5850eaddcfc69",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

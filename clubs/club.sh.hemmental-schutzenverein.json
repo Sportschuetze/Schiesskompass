@@ -5,28 +5,30 @@
     ],
     "canton" : "SH",
     "externalId" : "club.sh.hemmental-schutzenverein",
+    "foundedYear" : 1875,
     "location" : "",
     "name" : "Hemmental Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hemmental SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b4f2100b5fd9b4c9cd3ceabdce4621389409eafd3cbeeb85142507a7a89ce446",
+  "contentHash" : "sha256-dda9c8cb22b255f64d72155755f29b3c4a2be3d104c2d1e4bdda05442f599438",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

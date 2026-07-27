@@ -5,24 +5,25 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.jonen-schutzengesellschaft",
+    "foundedYear" : 1873,
     "location" : "",
     "name" : "Jonen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Jonen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c32836c8451213c64ecbbef560cd28d86cfb58a54251d6e50f07d63cfc0bb947",
+  "contentHash" : "sha256-06cdf4bda58ccf7eec51ea5a66cea342db9b1407ee781dfeeb54955aa00a9837",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +74,7 @@
       "title" : "Kellerämterschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,32 @@
     ],
     "canton" : "GL",
     "externalId" : "club.gl.glarus-stadtschutzengesellschaft",
+    "foundedYear" : 1891,
     "location" : "",
     "name" : "Glarus Stadtschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Glarus Stadt SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-86f2d8138b3a2e322cb14d87c3d6585771af2dbae2129f614727418be93104e1",
+  "contentHash" : "sha256-08cff966440d7c0fbaa6210e9fd015f4b4d16461764b0ab18e62facdd8774c07",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

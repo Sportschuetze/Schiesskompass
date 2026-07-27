@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.messen-schutzengesellschaft",
+    "foundedYear" : 1872,
     "location" : "",
     "name" : "Messen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Messen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4c50b0cf775bc76dc72bca2d4b87b0821886a6cd6a11114733b41db46fd0035a",
+  "contentHash" : "sha256-3947b9e572d813151aa26ee6df4afa9cdf84f3412b09f468bb02cfd2b479e552",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

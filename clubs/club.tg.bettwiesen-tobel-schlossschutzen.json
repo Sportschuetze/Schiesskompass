@@ -5,24 +5,27 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.bettwiesen-tobel-schlossschutzen",
+    "foundedYear" : 2025,
     "location" : "",
+    "logoPath" : "logos\/club.tg.bettwiesen-tobel-schlossschutzen.jpg",
     "name" : "Bettwiesen-Tobel Schlossschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bettwiesen-Tobel Schlossschützen",
+    "sourceURL" : "www.ssbt.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ssbt.ch"
   },
-  "contentHash" : "sha256-784579e73694d4c3ac373e64fa3e9cedf8e1071c709c39dbc3de5870ee77d52d",
+  "contentHash" : "sha256-41d73b40bd8c8da18da4c9c99c31139b14368d7a5ce404251ec339d652001406",
   "events" : [
     {
       "championshipTags" : "",
@@ -106,7 +109,7 @@
       "title" : "Fusionsschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

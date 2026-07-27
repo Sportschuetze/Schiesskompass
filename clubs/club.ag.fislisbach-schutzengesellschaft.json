@@ -5,28 +5,31 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.fislisbach-schutzengesellschaft",
+    "foundedYear" : 1895,
     "location" : "",
     "name" : "Fislisbach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fislisbach SG",
+    "sourceURL" : "www.sg-fislisbach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-fislisbach.ch"
   },
-  "contentHash" : "sha256-655a22194bf34235a7a0e1c3a2092d52d5148636efd3d2ff0408304fc2e07d41",
+  "contentHash" : "sha256-34466eecd70f0465484902fd5d3bf1bf4166d7de16893f199d13fe65eb85fbdf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,33 @@
     ],
     "canton" : "BS",
     "externalId" : "club.bs.riehen-feldschutzen",
+    "foundedYear" : 1867,
     "location" : "",
     "name" : "Riehen Feldschützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Riehen FS",
+    "sourceURL" : "www.fs-riehen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fs-riehen.ch"
   },
-  "contentHash" : "sha256-6724bfbe87938fe46c816285b9cd4dba83b1b370961d439a927b34bed843d6aa",
+  "contentHash" : "sha256-a831a180b8fa29ed5afe1d4996f9a7ada534e59d38ffbd8a6601b372835fd5dc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

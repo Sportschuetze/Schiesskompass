@@ -5,24 +5,28 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.igis-landquart-pistolenclub",
+    "foundedYear" : 1990,
     "location" : "",
+    "logoPath" : "logos\/club.gr.igis-landquart-pistolenclub.jpg",
     "name" : "Igis-Landquart Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Igis-Landquart PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2f216c239b622bbd97eaf6a3580b5e94f1e1d4f90b16750462df04c75f5ebcce",
+  "contentHash" : "sha256-24b3b00257b3611444a744ec44edef45e597ac3a7552f4b054db2557c7ba8169",
   "events" : [
     {
       "championshipTags" : "",
@@ -123,7 +127,7 @@
       "title" : "Landquarter Gruppenschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

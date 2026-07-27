@@ -6,27 +6,28 @@
     "canton" : "TG",
     "externalId" : "club.tg.huttwilen-nussbaumen-schutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.tg.huttwilen-nussbaumen-schutzenverein.jpg",
     "name" : "Hüttwilen-Nussbaumen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hüttwilen-Nussbaumen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-23439a23d2e4b0a6e70f5222d9bcaa975826fa6772e15813ed4fcf3c31738b21",
+  "contentHash" : "sha256-84495bd971af9c81f017c5049ea9c91b90b67b0012e1f88b2c67aa149c2c9d7f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

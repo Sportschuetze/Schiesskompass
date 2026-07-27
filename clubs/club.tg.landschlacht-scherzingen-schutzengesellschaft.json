@@ -5,24 +5,27 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.landschlacht-scherzingen-schutzengesellschaft",
+    "foundedYear" : 1878,
     "location" : "",
+    "logoPath" : "logos\/club.tg.landschlacht-scherzingen-schutzengesellschaft.jpg",
     "name" : "Landschlacht-Scherzingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Landschlacht-Scherzingen SG",
+    "sourceURL" : "sg-landschlacht-scherzingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "sg-landschlacht-scherzingen.ch"
   },
-  "contentHash" : "sha256-cee32936efc122438f3265455a1e985eee2a03698ecfdad0a32184645ef75e99",
+  "contentHash" : "sha256-f7ce739714e6315c469642d53330ce44e9c884197aa79391aa3979e6a01222fd",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +71,7 @@
       "title" : "Jubiläumsschiessen 150 Jahre"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

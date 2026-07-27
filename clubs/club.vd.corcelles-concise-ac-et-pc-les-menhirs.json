@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Corcelles\/Concise AC et PC Les Menhirs",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Corcelles\/Concise AC et PC Les Menhirs",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f8b7e008e5062f5c86a9942547f7d32294f78af044fab2c5b78a80ea90b00d22",
+  "contentHash" : "sha256-0ff0332bd61514b3f7fc260db70e976ce109c9d3019c144b860f8091dd9d0e59",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.e0884117",
+    "foundedYear" : 1907,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.e0884117.jpg",
     "name" : "Kandergrund - Mitholz Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kandergrund - Mitholz FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-838618158a286ff799b928ebe185143586de2d28257a4bb80cb504940d2561cf",
+  "contentHash" : "sha256-eb7c2b514f566f6cf43f8d708daf4305e507324f6b32b3d15a6b685e9e7ab112",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

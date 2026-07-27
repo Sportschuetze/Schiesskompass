@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Studen-Aegerten Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Studen-Aegerten SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ee2587e30550792cdbff7400bbeb807840da2af82a01070e73b09d514ffe3d83",
+  "contentHash" : "sha256-6f67420c2dfd5a3ad5e0f8d06ed709d278aae023bb48ab8ec633a5e4beb05645",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Saillon Société de tir Le Muveran",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Saillon ST Le Muveran",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b895f88c283443faf3b5e58b898f30f057370cc20c16254f6065f2c74ee2d7a9",
+  "contentHash" : "sha256-6118871ceb1bc96c8c8916a70e995634d7825e346e9149fb54190662fb4bba8f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

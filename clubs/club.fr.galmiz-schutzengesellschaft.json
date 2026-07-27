@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Galmiz Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Galmiz SG",
+    "sourceURL" : "www.sg-galmiz.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-galmiz.ch"
   },
-  "contentHash" : "sha256-72d896a90142880bf71aadbe1db7fd92e66ebdd5ab2e1fcfc47be161327e50f7",
+  "contentHash" : "sha256-62983eac94de66e2f33e4ca54ad1dfa1ed0a806680fa2444d1250195093bf5d1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,33 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.zwingen-pistolenklub",
+    "foundedYear" : 1933,
     "location" : "",
+    "logoPath" : "logos\/club.bl.zwingen-pistolenklub.jpg",
     "name" : "Zwingen Pistolenklub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zwingen PK",
+    "sourceURL" : "www.pkzwingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pkzwingen.ch"
   },
-  "contentHash" : "sha256-de1edf83687e23a5bc3ed4df9f4a5957e9562aab83a24fa545cbb9f8e7de9f56",
+  "contentHash" : "sha256-6176656b8abca511359e52e000a6e27d721c4e297247bbc26a9c079802d30bf4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

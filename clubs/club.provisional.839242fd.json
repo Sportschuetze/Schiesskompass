@@ -5,28 +5,33 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.839242fd",
+    "foundedYear" : 1861,
     "location" : "",
     "name" : "Zürich Schützenverein Schweiz. Studierender",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zürich SV Schweiz. Stud.",
+    "sourceURL" : "www.ssszh.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ssszh.ch"
   },
-  "contentHash" : "sha256-7da0a32c417e871d55acf71d6d2c6ca04a76eebfbd9fef16afe913f875674dc3",
+  "contentHash" : "sha256-5bf064d3dd8731a3fdab9f41d0eea152194fce40aabd830f4eb5f5df336ec00a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

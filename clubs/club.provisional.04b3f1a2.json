@@ -6,23 +6,24 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.04b3f1a2",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.04b3f1a2.jpg",
     "name" : "Wald-Laupen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wald-Laupen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7c2840f9fc0f82df027077f014b03d49bf4be6ac5d800de519679a6ea568be6a",
+  "contentHash" : "sha256-b7e3f800fa156b9548e55f1c07775fc3675dde7b9c948dfecdc651ec1476b4b4",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +64,7 @@
       "title" : "28. Zürcher Oberländer Liegendmatch"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Bavois Société de tir du Cristallin",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bavois ST du Cristallin",
+    "sourceURL" : "https:\/\/tirducristallin.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/tirducristallin.ch\/"
   },
-  "contentHash" : "sha256-dd04612796008bc4ef04207f6793745d3ba20d83ea960a8c57c0ce9a2d9b38c9",
+  "contentHash" : "sha256-57a450ec5e4178b381a8de3759be6b69928dad55e7171678628e5f92f4cadd94",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

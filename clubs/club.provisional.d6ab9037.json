@@ -8,21 +8,24 @@
     "location" : "",
     "name" : "Stadel und Umgebung Pistolenschiessverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Stadel uU PSV",
+    "sourceURL" : "www.psv-stadel.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.psv-stadel.ch"
   },
-  "contentHash" : "sha256-31f413c859782c7264dff3a53359483076651a958d09b364c642eb16bf30a3ad",
+  "contentHash" : "sha256-66df5adefd378bfb560700ef2749a43213d13ddaa994682b09a727f824d65445",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,7 +51,7 @@
       "title" : "4. Nachtschiessen Stadel"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,26 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.hohentannen-heldswil-feldschutzenverein",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Hohentannen-Heldswil Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hohentannen-Heldswil FSV",
+    "sourceURL" : "www.fsv-hohentannen-heldswil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsv-hohentannen-heldswil.ch"
   },
-  "contentHash" : "sha256-a291576beae440213b88764a00c30728840b4e4dcb7d05418ea233ac7f34141d",
+  "contentHash" : "sha256-18cabb5d375f53615618928e19bf597f5b8672949659a7be6d73ff1b8b646c9f",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +65,7 @@
       "title" : "Bischofbergschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Villmergen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Villmergen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-193cf6de7c499502605ca26814fa4d1ab5289225146dd5ae227a79a5d09f946e",
+  "contentHash" : "sha256-31d507d9787341b0bd8b796aa8cbf32d68bdcadfc784136976f8678c716ab19a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

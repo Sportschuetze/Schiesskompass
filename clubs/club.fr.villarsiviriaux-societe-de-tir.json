@@ -6,27 +6,29 @@
     "canton" : "FR",
     "externalId" : "club.fr.villarsiviriaux-societe-de-tir",
     "location" : "",
+    "logoPath" : "logos\/club.fr.villarsiviriaux-societe-de-tir.jpg",
     "name" : "Villarsiviriaux Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Villarsiviriaux ST",
+    "sourceURL" : "www.tirvillarsiviriaux.com",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tirvillarsiviriaux.com"
   },
-  "contentHash" : "sha256-73c643b80e7f5c0d284cdd9edac2c8750aeaecae651faf311bc7fb74da7bcc56",
+  "contentHash" : "sha256-ddc360b91b562cf6a181b1239e4d51ab78c0a0fca0d1278d76c9c1bc24c4c431",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

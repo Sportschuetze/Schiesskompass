@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Aumont Société de tir Aumont et environs",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aumont SdT et environs",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-57f5d2141942494572b9dbdd0b23b6e9bd5e40c70caddad44f366721aa86fe16",
+  "contentHash" : "sha256-906c00d6d85e56e7c91f6924f20daa0c899285fc3ad6224a6c3528142c6aa6ba",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

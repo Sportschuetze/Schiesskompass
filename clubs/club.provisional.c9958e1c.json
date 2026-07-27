@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Biel Sportschützen Luftgewehr",
     "offeredDisciplines" : [
-
+      "G10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Biel Sport LG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-26bcf4a5a723c841e0d5979b8f9386e0294836f97f057a39be44ebf71e523472",
+  "contentHash" : "sha256-12ae1016d0005ff38e14a823c58cebee62257e1b49874bcdc9fe10e1de184df2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

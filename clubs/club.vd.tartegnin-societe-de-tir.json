@@ -5,28 +5,30 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.tartegnin-societe-de-tir",
+    "foundedYear" : 1873,
     "location" : "",
     "name" : "Tartegnin Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Tartegnin ST",
+    "sourceURL" : "tir-tartegnin.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "tir-tartegnin.ch"
   },
-  "contentHash" : "sha256-d2dad4f70fba101caaeeba5ecba2adffb54aa81b595fcb0bcc9ad6e68f4616c7",
+  "contentHash" : "sha256-66e916c4fdb005961576f3e03784164341a0cb98763f2c7d9ceaf5854b0c604a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

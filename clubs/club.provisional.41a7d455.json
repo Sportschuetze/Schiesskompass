@@ -6,27 +6,31 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.41a7d455",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.41a7d455.jpg",
     "name" : "Schlieren UOV Limmattal",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schlieren UOV Limmattal",
+    "sourceURL" : "www.uov-limmattal.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.uov-limmattal.ch"
   },
-  "contentHash" : "sha256-e0b6d13bbabda2e3867c4def7433884598f5ff2e22a74e3c9a9b5653478119bf",
+  "contentHash" : "sha256-7156c29d1275669614359a51947be8adb157b25ccf549bbd9b6cf82b8db0a2bb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

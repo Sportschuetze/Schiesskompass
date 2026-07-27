@@ -5,28 +5,29 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.malvaglia-societa-di-tiro-guglielmo-tell",
+    "foundedYear" : 1927,
     "location" : "",
     "name" : "Malvaglia Società di Tiro Guglielmo Tell",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Malvaglia St Guglielmo Tell",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f25a3efb66905efed41f79a8f4b9304e4eb5ba4a747c1bcb748ffe2c93756dc1",
+  "contentHash" : "sha256-9c3588b06ba7124d8ca804887221cfd8764af886add151c052b5ffb03aaca89f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,28 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.40701f64",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.40701f64.jpg",
     "name" : "Aesch ZH Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aesch ZH FSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bcc89ca037a3294247a5a5d9b1f2b0fad17049ddc88cbc8d94a939733d454ee8",
+  "contentHash" : "sha256-d2beb9661c0769a17a036626b3a82cd709046f720caea98d711a1dbe213ef97f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

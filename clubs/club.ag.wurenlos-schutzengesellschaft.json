@@ -5,28 +5,34 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.wurenlos-schutzengesellschaft",
+    "foundedYear" : 1864,
     "location" : "",
     "name" : "Würenlos Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Würenlos SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-eb4a10943679834ea1219487960ff34bb3e855a6c9e7123f14944b198ea52243",
+  "contentHash" : "sha256-9389ad89515c95c1fe9bcae86c9586cd7726f97c32fec2a848d7e124b4691630",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

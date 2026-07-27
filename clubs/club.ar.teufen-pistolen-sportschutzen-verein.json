@@ -6,27 +6,30 @@
     "canton" : "AR",
     "externalId" : "club.ar.teufen-pistolen-sportschutzen-verein",
     "location" : "",
+    "logoPath" : "logos\/club.ar.teufen-pistolen-sportschutzen-verein.jpg",
     "name" : "Teufen Pistolen-Sportschützen-Verein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Teufen PSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c462fb8e66bc647289baee988bf2e9fab4b8c635af25fdd6ceebfa455709026f",
+  "contentHash" : "sha256-816dd495803db5a6752f57a0f168936ed478cbd3b503e01810d864660de755ed",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

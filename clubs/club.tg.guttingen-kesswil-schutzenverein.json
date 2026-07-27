@@ -5,28 +5,30 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.guttingen-kesswil-schutzenverein",
+    "foundedYear" : 2016,
     "location" : "",
+    "logoPath" : "logos\/club.tg.guttingen-kesswil-schutzenverein.jpg",
     "name" : "Güttingen-Kesswil Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Güttingen-Kesswil SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-98c9724c866a2d489937c20934d5a4fad0d75b005ebf0451db1301f4b3de3482",
+  "contentHash" : "sha256-42d2dd61a974ddda57a61f43dffaeed0b609713336201cae18adfccabd6cbc14",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

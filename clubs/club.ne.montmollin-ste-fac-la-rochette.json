@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Montmollin Sté FAC La Rochette",
     "offeredDisciplines" : [
-
+      "G10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Montmollin Sté FAC La Rochette",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d9dce5f2a7d6d218023ad150be2af7cdf62c22bd6bb574e8201e895e73b1cbea",
+  "contentHash" : "sha256-870c0d03ea372d3620ff7c76752ac1b6d365e09ac0f20f2bf92f16bc3b0ebc6a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

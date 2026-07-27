@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Huttwil Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Huttwil Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-564d0ae993814f580376763587386d3899a073b8a5953b5a3b68fa3d24a011ea",
+  "contentHash" : "sha256-cdc5c604147db8b22c3bc1f8d6e70e6a8f82d9ee48bd6dc1d76f664cb6b02ae4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

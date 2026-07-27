@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Villaz-St-Pierre Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Villaz-St-Pierre ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1a7f5bae4438c13fad2340d5ae8a7611dbb0b3a9f5b0aa9ba11aca30d4420bb8",
+  "contentHash" : "sha256-eea37b2dbd6078a05523a985ca22839e280cee6c7046b54d784693ebad1eca80",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.6cf7b225",
+    "foundedYear" : 1886,
     "location" : "",
     "name" : "Oberthal Militärschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberthal MS",
+    "sourceURL" : "www.ms-oberthal.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ms-oberthal.ch"
   },
-  "contentHash" : "sha256-0c9d9b787f729845208b97aab04109f146043671455689c35ce96e91f161d4a4",
+  "contentHash" : "sha256-ff78be94d1c62741e10649b3a564693d2b1317858bdad60f8d4b379bd5b185e3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

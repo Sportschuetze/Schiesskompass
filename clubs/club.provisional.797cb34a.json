@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Erlach Pistolenklub des Amtes",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Erlach PK",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4d9298648847b6966221c7734bbbad7bb6ff52cf3953c23d98a62b2ad08ebf2f",
+  "contentHash" : "sha256-4b5f604d43466c306b14e2d0af0f748ff4882db60442ce00aa9cd1c22983b506",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

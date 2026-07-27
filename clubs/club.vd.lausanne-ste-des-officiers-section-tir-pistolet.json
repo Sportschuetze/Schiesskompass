@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Lausanne Sté des Officiers Section tir pistolet",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lausanne Sté OSTP",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a05fbe1f8ea3ea179f5e836e6d500a92830894bb2d28a325053d2fcb5f7c76b1",
+  "contentHash" : "sha256-c7a492ee3780e9dc8fa9cdf22e10671baa8e02e357e49093ebddff2e05f1ede6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Fribourg STS Les Amis du Petit Calibre",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fribourg STS Les Amis du PC",
+    "sourceURL" : "pcfribourg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "pcfribourg.ch"
   },
-  "contentHash" : "sha256-37d641647438562111550aed59e540ef6e06064e8d4897c820ca54594730b122",
+  "contentHash" : "sha256-1ec202ae096cd7db978351958f41dab60df44cfd633f067b2704a0004ce7df6b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

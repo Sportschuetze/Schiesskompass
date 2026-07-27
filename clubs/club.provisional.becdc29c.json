@@ -6,27 +6,29 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.becdc29c",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.becdc29c.jpg",
     "name" : "Otelfingen Standschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Otelfingen Stand",
+    "sourceURL" : "www.sts-otelfingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sts-otelfingen.ch"
   },
-  "contentHash" : "sha256-5886a7ea8a3b186c6ff8048c9f765de98b231cb4908574613ed32694492eca29",
+  "contentHash" : "sha256-74552ccdd27f6eb42c0275ab2a34b91137751336b7857000475d9dea5fa63897",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

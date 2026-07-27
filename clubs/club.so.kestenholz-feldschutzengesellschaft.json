@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Kestenholz Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kestenholz FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1e5d5a3155770ba1c284b097588c3415b1ae64fd9da9dcc178f33751d38972f0",
+  "contentHash" : "sha256-74d9c3d5d05d0051db8df9b07347324625aac7298a279a0a77346c42b579d86b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

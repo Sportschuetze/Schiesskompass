@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.f6aa099f",
+    "foundedYear" : 1893,
     "location" : "",
     "name" : "Arni bei Biglen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Arni bei Biglen FSG",
+    "sourceURL" : "www.feldschuetzenarnibe.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.feldschuetzenarnibe.ch\/"
   },
-  "contentHash" : "sha256-45ba4aaa953f77fac37fc9c528b987cb0fddb0f370f468fce8383cc247c2efee",
+  "contentHash" : "sha256-3c926301279e3bb1cf72b29aa81cb95da1f1eca6d393ecce44345e8ef73c47be",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

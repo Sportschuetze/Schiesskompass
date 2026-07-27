@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Bösingen-Laupen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bösingen-Laupen SG",
+    "sourceURL" : "www.sgboesingen-laupen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgboesingen-laupen.ch"
   },
-  "contentHash" : "sha256-49c69f1df6c8cc0d37ffdc108e1604308e1632c8867a9d943a19f68d11369508",
+  "contentHash" : "sha256-bc16f420932055d5098abace330f07b9de7be1d97c409c998b6887f21ce6050c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

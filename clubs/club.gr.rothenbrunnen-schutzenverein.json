@@ -5,28 +5,30 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.rothenbrunnen-schutzenverein",
+    "foundedYear" : 1947,
     "location" : "",
+    "logoPath" : "logos\/club.gr.rothenbrunnen-schutzenverein.jpg",
     "name" : "Rothenbrunnen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rothenbrunnen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1be38d59f4acb92b2b3a96dc10c444f49269784b45efcb93396ac56be316065c",
+  "contentHash" : "sha256-6232a1ab8fc0e0b8e5a2d84aed11226a1f12ad87b12d55d52ad97c5fbb9ea1a2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

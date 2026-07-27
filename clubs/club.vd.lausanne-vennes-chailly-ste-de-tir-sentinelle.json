@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Lausanne-Vennes-Chailly Sté de tir Sentinelle",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lausanne-Vennes-Chailly ST Sentinelle",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c2637a9b73c0383e531ee2af7dc5a3c0841750f502f31a6bcb0317ec5c2073a8",
+  "contentHash" : "sha256-98c2ccfba5528aeaa5ca55610fdfdff5b2a517a33bfcdcacc0ec97465dd1bd42",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

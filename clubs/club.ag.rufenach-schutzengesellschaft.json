@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Rüfenach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rüfenach SG",
+    "sourceURL" : "https:\/\/www.sg-ruefenach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.sg-ruefenach.ch"
   },
-  "contentHash" : "sha256-fd975971a596426a3b0d908f0dd7447e4fcf2ce7d7815fb9e914083cb3205955",
+  "contentHash" : "sha256-6c967d80047229d5a0c160839f67691938ef26a54afb0659b3d794042a48df4c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

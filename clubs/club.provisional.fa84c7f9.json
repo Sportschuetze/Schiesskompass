@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Wabern Freischützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wabern FS",
+    "sourceURL" : "www.freischuetzenwabern.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.freischuetzenwabern.ch"
   },
-  "contentHash" : "sha256-bad17cc58302065f58a389fb1042a672f68b4bf715270cb0538f8d2e4505da24",
+  "contentHash" : "sha256-cff0502b4ca2563257e3b9f47607d431d537afe97c7f3365f17bc796491caf11",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

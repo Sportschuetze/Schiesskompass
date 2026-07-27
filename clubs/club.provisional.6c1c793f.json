@@ -5,24 +5,29 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.6c1c793f",
+    "foundedYear" : 1932,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.6c1c793f.jpg",
     "name" : "Kloten Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kloten PS",
+    "sourceURL" : "pskloten.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "pskloten.ch"
   },
-  "contentHash" : "sha256-7b9b6f2549dcc33d869e65382fee46025ec08999d8d40b8630e7ee728937fa90",
+  "contentHash" : "sha256-724e90ae337f800d1090ba04d3cfcc83ef18fe408fd55ab641a3f0899a9d5e8b",
   "events" : [
     {
       "championshipTags" : "",
@@ -83,7 +88,7 @@
       "title" : "54. Flughafenschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

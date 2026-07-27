@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.4659009d",
+    "foundedYear" : 1994,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.4659009d.jpg",
     "name" : "Lindau Gemeinde-Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lindau GSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c73677ff3ffd64d92ffb24f32672a6b8681ffa58dc03fdc9c08c3e3e15316ced",
+  "contentHash" : "sha256-2d43b229baa66b7d227083abc82c25674f1f4fd348728c4b5526fab413da8303",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "VS",
     "externalId" : "club.vs.leukergrund-kleinkaliberschutzen",
+    "foundedYear" : 1948,
     "location" : "",
     "name" : "Leukergrund Kleinkaliberschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Leukergrund KKS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6c65aaadb6d1067caf51ad4343919470b6e682d4ea9d56972ae01bf9dc8b5e72",
+  "contentHash" : "sha256-6e7144d8a99b2f0b68b1c9a4c2845b0a6d2b94870429d984aa03b847b2bfa2fb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,21 +8,24 @@
     "location" : "",
     "name" : "Zürichberg Feldschützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zürichberg FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6b3f08d96f1f10871cd3b632f1d4c7bb48c999c026b3faeae45c085a8aa74868",
+  "contentHash" : "sha256-f5072dda12010c8d9e7f5efdff9756f155576383f1b20c0ed28cf83abd500973",
   "events" : [
     {
       "championshipTags" : "",
@@ -93,7 +96,7 @@
       "title" : "46. Oerliker Winterschüsse 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

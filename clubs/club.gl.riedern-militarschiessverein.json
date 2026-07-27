@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Riedern Militärschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Riedern MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-251c46ef90fe31dc9f59c7dd7bd784d3cb0d9ca0cc5257ad1eb8dfb13e637701",
+  "contentHash" : "sha256-063710a2200fb0daa25475d587f03ac043faa5b72a90cb3ec583fadd359e6c7a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Saubraz-Bougy Société de tir Le Signal",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Saubraz-Bougy ST Le Signal",
+    "sourceURL" : "https:\/\/www.tirlesignal.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.tirlesignal.ch\/"
   },
-  "contentHash" : "sha256-b615298a752f2c875f75275db7d64d04594bb201b8f0f2aba9400bcf5324c313",
+  "contentHash" : "sha256-507e443d55357b1264fe5f3fb586c30f1d072df0aa193dd6be1f0ab132c2a678",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,26 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.thurtal-huttlingen-schutzenverein",
+    "foundedYear" : 1887,
     "location" : "",
+    "logoPath" : "logos\/club.tg.thurtal-huttlingen-schutzenverein.jpg",
     "name" : "Thurtal-Hüttlingen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thurtal SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ba18e7e9b92829dda3e718f98bac661e5bd0751573cc67b1fe9e744c3f1a402f",
+  "contentHash" : "sha256-e68f40b9edf8602f647212ee562fa8ad8cb6c6bb534853475564289945ff729b",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +75,7 @@
       "title" : "Fusionsschiessen 2026 - SV Thurtal"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

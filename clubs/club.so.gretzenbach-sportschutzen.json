@@ -5,28 +5,30 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.gretzenbach-sportschutzen",
+    "foundedYear" : 1921,
     "location" : "",
     "name" : "Gretzenbach Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gretzenbach Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a7f53ce173c2454ed2f699be21ff8d3cb0985e035d6ec59b7bcb758e46fd39b6",
+  "contentHash" : "sha256-2c05c45780520cfd04f3b83cb9b983085299d797274e52aa77f70fc8b413b06a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

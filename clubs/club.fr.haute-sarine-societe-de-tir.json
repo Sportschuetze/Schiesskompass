@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Haute-Sarine Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Haute-Sarine SdT",
+    "sourceURL" : "https:\/\/www.tirhautesarine.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.tirhautesarine.ch\/"
   },
-  "contentHash" : "sha256-1c9357b9ca3d1e66c5a93ad71b809b14f1f3f636d6113a468adf3703079de5d9",
+  "contentHash" : "sha256-c11415e9e9fc2b6fc51e3ff057d77083bfc6fab774059184af5bc62d14e625c6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Aubonne & Environs Petit Calibre",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aubonne & Environs PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a5b6557c20554679dfc8cd2f21a0b327cc952cca1a90149a957638d4a66a1c42",
+  "contentHash" : "sha256-9d4ea197cd69244c77ae351c87309585ae17581a1c953f69f6d46e6ac8b2820e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

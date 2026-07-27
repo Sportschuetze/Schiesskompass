@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Auvernier-Bôle-Colombier Les Vieux-Stands",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Auvernier-Bôle-Colombier LVS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1b91d5d0139df7175a752b8a468ee8ab73847686def6930080285017f457486a",
+  "contentHash" : "sha256-48be8f8aad00368ac65cc7f5657358527ea265fae528e1ab24cacf0721e456ab",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

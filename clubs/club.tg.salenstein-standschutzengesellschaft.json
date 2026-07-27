@@ -5,24 +5,27 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.salenstein-standschutzengesellschaft",
+    "foundedYear" : 1908,
     "location" : "",
+    "logoPath" : "logos\/club.tg.salenstein-standschutzengesellschaft.jpg",
     "name" : "Salenstein Standschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Salenstein Stand",
+    "sourceURL" : "www.stand.schuetzen-salenstein.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.stand.schuetzen-salenstein.ch"
   },
-  "contentHash" : "sha256-174b88a6fd4c87b39bca8a3987ba5077ed4348af388fcee83e1721fb8df5019c",
+  "contentHash" : "sha256-19414cc77521a5b159be11cc6f79ce2de8880fffc7ad185ec11dc8152377f4d5",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,7 +51,7 @@
       "title" : "Unterseeschiessen, Freundschaftsschiessen nach spez. Einladung"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

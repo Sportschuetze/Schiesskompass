@@ -5,28 +5,31 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.hilfikon-schutzengesellschaft",
+    "foundedYear" : 1896,
     "location" : "",
     "name" : "Hilfikon Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hilfikon SG",
+    "sourceURL" : "https:\/\/sghilfikon.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/sghilfikon.ch"
   },
-  "contentHash" : "sha256-aad4fa6a2b0e5c4f9f2a971c99349e5875d8a8551e3099d40310399acd5feb81",
+  "contentHash" : "sha256-20be76f6cb9b95758912f869326bbd30607349b89f1d5c99bb842bbfb6b4344c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

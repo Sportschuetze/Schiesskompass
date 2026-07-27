@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Glis Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Glis SG",
+    "sourceURL" : "www.sgglis.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgglis.ch"
   },
-  "contentHash" : "sha256-34d478f7408b4a03dd9fb40b9c9b8ca87d0eaba4ef28e396adb265740595ced9",
+  "contentHash" : "sha256-56bd851993b6a50b1c33fb8b306376815e2c33ea582b9c399a5df6dfe880d274",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

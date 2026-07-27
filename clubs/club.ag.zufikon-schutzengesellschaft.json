@@ -5,28 +5,31 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.zufikon-schutzengesellschaft",
+    "foundedYear" : 1880,
     "location" : "",
+    "logoPath" : "logos\/club.ag.zufikon-schutzengesellschaft.jpg",
     "name" : "Zufikon Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zufikon SG",
+    "sourceURL" : "www.sg-zufikon.com",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-zufikon.com"
   },
-  "contentHash" : "sha256-f83d0865f2ad612460aabe0d28be0c6b53b073bb52ee9894394952d718630551",
+  "contentHash" : "sha256-ea244120f9b5fc6c7b8b20530b4e82c6be931f6eaad4a172f2c24dca05b10908",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

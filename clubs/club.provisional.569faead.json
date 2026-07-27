@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.569faead",
+    "foundedYear" : 1866,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.569faead.jpg",
     "name" : "Rickenbach ZH Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rickenbach ZH SV",
+    "sourceURL" : "https:\/\/schuetzenverein-rickenbach.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/schuetzenverein-rickenbach.ch\/"
   },
-  "contentHash" : "sha256-2f69594470c8330f52291b5449da30f20a0c9cd3c07f38266e1bfa40224b9f33",
+  "contentHash" : "sha256-18765445d35cf556e87a3370edbc67225e87a8d557461931328eab85726e7e8c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

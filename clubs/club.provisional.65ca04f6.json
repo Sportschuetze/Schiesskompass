@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.65ca04f6",
+    "foundedYear" : 1878,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.65ca04f6.jpg",
     "name" : "Hochfelden Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hochfelden SV",
+    "sourceURL" : "sv-hochfelden.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "sv-hochfelden.ch"
   },
-  "contentHash" : "sha256-6be52bca186d293cf32390983309a72af16cad9c3b0e98ab023aca3e9281b20a",
+  "contentHash" : "sha256-d80b1357247614f152d4801f22e2d17cfc6aad126f901a02d7d3a1e41e883437",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

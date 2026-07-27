@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Kyburg ZH Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kyburg ZH SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-78ed949d22de1b918e63b590d8f936d12a59e08b79959af3b01a3ebee7223441",
+  "contentHash" : "sha256-513fe3bc6640cd6f4cb26f2043252f723a7ee8af7ab13ea14a09e47373fbc808",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

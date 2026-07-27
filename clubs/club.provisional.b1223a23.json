@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.b1223a23",
+    "foundedYear" : 1871,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.b1223a23.jpg",
     "name" : "Hermatswil-Gündisau Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hermatswil-Gündisau SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-14285cde53fcc15d1ef65ce9bb0f80199c45eaf5b016176349609c5443cec4d7",
+  "contentHash" : "sha256-ca236f47c1021a66c4c7fe5bab9244d406234d7624d09b84815d7fcd3f1499f0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

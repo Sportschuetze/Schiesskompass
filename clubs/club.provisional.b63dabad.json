@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Ufhusen Wehrverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ufhusen WV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2feefd88fbc4aaddb8b6d4d88c20242b85571924c4082a168fa5ff3f5f2564d0",
+  "contentHash" : "sha256-a075d5a61b0349f27564c56680892fed6d3a48bb38d36389609d5b422b6be58e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

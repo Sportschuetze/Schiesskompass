@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Auenstein Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Auenstein Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9369d9f0e5f35bb8d4f9bfcc00a304aa69bb6a11f5d34600a363b855ef37ca1d",
+  "contentHash" : "sha256-cb843b57353c9bd98426fc7e98ae849ffa2536e7721789dddfe8cbcd1a7f3fb8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

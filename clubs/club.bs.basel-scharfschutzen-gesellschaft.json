@@ -5,28 +5,35 @@
     ],
     "canton" : "BS",
     "externalId" : "club.bs.basel-scharfschutzen-gesellschaft",
+    "foundedYear" : 1908,
     "location" : "",
+    "logoPath" : "logos\/club.bs.basel-scharfschutzen-gesellschaft.jpg",
     "name" : "Basel Scharfschützen Gesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Basel Scharf",
+    "sourceURL" : "www.scharfschuetzen-basel.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.scharfschuetzen-basel.ch\/"
   },
-  "contentHash" : "sha256-9e2fbfdabc04a09f8f819ba1a0340cb0f8d53f529956743f652691bb9cbacd7e",
+  "contentHash" : "sha256-4a7f2038b4b5354998b62f84f7f08c7c92d81c054f350b80634b6a82e309a26d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

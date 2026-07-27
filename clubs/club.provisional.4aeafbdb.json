@@ -6,27 +6,29 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.4aeafbdb",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.4aeafbdb.jpg",
     "name" : "Dübendorf Stadtschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dübendorf StS",
+    "sourceURL" : "www.stsduebi.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.stsduebi.ch"
   },
-  "contentHash" : "sha256-cc793bda925d520212b263a3c91ea9da31527895506f6c3be65f382f51fc10de",
+  "contentHash" : "sha256-efc90cbddfa3340ca80126fda2f4151c97e440ea1b173cb3112891483f026a81",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

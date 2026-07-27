@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Zürich Schützengesellschaft Eidg. Angestellter",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zürich SG EA",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f3d685a7a9e38acb02fe06be7ef4c639ac99b871192bf5df35ce73153aa81874",
+  "contentHash" : "sha256-2dfb8b546c65a98cac214ab849b7907edf3437b60733236fd9961bb171233e6b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

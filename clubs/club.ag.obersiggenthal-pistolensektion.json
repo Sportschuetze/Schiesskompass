@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Obersiggenthal Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Obersiggenthal PS",
+    "sourceURL" : "www.ps-obersiggenthal.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ps-obersiggenthal.ch"
   },
-  "contentHash" : "sha256-22f2382254cc116dac78c484b4e2f4dcfeb558ef93aa1bcdfdd05a718b281a3c",
+  "contentHash" : "sha256-40cb344ca10036637b52073a61c25bc3c0f079f3a62dcc8171ad306c5f89cb29",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

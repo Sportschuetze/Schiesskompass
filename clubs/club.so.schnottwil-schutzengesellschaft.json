@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Schnottwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schnottwil SG",
+    "sourceURL" : "www.sgschnottwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgschnottwil.ch"
   },
-  "contentHash" : "sha256-6ddf2aa6a164d923f4e1accfaaf8f8a6fb773a62091af07fd563c802106f8821",
+  "contentHash" : "sha256-afea2574cbbfbbd5e8bfdc50c7716907ab0064b388b0135d8338c5a8b71a9189",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

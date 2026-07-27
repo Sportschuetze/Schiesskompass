@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Villars-sous-Yens Tir sportif Le Chaney",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Villars-sous-Yens TS Le Chaney",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5f72f5dd16a6f9589b7acfc21a8d3516bd532ef6226f6364d9381e29eefdd053",
+  "contentHash" : "sha256-d6b7540c225fc29c377354f79ec542351714aaae60396a5c29e74d83b131a96c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

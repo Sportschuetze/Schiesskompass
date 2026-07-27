@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.f153de94",
+    "foundedYear" : 1867,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.f153de94.jpg",
     "name" : "Bertschikon Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bertschikon SG",
+    "sourceURL" : "vereine-bertschikon.ch\/Homepage.htm",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "vereine-bertschikon.ch\/Homepage.htm"
   },
-  "contentHash" : "sha256-28f68b966158dd909545b73ee98f4f84862be51b86e056cd78cfae41b1c43655",
+  "contentHash" : "sha256-4d7244b883b9e5b17af0d6cc96946141bb66d476042eb1725137fe9e2659d4a6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

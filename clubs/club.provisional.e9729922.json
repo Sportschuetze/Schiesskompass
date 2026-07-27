@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.e9729922",
+    "foundedYear" : 1932,
     "location" : "",
     "name" : "Zweisimmen-St.Stephan Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zweisimmen-St.Stephan Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b7b8601d30ca9edac0798f4fe450f5239db28443aa1fb3255eb5cd495790cac0",
+  "contentHash" : "sha256-a81a6f9e2be72fbcabb50b2261e61604adbb0eec20cc89d9e8cad04ca7af136b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

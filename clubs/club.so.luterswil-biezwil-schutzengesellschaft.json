@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Lüterswil-Biezwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lüterswil-Biezwil SG",
+    "sourceURL" : "www.sglüterswil-biezwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sglüterswil-biezwil.ch"
   },
-  "contentHash" : "sha256-45b314d69613f57f82f3d076454c19d4e9275dbca3062f3c0f390a0a90159735",
+  "contentHash" : "sha256-b5325bdf8950ac314ba650752041a5adad4c265f96d3c17fdd7a04a9b74ee6b2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

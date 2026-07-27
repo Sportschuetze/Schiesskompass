@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Limmattal Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Limmattal Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-32ea456ec7dc792aca5a9108de7f6b1755d746dd0c15b8d8cdde7a7a2bf8a81c",
+  "contentHash" : "sha256-ab0439709d35a18a008674bcdb3bdace7266937dc757c0f31134ddcff84b250d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

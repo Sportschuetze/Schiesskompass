@@ -6,27 +6,31 @@
     "canton" : "VD",
     "externalId" : "club.vd.chavornay-societe-de-tir-entre-deux-ruz",
     "location" : "",
+    "logoPath" : "logos\/club.vd.chavornay-societe-de-tir-entre-deux-ruz.jpg",
     "name" : "Chavornay Société de tir Entre-deux-Ruz",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chavornay ST Entre-deux-Ruz",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a1e7a19d85586c12fe6dab6eed07e5fa78c17c874bcce8c032167c39bbc26a8f",
+  "contentHash" : "sha256-a10647ebcef68d23a0929d4435959be2095fef09e30eebfed920095e7ca4a020",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Oberembrach Militärschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberembrach MSV",
+    "sourceURL" : "www.msv-oberembrach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.msv-oberembrach.ch"
   },
-  "contentHash" : "sha256-70aca106471a3e0d012ea45fe3eedd8c8accd3ea592f1a1c48ca4fafb21be7cb",
+  "contentHash" : "sha256-cfdbd66d22bfc8640c9c10c12e7e1fc2edf424b54132498ba4ef2940b7dd1f58",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

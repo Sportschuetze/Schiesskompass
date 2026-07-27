@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Oberwil b\/Büren Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberwil b\/Büren FSG",
+    "sourceURL" : "https:\/\/www.nachtschiessenoberwil.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.nachtschiessenoberwil.ch\/"
   },
-  "contentHash" : "sha256-5f9cef49f869b0e367c47b140a6da68bdcd3f91b182d24a331db504116438f83",
+  "contentHash" : "sha256-6aa955d3c513cbd9706dd3d17050ffd952e4c2bf77d4d20759055a6b9d49c6ed",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

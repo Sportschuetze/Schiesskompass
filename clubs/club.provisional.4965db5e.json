@@ -5,28 +5,33 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.4965db5e",
+    "foundedYear" : 1930,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.4965db5e.jpg",
     "name" : "Hasle-Rüegsau Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hasle-Rüegsau PS",
+    "sourceURL" : "ps-hasle-rueegsau.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "ps-hasle-rueegsau.ch\/"
   },
-  "contentHash" : "sha256-69d0efd14944d5b817b13a8c6d31b52638b65231561ac8ac03621fc9aa8d513a",
+  "contentHash" : "sha256-a70a7047885a44003f76f2702ea7b5a978efabe76826d1c8f81baa8213fbf422",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

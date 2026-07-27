@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Eclépens Union Société de Tir du Mormont",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Eclépens Union ST du Mormont",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0156f760aef2fddaba990a1c694983d0de61a2b7a4d948aa89966c467d405ae0",
+  "contentHash" : "sha256-dbf7587e0fdd65f398f6b87a77b4209e7067fb1075b555b2254bddb190f29778",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

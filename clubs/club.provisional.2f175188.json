@@ -6,23 +6,27 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.2f175188",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.2f175188.jpg",
     "name" : "Horgen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Horgen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-dd948e062fecf8aa9a7a74f02250f64e200f0821667b16d000170dd9e2e6a7b5",
+  "contentHash" : "sha256-4db2277dd385ff8fd778921e1cc85a66d23d61bf8356b4db4ffe6cc37c4ee8ce",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +72,7 @@
       "title" : "54. Bockenkriegschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

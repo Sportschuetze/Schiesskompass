@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Monstein Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Monstein SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-48c97e67b7b7f91d47bb41fd554595ba6d31fcc8118d08addc29447dea24eb51",
+  "contentHash" : "sha256-1d100c9828e63e54da1905ab021d8014b2bdc0c71e65eb3b7b95c5f65d15c0dc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

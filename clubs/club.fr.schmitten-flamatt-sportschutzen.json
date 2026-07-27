@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Schmitten-Flamatt Sportschützen",
     "offeredDisciplines" : [
-
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schmitten-Flamatt Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-804e15944d1dcd33f4a4bfab07a4818779dda3dbee088258bdcd7eda954f5b2b",
+  "contentHash" : "sha256-b67511ba3d5f10cd28dc75bcdc39dd9d04cd8baa2fd76a25df8afa762308afe2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,28 @@
     "canton" : "SG",
     "externalId" : "club.sg.walde-st-gallenkappel-schutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.sg.walde-st-gallenkappel-schutzenverein.jpg",
     "name" : "Walde-St.Gallenkappel Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Walde-St.Gallenkappel SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3060b5a2803aa38eacee01bd46d1756e8870b0f661cb898377a70ba434d77467",
+  "contentHash" : "sha256-883bc19a2c5c52e24887b4ac4a13b4aba26886c821cb3b640de96f160d863c2a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Hettlingen-Seuzach Pistolenschützen Witerig",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hettlingen-Seuzach PS Witerig",
+    "sourceURL" : "www.ps-witerig.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ps-witerig.ch"
   },
-  "contentHash" : "sha256-9f02596f355ed127ccea6bcd9a03c1f1c20eb0fe031234552ed5b96ec7110c2b",
+  "contentHash" : "sha256-0e636b766a1fd0f0ac93f0f1cca65c7e671f1961bab9e572940924438f907f87",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

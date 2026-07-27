@@ -6,27 +6,28 @@
     "canton" : "TG",
     "externalId" : "club.tg.bissegg-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.tg.bissegg-schutzengesellschaft.jpg",
     "name" : "Bissegg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bissegg SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-97942b2c5009778befb3c542eb949208b93349b524ed309941682d20be3bee71",
+  "contentHash" : "sha256-d8bd22450964e951ceb4b0231534c26a8e48000182d4454e6d44e6e7be853da4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

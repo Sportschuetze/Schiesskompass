@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Luzern Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Luzern FSV",
+    "sourceURL" : "www.fsv-luzern.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsv-luzern.ch"
   },
-  "contentHash" : "sha256-6b7e564f88925588d9caea69378c49e7d9a1c07cebfc5924021a8206202147d5",
+  "contentHash" : "sha256-0b321333925885aaab28ee2f58f66cd792173806f92f07d232548e4605fb44d2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

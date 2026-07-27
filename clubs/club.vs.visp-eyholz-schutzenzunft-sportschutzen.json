@@ -5,28 +5,35 @@
     ],
     "canton" : "VS",
     "externalId" : "club.vs.visp-eyholz-schutzenzunft-sportschutzen",
+    "foundedYear" : 1923,
     "location" : "",
+    "logoPath" : "logos\/club.vs.visp-eyholz-schutzenzunft-sportschutzen.jpg",
     "name" : "Visp-Eyholz Schützenzunft Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Visp-Eyholz Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fad5f941e36c8aa6157222921786c2af4239a9bc7ec52fc0f881c97445d3340b",
+  "contentHash" : "sha256-efab595cef74b04be3e8418b822215f58a2f20d0554f55522a0d0a4f21cd9b90",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

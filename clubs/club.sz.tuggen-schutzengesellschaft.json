@@ -5,28 +5,29 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.tuggen-schutzengesellschaft",
+    "foundedYear" : 1935,
     "location" : "",
     "name" : "Tuggen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Tuggen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1dc505aea0859084fa388b5dd06f72544149387167e91aef1729b9eb8b02d0fb",
+  "contentHash" : "sha256-ef123b3af4f344714d3163c538483f108feb4b014368860bd3e2db3ef9127e91",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

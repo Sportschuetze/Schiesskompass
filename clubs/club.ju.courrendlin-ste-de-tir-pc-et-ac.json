@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Courrendlin Sté de tir PC et AC",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Courrendlin ST PC et AC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4e6a34184011e5315eda67e9e069797847aab3a973a78fce1ebd60355b44c578",
+  "contentHash" : "sha256-095794dfc1d21f29b5696675ecaf6a5fb9d1bedf10c1a3eeeda560e13d4bc7f4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

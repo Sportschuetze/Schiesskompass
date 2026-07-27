@@ -8,21 +8,21 @@
     "location" : "",
     "name" : "Walliswil b\/Wangen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Walliswil b\/Wangen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c58409e9f57f6ea5e9029f309ce56af7dd4506b9b63bb49063f4311c1ae4e670",
+  "contentHash" : "sha256-4c6354721b7845483cc31f11920820d17c3c9d745ba32ff886b44411d49f8722",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +63,7 @@
       "title" : "Jubiläumsschiessen 150 Jahre"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

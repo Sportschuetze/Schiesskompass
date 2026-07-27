@@ -5,28 +5,35 @@
     ],
     "canton" : "JU",
     "externalId" : "club.ju.porrentruy-societe-de-tir-la-campagne",
+    "foundedYear" : 1452,
     "location" : "",
+    "logoPath" : "logos\/club.ju.porrentruy-societe-de-tir-la-campagne.jpg",
     "name" : "Porrentruy Société de tir La Campagne",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Porrentruy ST Campagne",
+    "sourceURL" : "www.porrentruycampagne.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.porrentruycampagne.ch"
   },
-  "contentHash" : "sha256-433e8d45f36dcffea5954c135a09a367bea542680282c0ef6270467547bb2243",
+  "contentHash" : "sha256-98c673fd40b403bc35b0e7c14934899676802efa6852c84099dd320dd5d903b8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

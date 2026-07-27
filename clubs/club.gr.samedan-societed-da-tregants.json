@@ -5,28 +5,35 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.samedan-societed-da-tregants",
+    "foundedYear" : 1832,
     "location" : "",
     "name" : "Samedan Societed da tregants",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Samedan ST",
+    "sourceURL" : "www.schuetzen-samedan.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schuetzen-samedan.ch"
   },
-  "contentHash" : "sha256-b97fd2f7f5182b4a09b33c05ca9e7480707a63a36f15c2131d0c4be62b505dbb",
+  "contentHash" : "sha256-6db0d1f85c48c1fa9bcbd8111203a8faa8648d1e9a824abca1b796f40190cbda",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

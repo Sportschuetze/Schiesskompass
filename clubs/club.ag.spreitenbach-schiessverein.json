@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.spreitenbach-schiessverein",
+    "foundedYear" : 1862,
     "location" : "",
     "name" : "Spreitenbach Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Spreitenbach SV",
+    "sourceURL" : "www.sv-spreitenbach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sv-spreitenbach.ch"
   },
-  "contentHash" : "sha256-fba734dcd30c4a8f0f461f19af5095bb812fcf2ca055bcf86865bd2e5163a5fa",
+  "contentHash" : "sha256-9d010aad1b057d9ad346afa90151b973c19f3dbec9e8252c9f10ec53caa2152d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Le Crêt Société de tir militaire",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Le Crêt SdT militaire",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c5e57d39697e05b456c5b84ace40d1888166bd6b68c4f476d085ad00116e8ade",
+  "contentHash" : "sha256-10fc026306591f5d1ddcfe3362472e6b9591956aba15ebcc5621128ffda91d6b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

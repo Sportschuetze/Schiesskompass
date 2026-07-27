@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.e5e5bc81",
+    "foundedYear" : 1922,
     "location" : "",
     "name" : "Niederbipp Jura-Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niederbipp Jura-S",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bc69cdb6833a116c88bd1c194be80b87e8d9babd45d1aa55e18996a5e86f8f70",
+  "contentHash" : "sha256-d400f3656a1b6a34f87c368cbb6e39696388c54d02ffa56ca8b62b3b990fc976",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,27 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.wolfwil-feldschutzen",
+    "foundedYear" : 1898,
     "location" : "",
+    "logoPath" : "logos\/club.so.wolfwil-feldschutzen.jpg",
     "name" : "Wolfwil Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wolfwil FS",
+    "sourceURL" : "www.feldschuetzen-wolfwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.feldschuetzen-wolfwil.ch"
   },
-  "contentHash" : "sha256-09d4a52176272020d840628fc1e278b5716a233d4270296b6b72471a11aacd76",
+  "contentHash" : "sha256-afe08b06c1018752f9d1b34d248ab47bad4cd9895aa05b347a4760986b5c8150",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +66,7 @@
       "title" : "19. Waldeggschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

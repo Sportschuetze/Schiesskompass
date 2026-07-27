@@ -5,24 +5,28 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.ebnat-kappel-pistolenschutzen",
+    "foundedYear" : 1942,
     "location" : "",
+    "logoPath" : "logos\/club.sg.ebnat-kappel-pistolenschutzen.jpg",
     "name" : "Ebnat-Kappel Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ebnat-Kappel PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6edd668c81f41b71ef50bed2a5f34b9d8790047f15c952837c8e94ba766d5ad1",
+  "contentHash" : "sha256-808924cc9343f47ab94dd1455d1460e7001fc65d0a8a9652b3a94c01ccecf295",
   "events" : [
     {
       "championshipTags" : "",
@@ -93,7 +97,7 @@
       "title" : "Lupi Meisterschaft mit Auflageschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

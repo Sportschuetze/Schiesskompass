@@ -5,28 +5,29 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.plaffeien-brunisried-sportschutzenverein",
+    "foundedYear" : 1881,
     "location" : "",
     "name" : "Plaffeien-Brünisried Sportschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Plaffeien-Brünisried SSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d4909acc335932467d2ae767eedc8acbf36feb392c74191d8ec62e41c86d4d42",
+  "contentHash" : "sha256-523d78a67982779239d9a332052246f5581c4445a0bbfcf19ace117dc2ff79d2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

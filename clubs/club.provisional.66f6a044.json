@@ -5,28 +5,33 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.66f6a044",
+    "foundedYear" : 1970,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.66f6a044.jpg",
     "name" : "Winterthur Polizeischützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Winterthur Polizei",
+    "sourceURL" : "ps-winterthur.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "ps-winterthur.ch"
   },
-  "contentHash" : "sha256-a8f80f836935c6fc360f87ef869fe016e2d75674ea81599860d8fe7bcfe20c84",
+  "contentHash" : "sha256-a48d70e88b30d44aa7be0d289bc1f73e65467e0fd9a419c86ed4f80c1e36dad7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

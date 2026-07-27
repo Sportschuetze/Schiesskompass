@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Val-de-Ruz Sté de tir Air Comprimé",
     "offeredDisciplines" : [
-
+      "G10",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Val-de-Ruz ST Air Comprimé",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4c0eadd6416ca7384d10fa4222a86cc84bbb602cb7f0999f2ded5d0e3fbe71b8",
+  "contentHash" : "sha256-c1f9f45ba6146ee737a2d2f3d75fc731d0623d366cad251f3942f693324bdfae",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Linthal-Auen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Linthal-Auen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6ca94dc8bdfe71132c9f8a4641ffe78256befaf8b4a1fbb8cdfdb70f04540bec",
+  "contentHash" : "sha256-41a6bc75d7b006f117f6c8609b8049107871600ab9bb43a63f5879442740e84d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

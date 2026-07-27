@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Limpach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Limpach SG",
+    "sourceURL" : "www.sg-limpach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-limpach.ch"
   },
-  "contentHash" : "sha256-0c0a66c75c8e6373bb44d9c6286fc489aeeeaf7294f638fa3a55efd7556fb9ac",
+  "contentHash" : "sha256-03644440ca936677a740016e0c2b5c3161b3430eac8f35c571faccf22c750b89",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

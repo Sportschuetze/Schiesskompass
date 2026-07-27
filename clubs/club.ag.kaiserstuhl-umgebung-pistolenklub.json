@@ -6,27 +6,31 @@
     "canton" : "AG",
     "externalId" : "club.ag.kaiserstuhl-umgebung-pistolenklub",
     "location" : "",
+    "logoPath" : "logos\/club.ag.kaiserstuhl-umgebung-pistolenklub.jpg",
     "name" : "Kaiserstuhl & Umgebung Pistolenklub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kaiserstuhl u.U. PK",
+    "sourceURL" : "https:\/\/www.pistolenklub-kaiserstuhl.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.pistolenklub-kaiserstuhl.ch"
   },
-  "contentHash" : "sha256-823dc96b1fd57d5cb02f8d6e40d6ebe92f9210fb2301d275e64d985534cefd90",
+  "contentHash" : "sha256-95579f57fe1af359fe9a4f94848a6ed9e813fb9bf442b1508839be5110b01a19",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

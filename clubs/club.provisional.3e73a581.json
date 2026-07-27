@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "St-Imier Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St-Imier ST",
+    "sourceURL" : "www.tir-saint-imier.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tir-saint-imier.ch"
   },
-  "contentHash" : "sha256-42c56766e05aeb76eb6e8dc40f82fca09b3bcda4fdde8716fc2cd1597dd88b35",
+  "contentHash" : "sha256-02cdf5fb09e11026d02a1c4257e963bd27c789ebcd4e8fac4f4861bedca5e7dd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

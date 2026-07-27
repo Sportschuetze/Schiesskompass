@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Kriechenwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kriechenwil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b58c6d1db897d1a3071b220b8b2af2ba89f28809b896aed2c05f78b562dad7ce",
+  "contentHash" : "sha256-1b217e7155f8d3f1e8c901d76ba76614b07e214c0be63a4afefd0f678c6ce0f7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

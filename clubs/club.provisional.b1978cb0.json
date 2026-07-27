@@ -5,28 +5,32 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.b1978cb0",
+    "foundedYear" : 2008,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.b1978cb0.jpg",
     "name" : "Michelsamt Schiesssportverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Michelsamt SSM",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-54ab93f53deaf598ce4bd1dd008455d960f498345b01098790247bf98c8a8d0b",
+  "contentHash" : "sha256-ce0fe34c5c595e13d8f272df65395881e18ba1cdc47e681382095b0ca9a8df1d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

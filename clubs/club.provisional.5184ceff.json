@@ -5,24 +5,28 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.5184ceff",
+    "foundedYear" : 1927,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.5184ceff.jpg",
     "name" : "Andelfingen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Andelfingen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5b59050643406ae56f72b18880b5b6b81bde22e0d37aec59f1927bf2f7a8df3f",
+  "contentHash" : "sha256-494318be506116b8e7cbbac567b990d3b37c5687120c887c2569da07889d448a",
   "events" : [
     {
       "championshipTags" : "",
@@ -118,7 +122,7 @@
       "title" : "27. Winzerschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

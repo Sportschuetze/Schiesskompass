@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.8f7a6261",
+    "foundedYear" : 2000,
     "location" : "",
     "name" : "Oberemmental 10-M-Schützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberemmental 10m",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5585a4b0867937d21e8efb3c0abd8fd5b4190f264e39d373609388370b274621",
+  "contentHash" : "sha256-69979fe9b9e08d4e64e588f8742e5c456e20a846605971a4f8df6b43a1eab7ff",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

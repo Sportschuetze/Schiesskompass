@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.294f021b",
+    "foundedYear" : 1886,
     "location" : "",
     "name" : "Zürich-Aussersihl Sportschützen-Gesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zürich-Aussersihl SportG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-319cfaf36afbf0573a53ed0823aa64f0fda6204bda33c38fed58bf05b5bf957a",
+  "contentHash" : "sha256-f5207b275fe9ae8efb2303bbf01c9827284f2818f6223abad1f3b5c8cb3cac84",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

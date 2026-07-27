@@ -5,28 +5,32 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.seengen-sportschutzen",
+    "foundedYear" : 1575,
     "location" : "",
+    "logoPath" : "logos\/club.ag.seengen-sportschutzen.jpg",
     "name" : "Seengen Sportschützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Seengen Sport",
+    "sourceURL" : "www.www.sportschuetzen-seengen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.www.sportschuetzen-seengen.ch"
   },
-  "contentHash" : "sha256-5954a78e045afb198be0a4f1cf976f1acf7b4ce5c9063a0db8f4fb62377e7f6d",
+  "contentHash" : "sha256-502a3d3a0e85b825a28f9b58432ab28e14bb6dda8053fc6071bbd6e4b8c27e86",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

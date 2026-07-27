@@ -5,28 +5,32 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.villeneuve-societe-de-tir-au-pistolet-revolver",
+    "foundedYear" : 1947,
     "location" : "",
     "name" : "Villeneuve Société de tir au pistolet - revolver",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Villeneuve SdT P&R",
+    "sourceURL" : "www.pistolet-villeneuve.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pistolet-villeneuve.ch"
   },
-  "contentHash" : "sha256-cc2fcbfea41c8a731004b27467bea7b3565efce9a00f3ab9386739dfed893c1f",
+  "contentHash" : "sha256-9146b0b06e55f4797551e7dd5763b92dfff4eb5c9b8bfaeead75dab0b17e2dea",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "SH",
     "externalId" : "club.sh.neunkirch-schutzenverein",
+    "foundedYear" : 1826,
     "location" : "",
     "name" : "Neunkirch Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Neunkirch SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-044e52f7c43cd6ba2893b119af7a874a2acdd6b01190f60a08c78d0cd277c157",
+  "contentHash" : "sha256-990d40db21ecfe94dbddb5eaa774f772c5f3a60d5c9ae72eb8f9035fe04f4198",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

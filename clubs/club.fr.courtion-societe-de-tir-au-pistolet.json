@@ -5,28 +5,31 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.courtion-societe-de-tir-au-pistolet",
+    "foundedYear" : 1976,
     "location" : "",
     "name" : "Courtion Société de tir au pistolet",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Courtion SdT au pistolet",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0f31af09e4b7e4940f2587ec755e9e6f740f3ee30216031459616ac0b193af0d",
+  "contentHash" : "sha256-d67d9b2bf97e4f96a751046ef49dfa8ecaa81335c2ebf924840d595065625afe",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

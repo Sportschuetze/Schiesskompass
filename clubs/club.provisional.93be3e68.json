@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.93be3e68",
+    "foundedYear" : 1944,
     "location" : "",
     "name" : "Wila-Turbenthal Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wila-Turbenthal Sport",
+    "sourceURL" : "www.sps-wila-turbenthal.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sps-wila-turbenthal.ch"
   },
-  "contentHash" : "sha256-c050607f9f41364b18d7161c8a7593691208981ea8da5de8712f02c964d61aac",
+  "contentHash" : "sha256-07bdba66024c0fe8ac4b0faabe1e4f55bd77c4d8837c2f9508272633e5f70e88",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

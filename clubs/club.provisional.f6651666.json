@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.f6651666",
+    "foundedYear" : 1871,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.f6651666.jpg",
     "name" : "Dachsen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dachsen SV",
+    "sourceURL" : "www.svdachsen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svdachsen.ch"
   },
-  "contentHash" : "sha256-a14f90a67c9065d5af0e847aa2b2e431e52be090bba77a0cdd447bf2da8a2c0e",
+  "contentHash" : "sha256-1ffedc309231acb312105cba9355b40213e72bd673c211c4f064d7eb17088345",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

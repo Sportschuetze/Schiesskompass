@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.a3622923",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Tramelan Société de tir de campagne",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Tramelan ST Campagne",
+    "sourceURL" : "https:\/\/www.tctramelan.com",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.tctramelan.com"
   },
-  "contentHash" : "sha256-1c9f4efcd225db80edbdd57655fc51ea59917223fd5f0df4a96e5bd87f786b76",
+  "contentHash" : "sha256-1422a9aad0eecb614d1659cbce1b7d28eb7aa1ca2b0f70a86d05a7d682bcacba",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

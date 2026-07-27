@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Läufelfingen Schützenbund",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Läufelfingen SB",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-82701e38a8c3357b3d90b7dd5176c2607c98cc9a41e3ac33b17591239a90787c",
+  "contentHash" : "sha256-dacb1562a26e4ce8d209155c1e07e5ecec1017c1b3ba6c62ad3fbf2eb82ab507",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

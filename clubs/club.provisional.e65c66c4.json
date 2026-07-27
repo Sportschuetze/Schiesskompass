@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.e65c66c4",
+    "foundedYear" : 1876,
     "location" : "",
     "name" : "Tüscherz-Alfermée Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Tüscherz-Alfermée SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8c5d6814632ab1e4f38997374dbdd28cd3ec622bcc3e0b778a7005ad01e7cbb9",
+  "contentHash" : "sha256-080141dc5cd27d384966dcfe27e16e0c575e491c35eb19e9b1e45976807a754b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

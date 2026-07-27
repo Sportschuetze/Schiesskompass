@@ -5,28 +5,32 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.mohlin-pistolenschutzen",
+    "foundedYear" : 1957,
     "location" : "",
     "name" : "Möhlin Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Möhlin PS",
+    "sourceURL" : "www.ps-moehlin.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ps-moehlin.ch"
   },
-  "contentHash" : "sha256-c3b9624b6eb52cbe1b5c92acc15437493f2fd54c377a3b949f16e97d288827e3",
+  "contentHash" : "sha256-127d5e97be02ae167b5243ae40d40c2ea70b058e20ad5710ad0a12bcf9499b6b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

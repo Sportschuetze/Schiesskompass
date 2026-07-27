@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Opfikon-Glattbrugg Pistolenschützenbund",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Opfikon-Glattbrugg PSB",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0f897066f750e42f346266547ee3b4143ff26e879a97c564f1d615793e7d8fa2",
+  "contentHash" : "sha256-1fbea92de5914eb1326d12c917d57e37de7801c0033ef9731ba657c56a90ddea",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

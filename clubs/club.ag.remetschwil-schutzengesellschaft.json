@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.remetschwil-schutzengesellschaft",
+    "foundedYear" : 1888,
     "location" : "",
     "name" : "Remetschwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Remetschwil SG",
+    "sourceURL" : "www.sgremetschwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgremetschwil.ch"
   },
-  "contentHash" : "sha256-92b4d83a71300113d6cb1b1370cfb814f5dd31ed2c2a38071d65a7321bf44dd5",
+  "contentHash" : "sha256-3966012c0ce00d0ea381e06e1ed8152bdd93d3a6ae170502e477f13cd5a88f91",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

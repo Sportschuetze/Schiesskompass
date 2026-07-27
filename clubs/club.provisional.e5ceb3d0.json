@@ -6,27 +6,28 @@
     "canton" : "LU",
     "externalId" : "club.provisional.e5ceb3d0",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.e5ceb3d0.jpg",
     "name" : "Schachen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schachen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fc04f1f70db46c4d09b7ca5cecc1a143d0ce53c3e4dc8347b888fee2a049bdc8",
+  "contentHash" : "sha256-f6f6e22f475c5bc398bf7ad40703b2c7dd6faf455f4fe9947b2c966810fe2255",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

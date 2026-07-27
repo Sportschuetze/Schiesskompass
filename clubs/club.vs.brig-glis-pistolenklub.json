@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Brig - Glis Pistolenklub",
     "offeredDisciplines" : [
-
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Brig - Glis PK",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4c6f2f516372898281e6802823190dae44ceb7cbe694e114cb9dac302ba711f8",
+  "contentHash" : "sha256-24ac83c7e43edb4b7ee7ae420ff42586250f0f985b083b0999a5fe0d9cebbfae",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

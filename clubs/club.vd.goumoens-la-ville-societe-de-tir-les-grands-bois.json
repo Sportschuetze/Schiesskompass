@@ -6,27 +6,29 @@
     "canton" : "VD",
     "externalId" : "club.vd.goumoens-la-ville-societe-de-tir-les-grands-bois",
     "location" : "",
+    "logoPath" : "logos\/club.vd.goumoens-la-ville-societe-de-tir-les-grands-bois.jpg",
     "name" : "Goumoens-la-Ville Société de tir Les Grands Bois",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Goumoens-la-Ville ST Les Grands Bois",
+    "sourceURL" : "www.tirgoumoens.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tirgoumoens.ch"
   },
-  "contentHash" : "sha256-4e33efce04f1a6b9ed99455f3a178459bce7995642f182fffdf72f5757df7b07",
+  "contentHash" : "sha256-72f1c731960a80107b0912cb347e2f638db94f89ab254bf2e85a623cf8039e0b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Lüscherz Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lüscherz FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e2acadffe9d54afd7ac7fc1a04bd844b7bbc9ac60ceea601bfd01ecc35dbdf3c",
+  "contentHash" : "sha256-c688a45925562992c2cb3f3c48db52e25333f2b7fc12cbf092d9be296ace189c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

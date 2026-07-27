@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Bière Société de tir Le Pistolet",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bière ST Le Pistolet",
+    "sourceURL" : "www.pistolet-biere.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pistolet-biere.ch"
   },
-  "contentHash" : "sha256-a9e1a430e6a1b3aef7a0d56fe829d9f80c08fd6aae5ee4a5250e72325b3763cb",
+  "contentHash" : "sha256-860f5408623dda8611009a9a145ac37f9e3ad0ceba17c8d2862eb8148c5fdd9f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

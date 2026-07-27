@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Spiez Militärschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Spiez MS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-17d04bffa3c96118aef815b00cc8bf6a1f1d512554c4fc3c613ab702c2f513ab",
+  "contentHash" : "sha256-bcd1c95b214d8f162dfc2b318c7d937febbd5e87c1c12b409e9ced860475ede3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

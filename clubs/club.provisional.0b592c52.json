@@ -5,28 +5,31 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.0b592c52",
+    "foundedYear" : 1858,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.0b592c52.jpg",
     "name" : "Wynigen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wynigen SG",
+    "sourceURL" : "www.sg-wynigen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-wynigen.ch"
   },
-  "contentHash" : "sha256-82e67cc10ab7176b00090173b73de419f2a99831ae12d9e6c539581ab954361f",
+  "contentHash" : "sha256-c8f8e8aa099e4dd5d0aebfab4ea5446c25119bc634c2762a351844b20c0ffaad",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

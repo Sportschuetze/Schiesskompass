@@ -5,28 +5,29 @@
     ],
     "canton" : "GL",
     "externalId" : "club.gl.linthal-schutzengesellschaft",
+    "foundedYear" : 1865,
     "location" : "",
     "name" : "Linthal Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Linthal SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-353acc2cb10ea4f052e83992bc8e88d3235349963fbd15e6ec32c89062804217",
+  "contentHash" : "sha256-1a6f9edcaec8a6f1f8b1cb3d50732868beee650d833fc29fee6eede837e7c777",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

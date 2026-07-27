@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Saint-Aubin Pistolet & Petit Calibre de la Béroche",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Saint-Aubin P&PC de la Béroche",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-eb5da51e76657915c00e3f8ad389e18bc4bb7a85200fe9dcdc39359c7964ca5f",
+  "contentHash" : "sha256-fc4c116bbe3d7d0bc51d81a7bdf12585d715564a62dbadd7823973b49a996c7a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Kölliken-Holziken Schützenverein Schorüti",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kölliken-Holziken SV Schorüti",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5b6fc4169a9129ebd667a2cbcb8b508727326359dac10ec7919aad602d1771c4",
+  "contentHash" : "sha256-86dedff73c5b3c5c8cb9b30d0f5584f07ba6ce3fb28567e2881c9937e6b79d38",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

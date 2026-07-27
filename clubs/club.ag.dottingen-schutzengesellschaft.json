@@ -5,28 +5,31 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.dottingen-schutzengesellschaft",
+    "foundedYear" : 1874,
     "location" : "",
+    "logoPath" : "logos\/club.ag.dottingen-schutzengesellschaft.jpg",
     "name" : "Döttingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Döttingen SG",
+    "sourceURL" : "www.sgdoettingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgdoettingen.ch"
   },
-  "contentHash" : "sha256-154c58ddffee47bbbf31728768d38992b95ab3d203cd7510148fea150e06d56a",
+  "contentHash" : "sha256-f95d4f6c675629710a5b2ba424d0bcfe6527c642b111eaf828f1708df92c679e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

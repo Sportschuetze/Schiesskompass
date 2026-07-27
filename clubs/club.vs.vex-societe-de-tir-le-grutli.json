@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Vex Société de tir Le Grütli",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vex ST Le Grütli",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4736140712fab64448b1825fa0e63bd5ed2f2303b374b78328f6d4b8a3354079",
+  "contentHash" : "sha256-81a91b383be612a610f9da1d6f66ad6cc1855302aa545a46e947ef245c208076",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

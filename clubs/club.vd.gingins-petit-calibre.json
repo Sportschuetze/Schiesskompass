@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Gingins Petit Calibre",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gingins PC",
+    "sourceURL" : "www.ts-gingins.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ts-gingins.ch"
   },
-  "contentHash" : "sha256-744b82fe0881a9f0a20e87a23efc8d1fb59f5fa35fd58c35f6f6d33fcf0e751e",
+  "contentHash" : "sha256-40aa1c5b8f9665d6c09d9fe39cfd2674496c44c37c4a48f4d16fcc405d2194a9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

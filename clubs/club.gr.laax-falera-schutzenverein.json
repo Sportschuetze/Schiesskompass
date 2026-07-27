@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Laax-Falera Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Laax-Falera SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ae129ee610087a4ae27764e32dd39a2ef6ffb5cd42748f1ea51f92d973c203c8",
+  "contentHash" : "sha256-dc8b716ed385caab11ad959f8dfc9ed31745e101ebecdd3e4890231395e02014",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

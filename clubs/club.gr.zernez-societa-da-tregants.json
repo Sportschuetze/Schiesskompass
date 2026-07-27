@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Zernez Società da tregants",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zernez ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-28425316dc008b35e661fe5bf81adbd70807469ddfcb4d0d42ccceed49d3c14d",
+  "contentHash" : "sha256-3082879d291e1dcfb5cfef8d931edaceb9bd761aceef7e885922788d5fda5779",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

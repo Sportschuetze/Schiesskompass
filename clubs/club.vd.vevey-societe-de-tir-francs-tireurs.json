@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Vevey Société de tir Francs Tireurs",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vevey ST Francs Tireurs",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e5c1d469c7fc658be9b9390c1ff1946ba5818bc94400444c9e16caaf4dbfe9c4",
+  "contentHash" : "sha256-b077960e269b32f3e81caf1a98e35f1e29636b39169aca622761acc43baff2de",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

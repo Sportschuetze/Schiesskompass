@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Eschlikon Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Eschlikon Schützen",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-444491158ed9addea6291b21d3ae83ecada0433f1c57d73db2809706b7afb65c",
+  "contentHash" : "sha256-a1744c0054c7f15fb994a07636039f40e411efd4d61a67f13609698d16810c80",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Kleinandelfingen Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kleinandelfingen MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5116d5275f1507b46d016ad5361374e10eaa8623f2dddfc8950a02008bc93cf1",
+  "contentHash" : "sha256-6d3e93d5ebc4f4ec1946e7fcfd59ab8c9c686a62f08de60231a250babbe3f64b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Ballens Société de tir Armes de guerre",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ballens ST Armes de guerre",
+    "sourceURL" : "www.tirballens.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tirballens.ch"
   },
-  "contentHash" : "sha256-0ebfa7927f2f5012c9fa936f4bd0d32d783a1b5b89a72120045a278778e707e5",
+  "contentHash" : "sha256-426ba0f28bbd0ea0c2c59fe738aa08f99d00a4207d4249d40522747131316219",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

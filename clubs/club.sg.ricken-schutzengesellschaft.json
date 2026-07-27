@@ -5,28 +5,30 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.ricken-schutzengesellschaft",
+    "foundedYear" : 1920,
     "location" : "",
+    "logoPath" : "logos\/club.sg.ricken-schutzengesellschaft.jpg",
     "name" : "Ricken Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ricken SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d7c0217d9f51a26cdb50b9eaac2c591adb763be6d7ae98250df6edf65b00f59b",
+  "contentHash" : "sha256-c570b0dbf91436094a729bae7ba05004ae38ddc5858a1df70e65cff97b00d7e5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

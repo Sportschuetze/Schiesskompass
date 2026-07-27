@@ -5,28 +5,29 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.vergeletto-societa-tiratori-cazzana",
+    "foundedYear" : 1876,
     "location" : "",
     "name" : "Vergeletto Società Tiratori Cazzana",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vergeletto St Cazzana",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-20d83e9bb460bf8d420f0f139a7fda4e6d511642e51d46cdf07c45ea2d926e47",
+  "contentHash" : "sha256-cc5f8fba5c09f49df709785b4e6cc490a857cee69c7798d2e6998131d3777400",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

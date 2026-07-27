@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Pratteln\/Schweizerhalle Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Pratteln\/Schweizerhalle Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d02942b5ce36e9763ba001d24f5517610f25e1387ea27029e68c535a5aa6e9e3",
+  "contentHash" : "sha256-735fb49097775454ddcba7da56b83c4dbd1b1f9d7129f424a33990b530319d48",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.cimadera-societa-unione-tiratori-monte-era",
+    "foundedYear" : 1909,
     "location" : "",
     "name" : "Cimadera Società Unione Tiratori Monte Era",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cimadera Sut Monte Era",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7b0772bdc2053f492136cef7bc71e944b65be6cb8e19f5c89e94e5b79d0f80c6",
+  "contentHash" : "sha256-29e0c390a37bad25e87ff4a47728100ed517ea53dedb3710f2835c6fb9cc5dfd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

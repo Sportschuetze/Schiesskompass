@@ -5,24 +5,28 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.rorschacherberg-schutzengesellschaft",
+    "foundedYear" : 1926,
     "location" : "",
     "name" : "Rorschacherberg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rorschacherberg SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2ea71c23c3c885c84549b2bcb60f08f935f5810658effe06e90c1fd31f1b8354",
+  "contentHash" : "sha256-76071e7f94ecb51f97126e5a376cdaef22affa2f8695ed160cfcaccb28043d45",
   "events" : [
     {
       "championshipTags" : "",
@@ -106,7 +110,7 @@
       "title" : "Verbandschiessen RSV St. Gallen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

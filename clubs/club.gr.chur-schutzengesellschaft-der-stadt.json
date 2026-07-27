@@ -5,24 +5,32 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.chur-schutzengesellschaft-der-stadt",
+    "foundedYear" : 1475,
     "location" : "",
+    "logoPath" : "logos\/club.gr.chur-schutzengesellschaft-der-stadt.jpg",
     "name" : "Chur Schützengesellschaft der Stadt",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chur SG der Stadt",
+    "sourceURL" : "www.sg-chur.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-chur.ch"
   },
-  "contentHash" : "sha256-54b18d09f27d670f620e58af47a28dd87dd4c0e7db02e757f1743cd95fe8825f",
+  "contentHash" : "sha256-84a6f526cf658ac4b79d9f4fdcbf6d80ceb0178425a51ceae6e1bc86346a6595",
   "events" : [
     {
       "championshipTags" : "",
@@ -53,7 +61,7 @@
       "title" : "44. Luftpistolen-Meisterschaft von Chur"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

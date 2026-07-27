@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Wolfacker Sportschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wolfacker Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2640e4adfeae3add6e16590434a2cf59786f64f1e969b67f22c1f3ea04901f20",
+  "contentHash" : "sha256-19ce132f8e863c17a2d25ec80c9f0126f9a07af821c88b0ea2fb99d9681b9c88",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

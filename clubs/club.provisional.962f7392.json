@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Attiswil Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Attiswil FS",
+    "sourceURL" : "www.fs-attiswil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fs-attiswil.ch"
   },
-  "contentHash" : "sha256-7e28fa7f7b767ee61f6252cadbbc509356679e057ead09ed9929379c4bd503f9",
+  "contentHash" : "sha256-be4d482b589d90b7aba253e6683c891fa1cd67fbe15f4405691687daf0eb1dd2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

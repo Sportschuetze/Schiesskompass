@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Balsthal-Klus Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Balsthal-Klus SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f14726f09d0f35c1c6e51e2d998a25e48cac67e4a43a768f57b4fd28e4e02c2c",
+  "contentHash" : "sha256-787b5d48ff9c40c7ed7405b3bdbec6392292bd80912049088f7ae1894d8e3966",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

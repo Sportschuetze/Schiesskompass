@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Buch Schiessverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Buch SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f0a1d01c559e527bc4568b5e02fadbb9d336ae80622457c7c3961bb9aaf5d878",
+  "contentHash" : "sha256-87b88bdf9106883db12df8ecf9eb5f174cf7d50ddcd9452bac0c3766f42099e8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

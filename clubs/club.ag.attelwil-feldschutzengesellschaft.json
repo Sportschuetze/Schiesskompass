@@ -6,27 +6,28 @@
     "canton" : "AG",
     "externalId" : "club.ag.attelwil-feldschutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.ag.attelwil-feldschutzengesellschaft.jpg",
     "name" : "Attelwil Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Attelwil FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c48016cbb83f55455490061cbab3100d047d7c59ed931d83f0ba57dfa3a75673",
+  "contentHash" : "sha256-516ea0685ea5bb8fea326bbc36fac982667456e1cdbc8674ce1863b15aee84fc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

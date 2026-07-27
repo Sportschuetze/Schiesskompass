@@ -5,28 +5,29 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.claro-societa-tiratori-del-poncione",
+    "foundedYear" : 1896,
     "location" : "",
     "name" : "Claro Società Tiratori del Poncione",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Claro St del Poncione",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-82349044d058a153e44da561e5b91275076d337524b4bcb277a2825d47887876",
+  "contentHash" : "sha256-3738f085dac966f52aad8d9592e94cc8f765d87052689acfedbfeacd24bc9914",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Grosshöchstetten Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Grosshöchstetten S",
+    "sourceURL" : "schuetzen-grosshoechstetten.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "schuetzen-grosshoechstetten.ch"
   },
-  "contentHash" : "sha256-1e04a57e01172a363556164f9795cbb55d6711a14357857dd684b26816f03113",
+  "contentHash" : "sha256-7f9ad9c186bef4eb9d1405b787d25dfaa6520141fa2151450dc30c0a3bab9713",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

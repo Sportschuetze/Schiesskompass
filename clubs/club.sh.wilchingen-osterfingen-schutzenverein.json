@@ -5,28 +5,32 @@
     ],
     "canton" : "SH",
     "externalId" : "club.sh.wilchingen-osterfingen-schutzenverein",
+    "foundedYear" : 1973,
     "location" : "",
+    "logoPath" : "logos\/club.sh.wilchingen-osterfingen-schutzenverein.jpg",
     "name" : "Wilchingen \/ Osterfingen Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wilchingen \/ Osterfingen SV",
+    "sourceURL" : "www.sv-wilchingen-osterfingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sv-wilchingen-osterfingen.ch"
   },
-  "contentHash" : "sha256-f1d830c74ba2c4abd6160de65cd6ea53710ef0bb2626e659b6242a31f2c09afb",
+  "contentHash" : "sha256-c657822494ed69ca07a8fa74450a100dc3a30b62b208d4a89cf108ba96c7c0e4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

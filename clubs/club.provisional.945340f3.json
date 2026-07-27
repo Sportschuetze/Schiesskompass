@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.945340f3",
+    "foundedYear" : 1897,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.945340f3.jpg",
     "name" : "Ettenhausen Militärschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ettenhausen MSV",
+    "sourceURL" : "www.msv-ettenhausen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.msv-ettenhausen.ch"
   },
-  "contentHash" : "sha256-95c17f199cc8a0ff4c5ba971a4204e5ee8cea11f70b80b7f19fdcce99c62c131",
+  "contentHash" : "sha256-84186bc2e26720c1469d258cf9e19461fbb220ba9db82cbe4e28ad50d4a31690",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

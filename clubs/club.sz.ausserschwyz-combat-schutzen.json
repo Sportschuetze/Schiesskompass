@@ -5,28 +5,33 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.ausserschwyz-combat-schutzen",
+    "foundedYear" : 1993,
     "location" : "",
     "name" : "Ausserschwyz Combat-Schützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ausserschwyz CS",
+    "sourceURL" : "www.c-s-a.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.c-s-a.ch"
   },
-  "contentHash" : "sha256-f20e0bcf06d7d650f49cea861a76e7e46ecfe6fc3c4b9493c6f746c36f374e59",
+  "contentHash" : "sha256-d5194f617742a0293b85632ad260d22c079b3c995380dc122074087c54f4f6d4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

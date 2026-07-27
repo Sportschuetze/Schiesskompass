@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Chamoson Sté de tir l´Ardévaz",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chamoson ST l´Ardévaz",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-24858bfd5844f72b8e5a0af915811f03b9b435fd3c93132ccdb5fee7e5a93003",
+  "contentHash" : "sha256-26fc6f89ba15473b6fa901f5fd0c4b95dc82871e55b535c6f93be84809acdb13",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,25 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.sennwald-schutzenverein",
+    "foundedYear" : 1911,
     "location" : "",
     "name" : "Sennwald Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sennwald SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bdebd834b999952ecc17849a015d28ab5ad66d76687ee8f5d0fe625cf8db0213",
+  "contentHash" : "sha256-837c59124765feb616aa71b70184879fc673386c95b4bf96b040d12ad8908983",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +69,7 @@
       "title" : "25. Herbstschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

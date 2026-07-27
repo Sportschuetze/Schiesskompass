@@ -5,28 +5,30 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.d6740600",
+    "foundedYear" : 1875,
     "location" : "",
     "name" : "Luzern Schützengesellschaft Pilatus",
     "offeredDisciplines" : [
-
+      "G10",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Luzern SG Pilatus",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-635365e22d92044518dcf5af97ecf2493f3b42dc6010188c08dd385d1d7a5a39",
+  "contentHash" : "sha256-e2a64da3d7f15779f4f82f7f98408de5661ffc71d797582d2406de10505948b6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

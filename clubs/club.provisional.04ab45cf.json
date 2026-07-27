@@ -5,28 +5,30 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.04ab45cf",
+    "foundedYear" : 1839,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.04ab45cf.jpg",
     "name" : "Hildisrieden Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hildisrieden FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-12db534813c35f1aa3e778c89e1360c83b6dd4d777e8264f668c09ea30fc3a70",
+  "contentHash" : "sha256-078973b2bb9262b0a2b928e758ecc43f5d011dc90338315cdafb9d11bfab7639",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

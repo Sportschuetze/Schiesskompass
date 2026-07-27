@@ -6,23 +6,24 @@
     "canton" : "SG",
     "externalId" : "club.sg.gams-schutzengesellschaft-tell",
     "location" : "",
+    "logoPath" : "logos\/club.sg.gams-schutzengesellschaft-tell.jpg",
     "name" : "Gams Schützengesellschaft Tell",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gams SG Tell",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c85041fa02e3ba3c7a2cd335323eb692753f09d90d1fc0a3e1483ff0cdf96bf5",
+  "contentHash" : "sha256-165304bd66f47c93dd5c17241604af8228e0c1f169d6b5770d90a31e81d7ac02",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,7 +59,7 @@
       "title" : "39. Gamser Emmentalerschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

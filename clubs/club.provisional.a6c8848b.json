@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Gsteig bei Gstaad Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gsteig bei Gstaad FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8d6a4cef0d14cafa9a7b7e08b27af95a27432106829a56d9c5c79aebf6c6196d",
+  "contentHash" : "sha256-ecea5544873e1c9686b3faf47304f90a9718d3d120a26c301239ba1b755c9d13",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

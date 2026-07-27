@@ -5,28 +5,33 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.cevio-tiratori-vallemaggia",
+    "foundedYear" : 1988,
     "location" : "",
     "name" : "Cevio Tiratori Vallemaggia",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cevio Tiratori Vallemaggia",
+    "sourceURL" : "www.tiratorivmcevio.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tiratorivmcevio.ch"
   },
-  "contentHash" : "sha256-fddbf6e66e34dff2e51c355e5b3c8d8bad150caca5b30a2b5e38b75936c2449a",
+  "contentHash" : "sha256-3e481de67bde39890f5c255a17a576bc7c6b7c101a2f4a9b7fe937e3db4c6adf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

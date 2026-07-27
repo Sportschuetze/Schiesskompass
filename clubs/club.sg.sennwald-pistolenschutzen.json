@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Sennwald Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sennwald PS",
+    "sourceURL" : "pistolen-sennwald.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "pistolen-sennwald.ch"
   },
-  "contentHash" : "sha256-7598a1b29c6252cd506f0fad3e5e613ee3a5223b3b17193ec0d1acd29ea6d5b3",
+  "contentHash" : "sha256-9fee31f07cbb5b7cc6c753d3b49487e9e59e23f58f116b2c39b2f13912cdc261",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Wintersberg-Bendel Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wintersberg-Bendel MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-60d1dc31db114a857e25201326eab82e4378cf590c85d1f7a368ed3d06d57994",
+  "contentHash" : "sha256-7d5011265b19a5d551e79ab86a1c022f74bfc5b1a2c3d91247b54d9973c62452",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Olivone Tiratori della Greina",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Olivone Tiratori della Greina",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3141599a6bacd0641771d803e621f9c7cdb45be847cddd39167c7c9e8b789aae",
+  "contentHash" : "sha256-b5ab3bc48dbf6ea224c83506c0e152c126e855631cb2fbc08ec07a281a4c9686",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

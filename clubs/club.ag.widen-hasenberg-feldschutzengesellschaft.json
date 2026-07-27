@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.widen-hasenberg-feldschutzengesellschaft",
+    "foundedYear" : 1906,
     "location" : "",
     "name" : "Widen-Hasenberg Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Widen-Hasenberg FSG",
+    "sourceURL" : "www.fsgwh.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsgwh.ch"
   },
-  "contentHash" : "sha256-fe36d1306b803a5165f505e38f2fa323c990d9f097200bc0a34fc3a4795a6860",
+  "contentHash" : "sha256-f9665949ffb205857f54d4d77f57d53da0b0e7ce2939aeb0293ae5651fbaf6e0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

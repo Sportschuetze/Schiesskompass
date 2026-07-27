@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.217c1f51",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Jens Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Jens FS",
+    "sourceURL" : "www.fsjens.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsjens.ch"
   },
-  "contentHash" : "sha256-150c2ec15d6a3f29c12b16414a7d5ae48e6e64ca4818fb79812053add1c6289a",
+  "contentHash" : "sha256-f78ce3ae2ae9378b4d7178a4cb161d87da911782148fc1f247195f8f743d7676",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

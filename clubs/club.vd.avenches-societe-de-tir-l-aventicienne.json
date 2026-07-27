@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Avenches Société de tir L'Aventicienne",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Avenches ST L'Aventicienne",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fc8a2eaaa421d29359cec4a2417d5bc8c49a3cef0072b1738373f26462ea6bd1",
+  "contentHash" : "sha256-4985a3f39add7f60a18ee3d67054c82b346935c2b8d6f8540ad39bd0d4fcb31f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

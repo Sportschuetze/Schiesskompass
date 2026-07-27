@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Bennwil Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bennwil FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-58e16f4c76aa31cb719c7c80f21c4366ec992a5f5c6129a8250d58ab2eb87a12",
+  "contentHash" : "sha256-d482d098ea7cb57592c61cc053d4c2112f2abb9e3668fd4bb025397cda839e03",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

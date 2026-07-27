@@ -5,28 +5,31 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.59c5c0a1",
+    "foundedYear" : 1861,
     "location" : "",
     "name" : "Luzern Artillerieverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Luzern AV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-aefe2ea2fd5e5b1b9c5b7bf040ada3dca92507d22501830e2118bca68a17b6f2",
+  "contentHash" : "sha256-5254a2be4964481e026812bb251e69df5f1b5d539be87c9836ce1ee288826fe7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

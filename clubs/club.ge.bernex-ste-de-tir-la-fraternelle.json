@@ -5,28 +5,30 @@
     ],
     "canton" : "GE",
     "externalId" : "club.ge.bernex-ste-de-tir-la-fraternelle",
+    "foundedYear" : 1859,
     "location" : "",
     "name" : "Bernex Sté de tir La Fraternelle",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bernex ST La Fraternelle",
+    "sourceURL" : "https:\/\/fraternelle-bernex.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/fraternelle-bernex.ch\/"
   },
-  "contentHash" : "sha256-280081c1e00431f7b8a16d9ed09ebb21c2121e00e68040607d6d237fe961eda3",
+  "contentHash" : "sha256-04c4848b44f690aad096570c2eb49b84cd6a53510cc9bbd66eba8cefc24888d2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

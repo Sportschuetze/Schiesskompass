@@ -5,24 +5,27 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.6d6f083a",
+    "foundedYear" : 1893,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.6d6f083a.jpg",
     "name" : "Zwillikon Feldschützen-Gesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zwillikon FSG",
+    "sourceURL" : "www.zwillikon-fsg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.zwillikon-fsg.ch"
   },
-  "contentHash" : "sha256-db6c678488f42752c60251b490f58304e230e6717543e93cd0b9add15ced719b",
+  "contentHash" : "sha256-eec877f54f8e9bd464a0fb4093b3e77e7115be3ab75a7d3cfbbeb0e859aa000d",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +71,7 @@
       "title" : "Säuliämtler Gruppenschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

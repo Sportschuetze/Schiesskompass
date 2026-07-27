@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.0803bb26",
+    "foundedYear" : 1880,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.0803bb26.jpg",
     "name" : "Hittnau Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hittnau SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8a49cab1889b501bc8bb13b1c1d373b5b41243cf5d42f93e904be927c6b80ab1",
+  "contentHash" : "sha256-9bd392955ea28f46bb00f0ee9017bb1c0b4a4e5ac5ca19f67a562d3b2426611d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

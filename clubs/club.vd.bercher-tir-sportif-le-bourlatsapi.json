@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Bercher Tir Sportif Le Bourlatsapi",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bercher TS Le Bourlatsapi",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2965426c48f81a64dc60eca9796997d93ec1b4d8cf94866097ccfb08d2dc7336",
+  "contentHash" : "sha256-12ee2aeebc624673c16d3ca188d7920fb2f86a3dccef2c012917db410d808b59",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

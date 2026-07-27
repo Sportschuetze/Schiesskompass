@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Holderbank Freier Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Holderbank Freier SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-43720ce0b9142b27f0a934afb1a56072d1714a88f04aaee64c37d86a8a8608a3",
+  "contentHash" : "sha256-8cac605b499a2c0cc4c3fec49176b4c732e3b932841404ef79fc4a17e459cf42",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

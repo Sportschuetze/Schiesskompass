@@ -5,28 +5,29 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.servion-essertes-amis-du-tir",
+    "foundedYear" : 1928,
     "location" : "",
     "name" : "Servion-Essertes Amis du tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Servion-Essertes Amis du tir",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0cc0f9ff1d822248ab9c601b0534adc5fe2a740fbed17eca86f7be949c5d94e3",
+  "contentHash" : "sha256-d1833044f58c13f6948dd99c599d2cc00a9e307ee927681aa8f53ec34a3c0d82",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

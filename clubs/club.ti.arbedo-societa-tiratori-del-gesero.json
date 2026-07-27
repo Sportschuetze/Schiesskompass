@@ -5,28 +5,29 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.arbedo-societa-tiratori-del-gesero",
+    "foundedYear" : 1887,
     "location" : "",
     "name" : "Arbedo Società Tiratori del Gesero",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Arbedo St del Gesero",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-11ed1d2c920f6438201205b1f0082ae04c5e598fa4689427313488fe92954933",
+  "contentHash" : "sha256-d03f686d3265976dcb39de650cbc7066e4f4a04f8be0b69f0613e729af90cffa",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

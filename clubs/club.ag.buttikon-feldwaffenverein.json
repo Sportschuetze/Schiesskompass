@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.buttikon-feldwaffenverein",
+    "foundedYear" : 1897,
     "location" : "",
     "name" : "Büttikon Feldwaffenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Büttikon FWV",
+    "sourceURL" : "https:\/\/fwv-buettikon.jimdofree.com\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/fwv-buettikon.jimdofree.com\/"
   },
-  "contentHash" : "sha256-33a075fe621e913a9c6386bfcc3aa50546d2e7dda5e49e6c0f3bbf4a1d3b4d64",
+  "contentHash" : "sha256-720aaf595e49e38f8df040b674a595652b06015a57eba72a5b6c5a4c2babb13c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

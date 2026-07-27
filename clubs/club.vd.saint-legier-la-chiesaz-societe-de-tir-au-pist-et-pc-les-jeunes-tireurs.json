@@ -5,28 +5,33 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.saint-legier-la-chiesaz-societe-de-tir-au-pist-et-pc-les-jeunes-tireurs",
+    "foundedYear" : 1919,
     "location" : "",
     "name" : "Saint-Légier-La Chiésaz Société de tir au pist. et pc Les Jeunes Tireurs",
     "offeredDisciplines" : [
-
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St-Légier Jeunes Tireurs",
+    "sourceURL" : "http:\/\/web.jeunes-tireurs-st-legier.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "http:\/\/web.jeunes-tireurs-st-legier.ch\/"
   },
-  "contentHash" : "sha256-8cb0f3fd9b79b254494256769d6e078d895a6ee816136d5eb2ec033f1150eb18",
+  "contentHash" : "sha256-c025e74a6dfe4bdacf86431fc6a26f7322eefeb8ac4480c79dfd2089fda71765",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

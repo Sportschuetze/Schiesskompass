@@ -5,28 +5,29 @@
     ],
     "canton" : "GE",
     "externalId" : "club.ge.thonex-les-amis-mousquetaires-des-trois-chenes",
+    "foundedYear" : 1969,
     "location" : "",
     "name" : "Thônex Les Amis Mousquetaires des Trois-Chênes",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thônex Les Amis Mousquetaires des Trois-Chênes",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9c941d94595418625b76894a865bd10f8793e7f5b22c8b0651590cc482692fe7",
+  "contentHash" : "sha256-3c0637fd6f3a8223739669838dec02ed62c9007e153113b54a1bcd0995c6563a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

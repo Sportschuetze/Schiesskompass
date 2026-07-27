@@ -5,28 +5,30 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.daniken-schutzengesellschaft",
+    "foundedYear" : 1867,
     "location" : "",
     "name" : "Däniken Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Däniken SG",
+    "sourceURL" : "www.sgdaeniken.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgdaeniken.ch"
   },
-  "contentHash" : "sha256-699cba08715c54f3226b6697de9c0cf11ef1edc48fb8e27f5872d92f502a8303",
+  "contentHash" : "sha256-d9445c4879f1e49bdaff689a60acd04c4bb4fd2e610a7f850bf3b47261bc96ab",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

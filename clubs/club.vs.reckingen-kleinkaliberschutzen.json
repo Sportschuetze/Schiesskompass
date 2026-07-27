@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Reckingen Kleinkaliberschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Reckingen KKS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-44cf596ad218357392100f28d791a86baa8fc39aa450fbb12aaa7b45a7ab489f",
+  "contentHash" : "sha256-a7b7197119357bfcca4e37ca8e3ba783ea8f33251a6dc1b16f8dcd9635a62a1a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Orvin Société de tir de campagne",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Orvin ST Campagne",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2ed246733863362227f813d7e39d05931215304bb81114a0caf704b4584114f3",
+  "contentHash" : "sha256-54e0d66ffafb976dfb047d275d3682557514ef1fca54191dc3dd8168826177b3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

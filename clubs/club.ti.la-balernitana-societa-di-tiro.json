@@ -5,28 +5,30 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.la-balernitana-societa-di-tiro",
+    "foundedYear" : 1938,
     "location" : "",
     "name" : "La Balernitana Società di tiro",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "La Balernitana St",
+    "sourceURL" : "www.balernitana.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.balernitana.ch"
   },
-  "contentHash" : "sha256-ca0e4162c1d54adc643134ce05a85df160de4fe1f24b0b6badafbe497c535638",
+  "contentHash" : "sha256-275ae775f9e5079f01049fced4e41b048a9295e40f6db8f4fbfbde5b4553dc9d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

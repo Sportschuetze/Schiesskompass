@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Carouge Société des Carabiniers",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Carouge Sté des Carabiniers",
+    "sourceURL" : "www.carabiniersdecarouge.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.carabiniersdecarouge.ch"
   },
-  "contentHash" : "sha256-3a619fafc1f9bdfbeec21979dee4db79c5ab1ade0a1c9eab0e0d80fa5369719a",
+  "contentHash" : "sha256-68f8b251a602e45e062432d9a714c65597010b4386f74cdc1c39cbd0d70c9aa3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

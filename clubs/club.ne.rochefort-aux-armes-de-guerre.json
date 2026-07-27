@@ -5,28 +5,34 @@
     ],
     "canton" : "NE",
     "externalId" : "club.ne.rochefort-aux-armes-de-guerre",
+    "foundedYear" : 1881,
     "location" : "",
+    "logoPath" : "logos\/club.ne.rochefort-aux-armes-de-guerre.jpg",
     "name" : "Rochefort Aux Armes de Guerre",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rochefort Aux Armes de Guerre",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cd7331a298c09f09ae7f2788d11790b1b8e7fe831f8ef58fd7eb4778b93ec981",
+  "contentHash" : "sha256-4e23fa9f925dbc6a4fac28919cf103b40d99e2221d423b17df442d2851c8d78b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,30 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.9c3d4c3a",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.9c3d4c3a.jpg",
     "name" : "Furttal Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Regensdorf PS vom Furttal",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-58c3c8264863ce97d1a05d2c492f30c8cc4fdc69a29c82177e26a0ac97f20364",
+  "contentHash" : "sha256-7e1bf33f140c605d2c4d09851afd607250c9750893953a120f970fe739ea3c41",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

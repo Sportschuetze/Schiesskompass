@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Scherz-Schinznach-Bad Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Scherz-Schinznach-Bad FSG",
+    "sourceURL" : "fsgscherzschinznachbad.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "fsgscherzschinznachbad.ch"
   },
-  "contentHash" : "sha256-8684538dd2b664afc4e81da380e99f03fda628b010480fe13c1e6fe9f41ce40b",
+  "contentHash" : "sha256-c70d021cfd4cd095b0730441d96c2251703bb1dbbc187491ab66da7627b88d72",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

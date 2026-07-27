@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Zürich Wollishofen Schiessverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zürich Wollishofen SV",
+    "sourceURL" : "https:\/\/www.schiessverein-wollishofen.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.schiessverein-wollishofen.ch\/"
   },
-  "contentHash" : "sha256-1773e5f627cd1e053b525302521bcfd07a673b49dad4a9dbc9c3988aa1055a90",
+  "contentHash" : "sha256-4a21f089b7897e90f3e9311fec7f6c81d011483a55a38faba1844bd228a41008",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

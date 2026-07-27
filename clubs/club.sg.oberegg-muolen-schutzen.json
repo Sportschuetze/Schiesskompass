@@ -5,24 +5,26 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.oberegg-muolen-schutzen",
+    "foundedYear" : 1884,
     "location" : "",
+    "logoPath" : "logos\/club.sg.oberegg-muolen-schutzen.jpg",
     "name" : "Oberegg-Muolen Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberegg-Muolen S",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d3f6629d805ba7a17ad5c22e50b6261fc4349529e1fa3dc34a2c2f785b6e89e3",
+  "contentHash" : "sha256-ecd87248dfa9bdce93df0e158885bc233b84487bf51a0a8a1c83232d64d4a002",
   "events" : [
     {
       "championshipTags" : "",
@@ -101,7 +103,7 @@
       "title" : "24. Racletteschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

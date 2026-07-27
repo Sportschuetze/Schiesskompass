@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Moiry Société de tir Les Etoiles",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Moiry ST Les Etoiles",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5fc898e63a1ee62c26c768e3e1a7b9b18a2abcf9dcdcb8ed251720ca5b7bdcbc",
+  "contentHash" : "sha256-2e90fb7cd4de56d970bd03cc45b67b83894938c66a86b33ea7f0fae418b7f2fa",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

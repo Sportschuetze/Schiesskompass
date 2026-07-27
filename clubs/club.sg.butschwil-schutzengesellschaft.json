@@ -5,28 +5,33 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.butschwil-schutzengesellschaft",
+    "foundedYear" : 1840,
     "location" : "",
+    "logoPath" : "logos\/club.sg.butschwil-schutzengesellschaft.jpg",
     "name" : "Bütschwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bütschwil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6f94ecc2e2ed2798ee2cff94a666067359f07dc3476fce4b9209997fa31714b7",
+  "contentHash" : "sha256-faaaebc07085b539302aff6c64c59c62e075dc8ad21a0aea394978951f3d78b2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

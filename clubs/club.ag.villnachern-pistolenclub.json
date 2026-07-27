@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Villnachern Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Villnachern PC",
+    "sourceURL" : "www.pistolenclub-villnachern.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pistolenclub-villnachern.ch"
   },
-  "contentHash" : "sha256-e647ca1de0358475356306c743a464c3e1ba677337098e462f83e294ade7c7c8",
+  "contentHash" : "sha256-4fa12a739e1a20d3479011104f78891c88d443221a4c7f4ce9d50e0eefc0a0f6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

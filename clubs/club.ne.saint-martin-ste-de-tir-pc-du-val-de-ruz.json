@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Saint-Martin Sté de tir PC du Val-de-Ruz",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Saint-Martin ST PC du Val-de-Ruz",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d76dfa11a7a54ce8ea4fe07372f145a460f7f27608968069f571956664923b24",
+  "contentHash" : "sha256-3ffeba4250133a2b352636676a7606264f49316fc627fca211dd64e3c5b4a532",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

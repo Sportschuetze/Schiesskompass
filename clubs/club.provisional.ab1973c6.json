@@ -8,25 +8,30 @@
     "location" : "",
     "name" : "Rüschlikon Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rüschlikon FSV",
+    "sourceURL" : "www.fsvr.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsvr.ch"
   },
-  "contentHash" : "sha256-c4260de810aeb968e4f31d1cfa56591d24af3575712ea49022622ae2da0ec0b1",
+  "contentHash" : "sha256-285b4a85e7a25cc4c576348c2550606a5e953438f3e8a7cbb329848bd10f6bd4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

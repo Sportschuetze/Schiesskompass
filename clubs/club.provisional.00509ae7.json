@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Champoz Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Champoz ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-86634545f161d50154153937d70df78f9a607e0990f1489d2b5eb76c124e0d48",
+  "contentHash" : "sha256-61d57e7c98f01400fd46d1a3ddb0b3feb769790fb6538d4d8c28cdc37b49cf0f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

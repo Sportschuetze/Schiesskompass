@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.wettingen-wurenlos-sportschutzen",
+    "foundedYear" : 1907,
     "location" : "",
     "name" : "Wettingen-Würenlos Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wettingen-Würenlos Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9bd3f6bd3b7fada463b8850c63297e3482af7a3844c5cf505147df83982871df",
+  "contentHash" : "sha256-7dced7dbbb39574bc47da2416c1fda36a8052d4e90f998fd2ae4e76be3bc6ebc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

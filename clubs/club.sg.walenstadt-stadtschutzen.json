@@ -5,28 +5,30 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.walenstadt-stadtschutzen",
+    "foundedYear" : 2000,
     "location" : "",
+    "logoPath" : "logos\/club.sg.walenstadt-stadtschutzen.jpg",
     "name" : "Walenstadt Stadtschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Walenstadt Stadt",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c4afac34c0270d6cee4cf60118284f71e45a8aa8f849ab1e93d2ef29bc229132",
+  "contentHash" : "sha256-2390e5943ab431e253d31799451b6b2819efa088326476b09b7744f125e197d2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

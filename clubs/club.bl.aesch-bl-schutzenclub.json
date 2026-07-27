@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Aesch BL Schützenclub",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aesch BL SC",
+    "sourceURL" : "https:\/\/www.aesch-klub.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.aesch-klub.ch\/"
   },
-  "contentHash" : "sha256-0bcad6c7a7d925293d8333ed2671e492f651474cc125237a356bfce266d6c08b",
+  "contentHash" : "sha256-bf8dfcdd88ef556e2831a97763e88b862e35e9699e830c8d12bd382e1f65d45f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

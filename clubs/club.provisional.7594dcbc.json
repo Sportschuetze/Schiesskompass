@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.7594dcbc",
+    "foundedYear" : 1897,
     "location" : "",
     "name" : "Feld-Meilen Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Feld-Meilen Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c7e1de8aadff0c448b31c1d0957fd647b69ef5cd921d4b22d3b6011d4177fe10",
+  "contentHash" : "sha256-496c10bc9af036ab38c75d9beb9892e51903ae16a51a5d99f9c4bc5212c02c0e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

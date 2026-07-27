@@ -5,28 +5,30 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.heitenried-schutzen",
+    "foundedYear" : 1884,
     "location" : "",
     "name" : "Heitenried Schützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Heitenried S",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-20167d166a39b399f521211de87dc56132dd4383b7006432875aabefe275bdab",
+  "contentHash" : "sha256-1bd803fa311f6bf7b89b50f593d58e10cfd4c2a254af4141f030f9d5d3467776",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

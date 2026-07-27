@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.c4920c85",
+    "foundedYear" : 1919,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.c4920c85.jpg",
     "name" : "Balm Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Balm SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b01159f6ab56d16d37e3a23b52b9a2d491e9f87f9bcff6d4e73e62843abd36c8",
+  "contentHash" : "sha256-e7006eb09269e3a5bf55404a09c5703e697596d818138fa9406099c29c020cac",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

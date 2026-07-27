@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Jenins Ortsschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Jenins OSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-22b17e383c117aab352fa6394da4b24aa692b61a3f14bfce8e640f33c0109c29",
+  "contentHash" : "sha256-866a9becb1cfb044af8d90da5383cb0524f037f40681ee486ded3202932b5142",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

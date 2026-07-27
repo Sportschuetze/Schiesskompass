@@ -5,28 +5,30 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.rufi-maseltrangen-militarschutzenverein",
+    "foundedYear" : 1869,
     "location" : "",
+    "logoPath" : "logos\/club.sg.rufi-maseltrangen-militarschutzenverein.jpg",
     "name" : "Rufi-Maseltrangen Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rufi-Maseltrangen MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-08326612991a9132d5acb0a026c1979796f043b883c0041aa10cf19123bb39a5",
+  "contentHash" : "sha256-e3af06f07f762f89eb18d84c8ccaf9b5838f67abb6b2f68cd745e4013de7c2fe",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

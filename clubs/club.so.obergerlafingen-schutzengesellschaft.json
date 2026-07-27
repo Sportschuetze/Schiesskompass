@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Obergerlafingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Obergerlafingen SG",
+    "sourceURL" : "www.schuetzen-obergerlafingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schuetzen-obergerlafingen.ch"
   },
-  "contentHash" : "sha256-5f43954c24c637e66b38cd25cee460ddcf7adc0be5bf41ff199db9fbd7be04f2",
+  "contentHash" : "sha256-29930295b4cfb68abb07963dd5d01afaabb0e8a30144d3245c48dd735fe8ded0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

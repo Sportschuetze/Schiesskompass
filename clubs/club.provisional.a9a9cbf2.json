@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Buchholterberg Kleinkaliberschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Buchholterberg KKS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-67fa66091a62cf8b90fa9923ecc7ea52e26c13b50db48920cb5f02a4c55e41b6",
+  "contentHash" : "sha256-f8c5b74d71b18465064f9827218cd56e61bb917a3ac3d11fcc2f70f27e79bb8d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

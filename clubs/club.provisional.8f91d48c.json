@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Egg Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Egg PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-61e0fed75653e0c72a187dac8c1fab105d6fb0cfdb0d8c7f7fe1329e90720f05",
+  "contentHash" : "sha256-c3f55bcbd5f35ec8884a70d60fcc9ffc78419fd3c1a824342c5a0ae8c2c0cf5f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

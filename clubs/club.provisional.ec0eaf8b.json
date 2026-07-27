@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Bévilard Société de tir PC",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bévilard ST PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-be6286db21827b263befea578511da969002da9c0b01d6a41029e8f8de8d137d",
+  "contentHash" : "sha256-3fac7d4804a2d8415b672ef24a72fea622ce9b9ac91e8c3bcdd5c7dab9eeb980",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "JU",
     "externalId" : "club.ju.vendlincourt-societe-de-tir-de-la-vendline",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Vendlincourt Société de tir de la Vendline",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vendlincourt ST de la Vendline",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-791cb1ee98ce7cccdd19426189e7f116b510038f13afcc5cd846698928eee532",
+  "contentHash" : "sha256-4177695cced1b6ca1ded6c835770e04ccb102deae59033b46b1b6a4b6be118b6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

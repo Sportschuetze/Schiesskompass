@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.bellach-schutzengesellschaft",
+    "foundedYear" : 1873,
     "location" : "",
     "name" : "Bellach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bellach SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f0fc887240729c8d2efa6ba45ea2a43e33da8f95888b8d1d5eb8e1c4757a238c",
+  "contentHash" : "sha256-ccca5ea4f7ee0db9456301fca04bb9c561a32b78fc038a49387013b4537a0e58",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

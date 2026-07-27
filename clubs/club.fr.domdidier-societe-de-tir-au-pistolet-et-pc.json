@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Domdidier Société de tir au Pistolet et PC",
     "offeredDisciplines" : [
-
+      "G50",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Domdidier SdT Pistolet et PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d7f7633c003b6a6bb03b750c86afa1b5ec728b1527a9ca07c50f28172ac8347a",
+  "contentHash" : "sha256-35878094a3bffd08d5445c9e1684c3da41ff7d2ce219fd0fd73b2e1a5db0b9a0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

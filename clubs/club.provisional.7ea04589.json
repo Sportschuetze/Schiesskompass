@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Fermel b. Matten Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fermel b. Matten FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8bf6d7d44b2f14177ae8ec0193b6989c8c4496973df0a0f340287cac0f541090",
+  "contentHash" : "sha256-2ee04f44e84d690e2c5771551cb237c9caa2c07add541e6f95ef5ee93d7db111",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

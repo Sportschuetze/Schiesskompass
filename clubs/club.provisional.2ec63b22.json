@@ -5,28 +5,31 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.2ec63b22",
+    "foundedYear" : 1944,
     "location" : "",
     "name" : "Pfaffnerntal Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Pfaffnerntal PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0c1508b7ebd8bfd3eea0d37dc48a49568241651b6490ed8ce57570d2a3277bc4",
+  "contentHash" : "sha256-b01da7e6311665a5e3a9d334c00234f17fd055a410682c5815ab08a52187c463",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

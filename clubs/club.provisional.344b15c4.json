@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Wangen an der Aare u.Umgebung Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wangen an der Aare uU PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c0a9a27b59ba3018587f8a7bfdd9b2b0d7f2540eb75a984d1fd41c6026b258e0",
+  "contentHash" : "sha256-7773d631c71b3fb231f5a057e6d023bdf9339a9ed9e6aaf8cfa47979588ede06",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

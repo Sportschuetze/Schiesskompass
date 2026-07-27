@@ -6,27 +6,28 @@
     "canton" : "TG",
     "externalId" : "club.tg.munchwilen-schutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.tg.munchwilen-schutzenverein.jpg",
     "name" : "Münchwilen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Münchwilen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5dc28a30af466b6b3f852b49e3ef48ada266fdd1bc97f65c1dc471ca427399f0",
+  "contentHash" : "sha256-e56babdea7bab8583eb7681b863e15de219694a1c37838b28c24061c4c933137",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

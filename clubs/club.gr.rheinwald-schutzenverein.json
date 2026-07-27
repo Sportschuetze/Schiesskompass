@@ -5,28 +5,31 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.rheinwald-schutzenverein",
+    "foundedYear" : 1848,
     "location" : "",
     "name" : "Rheinwald Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rheinwald SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2a39611eb307abe812f504f02651d40a6b53ed1d1bf422580e48a05e5a114ca0",
+  "contentHash" : "sha256-d3cd77a244c923afd1f65edceef4a71fd13c96d619f27138ddf88d3d45dbc55b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

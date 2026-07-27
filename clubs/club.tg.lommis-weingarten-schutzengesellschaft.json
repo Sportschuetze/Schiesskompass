@@ -5,24 +5,25 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.lommis-weingarten-schutzengesellschaft",
+    "foundedYear" : 1886,
     "location" : "",
     "name" : "Lommis-Weingarten Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lommis-Weingarten SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-dbea0c614ec89f99cb9d3e4be9d41ac33355e3910791c206a134d0f661e4af33",
+  "contentHash" : "sha256-2230c9077441237ab2b8c3daeb5cc55f3ab5260b3089fac2b6e4215965f4cb9c",
   "events" : [
     {
       "championshipTags" : "",
@@ -83,7 +84,7 @@
       "title" : "Standartenweihschiessen 140 Jahre SG Lommis-Weingarten"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

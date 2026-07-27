@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "La Tour-de-Peilz Sté de tir Armes de guerre",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "La Tour-de-Peilz ST Armes de guerre",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f4e3e865122edd8f3260af3f50aa1fe0319e37140d4bbffe03e52f4ec4cf66f8",
+  "contentHash" : "sha256-d6bca6e6f8cc649e2ad22448388aaee60bd02b3d4e8c1264356163cab56e42b3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

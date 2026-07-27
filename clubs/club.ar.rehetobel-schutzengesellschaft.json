@@ -6,27 +6,28 @@
     "canton" : "AR",
     "externalId" : "club.ar.rehetobel-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.ar.rehetobel-schutzengesellschaft.jpg",
     "name" : "Rehetobel Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rehetobel SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-07e635d292e0b644f15aa2c71841dca9f2a08cbd7f438670e200e8e33f5458f8",
+  "contentHash" : "sha256-a3f52fd116804b79069b6573b05e7d1681a0854c50a9db28a35f3cfbf9dfbd5f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

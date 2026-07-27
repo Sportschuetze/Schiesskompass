@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Fischbach-Göslikon Schützengesellschaft Freiheit",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fischbach-Göslikon SG Freiheit",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-36360314fc9bcfb6166325e97dd166b97515f843498a314252c93806bac4275c",
+  "contentHash" : "sha256-2a3be8d5c2f78e1b487e96d0f50da290d40af2487fa6a85eb209772b6f8da821",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

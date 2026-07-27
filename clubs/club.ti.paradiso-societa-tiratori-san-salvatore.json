@@ -5,28 +5,34 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.paradiso-societa-tiratori-san-salvatore",
+    "foundedYear" : 1877,
     "location" : "",
+    "logoPath" : "logos\/club.ti.paradiso-societa-tiratori-san-salvatore.jpg",
     "name" : "Paradiso Società Tiratori San Salvatore",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Paradiso St San Salvatore",
+    "sourceURL" : "www.tiratoriparadiso.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tiratoriparadiso.ch"
   },
-  "contentHash" : "sha256-db81a7dfea9ab01f874578309cb4f330c145e611d38f44826825e40cf8a4ec00",
+  "contentHash" : "sha256-5771d0c6bb05cfa99a554dfb406502fa39809708ba251c95180e1cb2f258f732",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.vuisternens-en-ogoz-ste-de-tir-la-giblana",
+    "foundedYear" : 1926,
     "location" : "",
     "name" : "Vuisternens-en-Ogoz Sté de tir La Giblana",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vuisternens-en-Ogoz ST La Giblana",
+    "sourceURL" : "www.lagiblana.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.lagiblana.ch"
   },
-  "contentHash" : "sha256-a8053245219570fb96fe6a47521cdc4c20ba72eaf398049e736f8bcfcb65fd56",
+  "contentHash" : "sha256-33022b6a5d327acb151480c6d9df67c32cbbae4ccb30aae72af3dd42336c06e9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

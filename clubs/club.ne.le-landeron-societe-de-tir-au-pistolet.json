@@ -5,28 +5,33 @@
     ],
     "canton" : "NE",
     "externalId" : "club.ne.le-landeron-societe-de-tir-au-pistolet",
+    "foundedYear" : 1954,
     "location" : "",
+    "logoPath" : "logos\/club.ne.le-landeron-societe-de-tir-au-pistolet.jpg",
     "name" : "Le Landeron Société de tir au Pistolet",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Le Landeron ST au Pistolet",
+    "sourceURL" : "www.stpll.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.stpll.ch"
   },
-  "contentHash" : "sha256-cc2623fc6b6fa0d7731d6f416dc151502e505c5f0f6ad14066e6edcf8e3cfcad",
+  "contentHash" : "sha256-48d07a0cc6618d6b1d4d133cebd1da526130f362315a2877c160a98c3ca04136",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

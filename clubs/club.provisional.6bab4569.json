@@ -5,28 +5,31 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.6bab4569",
+    "foundedYear" : 1867,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.6bab4569.jpg",
     "name" : "Flühli-Sörenberg Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Flühli-Sörenberg FSG",
+    "sourceURL" : "www.fsg-fluehli-soerenberg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsg-fluehli-soerenberg.ch"
   },
-  "contentHash" : "sha256-d07c73c8cff5aa233a06b602703fb5a0bab6ae1f3bd483059c63255ae1c9c9bc",
+  "contentHash" : "sha256-28126c6eb1c4cd42ea2eb15d0a3e5aa3ae9b2551f936b2c95db5ddd554ccb4a4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

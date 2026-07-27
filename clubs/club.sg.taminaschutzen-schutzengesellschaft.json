@@ -6,23 +6,24 @@
     "canton" : "SG",
     "externalId" : "club.sg.taminaschutzen-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.sg.taminaschutzen-schutzengesellschaft.jpg",
     "name" : "Taminaschützen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Taminaschützen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2506a4ec87f24e1472ff106fb4ac3b67cc202c60fa0c509e34dc7d70e9ba421c",
+  "contentHash" : "sha256-f79ceda73ed5991526b5e530300af058862105e00b7486df346fe431de49c024",
   "events" : [
     {
       "championshipTags" : "",
@@ -91,7 +92,7 @@
       "title" : "19. Taminataler Jungschützen-Nachtschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

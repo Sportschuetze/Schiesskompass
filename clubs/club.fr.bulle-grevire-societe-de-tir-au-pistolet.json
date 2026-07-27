@@ -5,28 +5,31 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.bulle-grevire-societe-de-tir-au-pistolet",
+    "foundedYear" : 1946,
     "location" : "",
+    "logoPath" : "logos\/club.fr.bulle-grevire-societe-de-tir-au-pistolet.jpg",
     "name" : "Bulle-Grevîre Société de tir au pistolet",
     "offeredDisciplines" : [
-
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bulle-Grevîre STaP",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6d022ead26f25faa60cd101a0883102eb5e2216539475569ca775878333719c0",
+  "contentHash" : "sha256-7bdcb3708cf05b3f2d81da6eee63090fea45a842ced2e80ad8d69a6bee3f0bed",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

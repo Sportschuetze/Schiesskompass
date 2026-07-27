@@ -6,27 +6,28 @@
     "canton" : "BE",
     "externalId" : "club.provisional.c4620078",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.c4620078.jpg",
     "name" : "Gimmelwald-Mürren Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gimmelwald-Mürren FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4877bff6731d7f9c5d3891ab3fe1d9c0dea7af877bb012b3a103199e55e268d1",
+  "contentHash" : "sha256-71037af998214e6c7a71fd5539939760a788419c36c2ecc7ed1a282878fae98a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

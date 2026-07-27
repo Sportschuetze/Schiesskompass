@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Stalden-Schwanden Luftgewehr- + Luftpistolen-Sektion",
     "offeredDisciplines" : [
-
+      "G10",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Stalden-Schwanden LG + LP",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b5a68e5e1a780ebfda70aebd832d504a17f19aacbf7371ed078aa6fc3180e43a",
+  "contentHash" : "sha256-77af9f412171a7b5220cb898b8ce4af187d7315d77b942492140e6438d5559bd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

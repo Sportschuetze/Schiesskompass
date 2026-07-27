@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Lauenen b\/Thun Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lauenen b\/Thun FS",
+    "sourceURL" : "www.fslauenenthun.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fslauenenthun.ch"
   },
-  "contentHash" : "sha256-e7b56287250258a20bb055698ac921bd0be544e77e68e3a31922ede1600c154b",
+  "contentHash" : "sha256-cac4336ca0e7769ef9fb63bbafb767d0f17b683229502d657fdad1134277e57b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

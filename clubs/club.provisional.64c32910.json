@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Bern-Gurten Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bern-Gurten Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-49d4891c34ed37764a8b9cc10688473a2ac34de5b63e3d3d34d3026214c25911",
+  "contentHash" : "sha256-78a83a70d1da9bb4d18bfcac5a8a72aa640859fbe3804f5ae9c78735f3c115ec",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "VS",
     "externalId" : "club.vs.lalden-schiessverein",
+    "foundedYear" : 1990,
     "location" : "",
     "name" : "Lalden Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lalden SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-be109ea08b1e5968d2b10dc0112ac8d3a0d511bd3471ce3d15f3becb3f027f23",
+  "contentHash" : "sha256-8aff83b7d098844e33cb69c90b2e9cd37f793e98242dee0ab156d64bf271628b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

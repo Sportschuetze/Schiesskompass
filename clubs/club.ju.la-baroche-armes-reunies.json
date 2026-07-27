@@ -6,27 +6,29 @@
     "canton" : "JU",
     "externalId" : "club.ju.la-baroche-armes-reunies",
     "location" : "",
+    "logoPath" : "logos\/club.ju.la-baroche-armes-reunies.jpg",
     "name" : "La Baroche Armes Réunies",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "La Baroche AR",
+    "sourceURL" : "www.arbaroche.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.arbaroche.ch"
   },
-  "contentHash" : "sha256-c2714de8e55263e0128102bfa686e2fc0353b9d586206bab67ccfa01abed0077",
+  "contentHash" : "sha256-0950a65ad3d86e0a0896ac3c82d2d56189e79ff272d49f2bce7fa694e16e38f9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

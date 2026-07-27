@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Cadi Club da Pistola",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cadi CP",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1ab5f16c166a8f1f78e85604eef9f4026494c2b57e82dc7b27457e2b14964793",
+  "contentHash" : "sha256-116277ea5ca0f7387fd0d99e160fdccbb799c0790a719f590c1798ec25e1f407",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

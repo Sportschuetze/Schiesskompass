@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Bevaix Compagnie des Mousquetaires",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bevaix Compagnie des Mousquetaires",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-93375a65fc5d80fb3af16484355610a25024b552d68abb8db867e47b3f8d8311",
+  "contentHash" : "sha256-1415013eb9ef987037842f6d18fa13241c3fef5fbb9e698a73a26477e1aedf38",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

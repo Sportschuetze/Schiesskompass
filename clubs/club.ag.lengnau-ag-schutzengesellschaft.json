@@ -6,23 +6,25 @@
     "canton" : "AG",
     "externalId" : "club.ag.lengnau-ag-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.ag.lengnau-ag-schutzengesellschaft.jpg",
     "name" : "Lengnau AG Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lengnau AG SG",
+    "sourceURL" : "https:\/\/www.chruezlibach.ch\/index.php?id=2",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.chruezlibach.ch\/index.php?id=2"
   },
-  "contentHash" : "sha256-899c0dcbd08469142fbfa6fa4de2fafee225da0b7e30200e3374fee0dc45fc8e",
+  "contentHash" : "sha256-c8d52c01d5d37dde9fa12e76c13f4155ffc0332acca76eb6ec3dcb7a1efbd4fe",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,7 +60,7 @@
       "title" : "32. Chrüzlibachschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

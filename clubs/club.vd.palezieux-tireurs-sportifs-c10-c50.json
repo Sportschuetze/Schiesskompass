@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Palézieux Tireurs sportifs C10 \/ C50",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Palézieux TS C10 \/ C50",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-677c2e1a404b8c6765522a7eecca6e4609ba61652425fa08cbb67baea656c98f",
+  "contentHash" : "sha256-1e3bd86a3b28981fee2331db2adbc3bd6759c44cdabddd8c01830fb96a4a36d8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

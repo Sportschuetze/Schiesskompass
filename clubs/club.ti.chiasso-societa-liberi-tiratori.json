@@ -5,28 +5,36 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.chiasso-societa-liberi-tiratori",
+    "foundedYear" : 1831,
     "location" : "",
+    "logoPath" : "logos\/club.ti.chiasso-societa-liberi-tiratori.jpg",
     "name" : "Chiasso Società Liberi Tiratori",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chiasso Slt",
+    "sourceURL" : "www.liberitiratori.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.liberitiratori.ch"
   },
-  "contentHash" : "sha256-730b6ee6e4ecd3b2779c0ba9d109fc5ec42706c10f5d86fd06ee9f09b44437b2",
+  "contentHash" : "sha256-7a255e136044168ebe86a041d1fbc6f407b4e37f67a52a47a36fb5b40c232f6d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

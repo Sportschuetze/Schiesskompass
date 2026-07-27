@@ -5,28 +5,32 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.aeschi-so-pistolenklub",
+    "foundedYear" : 1935,
     "location" : "",
     "name" : "Aeschi SO Pistolenklub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aeschi SO PK",
+    "sourceURL" : "www.pk-aeschi.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pk-aeschi.ch"
   },
-  "contentHash" : "sha256-448818eaa524369a556b7f76b6103436de9aab2b5f2dbd6a9469c380e461d900",
+  "contentHash" : "sha256-fa77be07a62b9b34aa9a7aa0557e67794190c3a5077360afb7795e838d2ae828",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

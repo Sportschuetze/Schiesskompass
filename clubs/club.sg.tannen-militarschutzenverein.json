@@ -5,28 +5,30 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.tannen-militarschutzenverein",
+    "foundedYear" : 1911,
     "location" : "",
+    "logoPath" : "logos\/club.sg.tannen-militarschutzenverein.jpg",
     "name" : "Tannen Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Tannen MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6170c32fd62efb8e88bbba765b85c3f8b14251c85ee1ac04713c2fd36c0513dc",
+  "contentHash" : "sha256-b21f156b0518de8156b1658b933361c9f74b4964359d52829d4869be97c4e060",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

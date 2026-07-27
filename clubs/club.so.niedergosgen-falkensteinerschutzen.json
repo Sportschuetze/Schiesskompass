@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Niedergösgen Falkensteinerschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niedergösgen Falkenstein",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5ca59533302991ec1380efd1f535f3c5d7b5b51a499ea5534272a7ea48c0c0f6",
+  "contentHash" : "sha256-b3e1357f5140f62a04883bf56f7313f192a3d9d149b3d28d32c2ff6470d59deb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

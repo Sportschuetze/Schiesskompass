@@ -5,28 +5,32 @@
     ],
     "canton" : "SH",
     "externalId" : "club.sh.ramsen-schutzenverein",
+    "foundedYear" : 1879,
     "location" : "",
+    "logoPath" : "logos\/club.sh.ramsen-schutzenverein.jpg",
     "name" : "Ramsen Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ramsen SV",
+    "sourceURL" : "https:\/\/svramsen.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/svramsen.ch\/"
   },
-  "contentHash" : "sha256-f35a1bf73fed81f20a7d02df4376a0f4d76b34f5f8af54a0dba23544b0399194",
+  "contentHash" : "sha256-41edd22585a6c0822a5ff898d15e3e8e2f7dac6aa112db364dbb4313b9d90aed",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

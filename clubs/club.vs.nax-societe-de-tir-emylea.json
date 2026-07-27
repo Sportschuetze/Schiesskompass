@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Nax Société de tir Emyléa",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Nax ST Emyléa",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ce6933425dd07b4c4799c2c86f34395e5528ff940fcd01e8010ea83a5d85a08e",
+  "contentHash" : "sha256-cbd71a9ac30c2db2c4fd471773a219d4f4367205afabc9481aee0147332998f6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

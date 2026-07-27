@@ -8,21 +8,21 @@
     "location" : "",
     "name" : "Marthalen Militärschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Marthalen MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-eabff9007c1a247a3381060695f65ff02b772f0c0b05608f85d216f275887406",
+  "contentHash" : "sha256-2855793ac78cfb24180feeffe2b80bb88c8aa2cb24a86512ba6696703eae5d43",
   "events" : [
     {
       "championshipTags" : "",
@@ -121,7 +121,7 @@
       "title" : "6. Steinackerschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

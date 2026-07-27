@@ -5,28 +5,32 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.riniken-pistolensektion",
+    "foundedYear" : 1976,
     "location" : "",
     "name" : "Riniken Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Riniken PS",
+    "sourceURL" : "www.ps-riniken.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ps-riniken.ch"
   },
-  "contentHash" : "sha256-029eb6b8b735bc7f3354931600f6d634e51180e3395b70e7473d2e4e47d61b2c",
+  "contentHash" : "sha256-7456a4505d7b21ab6ca0127cc606a9206d1404c0f14c639ff1be78ecb1a680a5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

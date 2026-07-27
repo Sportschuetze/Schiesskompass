@@ -6,27 +6,29 @@
     "canton" : "BL",
     "externalId" : "club.bl.hemmiken-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.bl.hemmiken-schutzengesellschaft.jpg",
     "name" : "Hemmiken Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hemmiken SG",
+    "sourceURL" : "www.sghemmiken.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sghemmiken.ch"
   },
-  "contentHash" : "sha256-fe8e146195b0e5de1dd023538e7aceaa619396c5e28302d8b85e97f83523f338",
+  "contentHash" : "sha256-47a228cf315e5ce5211a545a10191f6bb27170668412f8ab32fe6d4a73d8ddf9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

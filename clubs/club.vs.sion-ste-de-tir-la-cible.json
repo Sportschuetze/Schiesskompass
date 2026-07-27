@@ -5,28 +5,35 @@
     ],
     "canton" : "VS",
     "externalId" : "club.vs.sion-ste-de-tir-la-cible",
+    "foundedYear" : 1599,
     "location" : "",
     "name" : "Sion Sté de tir La Cible",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sion ST La Cible",
+    "sourceURL" : "www.cibledesion.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.cibledesion.ch"
   },
-  "contentHash" : "sha256-e349a33ac9190a2c20352eebffe08dc9ae7fa8b3492bf1b4b326e9a990541adc",
+  "contentHash" : "sha256-0af9e3a670a6e1c291a078e5d05070c3a2a529add053c0fea976412c96c4e410",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

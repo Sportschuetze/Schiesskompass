@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.54471e6f",
+    "foundedYear" : 1869,
     "location" : "",
     "name" : "Boppelsen Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Boppelsen SV",
+    "sourceURL" : "www.svboppelsen.com",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svboppelsen.com"
   },
-  "contentHash" : "sha256-8f5b4c24bb1901b7d26f4435ab78188de0796c5adf0bd074d711adea28ba89da",
+  "contentHash" : "sha256-26d379424d7b850ef54a08fc2c329ac502837bf5689d917c965f73c81e7e0d76",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

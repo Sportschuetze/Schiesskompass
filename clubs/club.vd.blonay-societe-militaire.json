@@ -5,28 +5,29 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.blonay-societe-militaire",
+    "foundedYear" : 1921,
     "location" : "",
     "name" : "Blonay Société militaire",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Blonay Société militaire",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8a0a53b5f2053308ab7a1d9973631733c498fd8c1099aef4b9b0d67f83b5529d",
+  "contentHash" : "sha256-286c64e14c3e723c62f1fc105fe8ba71729eff93959b55756b910dc69be2ca47",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

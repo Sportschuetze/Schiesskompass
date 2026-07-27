@@ -5,28 +5,29 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.altstatten-stadt-schutzenverein",
+    "foundedYear" : 1830,
     "location" : "",
     "name" : "Altstätten-Stadt Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Altstätten-Stadt SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7fd90e8962f087d4e186e15fb87fcdc99cd37c248a83bae72457aa2cf0ee7627",
+  "contentHash" : "sha256-16f0180f3bd40a52277fdf3db99576e4a2053909aa46ff24448c1d098a79ba2c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

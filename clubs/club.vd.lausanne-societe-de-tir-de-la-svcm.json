@@ -6,27 +6,31 @@
     "canton" : "VD",
     "externalId" : "club.vd.lausanne-societe-de-tir-de-la-svcm",
     "location" : "",
+    "logoPath" : "logos\/club.vd.lausanne-societe-de-tir-de-la-svcm.jpg",
     "name" : "Lausanne Société de tir de la SVCM",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lausanne Sdt SVCM",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b799e80fb135a7d915cb49cc1edd2b32a6f6962afb262f4c2c1a322e8a5dce0a",
+  "contentHash" : "sha256-516c67509cd54722591560bd600d14a9b32ffe0a803bfe6068a1f641ee15e3d7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

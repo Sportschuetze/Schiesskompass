@@ -5,28 +5,30 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.8e99e2c0",
+    "foundedYear" : 2004,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.8e99e2c0.jpg",
     "name" : "Neuenkirch-Hellbühl Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Neuenkirch-Hellbühl S",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7452cee9edfebb9fda6f1f850b1fedef50713d142567b80654438c012bf2c012",
+  "contentHash" : "sha256-071fd233525ab172692fcbe542e8f2b9b53e9ebb5746080f42bb9b85152bf8fd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

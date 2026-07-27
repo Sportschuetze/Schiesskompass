@@ -5,28 +5,29 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.schinznach-dorf-schutzengesellschaft",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Schinznach-Dorf Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schinznach-Dorf SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0ad4a1af18f124fdccf33bc77986a4c09a875330c5c076a5b62d7093f05929ee",
+  "contentHash" : "sha256-af0afdd476c600d2007f79b1de27bcdb8cb7453b3b82cf849e9f45d1412d2148",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

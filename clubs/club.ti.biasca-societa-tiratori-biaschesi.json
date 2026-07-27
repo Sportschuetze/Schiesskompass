@@ -5,28 +5,31 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.biasca-societa-tiratori-biaschesi",
+    "foundedYear" : 1919,
     "location" : "",
+    "logoPath" : "logos\/club.ti.biasca-societa-tiratori-biaschesi.jpg",
     "name" : "Biasca Società Tiratori Biaschesi",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Biasca St Biaschesi",
+    "sourceURL" : "www.tiratoribiaschesi.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tiratoribiaschesi.ch"
   },
-  "contentHash" : "sha256-f0874938363d7f8b1498ccc538161642d923fb39c918155212f16c647e4a0508",
+  "contentHash" : "sha256-0e3cd5d5d85664d27980efe7df49a545d970c2b368b6d1e1765c9571243c4171",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

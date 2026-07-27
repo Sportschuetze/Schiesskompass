@@ -5,28 +5,29 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.commugny-societe-de-tir-de-terre-sainte",
+    "foundedYear" : 1921,
     "location" : "",
     "name" : "Commugny Société de tir de Terre-Sainte",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Commugny ST de Terre-Sainte",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d36e3d4bef96857d14a5feeffbac613adbbaaf70197668ff2ec2b3571747899e",
+  "contentHash" : "sha256-2a49e21fddb7b3aea5bddbd69724980201481b26afa8ccba897daf9c630b8710",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

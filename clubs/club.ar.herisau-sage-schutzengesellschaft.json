@@ -5,28 +5,30 @@
     ],
     "canton" : "AR",
     "externalId" : "club.ar.herisau-sage-schutzengesellschaft",
+    "foundedYear" : 1849,
     "location" : "",
     "name" : "Herisau-Säge Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Herisau-Säge SG",
+    "sourceURL" : "www.sgsaege.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgsaege.ch\/"
   },
-  "contentHash" : "sha256-c12b8bdf555929ced5a38ef1ab0177a2010511f6969b771a0926fd22a84c3594",
+  "contentHash" : "sha256-cd2d31709be38da1435901a2fe7f70bbde0ad6067f1ce66f3f50ddde9d95b90b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

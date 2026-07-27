@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Chamblon Société de tir du Mont de Chamblon",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chamblon ST du Mont de Chamblon",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ef4adedae9275d57c363fd1a4f6e87941e2f9c0f8c90cf97bbe4cc66c6f782cb",
+  "contentHash" : "sha256-88d2750b9a41b04f0865bab31216d59fff1b7833fc3f21ef82998851fe7c51ea",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.einsiedeln-schutzengesellschaft",
+    "foundedYear" : 1550,
     "location" : "",
+    "logoPath" : "logos\/club.sz.einsiedeln-schutzengesellschaft.jpg",
     "name" : "Einsiedeln Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Einsiedeln SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-69a2f4b554e6b3b8e71041f5bda7264ddffbd1dfe6f911a1498f91868233ef23",
+  "contentHash" : "sha256-7f01251fe0daf9d7cbee30c5d692432bc7c1843d0b94633bc377516ab57afdfb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

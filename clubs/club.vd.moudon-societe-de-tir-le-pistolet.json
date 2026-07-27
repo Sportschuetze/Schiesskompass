@@ -5,28 +5,31 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.moudon-societe-de-tir-le-pistolet",
+    "foundedYear" : 1886,
     "location" : "",
     "name" : "Moudon Société de tir Le Pistolet",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Moudon ST Le Pistolet",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7e45ee1a97a6f0eb5a68a97b6f0dbe0df0fb10bb1621713045f066e483a5e5a6",
+  "contentHash" : "sha256-727f75ab04480ab4310e8b8cef50907a8fb222c6a58f814afd17ea866aa6a846",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

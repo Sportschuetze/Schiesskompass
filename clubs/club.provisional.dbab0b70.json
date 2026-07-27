@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.dbab0b70",
+    "foundedYear" : 1876,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.dbab0b70.jpg",
     "name" : "Mönchaltorf Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mönchaltorf SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-936645b246d4db14163c7b97a66c453e5e24f4df2ebb9274d16417775d5faf95",
+  "contentHash" : "sha256-c9733cc95a39fd8b9e2b27d63e7266c731a79b9ccabfb346150f85a6276ead9a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

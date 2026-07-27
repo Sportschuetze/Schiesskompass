@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Lanzenhäusern Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lanzenhäusern SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-505da2d8c409088fcdce6837a195831d8286d141d7df28f18dc8372d1d0c2a7a",
+  "contentHash" : "sha256-0862110b953420e0b6cb119ce92a1c1456d0b441e56f649c5f4515d56392b41f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Obermumpf Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Obermumpf SV",
+    "sourceURL" : "www.sv-obermumpf.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sv-obermumpf.ch"
   },
-  "contentHash" : "sha256-09d025533518b5c1e7bd7ce1387cdf0cda65e3bce64b080cde91323c8f9c194c",
+  "contentHash" : "sha256-12d6bdc76a0d94239de0454a5c2e30ca532a008f1e2741a933eddb62d88ddd77",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

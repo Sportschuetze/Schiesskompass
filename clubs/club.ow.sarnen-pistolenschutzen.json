@@ -5,28 +5,31 @@
     ],
     "canton" : "OW",
     "externalId" : "club.ow.sarnen-pistolenschutzen",
+    "foundedYear" : 1961,
     "location" : "",
     "name" : "Sarnen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sarnen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-aeae8464b363b9affcd9d8f164620f47efc8e068433f95a4246499e6d413ebe3",
+  "contentHash" : "sha256-118d587e7e2466bc02c7869dc6f7cc02a2ee1ccd4dc0c5a3c26b58c000c352ab",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

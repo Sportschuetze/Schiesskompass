@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Bulle Société des Carabiniers",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bulle Sté des Carabiniers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-72f8ca8c3576018f0b1fbcc29f38a4e0552b6150e36cf50d6f7e189bd05400f7",
+  "contentHash" : "sha256-d2f31983a35322e00476235ba6457eb2f7c96af387c901fdbf599e84c390205f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

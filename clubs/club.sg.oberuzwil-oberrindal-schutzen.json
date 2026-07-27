@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Oberuzwil-Oberrindal Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberuzwil-Oberrindal Schützen",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0d3d2551e95c87af20b14b171ae3cf3f0a6715073db621d5aafcbc45a209c478",
+  "contentHash" : "sha256-38b5624e393b9f897fdc801b7a1184141025bca2cd1a842da01887adfa6126ed",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

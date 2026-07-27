@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Marin Sté de tir PC Les Fusiliers",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Marin ST PC Les Fusiliers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fbc0678c85dd7604e51f3f1afeb8467d9744dd878981b56700d26c36159846d4",
+  "contentHash" : "sha256-2a67f79500f108bc9450996ce88415b65dffb5a504320fbc194b93a822e301c7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

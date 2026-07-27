@@ -6,27 +6,31 @@
     "canton" : "SG",
     "externalId" : "club.sg.st-margrethen-schutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.sg.st-margrethen-schutzenverein.jpg",
     "name" : "St. Margrethen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St. Margrethen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-939c0fb91eae1fcfbb32f11fde9702356fb9f3c4a5a0116a51005bb9c9123670",
+  "contentHash" : "sha256-a950eba5c45e2e0b3db6735b5c33fef25982dfb50a81a05c0ecbd5137012d3db",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Le Bémont-Saignelégier Société de tir sportif",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Le Bémont-Saignelégier STS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7761925ef58912715be631fd85fdc0f3f4a9e9e8008d64a6dd57cf0e30aa75cb",
+  "contentHash" : "sha256-09de33ab2a0c1f89cfaaf55b949410bdb670e97dcf1bd6ec700f60a201a5d8c1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

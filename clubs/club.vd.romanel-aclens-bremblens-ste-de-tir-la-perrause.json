@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Romanel-Aclens-Bremblens Sté de tir La Perrause",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "La Perrause ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5b75de619616710c98f98fe37320c93bc2db57868751e11516a17e1000ad08d9",
+  "contentHash" : "sha256-7042ed4b328748069f43d3d0b1bad6a526e7ff9e5a294f76483201e14ac2ca34",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

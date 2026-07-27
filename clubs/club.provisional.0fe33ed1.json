@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Gampelen Sportschützen",
     "offeredDisciplines" : [
-
+      "G10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gampelen Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e857edbbfd34425f6dc549cfdff61b44ac07655e28516c125d98715b48880296",
+  "contentHash" : "sha256-c43d80a12a82d004cac183c7cda8d1c854fdd8075d4f6e91778589cafe18cc79",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

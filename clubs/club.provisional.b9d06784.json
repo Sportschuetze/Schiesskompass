@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Gerzensee Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gerzensee FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-944fcd23a1ff4a692c6993969e2051ed0d921ce12acb4d39e35f1ff94543b4db",
+  "contentHash" : "sha256-0ed09b01cbf427f90112df2a71a25c649fa15b7ab423713ee5364ff4a2e959b4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,31 @@
     "canton" : "VS",
     "externalId" : "club.vs.stalden-vs-schutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.vs.stalden-vs-schutzenverein.jpg",
     "name" : "Stalden VS Schützenverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Stalden VS SV",
+    "sourceURL" : "www.pistol-team.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pistol-team.ch"
   },
-  "contentHash" : "sha256-d7b2414cf4f877f2a4dc5a6a86c27266368ba7444e32116236cbb24aac4d12eb",
+  "contentHash" : "sha256-6ae620de39c495759bf5276151f1a24dcb0482f6a9d93d693f4529702363b1af",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

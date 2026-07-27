@@ -5,28 +5,34 @@
     ],
     "canton" : "BS",
     "externalId" : "club.bs.basel-feldschutzenverein",
+    "foundedYear" : 1868,
     "location" : "",
+    "logoPath" : "logos\/club.bs.basel-feldschutzenverein.jpg",
     "name" : "Basel Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Basel FSV",
+    "sourceURL" : "www.fsv-basel.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsv-basel.ch"
   },
-  "contentHash" : "sha256-57fd804b581cde057600d80b150ad5c686a2afe9c4483679144b3dcf34577dcc",
+  "contentHash" : "sha256-a1661ab0cd18460c188d865e17a9575f83ecd38743dbbef7527738fcd9035ae3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

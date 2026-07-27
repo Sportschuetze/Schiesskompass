@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Koppigen-Willadingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Koppigen-Willadingen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5fede50eb7e9eeda258ca0b3a329b2c6783cb976be9a5f996c58e34455191f4a",
+  "contentHash" : "sha256-b02a7c35e3aebe0d13912d6844c708c95d8bcc61f0fb8c625edce05a8cbabf00",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

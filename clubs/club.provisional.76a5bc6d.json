@@ -5,28 +5,32 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.76a5bc6d",
+    "foundedYear" : 1959,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.76a5bc6d.jpg",
     "name" : "Grindelwald Kleinkaliberschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Grindelwald KKS",
+    "sourceURL" : "www.kksgrindelwald.clubdesk.com",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.kksgrindelwald.clubdesk.com"
   },
-  "contentHash" : "sha256-aec0aac29e7dfed70636b5b82fd55de71532ccc453ff886c68cdc4fb77234e8a",
+  "contentHash" : "sha256-7645eebfd37acccaa58472e7315a047d693f05bed9bdeb2f95864f5f977290e3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

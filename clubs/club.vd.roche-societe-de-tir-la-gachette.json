@@ -6,27 +6,28 @@
     "canton" : "VD",
     "externalId" : "club.vd.roche-societe-de-tir-la-gachette",
     "location" : "",
+    "logoPath" : "logos\/club.vd.roche-societe-de-tir-la-gachette.jpg",
     "name" : "Roche Société de tir La Gâchette",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Roche ST La Gâchette",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8f316ffb8f8d985b1ef88b39c2162ba19268edb293c7b375ae2817af425489da",
+  "contentHash" : "sha256-2d5829bd5f7605605766e2e90155e56902306f4bc9ce214f42f4b597a1885b23",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

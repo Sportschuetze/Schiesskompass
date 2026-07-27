@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Meggen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Meggen PSV",
+    "sourceURL" : "www.ps-meggen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ps-meggen.ch"
   },
-  "contentHash" : "sha256-fecf7af612f859f5dcaf266e7b06e911a0335ed3dae1a2c07c6d62100f51d850",
+  "contentHash" : "sha256-1d33326ad25dbe4e3d5eda7512cf3f31a9f14c795596bf1accdd462545068906",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

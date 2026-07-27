@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Lüen-Castiel-Calfreisen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lüen-Castiel-Calfreisen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f19746cc33eea2e720c57fe39a169c44f56a59dad0b230cbded60d0dd99a901d",
+  "contentHash" : "sha256-e2a815f58eacf8db2c1e291fa2570f1054fcd82e09318ba4c3a6ae99b6d1cfa9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

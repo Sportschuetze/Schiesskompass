@@ -5,28 +5,30 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.le-bry-societe-de-tir-l-arbalete",
+    "foundedYear" : 1954,
     "location" : "",
+    "logoPath" : "logos\/club.fr.le-bry-societe-de-tir-l-arbalete.jpg",
     "name" : "Le Bry Société de tir L'Arbalète",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Le Bry ST L'Arbalète",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8484143fc4d6d054c3b12f9078b06e00623a08bcb1ade0515abddf96104c86be",
+  "contentHash" : "sha256-23ec29e202f81176f9ba840e0719f650fa8c1fafc6d006f922c344560c8a0adc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

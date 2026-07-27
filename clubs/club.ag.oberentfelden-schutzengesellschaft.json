@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Oberentfelden Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberentfelden SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-db4a26d0579f74bbf6c37840eca778c82ba9340a6d770df4192eb09ba150ac1e",
+  "contentHash" : "sha256-e78421bcece38bd4549a44d735f6f2257d7da1753b4791612fbb97ba9e637c4a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

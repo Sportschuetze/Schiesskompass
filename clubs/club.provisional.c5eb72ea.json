@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Rüti b\/Riggisberg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rüti b\/Riggisberg SG",
+    "sourceURL" : "www.sg-rueti.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-rueti.ch"
   },
-  "contentHash" : "sha256-9694202ab634c9739177275ec1db512e013ce5e6c45c1dacf111c973c104eb6b",
+  "contentHash" : "sha256-d8494a1eabae07fec69ee70b4f82b0dcea2b9dfb18ae2adcc9e3a6889d00dbcc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

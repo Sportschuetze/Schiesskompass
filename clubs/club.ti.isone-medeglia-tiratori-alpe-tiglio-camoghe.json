@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Isone-Medeglia Tiratori Alpe Tiglio-Camoghé",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Isone-Medeglia Tiratori Alpe Tiglio-Camoghé",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5df17c59c1a50499bac63c59fa31068c2620dcf3fa1e840483c58a7c59db0316",
+  "contentHash" : "sha256-d3c4fd6475b73e5039c12fe19a1965871f129f2b1695b9c00482801ae6eb4469",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

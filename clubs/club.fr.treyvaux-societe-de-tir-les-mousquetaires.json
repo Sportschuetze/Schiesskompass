@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Treyvaux Société de tir Les Mousquetaires",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Treyvaux ST Les Mousquetaires",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a601800ec4f71fd32fced1012fda159c16f50a98f2b430949c2b330625fece01",
+  "contentHash" : "sha256-b76f953fc774f72d379ffd87ff4e08a5589f66238d1db499fa8858dd03e6c895",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

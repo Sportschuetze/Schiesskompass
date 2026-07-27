@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.2222690f",
+    "foundedYear" : 1869,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.2222690f.jpg",
     "name" : "Winterthur Arbeiterschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Winterthur ASV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-74fe0cdf1188055b5733eb44c1a3d9e67f4b6b574913b16db8903749348bd2ca",
+  "contentHash" : "sha256-9925b3713321b06d3bfc4f26952451e3af74bdfbc7725f8e07d748b236aa2bbb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

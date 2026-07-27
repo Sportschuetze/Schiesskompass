@@ -8,25 +8,30 @@
     "location" : "",
     "name" : "Martigny-Région Tireurs sportifs",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Martigny-Région TS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-084fb6be0784907bca5f72d66b9f79d527fc3f7e76821642ffafc7d22861ac1a",
+  "contentHash" : "sha256-b0d6bcfea1c269c04ef1f81550ef6b3806e5191486734662303a7363c2787fba",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.munchenstein-arbeiterschiessverein",
+    "foundedYear" : 1945,
     "location" : "",
     "name" : "Münchenstein Arbeiterschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Münchenstein ASV",
+    "sourceURL" : "www.asv-muenchenstein.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.asv-muenchenstein.ch"
   },
-  "contentHash" : "sha256-c53fe12697ebba6411017b91112c11dc0c8aa5f0761f0cad426a11257cbb3e12",
+  "contentHash" : "sha256-d21cca1eec4a7dfe2c238bedfe5cb0d25fcee6eee4d1c1f4a5a458916c8c8cb9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

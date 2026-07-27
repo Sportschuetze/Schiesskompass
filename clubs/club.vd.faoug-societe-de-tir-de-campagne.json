@@ -5,28 +5,29 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.faoug-societe-de-tir-de-campagne",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Faoug Société de tir de campagne",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Faoug ST Campagne",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-71b31a3bef0ffb36c8d90a2871faf997b4d4b7e988cd00b4b94f05648c299cfa",
+  "contentHash" : "sha256-033def49f030e25eece387e8a9b2c48b6289ac94d5330c5571ebf972f39a3881",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Champagne Sté de Tir Sportif du Maillu",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Champagne ST Sportif du Maillu",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-870b7037a80853bf71e33adc57d26d724ee5119698bf3bd67af770ae57ab90c9",
+  "contentHash" : "sha256-7126ad5461ad4cc32c00ac90ecb548374e91ef7eb0c3d9f173fb00153aca57da",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

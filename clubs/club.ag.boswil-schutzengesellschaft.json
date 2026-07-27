@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Boswil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Boswil SG",
+    "sourceURL" : "www.sgboswil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgboswil.ch"
   },
-  "contentHash" : "sha256-c42cf724fe49b1ec15de7400a25a083424c76faf0d55f41b09f18a77578bb7b7",
+  "contentHash" : "sha256-28aa371f33e2ed6f03ee62f8a433daab5870972f4215d8da41792184647c972d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

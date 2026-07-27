@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.ecbe0729",
+    "foundedYear" : 1946,
     "location" : "",
     "name" : "Thunersee-Region Luftgewehrschützen",
     "offeredDisciplines" : [
-
+      "G10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thunersee-Region LG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e20b7bab65897fd745e6293162e84e65318ce9a1776440c4f8d50c47e4cb6c82",
+  "contentHash" : "sha256-4cf3816a14a046d063ca1af9ebac5e1087e91bd0d69e20d8d46319d459e9d8d3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

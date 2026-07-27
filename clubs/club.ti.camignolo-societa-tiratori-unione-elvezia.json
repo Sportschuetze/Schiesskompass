@@ -5,28 +5,29 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.camignolo-societa-tiratori-unione-elvezia",
+    "foundedYear" : 1909,
     "location" : "",
     "name" : "Camignolo Società Tiratori Unione Elvezia",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Camignolo St Unione Elvezia",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-55dd4a4db53870f01d080ca2eeb75713c1b92bfffe84086ca5d850e5cd092020",
+  "contentHash" : "sha256-dd35084a113611f6c1e483d6ebf00bccd860ebe0e545c8b0ba8a68ba99fcba0a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

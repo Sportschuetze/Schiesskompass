@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Lauwil Freischützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lauwil",
+    "sourceURL" : "www.fs-lauwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fs-lauwil.ch"
   },
-  "contentHash" : "sha256-4e74b152bc805324d63fdc7380a5c6266cb7ed2bafcf4b19b131c87db8e547db",
+  "contentHash" : "sha256-a9981eeab6d00f000d7523bbc96e600ebc848f8f8dc20114627fa0c01d4d7dfa",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Le Mont-sur-Lausanne Sté de tir du Châtaignier",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Le Mont-sur-Lausanne ST du Châtaignier",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-256db6dc7796e21562567fdc7cce7603c897cf7ae2c4401e61e49eb0845297f2",
+  "contentHash" : "sha256-914f81f9ba055f752372053049618e1847b633e03d69d14d94cdc1885e63293a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

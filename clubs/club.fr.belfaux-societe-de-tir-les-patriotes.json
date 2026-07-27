@@ -5,28 +5,29 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.belfaux-societe-de-tir-les-patriotes",
+    "foundedYear" : 1895,
     "location" : "",
     "name" : "Belfaux Société de tir Les Patriotes",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Belfaux ST Les Patriotes",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b50defa074dc1c88d2c2ae92ed24f2bed5634ab198685d0c4e6e998188264efb",
+  "contentHash" : "sha256-f2ef27f787f94522806fe960dc9e15c37ef777e24a4318f146dab6a73c7301b7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

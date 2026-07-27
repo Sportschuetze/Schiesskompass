@@ -5,28 +5,32 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.d5e471c9",
+    "foundedYear" : 2011,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.d5e471c9.jpg",
     "name" : "Schüpfheim - Flühli Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schüpfheim - Flühli PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-440291ab478c0854f54c01e2aacc8e04c6bcc511fe6560a6e1c115832d535af0",
+  "contentHash" : "sha256-f87722efa67576f6352746cc2d53d660080284c3449d05707be6e4b7fff4dd88",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

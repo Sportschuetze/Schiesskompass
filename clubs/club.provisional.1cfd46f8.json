@@ -6,27 +6,31 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.1cfd46f8",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.1cfd46f8.jpg",
     "name" : "Zürich-Hönggerberg Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zürich-Hönggerberg SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c0563441efe0ddf0472f8b41fdf87fe8b2286701cb108695c3d73a237919cb40",
+  "contentHash" : "sha256-1b76c7d5bad21c2c0ecc6d4e2f621b0877727d88910b904348833a980a34c897",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

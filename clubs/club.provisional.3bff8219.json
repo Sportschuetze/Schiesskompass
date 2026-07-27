@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Diessbach bei Büren Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Diessbach bei Büren SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-223a0dd9b8b071fb4bd215658647756dad31b7fa95cf91639f5da110ba727740",
+  "contentHash" : "sha256-b336038b6f465ac64c3f8f30f9966053b2af6cf9515a73e7fb19e0f77b0e205d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

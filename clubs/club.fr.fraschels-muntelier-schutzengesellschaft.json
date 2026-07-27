@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Fräschels-Muntelier Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fräschels-Muntelier SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-05dc565a2792369a00375a9008b3e3b56ad260f581381c4745e9956eeae2f736",
+  "contentHash" : "sha256-e118e0aa1db8dd04b6b5ab1530899e900c788fc1d5eaeae52dba151a9343b9fe",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

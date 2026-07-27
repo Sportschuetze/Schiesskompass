@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Châtel-St-Denis Société des Carabiniers",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Châtel-St-Denis SdT des Carabiniers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1b738dfef87c3b6dabc25c2bb47be552167245b96b3c7d65bcc96a566fe65332",
+  "contentHash" : "sha256-517d0be899101b5b462b621396dff9c96bf01564f3be47e166c7a01c300b8768",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

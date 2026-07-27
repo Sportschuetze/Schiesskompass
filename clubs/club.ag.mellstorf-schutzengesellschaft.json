@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Mellstorf Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mellstorf SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a61eff2d03ad1e47cdafc24984166d56d0d90aec942a303cdb87cab2ff50227a",
+  "contentHash" : "sha256-8f6fbbb9ec3c0c52e3d401c4a6936f2b91a6eddf05d505fd166779d5546a89c2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

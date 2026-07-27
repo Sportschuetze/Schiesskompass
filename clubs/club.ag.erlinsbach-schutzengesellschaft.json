@@ -5,28 +5,31 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.erlinsbach-schutzengesellschaft",
+    "foundedYear" : 1855,
     "location" : "",
+    "logoPath" : "logos\/club.ag.erlinsbach-schutzengesellschaft.jpg",
     "name" : "Erlinsbach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Erlinsbach SG",
+    "sourceURL" : "www.sg-erlinsbach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-erlinsbach.ch"
   },
-  "contentHash" : "sha256-18e2d5d19b84b6f3931b60575ba42ec6afd67af555d7e9389cd7cf18daa48ccf",
+  "contentHash" : "sha256-c4aa7d831e1800496e8c760479c8e00766097c9287714f6eaf1e0f3f13c9e3a6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

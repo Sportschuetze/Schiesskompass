@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Rüschegg-Gambach Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gambach PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-96b48d1700a5c09c9cb8db2a1d1d5584f1df620bae7e7aad9694bcb577be23b9",
+  "contentHash" : "sha256-548f2d183bf7c3b8b5a007ed8071a0e62df4d98fbfd2547c8fdf4d093b0ebce0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,28 @@
     "canton" : "AG",
     "externalId" : "club.ag.klingnau-pontonierschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.ag.klingnau-pontonierschutzen.jpg",
     "name" : "Klingnau Pontonierschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Klingnau PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c8cf8b92136813c7a1af059bc5621c345c947263199f039fb07d321b00109d42",
+  "contentHash" : "sha256-7d16e14f58ac8b084102d53b9dc11ba585027e8bb2e3e90655a28c9108993b90",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

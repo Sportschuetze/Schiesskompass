@@ -5,28 +5,29 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.vial-sumvitg-societad-da-tir",
+    "foundedYear" : 1977,
     "location" : "",
     "name" : "Vial Sumvitg Societad da tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vial Sumvitg ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4140fd8298466b34019fab1cde9196311227275d015b808de45e99eb240783ef",
+  "contentHash" : "sha256-1b79601c129dc7ec8977a887e6d7dcd06f20e446dbbd2b0796d3de7d50725547",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,31 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.prato-sornico-societa-tiratori-della-lavizzara",
+    "foundedYear" : 1877,
     "location" : "",
     "name" : "Prato-Sornico Società Tiratori della Lavizzara",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Prato-Sornico St della Lavizzara",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c35f2d38601ea09bd81b0a8e0571dabc95e4e8b84e0c41244d7f8f7609f45850",
+  "contentHash" : "sha256-946177c9b9f6b3dab23a1dde0e0baa9ba97b1a7a3a25fc48f748a9a3d23c7cae",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

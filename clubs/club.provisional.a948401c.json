@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.a948401c",
+    "foundedYear" : 1974,
     "location" : "",
     "name" : "Zollikofen 10-Meter-Schützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zollikofen 10m",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4fa3d0f240ff5f8564116cb0740fe76a6c8bbd1b5371254ea6439016ccc0ebbc",
+  "contentHash" : "sha256-0169f8371078c4fa2e39d39e75233f6ddd50407141cc13b6fe394f8825c4d5ae",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

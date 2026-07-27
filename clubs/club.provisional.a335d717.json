@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Sutz-Lattrigen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sutz-Lattrigen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9f5500ebe73e9654c5ad4d2533e8d88782caf25bb59dadd54dbc31835b23cf7c",
+  "contentHash" : "sha256-505b9a4e88995f039bca51b04d5ebfd7b24e842f87e672b1988cd0452874af80",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

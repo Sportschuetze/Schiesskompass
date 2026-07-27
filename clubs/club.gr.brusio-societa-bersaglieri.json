@@ -5,28 +5,29 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.brusio-societa-bersaglieri",
+    "foundedYear" : 1938,
     "location" : "",
     "name" : "Brusio Società Bersaglieri",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Brusio Società Bersaglieri",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-428197af214ccd95eaa2f0bba46928fa3fb045a6dba426ad83b3b8d7334ed58c",
+  "contentHash" : "sha256-25ff9539e8a212cef4a60f1fc4ce22145baaf06c91d6a1a1f17ebdd0ba84ed28",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

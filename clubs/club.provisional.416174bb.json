@@ -5,28 +5,33 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.416174bb",
+    "foundedYear" : 1876,
     "location" : "",
     "name" : "Oberengstringen Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberengstringen FSV",
+    "sourceURL" : "www.fsoe.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsoe.ch"
   },
-  "contentHash" : "sha256-def3232672c3801fbdc8fab85558850d1a1e54552247fa76aeeac30f9a766940",
+  "contentHash" : "sha256-233a2ca971922c5ba04ac1b01922b5c02c4ec19fafec109781001ad87b156b98",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

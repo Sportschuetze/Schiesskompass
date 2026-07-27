@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Konolfingen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Konolfingen PS",
+    "sourceURL" : "www.pskono.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pskono.ch"
   },
-  "contentHash" : "sha256-15a0c24fac6df155a49f9b4060f3a168782aa601fdf81d97d785600ed2d048b5",
+  "contentHash" : "sha256-9a132d45e69e5ddc22fdcddd99b73910ebcdcef0bb31eac413838b2fa29e0139",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,28 @@
     "canton" : "AG",
     "externalId" : "club.ag.bobikon-feldschutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.ag.bobikon-feldschutzengesellschaft.jpg",
     "name" : "Böbikon Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Böbikon FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-588f1197c39c9a817948c6f68e5f177473854f6a9174d87be461bf66e73a3594",
+  "contentHash" : "sha256-49d401c875673fb0b186e22cf21452429b50a28397d5f69d68907457d54764c5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

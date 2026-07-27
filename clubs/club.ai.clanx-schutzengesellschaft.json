@@ -5,28 +5,30 @@
     ],
     "canton" : "AI",
     "externalId" : "club.ai.clanx-schutzengesellschaft",
+    "foundedYear" : 1901,
     "location" : "",
+    "logoPath" : "logos\/club.ai.clanx-schutzengesellschaft.jpg",
     "name" : "Clanx Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Clanx SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d67af0b6972c4a85e956c112a75e4045e9d1d8e9d8dfdaad1b6781a04c2034a1",
+  "contentHash" : "sha256-0dead0d25524cde7a3870d3b6b6fc5785f73184e5c8f368962e65f364a4d5d62",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

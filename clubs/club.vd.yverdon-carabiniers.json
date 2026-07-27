@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Yverdon Carabiniers",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Yverdon Carabiniers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d41fb72a98b022c8464aad93535ba964e5e97edff821aee3292d3d1de8548084",
+  "contentHash" : "sha256-d951303b6ef374f20d25c9ac4ed2fc5b90efc6e50696dc4fe5ab2a41d1563ef6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

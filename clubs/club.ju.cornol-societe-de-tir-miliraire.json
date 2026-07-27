@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Cornol Société de tir miliraire",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cornol ST miliraire",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e059f4a99438614b7cdcbb6d84c4c8f94f2aa612929210e5429c2ac474364607",
+  "contentHash" : "sha256-113d6c81e312f3cdd19dbfa430bfebdf54e6b5ff64fb4475f598021b7e0826ae",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

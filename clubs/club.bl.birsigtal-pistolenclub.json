@@ -5,28 +5,32 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.birsigtal-pistolenclub",
+    "foundedYear" : 1920,
     "location" : "",
     "name" : "Birsigtal Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Birsigtal PC",
+    "sourceURL" : "www.pc-birsigtal.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pc-birsigtal.ch"
   },
-  "contentHash" : "sha256-98f4426f635fd747c937ed5f644df1fffb202cc41e017dd251185181d1188fd9",
+  "contentHash" : "sha256-87b462d81d88ea76e1e5d4ae41bcde6b67442e767e8f812264ed71525766df28",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

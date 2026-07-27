@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Lausanne Région école Pistolet",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lausanne Région éP",
+    "sourceURL" : "www.ecole-pistolet-lausanne.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ecole-pistolet-lausanne.ch"
   },
-  "contentHash" : "sha256-12d74dcdfbc8ccf463b76fcb6aceef023e599a931d71650402f66acaf3be5543",
+  "contentHash" : "sha256-eb6150045ad275e6c04e2d2507783d6355fca50a2797a9f9a31f93db4e51a51c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

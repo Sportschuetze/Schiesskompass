@@ -5,28 +5,31 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.basel-schutzenverein-grenzwache",
+    "foundedYear" : 2019,
     "location" : "",
     "name" : "Basel Schützenverein Grenzwache",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Basel SVG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-790f2361fa3b7103d89388d3a1f6ad2578d2760e82471640f8f5cb3e1f09a46e",
+  "contentHash" : "sha256-2c9fd66541e8a4c03406e8391adc04076e25c14c68ed104a30b77f2f0a6fdf7c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

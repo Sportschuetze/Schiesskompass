@@ -5,28 +5,30 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.maroggia-societa-liberi-tiratori-del-ceresio",
+    "foundedYear" : 1872,
     "location" : "",
     "name" : "Maroggia Società Liberi Tiratori del Ceresio",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Maroggia Slt del Ceresio",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1e7d5693adb2d3a093fdd42147fb6f5279db386e7c593351df4c30df52e215e9",
+  "contentHash" : "sha256-9e8d816bf5ffa8303089f1e86d79d439fcc3d45db742c7a227b538582498a21a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

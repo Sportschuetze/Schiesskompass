@@ -6,27 +6,28 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.a54d4e8c",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.a54d4e8c.jpg",
     "name" : "Rafz Schützen Rafzerfeld",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rafz SR",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7f643665ee1562af0b650093f0c29e3e1db02d2c470e54ec5597526c9728e717",
+  "contentHash" : "sha256-c33fc3412aca702a9ba26f33dedabe0871361df232ec959bb9c2d6555ddbb019",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Le Pâquier NE Société de tir Les Patriotes",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Le Pâquier NE ST Les Patriotes",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5b5b4ab64e6713e4d6a73a071c51a5a08874f16cbea0d180ade71aae6a78977f",
+  "contentHash" : "sha256-7ed08b584d4211d3e097415751469eb0a018f865b7cba21c550cd32ad1141395",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

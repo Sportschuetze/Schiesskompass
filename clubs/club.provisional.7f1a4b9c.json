@@ -5,28 +5,32 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.7f1a4b9c",
+    "foundedYear" : 1923,
     "location" : "",
     "name" : "Rorbas-Embrach Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rorbas-Embrach PS",
+    "sourceURL" : "www.psrorbas.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.psrorbas.ch"
   },
-  "contentHash" : "sha256-fff1e9aab2d36b9b8985c3fc5a8be25a05c79f4856d1d8ecf31ac85e87a76267",
+  "contentHash" : "sha256-acabb58e6dc8ce02074d5bcd0a22f334399736420947e287813ebea7c726fa3a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Fahrni bei Thun Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fahrni bei Thun FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d486173f50d03fdb7d4ff0628e41296b6543206163247b67050a5086ac24495e",
+  "contentHash" : "sha256-5dcd62d47a85b51890324041b89987052680644c9d3d1ddf15aff29377401e4f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

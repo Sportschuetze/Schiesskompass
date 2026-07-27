@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Rheinfelden Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rheinfelden SV",
+    "sourceURL" : "www.sv-rheinfelden.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sv-rheinfelden.ch"
   },
-  "contentHash" : "sha256-a61e5392416b360fb0a67359a82e8e34284971c1b03717951b54f9700f3066b4",
+  "contentHash" : "sha256-2a35de434ab1776139039991d5ca67ccf1417e03ac2f00a8d79721987e642064",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

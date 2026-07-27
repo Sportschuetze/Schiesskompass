@@ -5,28 +5,29 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.ruschein-societad-da-tir-vorab",
+    "foundedYear" : 1919,
     "location" : "",
     "name" : "Ruschein Societad da tir Vorab",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ruschein ST Vorab",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-88f99837b4afe1c80300b4c288f5712e3b5314d535706c0fb100683ac3f1f9b2",
+  "contentHash" : "sha256-255d596fc5bb9f6a51eea982ea4d5549faa254cf72c88e287794cdf59ce59542",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

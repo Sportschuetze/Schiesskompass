@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Aeschi SO Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aeschi SO Sport",
+    "sourceURL" : "www.sportschuetzen-aeschi.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sportschuetzen-aeschi.ch"
   },
-  "contentHash" : "sha256-ceb8633ad8dbadbe05bb858cfb33322f3b9165570ee488b4e5de97efb0ee8e70",
+  "contentHash" : "sha256-0f0965933d6fb9e558e1aa7d03453dbb4c40bced2b13b24113251fc5e7b1471d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

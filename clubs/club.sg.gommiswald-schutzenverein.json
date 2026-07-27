@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Gommiswald Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gommiswald SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-eb087e8c7b953ba76b84cbbc5163e64f2646d57965aa19200e6151b319246e03",
+  "contentHash" : "sha256-ac143e2a645e65e8e7011ffdf9a2f9a5c2e38faaff7c83befd9572bcc7e81fbb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

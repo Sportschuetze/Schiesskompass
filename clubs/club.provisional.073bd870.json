@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Gysenstein Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gysenstein FS",
+    "sourceURL" : "www.fs-gysenstein.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fs-gysenstein.ch"
   },
-  "contentHash" : "sha256-6bae37e2bdb915c62fd9db299e7133fbafbd2ec0e7d36e1b1d747170973839c7",
+  "contentHash" : "sha256-999915d3928ad7938e2e7b91a4daf4c154a188b29096cf5c83eb3fa2a2a86cea",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

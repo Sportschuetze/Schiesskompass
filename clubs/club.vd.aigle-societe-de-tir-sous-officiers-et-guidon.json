@@ -8,25 +8,30 @@
     "location" : "",
     "name" : "Aigle Société de tir Sous-Officiers et Guidon",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aigle ST Sous-Officiers et Guidon",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2320a6f6034a9c3bd6d97f0b54b58f59f8533bd936f10afe80ceb14526a7f659",
+  "contentHash" : "sha256-9d71906573be8dd93102b1a9d3b08540a35169e2dbc2d5f716e637c06a3441c4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

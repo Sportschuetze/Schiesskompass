@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Obbürgen Feldschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Obbürgen FSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c551a9079669522084f0c6b6ff4375944b3a8bd42530459ab8a8e18732032b09",
+  "contentHash" : "sha256-100c09c2ce6a481a13e7d3435fd2925c512b9ed5e8e8b16b77111b1ce5644bb0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

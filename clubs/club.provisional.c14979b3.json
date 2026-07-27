@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Sonvilier Société de tir au pistolet",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sonvilier STP",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3301a4e9c2a01659fdc2df85127d99a5de9def0d6a86f3ad430dd256903d8703",
+  "contentHash" : "sha256-9a6a68ded3ce0d3c0d61a776c7258e09deeeff6f4893c4bc90efeffd58241745",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

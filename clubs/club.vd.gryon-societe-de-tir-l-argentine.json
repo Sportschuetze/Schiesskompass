@@ -6,27 +6,28 @@
     "canton" : "VD",
     "externalId" : "club.vd.gryon-societe-de-tir-l-argentine",
     "location" : "",
+    "logoPath" : "logos\/club.vd.gryon-societe-de-tir-l-argentine.jpg",
     "name" : "Gryon Société de tir L'Argentine",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gryon ST L'Argentine",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2d7eb1ac610fabb81e47a2cb195f92812e5267beb45b709a01fea69ff33d2383",
+  "contentHash" : "sha256-c225f3d8258bc3c87a41d3788465ae3ae4bf3c40c150298ef17fb33cee42bb70",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Schallenberg Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schallenberg Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9d76a53a248ed28db63522e50100aebc3a75ce36288ccc4a8f701f274be9e729",
+  "contentHash" : "sha256-c6aaf3bb39e58f9b7b6010178627b68bba2ebfe58f48b1e6d30785ceb606d2b7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

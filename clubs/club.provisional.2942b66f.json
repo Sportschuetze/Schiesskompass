@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Seedorf-Lobsigen Löhrschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Seedorf-Lobsigen LS",
+    "sourceURL" : "www.loehrschuetzen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.loehrschuetzen.ch"
   },
-  "contentHash" : "sha256-c5f1c3a877fc89d46df1b55a0ac3853a571fe684c3a98f660199414c87fe387a",
+  "contentHash" : "sha256-e1ddb589360c1c5b6e1da55f39f26e795fa5c66a19f9561f2652b00c3e243c47",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

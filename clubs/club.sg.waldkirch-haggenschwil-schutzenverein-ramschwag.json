@@ -5,24 +5,26 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.waldkirch-haggenschwil-schutzenverein-ramschwag",
+    "foundedYear" : 1875,
     "location" : "",
+    "logoPath" : "logos\/club.sg.waldkirch-haggenschwil-schutzenverein-ramschwag.jpg",
     "name" : "Waldkirch-Häggenschwil Schützenverein Ramschwag",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Waldkirch-Häggenschwil SV Ramschwag",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-176ce6fd446e4126883d7f2fc775445af9dba106dba1d0b46ff307f545da3bd3",
+  "contentHash" : "sha256-be5905e50717020ac83fb88607ae9ca084e8c534565aaffa3ead0b35b6a7ff67",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +75,7 @@
       "title" : "Ramschwagschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Riedholz-Feldbrunnen Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Riedholz-Feldbrunnen Sport",
+    "sourceURL" : "www.sps-riedholz-feldbrunnen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sps-riedholz-feldbrunnen.ch"
   },
-  "contentHash" : "sha256-0ae911087611c065c0532babde26b1870cd760e513d6b7a2bb854af784c7ab0d",
+  "contentHash" : "sha256-41eab9a0d75809b4690fcc7169d28e98178573f208cfbd3870501cbb345b8552",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

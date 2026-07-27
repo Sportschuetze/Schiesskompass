@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Russikon-Wildberg-Wila Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Russikon-Wildberg-Wila SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8a6c23a8970b963a41a9466fdae4b13b8973e93f757a60667a119edef42daedf",
+  "contentHash" : "sha256-72c05e713585e54b8f36cc6db1f496c1305d0ee5059bd72c31abf6dbab303f9d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

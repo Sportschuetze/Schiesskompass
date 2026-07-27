@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Weissenstein Sportschützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Weissenstein Sport",
+    "sourceURL" : "www.spsw.clubdesk.com",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.spsw.clubdesk.com"
   },
-  "contentHash" : "sha256-85c8b76a9c24f070f7a70a20ee1dc18b6fe67fba08da959953092c71aef06c22",
+  "contentHash" : "sha256-68439fffc3c2d85941a4803af5b3833964db1ee91088f5a78345eaecbee5f648",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

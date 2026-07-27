@@ -5,28 +5,31 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.bregaglia-societa-tiratori-pistola",
+    "foundedYear" : 1935,
     "location" : "",
     "name" : "Bregaglia Società Tiratori Pistola",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bregaglia St P",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1861660526f6a1db9325dba467e53bdd411c151d1a3dd153e2da467212cfc583",
+  "contentHash" : "sha256-3f3f7524e2704c91480af7a081ae859b507c568e0f1c56ff8a70cd2570d2c874",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

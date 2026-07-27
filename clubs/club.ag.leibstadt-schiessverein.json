@@ -5,24 +5,25 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.leibstadt-schiessverein",
+    "foundedYear" : 2007,
     "location" : "",
     "name" : "Leibstadt Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Leibstadt SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a3a9b479ea59650b0829ce3e64450e4810284893f419077fab66c245e9decc20",
+  "contentHash" : "sha256-2b2e3f9ae8830f744fef996cae22c9f580cdf1fb21679436e6795355d86078c9",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +69,7 @@
       "title" : "38. Einzel & Gruppenschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

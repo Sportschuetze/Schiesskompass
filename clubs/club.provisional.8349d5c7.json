@@ -6,27 +6,30 @@
     "canton" : "LU",
     "externalId" : "club.provisional.8349d5c7",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.8349d5c7.jpg",
     "name" : "Ebikon Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ebikon PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0587fd64284f4c8b0f0780e95be0af3d549852ce27bcc957c163bb1e6971ba76",
+  "contentHash" : "sha256-031a9164696b12c1b2695f73f6cb9cc6fe9e246db3427afec2c7dd49de76731c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

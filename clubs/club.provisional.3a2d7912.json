@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Schwarzenburg Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schwarzenburg PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9347a532b49b44e2a1bbef115ad8d90918aea9d4606090c0ae0867cbb8e2f788",
+  "contentHash" : "sha256-0bcb9645d6e9983f7ef76cefe414b34c2621f59b01ef14b987d7b6091ce19813",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

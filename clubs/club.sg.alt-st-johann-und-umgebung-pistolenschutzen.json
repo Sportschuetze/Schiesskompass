@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Alt St. Johann und Umgebung Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Alt St. Johann uU PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9f1bf0917b0207b1e9745a7f35a2614d64c22f121b4980527c0ab2f9fcddf092",
+  "contentHash" : "sha256-f45d1a8e58118ac73a08b55c62a1d785c28e4b6c5c6bfb60ce5bab16ad63dd6f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

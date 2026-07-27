@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Châtel-St-Denis Petit Calibre",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Châtel-St-Denis PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9e12b33c5d504c1da9e08cbba208d4402441f31cd3703450c9558d21bdb0b2c8",
+  "contentHash" : "sha256-0496b0295621aaae2e4e3b0babb53bb1f14874aa18456292b16e0107fb5d791c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

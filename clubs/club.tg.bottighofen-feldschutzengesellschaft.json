@@ -8,21 +8,21 @@
     "location" : "",
     "name" : "Bottighofen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bottighofen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a46daea2cd169059d61dbbf4e28c71169816d3f1b19a5985f4bcabe2432cd4eb",
+  "contentHash" : "sha256-273dcd701420d5fabaa615572983a5d52df50ea895179b1b22b31d4aefcab66a",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +68,7 @@
       "title" : "Jubiläumsschiessen 150 Jahre"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

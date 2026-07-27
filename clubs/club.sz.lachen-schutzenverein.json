@@ -5,28 +5,30 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.lachen-schutzenverein",
+    "foundedYear" : 2009,
     "location" : "",
+    "logoPath" : "logos\/club.sz.lachen-schutzenverein.jpg",
     "name" : "Lachen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lachen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3452c3d963f4e5b80e5a3ce430d163b11c2e0fd00f5697fb9076fafbd3b9f314",
+  "contentHash" : "sha256-9eb6614538d9fad3fa33604609efec956af9ee17904d95b606c5da7d7e3d0df5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

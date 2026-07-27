@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.a4bbb045",
+    "foundedYear" : 1906,
     "location" : "",
     "name" : "Eigergletscher Schützenges. Jungfraubahn",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Eigergletscher SG Jungfraubahn",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9946974248fb229947242b1f8caddadc1e7224a5fff350f5df31e86c32a78f77",
+  "contentHash" : "sha256-df7e051f2f27c44bb02ae964ef5cb9a12d6864b1c8d532dde67ddf3868be0eab",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

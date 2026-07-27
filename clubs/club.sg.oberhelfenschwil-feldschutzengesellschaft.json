@@ -5,24 +5,25 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.oberhelfenschwil-feldschutzengesellschaft",
+    "foundedYear" : 1777,
     "location" : "",
     "name" : "Oberhelfenschwil Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberhelfenschwil FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b343a22e525473a24148d8e430b362622da8f0caaba1663c40f80a48aad1f8da",
+  "contentHash" : "sha256-4a61b94101a876e237b8b7e0783b8918227547c0af286df4e530cc8ec090503a",
   "events" : [
     {
       "championshipTags" : "",
@@ -121,7 +122,7 @@
       "title" : "250 Jahre FSG Oberhelfenschwil - Jubiläumsschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

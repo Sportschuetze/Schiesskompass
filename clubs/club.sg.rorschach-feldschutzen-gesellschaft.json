@@ -5,28 +5,34 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.rorschach-feldschutzen-gesellschaft",
+    "foundedYear" : 1620,
     "location" : "",
+    "logoPath" : "logos\/club.sg.rorschach-feldschutzen-gesellschaft.jpg",
     "name" : "Rorschach Feldschützen-Gesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rorschach FSG",
+    "sourceURL" : "https:\/\/fsgro.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/fsgro.ch"
   },
-  "contentHash" : "sha256-baad248e8af039b2b61574a1733377a1e8aed0e32971d475aa5a131dc59ac67d",
+  "contentHash" : "sha256-bb0cd8b540f1adfea011e42fc7b17a00100a8019397ab4d9eb7cc7851e40a465",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Montagny et environs Société de tir au Pistolet",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Montagny et environs ST au Pistolet",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c3205a8bc3936e9849d57d52916402522d80dfcc0cbeb296d33e10108eb2af56",
+  "contentHash" : "sha256-ac1e2ccce823dcd05c463eb09e4ae676c2c5c996af778f394167099d66b7356c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

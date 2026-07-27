@@ -6,27 +6,29 @@
     "canton" : "LU",
     "externalId" : "club.provisional.b1c5936f",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.b1c5936f.jpg",
     "name" : "Knutwil-St.Erhard Wehrverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Knutwil-St.Erhard WV",
+    "sourceURL" : "http:\/\/www.wehrverein.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "http:\/\/www.wehrverein.ch"
   },
-  "contentHash" : "sha256-9e8b7b977955a3bc069d47f6ba5a68c6db7ac844ab11510906060222873ab8fc",
+  "contentHash" : "sha256-9810b6a12dedaa378213a78ad5e4ff0431bf202564204be02b99c3156e387fa5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

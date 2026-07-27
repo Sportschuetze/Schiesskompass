@@ -5,28 +5,29 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.5ceaf9ac",
+    "foundedYear" : 1866,
     "location" : "",
     "name" : "Dättlikon Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dättlikon SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-633c0338b858c32fe7dc05a87bb68c60bc7d6a30c27ad79f32dd5f74a6d3eb8a",
+  "contentHash" : "sha256-bb5a87e069df73b12131a29d8353c33a7a5dba90a509d7bb5b4f59c8ed0bd687",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

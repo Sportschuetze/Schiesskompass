@@ -6,27 +6,30 @@
     "canton" : "SG",
     "externalId" : "club.sg.walenstadt-pistolenschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.sg.walenstadt-pistolenschutzen.jpg",
     "name" : "Walenstadt Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Walenstadt PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-df991f6cb5939ec130e773c16a63a76a48e1b7ffe23b0ac999788b6ec8f36a92",
+  "contentHash" : "sha256-e2bc2f4aad7ab7009d675434d28afe31fb3d6c82e27ccb346f5f5af8fdc1b302",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

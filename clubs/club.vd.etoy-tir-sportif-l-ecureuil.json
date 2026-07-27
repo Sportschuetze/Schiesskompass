@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Etoy Tir sportif l´Ecureuil",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Etoy TS l´Ecureuil",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6b2eec2d15431b27c596c058270436c4c62b8a56b2f3383a1278e482099c211d",
+  "contentHash" : "sha256-e9791d05068d5b4120d441aad16c592e06560262d8a25004021137cca2eb1d4c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,31 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.vorderthal-militarschutzenverein",
+    "foundedYear" : 1897,
     "location" : "",
+    "logoPath" : "logos\/club.sz.vorderthal-militarschutzenverein.jpg",
     "name" : "Vorderthal Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vorderthal MSV",
+    "sourceURL" : "www.msv-vorderthal.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.msv-vorderthal.ch"
   },
-  "contentHash" : "sha256-f7407b00eedf98dcb01e8c0e87d5ca122f04dd3a35e2bbc35e90236f86782952",
+  "contentHash" : "sha256-7bfacdfb1fb5db7d6c98cdc22c46204f0af9bc13aeed7e110c6aef1928ce6ac1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

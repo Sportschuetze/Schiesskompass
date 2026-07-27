@@ -6,27 +6,28 @@
     "canton" : "SZ",
     "externalId" : "club.sz.sattel-feldschutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.sz.sattel-feldschutzenverein.jpg",
     "name" : "Sattel Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sattel FSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3c8bb74a0ba0f15fe5e0c2439c3664a3ad8c85750b1efc3ccf97839431c4d81c",
+  "contentHash" : "sha256-9ccc39a4cf93d6898b698821f3d7ace871c6feb1d83dd2a45af3f97d6c8820cd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

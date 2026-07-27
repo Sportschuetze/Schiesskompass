@@ -5,28 +5,29 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.castel-san-pietro-soc-di-tiro-guglielmo-tell",
+    "foundedYear" : 1920,
     "location" : "",
     "name" : "Castel San Pietro Soc di Tiro Guglielmo Tell",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Castel San Pietro St Guglielmo Tell",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5cad3f4fd2d81d4dcf66928a500061fc8e41448933c764b4f9ba718bb03aa49b",
+  "contentHash" : "sha256-56ed49653959120e832ce5ab47ecc5df4d681f8ca2c79ea5bb6e5eb57dab4017",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

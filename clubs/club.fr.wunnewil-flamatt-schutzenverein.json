@@ -5,28 +5,31 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.wunnewil-flamatt-schutzenverein",
+    "foundedYear" : 1913,
     "location" : "",
+    "logoPath" : "logos\/club.fr.wunnewil-flamatt-schutzenverein.jpg",
     "name" : "Wünnewil-Flamatt Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wünnewil-Flamatt SV",
+    "sourceURL" : "www.svwuefla.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svwuefla.ch"
   },
-  "contentHash" : "sha256-7392f6eb1a9106af361e8f1345f8a5ec4c3f09671788f953916fde8eb6c91f5f",
+  "contentHash" : "sha256-738228679818cfe98c704bfbaf75b5f70a4dd2aa8de33e26ee873b54a0c3ff47",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

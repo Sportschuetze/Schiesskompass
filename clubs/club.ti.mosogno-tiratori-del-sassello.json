@@ -5,28 +5,29 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.mosogno-tiratori-del-sassello",
+    "foundedYear" : 1888,
     "location" : "",
     "name" : "Mosogno Tiratori del Sassello",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mosogno Tiratori del Sassello",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9a4db2acc9965211017f301c3bba8a97d9337bd0f50086907213d314574d00b8",
+  "contentHash" : "sha256-5dc4b5add6960db01418b54d5f605694c93bfec3c36c517950214a17f348f608",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

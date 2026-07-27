@@ -5,28 +5,31 @@
     ],
     "canton" : "AR",
     "externalId" : "club.ar.schwellbrunn-feldschutzen",
+    "foundedYear" : 1762,
     "location" : "",
+    "logoPath" : "logos\/club.ar.schwellbrunn-feldschutzen.jpg",
     "name" : "Schwellbrunn Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schwellbrunn FS",
+    "sourceURL" : "www.fsg-schwellbrunn.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsg-schwellbrunn.ch"
   },
-  "contentHash" : "sha256-624a23401e737544809ac4931cafa22ad506709ce695a920c82d395fafc819ba",
+  "contentHash" : "sha256-b42aa8b98ff6a797eb7bbde1f685cb623e3b11c6c567a8db333627be4e7f1887",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

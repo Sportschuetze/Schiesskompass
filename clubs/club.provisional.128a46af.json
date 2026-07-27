@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Wolhusen Zentroniker",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wolhusen Zentroniker",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fbf0f7a08dc5f7531c58ad27ca5e4f35564694440eb989a7124984f4a1e63eed",
+  "contentHash" : "sha256-a82d0c702f54375eaff44ef7b736df88cc41b7ad935d761ffff52051a177403b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

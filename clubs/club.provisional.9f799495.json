@@ -5,28 +5,33 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.9f799495",
+    "foundedYear" : 1919,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.9f799495.jpg",
     "name" : "Steffisburg Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Steffisburg PS",
+    "sourceURL" : "www.ps-steffisburg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ps-steffisburg.ch"
   },
-  "contentHash" : "sha256-5baca97520d552e65b93766d238efa528c27c8445b86553598c0482e5d0e5780",
+  "contentHash" : "sha256-9d89ed71eaebbd645d1e5e07678fe8568d66246392cd9308005fac81b9acbc37",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

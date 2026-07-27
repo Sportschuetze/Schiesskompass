@@ -5,24 +5,32 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.1350b537",
+    "foundedYear" : 1867,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.1350b537.jpg",
     "name" : "Adliswil Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Adliswil SV",
+    "sourceURL" : "www.svadliswil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svadliswil.ch"
   },
-  "contentHash" : "sha256-294d929ed1c5cf728dd11d421577e5c85ccea4cff014a5162e4771d0e90717f5",
+  "contentHash" : "sha256-d000a510ae7aedb650b859894d3e472cb5b9a09138000c4f00dc50fea0b0c99d",
   "events" : [
     {
       "championshipTags" : "",
@@ -207,7 +215,7 @@
       "title" : "Weggenschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,29 @@
     "canton" : "AG",
     "externalId" : "club.ag.tegerfelden-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.ag.tegerfelden-schutzengesellschaft.jpg",
     "name" : "Tegerfelden Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Tegerfelden SG",
+    "sourceURL" : "www.sgtegerfelden.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgtegerfelden.ch"
   },
-  "contentHash" : "sha256-8282c5835234898a48e9b3e1c3d01ad337fb519097dbf2b67e95b883c4cc3050",
+  "contentHash" : "sha256-e4518a0c8c399489dc2c509d5b2c0c66ff36e6787944c7df48a5e885187aac1c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

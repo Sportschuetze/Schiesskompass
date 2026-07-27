@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Egnach-Romanshorn Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Egnach-Romanshorn SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f082931e0d58f6c99a0847b1014fa9a8010e3d0c1608107eb67cdb1519e831d5",
+  "contentHash" : "sha256-f2a8f156945210f8a9e416b82f1ef253ca5d5fb1595ded997a244873ebd1bf94",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

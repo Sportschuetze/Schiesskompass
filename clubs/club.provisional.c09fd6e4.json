@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.c09fd6e4",
+    "foundedYear" : 1884,
     "location" : "",
     "name" : "Zell Gemeinde-Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zell GSV",
+    "sourceURL" : "http:\/\/gsv-zell.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "http:\/\/gsv-zell.ch"
   },
-  "contentHash" : "sha256-6571f661b7d963af662aeaad39ac73fe7d85d67e7edd60fb753a8718b7fbafab",
+  "contentHash" : "sha256-257a011bdf8ff5c83cbca9010e76516d753f058795c097660329f077b63fc9ba",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

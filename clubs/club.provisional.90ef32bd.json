@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Hasle bei Burgdorf Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hasle bei Burgdorf SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-295161bbae8b2b9866b0925fef6d4bcb0ca56ba7af55585064c6c551cb483985",
+  "contentHash" : "sha256-55c4a113978ce0106a6385421d6c3af2ec5089003d8049649cc97d333efe3697",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

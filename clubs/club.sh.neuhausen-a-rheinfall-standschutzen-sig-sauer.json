@@ -5,28 +5,31 @@
     ],
     "canton" : "SH",
     "externalId" : "club.sh.neuhausen-a-rheinfall-standschutzen-sig-sauer",
+    "foundedYear" : 1907,
     "location" : "",
+    "logoPath" : "logos\/club.sh.neuhausen-a-rheinfall-standschutzen-sig-sauer.jpg",
     "name" : "Neuhausen a. Rheinfall Standschützen SIG SAUER",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Neuhausen a\/Rhf. Stand",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f7eb67e05ac933eb3a3316694ae303a5a44d008718064ded89de41741d1af6aa",
+  "contentHash" : "sha256-a4049bd8231c1d3ca35195d4db4b0aa80ee5e5dd7966bb356c49ec994d94fda3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

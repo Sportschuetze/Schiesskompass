@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Löhningen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Löhningen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a7eeae4f01eedf0665f6af42560401a77b18ca7e8b75994180e4a4e216908a86",
+  "contentHash" : "sha256-7873a173e07a10f3d84a4cddde21206a91a2c30fa1b58ba0f7d8759fdf8b2b22",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

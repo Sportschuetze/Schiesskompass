@@ -5,24 +5,25 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.ccfb614e",
+    "foundedYear" : 1875,
     "location" : "",
     "name" : "Riedt Militärschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Riedt MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-afe195e542e10e36c5a24b06a1a2384612f1c7c83636956af71dec835ffcb2b7",
+  "contentHash" : "sha256-0bb075770e712c3d7a5d52fe331912e037626d9f60668c61c7e811df4b6f9a25",
   "events" : [
     {
       "championshipTags" : "",
@@ -53,7 +54,7 @@
       "title" : "Bachtelverbandsschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

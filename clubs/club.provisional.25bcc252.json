@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Obernau Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Obernau FS",
+    "sourceURL" : "www.fs-obernau.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fs-obernau.ch"
   },
-  "contentHash" : "sha256-7ab8758fff9c7a04fdf3991dbbddc0d655341c5135fde3953dfeff99ae241dbd",
+  "contentHash" : "sha256-0994fad69474f5f03af7aea57e4b5190c2392f3183a2a7faf6a7f676bf3a1886",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

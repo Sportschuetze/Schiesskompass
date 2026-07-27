@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Lausanne Société de tir Soldats Suisses",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lausanne ST Soldats Suisses",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-09df3be5a42b1c9a0585b4a7d7c0b64427fd3340bf5adb99cfb340d989f5fe2f",
+  "contentHash" : "sha256-ac5c0b4db5ef71dd56a9c316a8f204ff9dd4a72549980e4ffb5c22db08b1a883",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

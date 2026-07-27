@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Erschwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Erschwil SG",
+    "sourceURL" : "www.sg-erschwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-erschwil.ch"
   },
-  "contentHash" : "sha256-57f05eff706a199070e0a747776dfd646f38af05db2d8f621cf0c851c7e64568",
+  "contentHash" : "sha256-5774eb9d7c84894aeaee7d85f3cf09f217d7a7cf344cceae0d8c5383ae356ceb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

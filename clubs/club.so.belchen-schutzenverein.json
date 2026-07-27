@@ -5,28 +5,32 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.belchen-schutzenverein",
+    "foundedYear" : 2023,
     "location" : "",
     "name" : "Belchen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Belchen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-eb2931cb7a5cc5a397928de4d027f8c7fd2b79566c7ff428d4a0c5c59d95cf2b",
+  "contentHash" : "sha256-799bccc6243bee0d2a213ab33cc344b71040b71a45f6034f996153baebbf8968",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

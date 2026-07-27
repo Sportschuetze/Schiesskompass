@@ -5,28 +5,30 @@
     ],
     "canton" : "NE",
     "externalId" : "club.ne.lignieres-societe-de-tir-le-picheu",
+    "foundedYear" : 1901,
     "location" : "",
     "name" : "Lignières Société de tir Le Picheu",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lignières ST Le Picheu",
+    "sourceURL" : "www.picheu.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.picheu.ch"
   },
-  "contentHash" : "sha256-c853f110c8db16cd54adf0cdd019e523c16c393812496a9421daf30e88fc6d43",
+  "contentHash" : "sha256-df56375bfd6e273cdf8cb7eaaf660e0b0c28e58e45e615b5257706c60f683009",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,21 +8,21 @@
     "location" : "",
     "name" : "Ottenbach Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ottenbach FSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f289c0dc6eb0183d8e8eb0ba8e2de142f8161fb22a7cd83b785c58975b63f104",
+  "contentHash" : "sha256-6ed3bbb3a842028e0d23ad05cdb290b065e83bbabb8299249a00473aa03c1eaa",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +63,7 @@
       "title" : "Jubiläumsschiessen 350 Jahre FSVO"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

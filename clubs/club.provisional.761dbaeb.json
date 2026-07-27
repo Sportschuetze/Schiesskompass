@@ -5,28 +5,30 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.761dbaeb",
+    "foundedYear" : 1838,
     "location" : "",
     "name" : "Schwarzenberg Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schwarzenberg FSG",
+    "sourceURL" : "www.schwarzenberg-fsg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schwarzenberg-fsg.ch"
   },
-  "contentHash" : "sha256-e15ccdbdb1809c0b632f17ba3670bd12ae37f87b15ea991da51ce27b7924d3dd",
+  "contentHash" : "sha256-b618452b40b6e717331784a342dc4888b0466017f6f638d595d31ea26632fc39",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.scharans-schutzenverein",
+    "foundedYear" : 1907,
     "location" : "",
+    "logoPath" : "logos\/club.gr.scharans-schutzenverein.jpg",
     "name" : "Scharans Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Scharans SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-67c5b48db9531a71b4f4af7e12214168bf92b171adf9cbe024f7cf8ef8ddc2f0",
+  "contentHash" : "sha256-6ec47abea7048e0206b7d6a59f683db3d5d842c245638ba8e19e27879ff771de",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

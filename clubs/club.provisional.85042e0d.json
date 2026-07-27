@@ -5,24 +5,26 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.85042e0d",
+    "foundedYear" : 2017,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.85042e0d.jpg",
     "name" : "Berg-Buch Irchelschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Berg-Buch IS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8787da08d9b1f1b13cc5ca2f7112d3e3f60fcc19b8a207f90877f211693ad9bb",
+  "contentHash" : "sha256-a068f0c3dfb2e74119256a493fc8fd29cf714f6a6ac558e1e0dbb5a4537fda7a",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,7 +60,7 @@
       "title" : "Kreissommerschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

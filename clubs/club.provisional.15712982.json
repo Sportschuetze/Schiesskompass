@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Inner-Eriz Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Inner-Eriz FS",
+    "sourceURL" : "www.schuetzen-innereriz.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schuetzen-innereriz.ch"
   },
-  "contentHash" : "sha256-d383109be6632de4c4b9fe15385db24ee4f9621cca2b0173dc5ff8c16d85f0e8",
+  "contentHash" : "sha256-19eae8921e513b1e59062ab852013fe1ffae3748a0c2dd4a9c6636f5e8dcd2b6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

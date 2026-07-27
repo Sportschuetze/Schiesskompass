@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Rohr Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rohr SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3dd46e25f493309d0d3392cf4b3800560b16d5145e47d2a42cc246ea30b428c4",
+  "contentHash" : "sha256-8824e5b4c9f19d8f635ebf751609a5fd22cfc251ee2859fa1d46cf5a3c854cc3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

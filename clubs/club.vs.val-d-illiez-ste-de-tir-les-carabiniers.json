@@ -5,28 +5,33 @@
     ],
     "canton" : "VS",
     "externalId" : "club.vs.val-d-illiez-ste-de-tir-les-carabiniers",
+    "foundedYear" : 1638,
     "location" : "",
     "name" : "Val-d´Illiez Sté de tir Les Carabiniers",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Val-d´Illiez ST Carabiniers",
+    "sourceURL" : "https:\/\/www.carabiniersvaldilliez.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.carabiniersvaldilliez.ch\/"
   },
-  "contentHash" : "sha256-1889c2d7e0c6c7d8fc04b3210a8abd04e7e7b401d65f11d5052762da845ab8a0",
+  "contentHash" : "sha256-9be77405154618c9319d2c2d273e27294c1ff6d12807c038da72730a785dbdfb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

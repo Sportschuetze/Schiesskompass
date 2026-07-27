@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Suchy Tireurs de Chalamont",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Suchy Tr de Chalamont",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2f4b14cb9faf17671bc6dde795697a0a136df50842c2f96370abc7bcf1fb67ca",
+  "contentHash" : "sha256-7d80b3e224aa7f6ce3e9686b10fc210d020310277fa7a1697f0c34231793170a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,33 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.wohlen-pistolensektion-der-standschutzen",
+    "foundedYear" : 1946,
     "location" : "",
+    "logoPath" : "logos\/club.ag.wohlen-pistolensektion-der-standschutzen.jpg",
     "name" : "Wohlen Pistolensektion der Standschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wohlen PS Stand",
+    "sourceURL" : "www.pswohlen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pswohlen.ch"
   },
-  "contentHash" : "sha256-cc26bedaaeb546d54289f2900e8972a23b7a2ef65a4970b5b2bc38989636aca2",
+  "contentHash" : "sha256-1cec4c646f8f625dbc5d581ec2f08e480a8b53d38ebbcf4cc978d096a51bd98d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

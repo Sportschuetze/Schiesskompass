@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.19b2aa83",
+    "foundedYear" : 1959,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.19b2aa83.jpg",
     "name" : "Albisrieden-Urdorf Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Albisrieden-Urdorf Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4c4cc4632534b457b294ded32c76f7db595c27a07a85d09e10fd7e171f106c0e",
+  "contentHash" : "sha256-c878a6eba88b9b8d11c69b1ea9779ca434c7d27155c6a709b3ac31504d63b5c0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

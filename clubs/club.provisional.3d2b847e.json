@@ -6,27 +6,31 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.3d2b847e",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.3d2b847e.jpg",
     "name" : "Dielsdorf Pistolenschiessverein v.d. Lägern",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dielsdorf PSV v.d. Lägern",
+    "sourceURL" : "www.psv-dielsdorf.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.psv-dielsdorf.ch"
   },
-  "contentHash" : "sha256-1b16b4487f094c767e869a137feb6a9caed4c494212877976fc13b22a4bf32d7",
+  "contentHash" : "sha256-588fa557d4dc4441cb02e4650f300903e0e300fdbf5eef0466ce8691a26ec50c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

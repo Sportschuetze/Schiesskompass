@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Rue Société de tir militaire",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rue ST militaire",
+    "sourceURL" : "www.societe-tir-rue.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.societe-tir-rue.ch"
   },
-  "contentHash" : "sha256-59ab00aec93c2e4d613b336a7f637f69b6e2a5d26b7240da34163fc04ba6d27f",
+  "contentHash" : "sha256-a67d63eadb2f6c7c31c6e013ce2a531c95373573274fa6c0936574ab7ebbc838",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

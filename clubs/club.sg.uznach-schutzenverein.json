@@ -5,28 +5,30 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.uznach-schutzenverein",
+    "foundedYear" : 2000,
     "location" : "",
+    "logoPath" : "logos\/club.sg.uznach-schutzenverein.jpg",
     "name" : "Uznach Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Uznach SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bbe7f9417d7882e0e3be9cb57a9011bb5d95246c7d8cdbc4b814a402b24cb174",
+  "contentHash" : "sha256-afd1906860fcfa8aea6deb4c9442027fd7361c2880083123a2aa0a072a68af2d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,32 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.airolo-unione-tiratori-del-gottardo",
+    "foundedYear" : 1871,
     "location" : "",
     "name" : "Airolo Unione Tiratori del Gottardo",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Airolo UTG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-62abdcc362e784163689842ad4671f4ef0927f15bc10f906bd642e9697841b58",
+  "contentHash" : "sha256-39ff938523522aea9e2c986361920e3c2f4e32e2beb2ecee9e5637bc04586f6f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

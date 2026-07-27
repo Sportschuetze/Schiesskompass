@@ -5,28 +5,29 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.schonenbuch-feldschutzengesellschaft",
+    "foundedYear" : 1886,
     "location" : "",
     "name" : "Schönenbuch Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schönenbuch FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e92d6ee4e600c9f3531b966fb3f7f81ad325efccd1b3ad60151f2729cc47e848",
+  "contentHash" : "sha256-7a8c6b2b225d5eb6f4cbefe41492b2a0624a66923e54f4aeabaa11f731b55a96",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

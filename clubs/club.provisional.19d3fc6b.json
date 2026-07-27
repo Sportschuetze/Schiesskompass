@@ -5,28 +5,34 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.19d3fc6b",
+    "foundedYear" : 1435,
     "location" : "",
     "name" : "Thun Stadtschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thun Stadt",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f9f68cbdf446c639434cf21968c65eb2855917f1a4a8ffb1e67856502adfccdb",
+  "contentHash" : "sha256-58d71b3c58deb5f3a4b6e3654885752b1dd508e2c5ffbf2248d7e48d974f14c7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

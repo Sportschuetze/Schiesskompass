@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Porrentruy Tir Sportif Ajoie",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Porrentruy TS Ajoie",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-926d0b7dc80ec9979e086020ea49551c3f2f82b643d70af76aa9e680f5700e87",
+  "contentHash" : "sha256-6709040eed418ba6750c980aa3422341123423f2a0983cfbbb551f2162530145",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

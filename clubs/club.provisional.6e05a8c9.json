@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Oberbipp Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberbipp SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-dc7b199a66f04a4dbefb9c4f385d34b2e4681a38e04ecabe45e66c9030c40a1f",
+  "contentHash" : "sha256-2a61ec3de4e252b171a6c2a8f933a478d95b303895dfcee4b75cfa656341f043",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

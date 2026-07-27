@@ -5,28 +5,31 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.domat-ems-sportschutzen",
+    "foundedYear" : 1953,
     "location" : "",
     "name" : "Domat\/Ems Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Domat\/Ems Sport",
+    "sourceURL" : "www.sportschuetzen-domatems.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sportschuetzen-domatems.ch"
   },
-  "contentHash" : "sha256-3450274e7a64d7484b045ee3426c7976317fa6ff412814edd0b1f94664988b81",
+  "contentHash" : "sha256-0f99e563e68fb59e7e991973fd618d8324a6185eeacb7befdb07429b52ed33e0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

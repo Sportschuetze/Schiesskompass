@@ -6,27 +6,29 @@
     "canton" : "LU",
     "externalId" : "club.provisional.a1791a31",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.a1791a31.jpg",
     "name" : "Ebikon Wehrverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ebikon WV",
+    "sourceURL" : "www.wv-ebikon.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.wv-ebikon.ch"
   },
-  "contentHash" : "sha256-07cd3177e33c1605d8d40d8e88e56f245164ab4352504a9e4425c826504dc77e",
+  "contentHash" : "sha256-f198a63ba53806e6301eef3c5e81d82c7abccbd17055eb91d9fab44d4e5ec789",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

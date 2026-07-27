@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Lanterswil-Friltschen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lanterswil-Friltschen SG",
+    "sourceURL" : "www.sg-lanterswil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-lanterswil.ch"
   },
-  "contentHash" : "sha256-0ad1858581fdc9d277a97ba8270b49047ca2a8468cb358ce57171ec848df3375",
+  "contentHash" : "sha256-53cecb1245362a7fd72ffdf2686807d8dd37d0e93b67c6337bafea2fab97995f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

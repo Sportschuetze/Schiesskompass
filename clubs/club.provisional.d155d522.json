@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.d155d522",
+    "foundedYear" : 1865,
     "location" : "",
     "name" : "Homberg-Buchen bei Thun Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Homberg-Buchen bei Thun FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5bd5cfd5ddbf9f9aeca3947328f740c1583ea4aeeabe297712ade435038a2c2d",
+  "contentHash" : "sha256-8bc62f83e94166257404dc75511de5634dfbf4e5d1776e44c367eac8b0fb7e2b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

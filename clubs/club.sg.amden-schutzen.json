@@ -6,23 +6,25 @@
     "canton" : "SG",
     "externalId" : "club.sg.amden-schutzen",
     "location" : "",
+    "logoPath" : "logos\/club.sg.amden-schutzen.jpg",
     "name" : "Amden Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Amden Schützen",
+    "sourceURL" : "www.schuetzenamden.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schuetzenamden.ch"
   },
-  "contentHash" : "sha256-58c4b5613b292e8b64d1dc1f1ef70de589a15ff7e56790eae226c7922390aa42",
+  "contentHash" : "sha256-9ee11a58b7b8441804df9cfed0c7afd987dd529bf31a60590ae8470bdf38b6fe",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +70,7 @@
       "title" : "20. Ammler Bergschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

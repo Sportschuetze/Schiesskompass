@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Cornaux-Thielle-Wavre Société de tir Le Vignoble",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cornaux-Thielle-Wavre ST Le Vignoble",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-460d1e7b4e563dcde9a3d809403189d3df029e33a3d7a09373edc03eb8cd6a51",
+  "contentHash" : "sha256-2020ab793c5da90e3a2f5dd980358859988cd7256a21df1fa8da4811722e78ce",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

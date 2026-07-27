@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Därligen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Därligen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-34ffff88dc6b5482b5c2761211dc9dc69097467499aa9bb0cc11c99b7de987c1",
+  "contentHash" : "sha256-cddd13f3e09b3cf066e08d1f4b99fb30b4ee55bff34a1f5f2670ca60d6592186",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

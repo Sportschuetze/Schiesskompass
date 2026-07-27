@@ -5,28 +5,32 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.7ca5dfcb",
+    "foundedYear" : 2003,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.7ca5dfcb.jpg",
     "name" : "Bätterkinden - Jegenstorf Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bätterkinden - Jegenstorf PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c231f2e86d1af1301cdfebe1d7c8c746ba10dbcc2187d46a32d983474e6ed29e",
+  "contentHash" : "sha256-10a40547491b09be367dab046b3e99f0704ec0b400154ed84060f94c6dac3356",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

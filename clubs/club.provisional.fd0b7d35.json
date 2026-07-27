@@ -5,28 +5,32 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.fd0b7d35",
+    "foundedYear" : 1927,
     "location" : "",
     "name" : "Mörigen Feldschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mörigen FS",
+    "sourceURL" : "www.fsmoerigen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsmoerigen.ch"
   },
-  "contentHash" : "sha256-cb2aa20e4cdb93e2abffad643d0861487f3be65cdf86950958a333e35ae9dd2f",
+  "contentHash" : "sha256-7de0e3d3d4fdf4b15caaaf9d0cedeb748b51a4e83ef2ad971f761e85c91baf95",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

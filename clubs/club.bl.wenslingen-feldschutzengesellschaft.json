@@ -6,27 +6,28 @@
     "canton" : "BL",
     "externalId" : "club.bl.wenslingen-feldschutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.bl.wenslingen-feldschutzengesellschaft.jpg",
     "name" : "Wenslingen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wenslingen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3cff64eae7070cc6fe5e9ac53860503aa9b06623cb937fb80a65c7c135b94e3b",
+  "contentHash" : "sha256-d8959a3018384b9582085e43690d45a89fca7c377176e5204280917f9e6c5b11",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

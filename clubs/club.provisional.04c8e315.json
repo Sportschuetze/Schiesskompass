@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.04c8e315",
+    "foundedYear" : 1852,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.04c8e315.jpg",
     "name" : "Saanen-Gstaad Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Saanen-Gstaad FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-29a384232c8fb8129bb646562d8d9ae571320c1c6b87297dd913f463eb7e6fe9",
+  "contentHash" : "sha256-8255496f57c3e251062f1b48cabfdcdb4e58540299ba5ac6ce2708b8e288b4e2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

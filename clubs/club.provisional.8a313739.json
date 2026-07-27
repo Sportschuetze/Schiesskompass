@@ -5,28 +5,29 @@
     ],
     "canton" : "UR",
     "externalId" : "club.provisional.8a313739",
+    "foundedYear" : 2002,
     "location" : "",
     "name" : "Andermatt Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Andermatt SV Gotthard",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-73dadb116fa49d15fa74605744acc0bf544dbca73ef49a1f4de43ccdcf7df45c",
+  "contentHash" : "sha256-57518b3d386742a9980dab3d088cca7eaad4d4fae3fb1ec312761b6ecc9ebd2c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Léchelles Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Léchelles ST",
+    "sourceURL" : "www.tirlechelles.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tirlechelles.ch"
   },
-  "contentHash" : "sha256-a0b9396bba977d3c93d2735213189cefdafb0e67225cd30a02e163784334d93e",
+  "contentHash" : "sha256-20635e5b3fea197d71ce08549d63524fe726ad36782b68d69f3fa3aebcff4ec0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

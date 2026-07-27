@@ -5,28 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.a51f063d",
+    "foundedYear" : 1909,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.a51f063d.jpg",
     "name" : "Küsnacht Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Küsnacht ZH SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a1a5d0d2746d9f6d8c8e19be6d8255b99482973e895897fa1d2d589609e86cc5",
+  "contentHash" : "sha256-1b36db09466ae7f563f2d42ff86c1fdfbb08cb6be6960fd3e93100f8dccce295",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "GL",
     "externalId" : "club.gl.ennenda-schutzengesellschaft",
+    "foundedYear" : 1808,
     "location" : "",
     "name" : "Ennenda Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ennenda SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-261a70662f8bf065e5a8fa363367fb9b5e318b8041b0adef9f9eedfe7d566793",
+  "contentHash" : "sha256-dc9f9123ad64daa1439a5a6630d0645cc2f9f353675cb3b3b80f3d1bd0c6c33b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

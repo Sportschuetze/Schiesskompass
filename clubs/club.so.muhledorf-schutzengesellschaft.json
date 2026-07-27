@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Mühledorf Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mühledorf SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f1b661d70feef3ff12e2b6a7803ba0110d2f894ef98aa67e5a4ad48cf37c08d2",
+  "contentHash" : "sha256-9502dae33143f2e2ade1b6db32402b7107e22b66cc2c921ce0e44cd1ae512443",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

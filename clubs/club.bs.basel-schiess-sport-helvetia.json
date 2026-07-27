@@ -6,27 +6,33 @@
     "canton" : "BS",
     "externalId" : "club.bs.basel-schiess-sport-helvetia",
     "location" : "",
+    "logoPath" : "logos\/club.bs.basel-schiess-sport-helvetia.jpg",
     "name" : "Basel Schiess-Sport Helvetia",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Basel Schiess-Sport Helvetia",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-931f483fcbfbe6b17b7e6f28460943e2b27df73e5f24aabf2ad2ecdbeb1de77c",
+  "contentHash" : "sha256-06ca67c66880fd1c8d50a9b2f5b326cd51a7a571505f142e1fb74d77b6b2cb95",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

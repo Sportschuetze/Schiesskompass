@@ -5,28 +5,32 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.horn-schutzenverein",
+    "foundedYear" : 1894,
     "location" : "",
     "name" : "Horn Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Horn SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8477e31d571fce36c20d82ed72b1ab79e12cccf6382df62cd21c35ba8ccc1444",
+  "contentHash" : "sha256-69750f6184453fa9c11c50e434f139ff2cae1b82c2f78e7627efa989af6340b8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

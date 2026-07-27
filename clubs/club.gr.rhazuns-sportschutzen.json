@@ -5,28 +5,32 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.rhazuns-sportschutzen",
+    "foundedYear" : 1892,
     "location" : "",
+    "logoPath" : "logos\/club.gr.rhazuns-sportschutzen.jpg",
     "name" : "Rhäzüns Sportschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rhäzüns Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b9e2eb1a85a1f6e834f2e071c7a97b516a80b6731d8af23b5caf2a38ad3b5d93",
+  "contentHash" : "sha256-be5e99381e7499b52b956c8f8609ef4683c2d5e542b29dd656ca824fde410d75",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.aarburg-kleinkalibersektion",
+    "foundedYear" : 1937,
     "location" : "",
     "name" : "Aarburg Kleinkalibersektion",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aarburg KKS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-73e6812961936674b7370bb05ae24e11384f076934508c6fd2556eb002f6a54d",
+  "contentHash" : "sha256-b0239e3f03b99f7348db95c45a1f38c5ed06bd06085c4b4fcdeb93528c4ef679",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

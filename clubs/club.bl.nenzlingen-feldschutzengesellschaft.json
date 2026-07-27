@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Nenzlingen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Nenzlingen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ec2d5c421a27a37cbdfb0f7761c349ecf48dcb72d8b84d4f5cdc4018fd891f3f",
+  "contentHash" : "sha256-e144cc8d04f0fc1434fac819a13e05a42e7776c54ea9bf63c67ed241b53d049b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

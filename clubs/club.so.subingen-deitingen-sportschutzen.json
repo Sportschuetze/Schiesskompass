@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Subingen-Deitingen Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Subingen-Deitingen Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-753240309d0928bcc8de43049b4546ea6496c0fbb0e34b0c5d61a376c19ad59c",
+  "contentHash" : "sha256-21063e1fc5d570a986a676a5f799f98f01b6b9eea70e7162155cdf3ed2f1f287",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

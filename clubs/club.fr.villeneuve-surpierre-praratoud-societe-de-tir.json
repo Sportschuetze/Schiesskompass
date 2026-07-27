@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Villeneuve-Surpierre-Praratoud Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Villeneuve-Surpierre-Praratoud SdT",
+    "sourceURL" : "https:\/\/www.tir300villeneuvefr.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.tir300villeneuvefr.ch\/"
   },
-  "contentHash" : "sha256-58ad94d0e46d220763662dd5aa96501dad5030d6bd6574be953530bf7a3b1f18",
+  "contentHash" : "sha256-5bfdfb54eed4c8682dbe53d9e636a49034ac878f96bb6735abe4e4cc7d2bfbbc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

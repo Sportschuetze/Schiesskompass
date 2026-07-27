@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Thusis Schiesssport Rheinau",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thusis S-Sport Rheinau",
+    "sourceURL" : "www.ssp-rheinau.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ssp-rheinau.ch"
   },
-  "contentHash" : "sha256-de6536b20f12197064513430cb2c6703a850bcfb734ae39bbce3e63354ac9e78",
+  "contentHash" : "sha256-54a4c5d810a163caecb4c89331c1b68d5e0c82cfca27aeb3dbb9801558256ca4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

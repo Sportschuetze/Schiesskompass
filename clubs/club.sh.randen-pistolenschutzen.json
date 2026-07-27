@@ -6,27 +6,30 @@
     "canton" : "SH",
     "externalId" : "club.sh.randen-pistolenschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.sh.randen-pistolenschutzen.jpg",
     "name" : "Randen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Randen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-57e818d636061a7413e545136d884181afc5a100c1e3fbe46fbf443e0d9c952a",
+  "contentHash" : "sha256-e10c7192c617ac8a9731fa339f4086a436e6da1f67e7f4951f316fc805ffb52b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

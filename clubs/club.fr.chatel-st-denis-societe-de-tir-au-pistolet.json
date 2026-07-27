@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Châtel-St-Denis Société de tir au Pistolet",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Châtel-St-Denis ST au Pistolet",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6eba2080c1486411af30e6144eadbf00e7368b064c5a4c0694594f6f1916ce49",
+  "contentHash" : "sha256-dfcb1b213f3b385d07e8d58bc3c6191cc3fb059e0506ab2370b155ccb919785a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

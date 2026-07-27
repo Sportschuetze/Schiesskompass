@@ -6,23 +6,26 @@
     "canton" : "TG",
     "externalId" : "club.tg.ermatingen-pistolenschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.tg.ermatingen-pistolenschutzen.jpg",
     "name" : "Ermatingen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ermatingen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-aea3673e6660b690a4a0c8c2bfd68c8cdd51e31fc840be9be4d6ae634dfd4a27",
+  "contentHash" : "sha256-c4a33ac3648c625942bdeaf554d850f87ca2620113e873602ee043d60a6682ad",
   "events" : [
     {
       "championshipTags" : "",
@@ -83,7 +86,7 @@
       "title" : "71. Pistolen-Gangfisch-Schiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

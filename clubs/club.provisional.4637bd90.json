@@ -5,28 +5,29 @@
     ],
     "canton" : "UR",
     "externalId" : "club.provisional.4637bd90",
+    "foundedYear" : 1924,
     "location" : "",
     "name" : "Spiringen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Spiringen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-96fb7297931371f6ca20a2446475345928de9546a47652a654546e3a949c2956",
+  "contentHash" : "sha256-95da0626f142ac6edc8b0b0df9651aa72ce8e89c5131a920b6b8ba925d32dec6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

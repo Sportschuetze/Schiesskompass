@@ -6,27 +6,29 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.fd3e18a7",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.fd3e18a7.jpg",
     "name" : "Dielsdorf Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dielsdorf SG",
+    "sourceURL" : "www.sgdielsdorf.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgdielsdorf.ch"
   },
-  "contentHash" : "sha256-af9c9ed8e138d787b26c1d00e9af098535cc69246e673339125d1f3902fee603",
+  "contentHash" : "sha256-395973dddfd4e3db30df0768a0f7878d2e82645c7344baddbaa5e8c56c1c251f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

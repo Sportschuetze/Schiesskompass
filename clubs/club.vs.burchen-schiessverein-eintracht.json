@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Bürchen Schiessverein Eintracht",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bürchen SV Eintracht",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8309e6fd32ab86811183e5e7a8936e70d03e652c8cc1b0220aef049c0bf5c574",
+  "contentHash" : "sha256-2a72c97fb3eb157760c7b30f36c1f11bc620fb6f7051c6f721f9b4cab1bf6553",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

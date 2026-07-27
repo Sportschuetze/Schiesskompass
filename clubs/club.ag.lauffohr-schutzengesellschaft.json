@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.lauffohr-schutzengesellschaft",
+    "foundedYear" : 1876,
     "location" : "",
     "name" : "Lauffohr Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lauffohr SG",
+    "sourceURL" : "www.sg-lauffohr.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-lauffohr.ch"
   },
-  "contentHash" : "sha256-972b72ea838c7afc9dcf2a73202a761fd389b1bb4ac0769b0703ca8b72377052",
+  "contentHash" : "sha256-70e9dd59684826fce427b3780c7b862daa4deb935bfdd657330ad20c81bc2e79",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

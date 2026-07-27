@@ -6,27 +6,29 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.b7698c2d",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.b7698c2d.jpg",
     "name" : "Regensdorf-Watt Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Regensdorf-Watt SG",
+    "sourceURL" : "www.sgrw.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgrw.ch"
   },
-  "contentHash" : "sha256-4b65c4274dff09586722f56f4e5150bcc4ff31935f9c7fc93fde09464355f7c5",
+  "contentHash" : "sha256-e250bc960113c0e54362df65f19163d2419c12456ddf5b5459ed4ad53d815b62",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

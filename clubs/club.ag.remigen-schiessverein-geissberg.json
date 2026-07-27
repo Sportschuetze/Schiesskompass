@@ -6,27 +6,28 @@
     "canton" : "AG",
     "externalId" : "club.ag.remigen-schiessverein-geissberg",
     "location" : "",
+    "logoPath" : "logos\/club.ag.remigen-schiessverein-geissberg.jpg",
     "name" : "Remigen Schiessverein Geissberg",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Remigen SV Geissberg",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-45b94fc704141de277ff6a9d20f4cad60f6e171dd1d2a1bfb80ce7ef311099ca",
+  "contentHash" : "sha256-1681ce710d2d34e553ca31bbf0de1f0bab224a64b8b167a14612388cc9407007",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,23 +6,25 @@
     "canton" : "SG",
     "externalId" : "club.sg.balgach-rebstein-schutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.sg.balgach-rebstein-schutzenverein.jpg",
     "name" : "Balgach-Rebstein Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Balgach-Rebstein SV",
+    "sourceURL" : "www.svbalgachrebstein.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svbalgachrebstein.ch"
   },
-  "contentHash" : "sha256-764eb402cfbc6cf2903f27123fb1dc02beaff7b5cab8ff84e125642533cb5da9",
+  "contentHash" : "sha256-1a6a2756b4e76d6b58b1f8f96aec5f74b8b3b31c41d4b2bbcd3b2bf0e27f306d",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +65,7 @@
       "title" : "8. Sonnenbräuschiessen und Rheintaler Verbands-Wettkampf 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

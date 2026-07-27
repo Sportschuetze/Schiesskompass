@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Märstetten Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Märstetten SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-494127d6ab2c3be3a634ef1aa709b501ec00cc9f23a97766ed9466a8507a9f8b",
+  "contentHash" : "sha256-e5ae988949b06316c4c6628208bb55e1734e11adc9ee385dd25d19c82692ba7d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

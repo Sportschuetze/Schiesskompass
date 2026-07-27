@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Kradolf-Schönenberg Erlenackerschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kradolf-Schönenberg Erlenacker",
+    "sourceURL" : "www.erlenacker.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.erlenacker.ch"
   },
-  "contentHash" : "sha256-20e958792859f0f34663a17e794c87c60beac2df76956567e03c45f3d15699bd",
+  "contentHash" : "sha256-26b51f860b2ecc520033ed0fc1806c0e5d9dfb15773a1600aa291e682415d743",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

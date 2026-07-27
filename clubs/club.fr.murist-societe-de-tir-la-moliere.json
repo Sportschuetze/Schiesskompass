@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Murist Société de tir La Molière",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Murist SdT La Molière",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f85981b4688af1c3b6163c339b5d2ed9227c3f5083627d228c6c258cb8135161",
+  "contentHash" : "sha256-98d69b5a1e2ac981d97575f9035cdc4e8a949ca1f491bdb4f3e81dead5b95af1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

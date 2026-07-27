@@ -5,28 +5,32 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.berlingen-schutzengesellschaft",
+    "foundedYear" : 1666,
     "location" : "",
     "name" : "Berlingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Berlingen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-442467902d2c10f9c56887cd1d57ba4b39f214031e3bf188c5e90cd3cd108c8f",
+  "contentHash" : "sha256-3f4af8649d57e9d162434341467826bba7e7b1e64418855524d0346140313858",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

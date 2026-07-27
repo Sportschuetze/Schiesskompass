@@ -5,28 +5,35 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.lausanne-societe-de-tir-les-carabiniers",
+    "foundedYear" : 1825,
     "location" : "",
     "name" : "Lausanne Société de tir Les Carabiniers",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lausanne Carabiniers",
+    "sourceURL" : "carabiniers-lausanne.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "carabiniers-lausanne.ch"
   },
-  "contentHash" : "sha256-2ee40ea58b0187dccf8cdce14b17d1f28aa9b306f55522397537d07d71b3447b",
+  "contentHash" : "sha256-ea27cc8cab58497064408d594f17f80c48bb01bbd086f1121e471785c4e33909",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

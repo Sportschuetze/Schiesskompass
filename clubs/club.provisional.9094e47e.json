@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Bönigen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bönigen SG",
+    "sourceURL" : "www.sg-boenigen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-boenigen.ch"
   },
-  "contentHash" : "sha256-d9d3a0d2b246c1bf86be774f51b04a9a69332f6baf1a809975b2a787b4ec425a",
+  "contentHash" : "sha256-c034bded6b53cd416039a0575c0d54df2e7cc2641283b4cb3a5766e0eccfea58",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

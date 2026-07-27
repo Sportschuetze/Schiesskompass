@@ -5,24 +5,25 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.dietschwil-schutzenverein",
+    "foundedYear" : 1880,
     "location" : "",
     "name" : "Dietschwil Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dietschwil SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-94c0a244d29c9d934af5be41168ed5780993c87da517adf3df17ff48dfc881f2",
+  "contentHash" : "sha256-00dd361049fe38b9c60951fa49bedbde230fee2f89ad5ab497173cbf5d77b3b0",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +74,7 @@
       "title" : "77. Freundschaftsschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

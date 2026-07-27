@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Oberdorf und Umgebung Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberdorf uU Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-67c1feca841b2a9b7e2dce310ba4c23ab34438215259871112afc2aa78ab2f4d",
+  "contentHash" : "sha256-b5dc50a4260094901ace66dca863ffed133e24067d6cf631312d4db61f546ff0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,31 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.burglen-pistolenschutzen",
+    "foundedYear" : 1904,
     "location" : "",
     "name" : "Bürglen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bürglen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f5fe881d8c9407bd04d3df24a009cb69ae50c926a2b1ba2b3a83239ea450bd3b",
+  "contentHash" : "sha256-731eff53c38ba61d141aa7328a7b2117a2a90a280c71ad96c0009700d645f9f2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

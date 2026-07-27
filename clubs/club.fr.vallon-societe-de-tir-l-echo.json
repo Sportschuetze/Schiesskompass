@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Vallon Société de tir L'Echo",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vallon ST L'Echo",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-af926e95320719adb4977e9581db2e8cb3af98896cb4f709b60d99baf6343e86",
+  "contentHash" : "sha256-170f7c10aeec85860663dad3466e07c02d71e783215514de121a3f68b88bbaf0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

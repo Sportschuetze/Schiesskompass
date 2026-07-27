@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Matt-Engi Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Matt-Engi SV",
+    "sourceURL" : "www.sv-matt-engi.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sv-matt-engi.ch"
   },
-  "contentHash" : "sha256-f5ca5c3ec050897dde1dd0351fe7e5e397d3f39170e0eb5c3010f9d9c25731e5",
+  "contentHash" : "sha256-315a645f833583eca95ce8f492f82930dc75f2a6b23eb15d969e7df98a56ea93",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

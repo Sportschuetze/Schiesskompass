@@ -5,28 +5,30 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.bockten-feldschutzengesellschaft",
+    "foundedYear" : 1850,
     "location" : "",
+    "logoPath" : "logos\/club.bl.bockten-feldschutzengesellschaft.jpg",
     "name" : "Böckten Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Böckten FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b16687f7485f5aa3d802346f5eb2d7c62ef2ca39042d4f66a6bbce8049f818ab",
+  "contentHash" : "sha256-c670d0c4ad05be202a4704baf9005788bac3a33622f1edc3460c93f120f5f530",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

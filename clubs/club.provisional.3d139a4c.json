@@ -8,25 +8,30 @@
     "location" : "",
     "name" : "Mühleberg Sportschützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mühleberg Sport",
+    "sourceURL" : "sportschuetzen-muehleberg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "sportschuetzen-muehleberg.ch"
   },
-  "contentHash" : "sha256-bdfed9c31e56296fca20c93d8adfe70b411a8893f2680855f114a6b952c42beb",
+  "contentHash" : "sha256-4524a4013ec3e3014fa15f4aa154f0d78d455fb97c76cc849bc252992089ec70",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

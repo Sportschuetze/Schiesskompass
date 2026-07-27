@@ -5,28 +5,33 @@
     ],
     "canton" : "NW",
     "externalId" : "club.nw.beckenried-schutzen",
+    "foundedYear" : 1833,
     "location" : "",
     "name" : "Beckenried Schützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Beckenried S",
+    "sourceURL" : "https:\/\/www.schuetzen-beckenried.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.schuetzen-beckenried.ch\/"
   },
-  "contentHash" : "sha256-795ae6153234e3cfb1945b1a412f32a1875a2df6405879227ff43ceb407316b6",
+  "contentHash" : "sha256-ebdf5ce1cb9e2a19a098932d127831f4cd2fe4154392a5a451efcbeb059b13c1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

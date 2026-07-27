@@ -5,28 +5,31 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.mezieres-societe-de-tir-pistolet-du-jorat",
+    "foundedYear" : 1932,
     "location" : "",
     "name" : "Mézières Société de tir Pistolet du Jorat",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mézières STP du Jorat",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-021b329faf856b4268b6ed6ccb7a699e4f97ebf9f0c60cca2c606321e7b22fa2",
+  "contentHash" : "sha256-8e3a811a2f38fec8e2ca834aba07472e32ecf712514d127ef0817223f5c53f54",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

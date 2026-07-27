@@ -5,28 +5,35 @@
     ],
     "canton" : "GE",
     "externalId" : "club.ge.geneve-exercices-de-l-arquebuse-et-la-navigation",
+    "foundedYear" : 1474,
     "location" : "",
     "name" : "Genève Exercices de l´Arquebuse et la Navigation",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Genève Arquebuse",
+    "sourceURL" : "http:\/\/www.arquebuse.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "http:\/\/www.arquebuse.ch\/"
   },
-  "contentHash" : "sha256-4b4e2adac777fe91caf57421b035c81e7c7a94f771e2be36496aa99318ba8c4f",
+  "contentHash" : "sha256-ae0c9c39defd01943abda75c9915cfbde687732422982774b56f3b4dadb07b43",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Salvenach-Jeuss Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Salvenach-Jeuss FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6cbddaf05068e46c1bd87af258d18b3cab114f3916391105ed2aa898d8e38223",
+  "contentHash" : "sha256-ae2d8c584ad19b4f73c59d657d46cad13f9c7ef615c6e7d526998f908d525064",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

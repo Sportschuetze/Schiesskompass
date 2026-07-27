@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.ba7061cc",
+    "foundedYear" : 1905,
     "location" : "",
     "name" : "Oerlingen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oerlingen FSG",
+    "sourceURL" : "fsgoerlingen.jimdofree.com",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "fsgoerlingen.jimdofree.com"
   },
-  "contentHash" : "sha256-8fd5cce657f922799eaa068960a22561c1529a2cbe75b12c8b8b420fd86e1720",
+  "contentHash" : "sha256-3111435b0c3e843cc113d4b09eba03cdf868fb317c835f8e09ebcfbee5f707ec",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

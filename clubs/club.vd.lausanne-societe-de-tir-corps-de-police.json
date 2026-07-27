@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Lausanne Société de tir Corps de Police",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lausanne ST Corps de Police",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ec4c0ba2e0f2b5e9f20b335bb4ff2e5250fb36de8a52b99ad6370364ad61e8d2",
+  "contentHash" : "sha256-c96e368f0ffae798329eca2e48543a565e76269eb09ab657891b765e0e5d8cac",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

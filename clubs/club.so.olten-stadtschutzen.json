@@ -8,25 +8,30 @@
     "location" : "",
     "name" : "Olten Stadtschützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Olten Stadt",
+    "sourceURL" : "www.stadtschuetzen-olten.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.stadtschuetzen-olten.ch"
   },
-  "contentHash" : "sha256-6ef879d89fb9d9a6017a05755fb14de3a46cd6b6b71e1c4819b171ec637bbe0d",
+  "contentHash" : "sha256-74a9106a923ef827c554a3ef7260e1837eb611e32e08fc25c6c16cfdde2c135c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

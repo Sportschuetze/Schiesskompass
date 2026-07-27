@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Unterfrittenbach Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Unterfrittenbach FS",
+    "sourceURL" : "https:\/\/www.fsunterfrittenbach.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.fsunterfrittenbach.ch\/"
   },
-  "contentHash" : "sha256-7feb863b4544ab877be6dbc2eae9f322dc905d41b8e9ad2265183ae995a00e97",
+  "contentHash" : "sha256-4ec990c8f9217426fb34d139f0468bd4ecb02d9b20307ac9771e1f45ee0343af",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

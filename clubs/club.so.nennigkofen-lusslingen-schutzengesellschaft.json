@@ -5,28 +5,31 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.nennigkofen-lusslingen-schutzengesellschaft",
+    "foundedYear" : 1879,
     "location" : "",
+    "logoPath" : "logos\/club.so.nennigkofen-lusslingen-schutzengesellschaft.jpg",
     "name" : "Nennigkofen-Lüsslingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Nennigkofen-Lüsslingen SG",
+    "sourceURL" : "sgnl.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "sgnl.ch"
   },
-  "contentHash" : "sha256-dad851927b8ad94b0bed6dd45effc7bea082772a5173c13dabe18f837aa51280",
+  "contentHash" : "sha256-3997f94867d8b9d80b7828a620c416de6b81e1d5038fd2903561dd53235a6052",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

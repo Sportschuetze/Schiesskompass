@@ -5,28 +5,32 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.niedergosgen-pistolenschutzen",
+    "foundedYear" : 1992,
     "location" : "",
     "name" : "Niedergösgen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niedergösgen PS",
+    "sourceURL" : "https:\/\/ps-niedergoesgen.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/ps-niedergoesgen.ch\/"
   },
-  "contentHash" : "sha256-84e8d2f580f41bb55b1bb2f9d31a76a7aa85f2430aee5cfb65f2a57b2792827e",
+  "contentHash" : "sha256-bbd27a8259b4c6edafa1d929e401cfc3f9456344356b19d1cf9c0b6cd7d00cf3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

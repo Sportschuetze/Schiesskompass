@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Uezwil-Sarmenstorf Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Uezwil-Sarmenstorf SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7666b5e0c1f208d1a62d6c73cc156c68a5a503ac93e02d808d0a10b3dc6fd8d0",
+  "contentHash" : "sha256-dee96b51bf1d1cae1d1e64f4ff122c4710e2755a5d46e550bb1925df8cc8ca27",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

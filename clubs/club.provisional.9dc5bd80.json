@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Schleinikon Schiessverein von der Lägern",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schleinikon SV von der Lägern",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8044b43a0fb9e43dc70a3604b94cd74c5ba057522d6fbbb12597b1c73c937082",
+  "contentHash" : "sha256-8ff7023bb7d517f6a28451ef6a8f64e9ad1fa030a83675ea3e818f7da4fe6e4f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

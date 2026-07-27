@@ -5,28 +5,31 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.grusch-freischutzen",
+    "foundedYear" : 1904,
     "location" : "",
+    "logoPath" : "logos\/club.gr.grusch-freischutzen.jpg",
     "name" : "Grüsch Freischützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Grüsch FS",
+    "sourceURL" : "www.freischützengrüsch.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.freischützengrüsch.ch"
   },
-  "contentHash" : "sha256-0ace06fcf64e5428c777f4d2f9a83171bec20b921cb157eb051c31b660d75608",
+  "contentHash" : "sha256-cdeddcde51643ffa0ca2e8fe38ff24fd9825b3439b3d663623c1df86576046dd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

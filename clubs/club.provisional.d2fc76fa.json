@@ -6,27 +6,28 @@
     "canton" : "BE",
     "externalId" : "club.provisional.d2fc76fa",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.d2fc76fa.jpg",
     "name" : "Aarberg Mühlau VSG",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aarberg Mühlau VSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ee3de1bab49b42ca1ab7527b6af4e13b797d396c8da2f2b09b29ec331d39d1b7",
+  "contentHash" : "sha256-29d1b7c6ecad8adb13c6dc76511382e0893fb9b359a0a790e39fe959101ff0d1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

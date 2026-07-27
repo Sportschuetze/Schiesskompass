@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Rothrist Arbeiter-Schiess-Verein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rothrist ASV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-37dd8a6ce25f2d9c0e09b99dc33318f551b57aea32b1a42fd31a60369bb6626f",
+  "contentHash" : "sha256-d705978854f15ebd1872a6d16b6e0488a47f61a244485ddd75b4ab2d7b5e0a4a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.daillens-penthaz-ste-les-amis-du-tir",
+    "foundedYear" : 2000,
     "location" : "",
     "name" : "Daillens-Penthaz Sté Les Amis du Tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Daillens-Penthaz Sté Les Amis du Tir",
+    "sourceURL" : "www.daillenspenthazamisdutir.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.daillenspenthazamisdutir.ch"
   },
-  "contentHash" : "sha256-ef5b4650dd11914a6b43d09cdfce9d7063051046206964f76038db22b3d2ccd6",
+  "contentHash" : "sha256-33515f41068014a6d7be861f9c86fecbde63cd7c4b5b1d8f8877f2a329e81039",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

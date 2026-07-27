@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Amsteg-Erstfeld Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Amsteg-Erstfeld SG",
+    "sourceURL" : "www.sg-amsteg-erstfeld.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-amsteg-erstfeld.ch"
   },
-  "contentHash" : "sha256-9652523e15ddb55f2e9021d5f9a5957535eb742cb7b9dbcb7162c8e2d9a5eee1",
+  "contentHash" : "sha256-e6af75b36d8413fa79e160be762ef375f4c54acf387cae37067d6bc41758c5cb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Wollerau Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wollerau SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0965519c199bc1fb8e78c8924cb96eff638bbcb1c16dfa6602e90512d82e82a0",
+  "contentHash" : "sha256-12e2de66ef5d40d7c0dbd4a4aeb7007e86b840ed0099d3a2d1d23fececbb28ec",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

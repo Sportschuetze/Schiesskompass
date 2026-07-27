@@ -5,24 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.9d94d98d",
+    "foundedYear" : 1835,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.9d94d98d.jpg",
     "name" : "Uster Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Uster SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bb5b9e1cff4b41693eaf23f7d4de0c14569a1303421c10f596fb1ba74bab2e1d",
+  "contentHash" : "sha256-b4788138b3dadc298a16b5b4203551df1b56387e405a17188f485114b548669f",
   "events" : [
     {
       "championshipTags" : "",
@@ -88,7 +94,7 @@
       "title" : "56. Ustertag-Schiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

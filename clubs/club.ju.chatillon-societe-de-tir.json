@@ -5,28 +5,29 @@
     ],
     "canton" : "JU",
     "externalId" : "club.ju.chatillon-societe-de-tir",
+    "foundedYear" : 1920,
     "location" : "",
     "name" : "Châtillon Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Châtillon ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1d2d047c3cd40b797480cdaa038f1929d7efa7cd83f69f2ce8de9ccdef976942",
+  "contentHash" : "sha256-ef6aa025eda4cf503f7152dcacc251a3aeb7333b7e6123998851898545ca2ccb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

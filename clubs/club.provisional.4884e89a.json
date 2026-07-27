@@ -5,24 +5,29 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.4884e89a",
+    "foundedYear" : 1901,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.4884e89a.jpg",
     "name" : "Wädenswil Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wädenswil SV",
+    "sourceURL" : "www.svwaedenswil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svwaedenswil.ch"
   },
-  "contentHash" : "sha256-c0b4a6faa43573729409590062a3a5941b418ade75681bda9a0e0921fab7f5df",
+  "contentHash" : "sha256-0b48828440316b9eadc78272b44e8aec5a4017c514a34794d9cdc0532ffcdf6a",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,7 +63,7 @@
       "title" : "41. General Werdmüller-Schiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

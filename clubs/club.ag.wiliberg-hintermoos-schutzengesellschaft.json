@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.wiliberg-hintermoos-schutzengesellschaft",
+    "foundedYear" : 1875,
     "location" : "",
+    "logoPath" : "logos\/club.ag.wiliberg-hintermoos-schutzengesellschaft.jpg",
     "name" : "Wiliberg-Hintermoos Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wiliberg-Hintermoos SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-85242d6e88fefb20a16b2622065923fdddf7bbde9e2ee53e00a9da2736637585",
+  "contentHash" : "sha256-f9e00ce9dd16e3179350728bf51bed8369b086c6a03207ba35744cd3d4040192",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

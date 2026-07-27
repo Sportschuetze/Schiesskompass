@@ -6,27 +6,28 @@
     "canton" : "LU",
     "externalId" : "club.provisional.90657949",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.90657949.jpg",
     "name" : "Santenberg Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Santenberg SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-800c074459bfd6a4840fa9b0c3bfd4c9d4aa538f896944df88b3e18c83465685",
+  "contentHash" : "sha256-9d0e0438bb88fa6c52d874e19a6eef809172f170715eeebce22259b85f02cc65",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

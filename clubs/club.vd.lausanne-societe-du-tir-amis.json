@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Lausanne Société du tir Amis",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lausanne ST Amis",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3978605ee267cdd0cdec0e5671d85717be0e341b7fbe03abb300d34217c72ded",
+  "contentHash" : "sha256-4c254e4dbdf8cc0323289f38aaa5d2d564bb97a8dd73a03d2f42447e5cc65632",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

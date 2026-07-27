@@ -5,28 +5,30 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.bas-intyamon-societe-de-tir",
+    "foundedYear" : 2000,
     "location" : "",
+    "logoPath" : "logos\/club.fr.bas-intyamon-societe-de-tir.jpg",
     "name" : "Bas-Intyamon Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bas-Intyamon SdT",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ef0cee152d2aab4ec48a60a99ec91aba6285e25b2eaf823cdb0666b324730085",
+  "contentHash" : "sha256-dd56acc1ce93a09a57ed4f809bf766063ef5881c5378bf16e9d22972b53bb75c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

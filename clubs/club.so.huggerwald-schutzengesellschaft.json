@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Huggerwald Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Huggerwald SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8da501cb85b70ad28eb5d123d3a59270e2eec2a5c577557a26859f8977d65121",
+  "contentHash" : "sha256-a29978da9f1498f4c6bafe242a536d94cabcc8b4bca3e3e197ea1a44a5b3c53f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

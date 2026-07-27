@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Apples Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Apples ST",
+    "sourceURL" : "www.tirapples.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tirapples.ch"
   },
-  "contentHash" : "sha256-328154c528938088867a7d6632e7fba62e8f3fb6d053da32d6e6805b269a6694",
+  "contentHash" : "sha256-754a2d17995ea2e8c331b7bc5c9afd506c977aea48b8ce719c71a4075a278e06",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

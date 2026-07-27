@@ -5,28 +5,33 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.binningen-feldschutzen",
+    "foundedYear" : 1872,
     "location" : "",
+    "logoPath" : "logos\/club.bl.binningen-feldschutzen.jpg",
     "name" : "Binningen Feldschützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Binningen FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d25f3f31e06512a4d8f81b7b922561868739504ea1472c582d64d35359b2a6e0",
+  "contentHash" : "sha256-e6c5efb6b342646a3adcfc129825235eb0f64fd1a8e957d828e2db7f7bc7d1bf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

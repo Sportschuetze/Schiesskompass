@@ -5,28 +5,33 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.a2829fb8",
+    "foundedYear" : 1928,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.a2829fb8.jpg",
     "name" : "Flurlingen-Ausseramt Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Flurlingen-Ausseramt PC",
+    "sourceURL" : "www.pcflurlingen.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pcflurlingen.ch\/"
   },
-  "contentHash" : "sha256-ab9b751269b67654b7e37d5d8ba556fe558a12a04845584b956ef1ae40eb21a4",
+  "contentHash" : "sha256-99a02c250ba23b79d3858bb76e8c9d295fa7908985c6bb4efa8763bdcb50ba07",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

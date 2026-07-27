@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Hunzenschwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hunzenschwil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bfc64be3316d9435f923304afaac1ea1cab3d12b82ef55238e60a5a69c9e752e",
+  "contentHash" : "sha256-a1d52c7fff8d4c559c7c983fa9bc5d8ac7393780674590c367bf5ed7a455c1d8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

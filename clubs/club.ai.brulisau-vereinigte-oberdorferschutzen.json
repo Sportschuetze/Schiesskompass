@@ -6,27 +6,28 @@
     "canton" : "AI",
     "externalId" : "club.ai.brulisau-vereinigte-oberdorferschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.ai.brulisau-vereinigte-oberdorferschutzen.jpg",
     "name" : "Brülisau Vereinigte Oberdorferschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Brülisau Vereinigte OS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e4975c09f01f48b74f6c678aa7098ed931bec14af0a8ac4eb30b2e87a9ef9d84",
+  "contentHash" : "sha256-56c6cf7e1b284af4f274c14d37742c5f725738607a06a749b3138c13eb44d29c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

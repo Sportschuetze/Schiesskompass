@@ -5,28 +5,35 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.rona-uniun-da-tiradours-surses",
+    "foundedYear" : 2020,
     "location" : "",
+    "logoPath" : "logos\/club.gr.rona-uniun-da-tiradours-surses.jpg",
     "name" : "Rona Uniun da tiradours Surses",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rona UdT Surses",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ac232767d7726c75003c00146e4aa9205bca0ee7f57262d8db9c69e257192b73",
+  "contentHash" : "sha256-057d2eeb7dae0594026a6ccedbbc7464d45b1ee58d2e1c6b5505a1b211538e9a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

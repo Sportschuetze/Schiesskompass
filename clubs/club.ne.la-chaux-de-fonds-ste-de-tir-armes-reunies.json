@@ -5,28 +5,34 @@
     ],
     "canton" : "NE",
     "externalId" : "club.ne.la-chaux-de-fonds-ste-de-tir-armes-reunies",
+    "foundedYear" : 1820,
     "location" : "",
     "name" : "La Chaux-de-Fonds Sté de tir Armes-Réunies",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "La Chaux-de-Fonds ST Armes-Réunies",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-88f7b10aaa3ed47cda4be0e835713b11a3674ab246ea6f7917728e6c2527506c",
+  "contentHash" : "sha256-efc130dd1e27b485bd258ae8716788ee2984c57e4b28b68c83352b7f55847f44",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

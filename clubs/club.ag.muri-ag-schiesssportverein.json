@@ -5,28 +5,34 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.muri-ag-schiesssportverein",
+    "foundedYear" : 1941,
     "location" : "",
     "name" : "Muri AG Schiesssportverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Muri AG SSV",
+    "sourceURL" : "https:\/\/www.ssvmuri.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.ssvmuri.ch\/"
   },
-  "contentHash" : "sha256-231c97b3b97e85c240b4f60bb9a339b48bcc3004ef48e9aa01c3dd99518b5a6a",
+  "contentHash" : "sha256-72d47e438fea31372a97f28dfb0796d7915957726465b8802a97a5fcb8ea670b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

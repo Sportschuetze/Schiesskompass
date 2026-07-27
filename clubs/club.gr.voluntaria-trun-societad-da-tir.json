@@ -5,28 +5,30 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.voluntaria-trun-societad-da-tir",
+    "foundedYear" : 1842,
     "location" : "",
     "name" : "Voluntaria Trun Societad da tir",
     "offeredDisciplines" : [
-
+      "G10",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Voluntaria Trun ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-38af53d8499dafe0c9fd536bea85438562193ed7de6933aaa75ee0d832d7d5a7",
+  "contentHash" : "sha256-afa017610be24435d1718564e7acb73745f7afe483a22d9efffe5e3b95caa31e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

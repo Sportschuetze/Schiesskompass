@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Les Posses-sur-Bex Société de tir L'Avançon",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Les Posses-sur-Bex ST L'Avançon",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3b2409027423883f282581434dfe3bfa82e7cdc8612a2babaa1a981c4e4bc80a",
+  "contentHash" : "sha256-18073c1562d494c78bc46c07c9802555ae59217642a5da2d4abb110219a5d9b2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

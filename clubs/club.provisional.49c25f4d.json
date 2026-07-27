@@ -6,23 +6,25 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.49c25f4d",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.49c25f4d.jpg",
     "name" : "Winterthur-Stadt Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Winterthur-Stadt Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ad28e7b1ae44ff5b03bab6f9289785bd2beacf9d21f63ad8dc8a195401906215",
+  "contentHash" : "sha256-d2ae44b8dd1c51dd11d3641926dea1df9805ff44f498e99c7f2dadf324baa8c5",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +65,7 @@
       "title" : "15. Winterthurer Liegendmatch"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

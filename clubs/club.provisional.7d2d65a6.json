@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Lindenholz Sportschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lindenholz Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-84fc65a1a3676e2d47ba0f6cca917e8f3f2c7d3426087f4e839b6ccceebc4f79",
+  "contentHash" : "sha256-62b6696ae309d5a3e0c0bba9ae64215dd5ae75198539ca389f14a62bd33655f2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.97f85011",
+    "foundedYear" : 1884,
     "location" : "",
     "name" : "Gelterfingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gelterfingen SG",
+    "sourceURL" : "www.sggelterfingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sggelterfingen.ch"
   },
-  "contentHash" : "sha256-de1464accf288aab30e385014bf1928985387d00b8276e06ed14eeddfd2a922a",
+  "contentHash" : "sha256-e5f6e224503247e43a8b1165b64fe6e3f14fa992070cea6acc4aef5aec76f500",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

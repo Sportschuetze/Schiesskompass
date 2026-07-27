@@ -6,27 +6,29 @@
     "canton" : "VD",
     "externalId" : "club.vd.bursinel-ste-de-tir-sportif-pc-ac",
     "location" : "",
+    "logoPath" : "logos\/club.vd.bursinel-ste-de-tir-sportif-pc-ac.jpg",
     "name" : "Bursinel Sté de tir sportif PC - AC",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bursinel STS PC - AC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-acbf6e6e110c6b01629abc11adef8271edc0d5cbbcb7ca5e2525c41f755b70fc",
+  "contentHash" : "sha256-763b65006e2a0fd640b0a67c3fb0a2fcebb9dd6c3824dbbcf1f406a3800f887c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

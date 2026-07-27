@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Aedermannsdorf-Herbetswil Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aedermannsdorf-Herbetswil Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e89e1824bbb5521174baacc129f12190d78821322cbe1e1c2f560d6934e3af3a",
+  "contentHash" : "sha256-679cad3adf059753d3007de9c62b69fcddf49a20d6c8103a0300f3d3c8d43145",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

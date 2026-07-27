@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Kaltbrunn Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kaltbrunn SV",
+    "sourceURL" : "www.svkaltbrunn.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svkaltbrunn.ch"
   },
-  "contentHash" : "sha256-b92d77ad3751e1762986eecf08a90da8aa095b9a3661f2aa98bbd8c830335510",
+  "contentHash" : "sha256-25ff36d2c588ecc52af6991d2ca1bdc6b4e9e6326b3897b86654d67f28c61d0b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

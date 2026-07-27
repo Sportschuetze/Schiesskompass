@@ -5,28 +5,32 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.2dfd3e2c",
+    "foundedYear" : 1992,
     "location" : "",
     "name" : "Biel Schützenverein der Stadt",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Biel SV der Stadt",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-eba9f7507b037fc1387d63e5c053058c1e2adf92f608bdff1b14c91da6266ba9",
+  "contentHash" : "sha256-a46326fee477e7e2d96707e1b94070674ce8a7c7faa9d53b6960b1e0f27547d7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Rüschegg Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rüschegg Schützen",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f834a5f6971728f05680fc35e0f9b0928e1b51fc527143d5564d4cc3022e6bd1",
+  "contentHash" : "sha256-d6abe404d806c8f66ce1715fde08d7775c6234cb60c91c2e3e1240b138a3ed35",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

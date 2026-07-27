@@ -6,27 +6,28 @@
     "canton" : "TG",
     "externalId" : "club.tg.lengwil-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.tg.lengwil-schutzengesellschaft.jpg",
     "name" : "Lengwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lengwil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-886c9bae8d853256c0e661ef269a467bae02781c6ec6aa6ac2d5a83b22f76c02",
+  "contentHash" : "sha256-c16ad2e6fcf962da327da389e4270732ad75c846db5742f6a191eb8a66fdb4be",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

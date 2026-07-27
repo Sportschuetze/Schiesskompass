@@ -8,21 +8,24 @@
     "location" : "",
     "name" : "Eigenamt Pist.-& Rev.-Klub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Eigenamt PRK",
+    "sourceURL" : "www.prkeigenamt.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.prkeigenamt.ch"
   },
-  "contentHash" : "sha256-226899603d2dda240829ac2cda09fa04014725ad879f8a3a65575409663fec6d",
+  "contentHash" : "sha256-d202fa6fbf5bf6228409026af384aea6a0a1300ebfddae98dc653d97e3c498b5",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +76,7 @@
       "title" : "29. Fuchshaldeschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

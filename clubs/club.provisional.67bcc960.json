@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Walterswil BE Feldschützen-Gesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Walterswil BE FS-Gesellschaft",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8e94f2f9b145befa60aafbd5ff94525a451504ad42990c08c3d203d00ac7385c",
+  "contentHash" : "sha256-c611f8a0fbd4100c76caa14a4d2a90f6e5e2b11a5adae10ed49c06bf2acded0e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

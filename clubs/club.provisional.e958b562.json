@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.e958b562",
+    "foundedYear" : 1883,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.e958b562.jpg",
     "name" : "Mattstetten Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mattstetten FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7789a212d98e44db76784f99219c405a2905b0ae0d1fe4d8404d19f4f6d16e30",
+  "contentHash" : "sha256-ba8b64144fcdaa534a8b51e654f881f0d175a8cc51f53ba7fedc8b0b4d4cde2a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

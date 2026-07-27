@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Balfrin Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Balfrin SV",
+    "sourceURL" : "sv-balfrin.jimdofree.com\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "sv-balfrin.jimdofree.com\/"
   },
-  "contentHash" : "sha256-da7d2cd32aed73ac5319b7980aba96367b71d1dd780c5b19d7065eb0b6356b3c",
+  "contentHash" : "sha256-9602d5ed031b00636ed516355318bbed0bfc6013f0d85020d518895d20993a48",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

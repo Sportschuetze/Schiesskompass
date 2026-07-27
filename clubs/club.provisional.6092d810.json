@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Unterengstringen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Unterengstringen SG",
+    "sourceURL" : "www.sgue.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgue.ch"
   },
-  "contentHash" : "sha256-a716a1d2124cde4c9dfab0988df704ba21e64677a6bab6546c9af2143ae10de9",
+  "contentHash" : "sha256-d7cccc73e39055142bc09fe365dc25657c4a68f2d578b990f4aa369bda62ab50",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

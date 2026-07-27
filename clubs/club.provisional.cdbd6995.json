@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Langnau-Bärau Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Langnau-Bärau SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cbc426cc6e7178b933bfee05b080aa467336937dec0b9d34eb3f0492f9f60207",
+  "contentHash" : "sha256-f6ffa1779b8912a1c93db6f2f83a631902ded19c2a9758996ae2e61341d8bfff",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

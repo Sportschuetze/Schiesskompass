@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Sumiswald Revolverclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sumiswald RC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4a198de8d5fecda583a075f3553f94d69b1190dd11a13614e97129105ab4e7c8",
+  "contentHash" : "sha256-2e394f2cbb61859eaa23e556753614c89a3df3654d3e5f4d6c29a59c1bc701bd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

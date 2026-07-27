@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Attalens Société des Carabiniers",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Attalens SdT des Carabiniers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a019313ac3ebe2898b5e0665c2144cae91c9f1c9e04f17f8896cc16ae50ad858",
+  "contentHash" : "sha256-2eb326aa24e1c1d3e084f7aa3c511c66c8ec76d29a63780257ebaf91459188ce",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

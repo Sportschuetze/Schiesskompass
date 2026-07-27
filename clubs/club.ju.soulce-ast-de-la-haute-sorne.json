@@ -5,28 +5,31 @@
     ],
     "canton" : "JU",
     "externalId" : "club.ju.soulce-ast-de-la-haute-sorne",
+    "foundedYear" : 1898,
     "location" : "",
+    "logoPath" : "logos\/club.ju.soulce-ast-de-la-haute-sorne.jpg",
     "name" : "Soulce AST de la Haute-Sorne",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Soulce AST Haute-Sorne",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-42805e652e6ec3b7df8f352ebf876c8de294b720a7e784009bf5b68e98eb3ebf",
+  "contentHash" : "sha256-9295bb89135a27a6b1a93920a80d3f36b5321958c0bb7232cce0ca639751c50a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

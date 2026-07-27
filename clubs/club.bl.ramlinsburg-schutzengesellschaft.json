@@ -5,28 +5,30 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.ramlinsburg-schutzengesellschaft",
+    "foundedYear" : 1880,
     "location" : "",
     "name" : "Ramlinsburg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ramlinsburg SG",
+    "sourceURL" : "www.schuetzenhaus-ramlinsburg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schuetzenhaus-ramlinsburg.ch"
   },
-  "contentHash" : "sha256-2535e30a742b500567e37f85a04a97c049d0421575b167945e5a9bd16dd163d3",
+  "contentHash" : "sha256-b4e6bffb629cc718c76f5bf0aa9958694a0e005717c279009dadb41096642c16",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

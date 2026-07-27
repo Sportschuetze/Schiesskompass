@@ -5,28 +5,30 @@
     ],
     "canton" : "UR",
     "externalId" : "club.provisional.4b333762",
+    "foundedYear" : 1885,
     "location" : "",
     "name" : "Seedorf UR Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Seedorf UR SG",
+    "sourceURL" : "https:\/\/sgseedorfur.clubdesk.com\/home\/Willkommen",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/sgseedorfur.clubdesk.com\/home\/Willkommen"
   },
-  "contentHash" : "sha256-b7361323c103597ce806b03e14debf29f21cd43a3c092f54634d725de72df345",
+  "contentHash" : "sha256-df1761ee805a766a839d15541a060a693edd14ec8950365d6547cc19901ace1c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,31 @@
     "location" : "",
     "name" : "Muttenz Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Muttenz SG",
+    "sourceURL" : "www.sgmuttenz.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgmuttenz.ch"
   },
-  "contentHash" : "sha256-cd922addff028486cceb740f8735011415b228143cb6ee9c3f1ab8f71704d2ba",
+  "contentHash" : "sha256-ac611776b29b99d299b436fa902f0ef4cbd10f37a4df0b5263f696a3bd1512e6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

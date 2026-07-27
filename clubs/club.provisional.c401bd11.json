@@ -5,28 +5,33 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.c401bd11",
+    "foundedYear" : 2011,
     "location" : "",
     "name" : "Züri Schützengesellschaft 9",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Züri 9 SG",
+    "sourceURL" : "www.sg-zueri9.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-zueri9.ch"
   },
-  "contentHash" : "sha256-96171b94924226de6b270c9095e82dd7f72714ebda01d26c0fe40d5e58adf940",
+  "contentHash" : "sha256-5f6afe84907aca4b81a23518b66ff7e9c0a76692288e5eea85bb3358c5d69ad7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

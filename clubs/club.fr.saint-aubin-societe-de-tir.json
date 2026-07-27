@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Saint-Aubin Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Saint-Aubin ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1224af5fef7a6aa641bb1b2e92379c81b425a8e1dea23c989fbbb42f830cb558",
+  "contentHash" : "sha256-5850af4a11f8d31b206e9fdc1d71442e6feadc868154def0b8122ed3e328c2bd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

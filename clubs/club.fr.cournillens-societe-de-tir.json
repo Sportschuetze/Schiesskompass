@@ -5,28 +5,31 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.cournillens-societe-de-tir",
+    "foundedYear" : 1924,
     "location" : "",
+    "logoPath" : "logos\/club.fr.cournillens-societe-de-tir.jpg",
     "name" : "Cournillens Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cournillens ST",
+    "sourceURL" : "www.cournillens-tir.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.cournillens-tir.ch"
   },
-  "contentHash" : "sha256-7dd4862c820708e2b63fce46a970f9dc5ea2dd61e0d9ec9b037be7a2f4273561",
+  "contentHash" : "sha256-9731e9ab83a291f4b03050b88c7c78d26b9f362edee679684046e2114b35b5d9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

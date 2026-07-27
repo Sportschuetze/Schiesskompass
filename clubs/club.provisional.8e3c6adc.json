@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Bätterkinden Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bätterkinden Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-121d5ef3461f81dc8dc250f63f9045c51c42a88e1c1a8cf572754f9fd8d67ad3",
+  "contentHash" : "sha256-5deb9d0faacd251718b77b36bb1caffdf3b349b5424ce2a327ddb6de8a47597d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

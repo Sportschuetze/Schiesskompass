@@ -5,28 +5,30 @@
     ],
     "canton" : "AR",
     "externalId" : "club.ar.stein-schutzenverein",
+    "foundedYear" : 2007,
     "location" : "",
+    "logoPath" : "logos\/club.ar.stein-schutzenverein.jpg",
     "name" : "Stein Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Stein-Hundwil SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8f399314a336b6d29c940bec325aa6a6988afe15bc76925ae5e50266cdd6d82e",
+  "contentHash" : "sha256-d52e96b539def365d51ec0b621300a62b86768e8d25daab01c3f2df218b2de47",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

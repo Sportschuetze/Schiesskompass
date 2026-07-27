@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Essertines-sur-Yverdon Sté de tir Les Mousquetaires du Buron",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Essertines-sur-Yverdon ST Les Mousquetaire",
+    "sourceURL" : "https:\/\/tirduburon.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/tirduburon.ch\/"
   },
-  "contentHash" : "sha256-fe4e10dc9409e2263d5be6408f11081bf4a2da0f38fb08770fc3de7e5a97725f",
+  "contentHash" : "sha256-8bb2be1ad9d473c701fe1f5a14b094a28c20e778e2d59ffb79129dd2498e0743",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Haut-Intyamon Société de tir",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Haut-Intyamon ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9f81ce35074ebf57fc2608f1cd7fa41ebf4674ef7fefe9b1f381ed3079dc5b55",
+  "contentHash" : "sha256-9a7b27968eb697b7a11f7083173a8e57b107adac6b9d165dc3d6db8584aa8e17",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

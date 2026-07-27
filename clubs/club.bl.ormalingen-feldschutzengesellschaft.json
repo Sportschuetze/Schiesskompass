@@ -5,28 +5,30 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.ormalingen-feldschutzengesellschaft",
+    "foundedYear" : 1872,
     "location" : "",
     "name" : "Ormalingen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ormalingen FSG",
+    "sourceURL" : "www.fsg-ormalingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsg-ormalingen.ch"
   },
-  "contentHash" : "sha256-298831cface88ab07480036eeb0e0507afa138bb9ed83cfec62e1a4b164a9a85",
+  "contentHash" : "sha256-5f5617c97966a4cfe607dc08dda4ae98cc5c15a4d5c1d46c39ae200ab0f5c165",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,25 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.dee64ed7",
+    "foundedYear" : 1877,
     "location" : "",
     "name" : "Sünikon Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sünikon SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6db0ced21c046f59341c060ff33eb66d6608866d5e055ae888c35027cc417af5",
+  "contentHash" : "sha256-82cd1c2e9408fcfdd0ba71fe87c723d8440474270fed1bfc7d797efc2e3a59f3",
   "events" : [
     {
       "championshipTags" : "",
@@ -78,7 +79,7 @@
       "title" : "150 Jahr Jubiläum"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

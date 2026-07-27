@@ -5,28 +5,30 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.roggenburg-ederswiler-schutzengesellschaft",
+    "foundedYear" : 1880,
     "location" : "",
+    "logoPath" : "logos\/club.bl.roggenburg-ederswiler-schutzengesellschaft.jpg",
     "name" : "Roggenburg-Ederswiler Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Roggenburg-Ederswiler SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-84fdfdee004f4c8248fcd189f55fa2d09090755d28d709704d2e8162aad5f7dc",
+  "contentHash" : "sha256-c227767b78d575b507d9ab1f78f543a223002b69469fe30d707eb2e6028b94cb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

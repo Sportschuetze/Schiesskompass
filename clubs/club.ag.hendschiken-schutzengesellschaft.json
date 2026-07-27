@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.hendschiken-schutzengesellschaft",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Hendschiken Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hendschiken SG",
+    "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.sg-hendschiken.ch\/"
   },
-  "contentHash" : "sha256-a47872389db1d2c3868f0263da74441163311731aa8e274fd92ef1451663c91b",
+  "contentHash" : "sha256-b84975301fea7c71d08ac40e3b951b76107208bb0963095486da636650c5cf31",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

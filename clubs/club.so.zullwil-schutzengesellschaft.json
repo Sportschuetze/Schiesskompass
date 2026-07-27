@@ -5,28 +5,30 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.zullwil-schutzengesellschaft",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Zullwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zullwil SG",
+    "sourceURL" : "www.sgzullwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgzullwil.ch"
   },
-  "contentHash" : "sha256-312e1fe4f9a2278886e09298627fbcb2cb98292719c53f84c9656e49ff90381e",
+  "contentHash" : "sha256-58d13b73be071ec8cd2cb180c14ee93f10e32c2287d58edf4dc0eee27b3c9ce4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

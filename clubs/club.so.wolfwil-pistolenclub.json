@@ -6,27 +6,30 @@
     "canton" : "SO",
     "externalId" : "club.so.wolfwil-pistolenclub",
     "location" : "",
+    "logoPath" : "logos\/club.so.wolfwil-pistolenclub.jpg",
     "name" : "Wolfwil Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wolfwil PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a8ff4d2fe6040266fa113ffbc855d8bd5a81eea9db53c9df2da3cc36894f13de",
+  "contentHash" : "sha256-9c1bb9641ef20b3f1eceb09cd484066cac8a42ee6f2e5634bbc0785175be3a4e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

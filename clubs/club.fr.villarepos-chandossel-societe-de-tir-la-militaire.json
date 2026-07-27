@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Villarepos-Chandossel Société de tir La Militaire",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Villarepos-Chandossel SdT La Militaire",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-693deeaa2508cbf7112268ff1f9348de48545d7bb422ea3f78ac40719c5ec222",
+  "contentHash" : "sha256-8c4aab5ec476c11f5b0755089d8391e4e14c723373bcaf2e0a2a8896af815df2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

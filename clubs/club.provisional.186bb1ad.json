@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Embrach-Lufingen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Embrach-Lufingen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-22b790d8cc0602bba7601c7f7f3c1d446d2b6be1b0926205c0f67694e08ec9b8",
+  "contentHash" : "sha256-9743032ad8088ec74fe3f4c83498d729f80d8d9a671fe78f2090f890398b77d2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

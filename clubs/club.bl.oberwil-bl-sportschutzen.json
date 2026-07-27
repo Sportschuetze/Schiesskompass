@@ -5,28 +5,32 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.oberwil-bl-sportschutzen",
+    "foundedYear" : 1943,
     "location" : "",
+    "logoPath" : "logos\/club.bl.oberwil-bl-sportschutzen.jpg",
     "name" : "Oberwil BL Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberwil BL Sport",
+    "sourceURL" : "https:\/\/www.sportschuetzen-oberwil.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.sportschuetzen-oberwil.ch\/"
   },
-  "contentHash" : "sha256-84cbcf93110dff2066a2c634dd84c0b444c8c4da9b6b645954dfc2461ea79edb",
+  "contentHash" : "sha256-060c6edc9f643c4def01ad85be0430d9d074f1224e19f1eac1081310df4ba689",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Trimstein-Eichi Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Trimstein-Eichi FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f7c5019cf1f7bdf9861ab63dd1c1799a573ccc0ee997e9c2ffb34b6d6478169f",
+  "contentHash" : "sha256-24c0f77093081d1d90039ff0830084c561649ec04f39eb4416a8be6d08492be8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

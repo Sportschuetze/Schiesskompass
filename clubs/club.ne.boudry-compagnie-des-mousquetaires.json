@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Boudry Compagnie des Mousquetaires",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Boudry Compagnie des Mousquetaires",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6fe54d9f4c5c1d38a409ce418863248a3675573722149eb1af64db7d4be04bb9",
+  "contentHash" : "sha256-4d4ea1494dc029a29e5473ea01d73f3f5b986183f1836ab3cc368fca8ba0a5c9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Wallbach Schützenbund",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wallbach SB",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-167130ae8d40472c865fb61137b003d950756084386ba0323b037570ceb9a2df",
+  "contentHash" : "sha256-3ea69a3fc386738272ba2e5869adc0400fa65a7dbb7874959e35dd094c8f3d1d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Genève Société de Tir Sportif",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Genève ST Sportif",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ad1ff8b66ec1f0ddc654a1e0c7224a376ad72787603df1517ca8ed0c4a055f2a",
+  "contentHash" : "sha256-65b760fa784965915697fdf356a7cc5f8295ada9c52d56de4c602f7cdfd99a45",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

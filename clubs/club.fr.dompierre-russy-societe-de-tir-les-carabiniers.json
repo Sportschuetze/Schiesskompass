@@ -5,28 +5,30 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.dompierre-russy-societe-de-tir-les-carabiniers",
+    "foundedYear" : 1881,
     "location" : "",
     "name" : "Dompierre-Russy Société de Tir Les Carabiniers",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dompierre-Russy ST Les Carabiniers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-546a3c2638c6d7e28121c9acc52ba80a24875a606c58f68f232eee9767671ce4",
+  "contentHash" : "sha256-d4aea08493c4c069f696bcdc9a5311bdd3792ce5fd073deb87f904148b8cecc1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

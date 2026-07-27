@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Semsales Société de tir Les Carabiniers",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Semsales ST Les Carabiniers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c8e9c61aadd2c3448256bbcaf1f214443b7d30686b63a18f3869e43d4e7c66b2",
+  "contentHash" : "sha256-387035386ad89ce4740879ad44ecd57ae482a8c4b639933b55fb84dccf8c97a9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

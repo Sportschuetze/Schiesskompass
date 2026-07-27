@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.langendorf-schutzengesellschaft",
+    "foundedYear" : 1887,
     "location" : "",
     "name" : "Langendorf Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Langendorf SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b2afd575079cd093d7e31f0f97fa8b7b8af1d03f26e72953107493d5f097c1be",
+  "contentHash" : "sha256-386002335f0e8a6cbfc158558f7ed4aa1f771316163b67a041a9b8080cdfd930",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

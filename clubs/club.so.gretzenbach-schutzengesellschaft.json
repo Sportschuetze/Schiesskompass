@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.gretzenbach-schutzengesellschaft",
+    "foundedYear" : 1874,
     "location" : "",
     "name" : "Gretzenbach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gretzenbach SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-61ce4d1ca3216ca3616b4f595c049494139b5a038dcd361d020f3a785ebd9cc1",
+  "contentHash" : "sha256-c499d3ac16c9dc54a06f2c1a31a96156119063f100a7478a7b4b376873486154",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

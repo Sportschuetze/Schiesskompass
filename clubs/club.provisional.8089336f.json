@@ -5,28 +5,32 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.8089336f",
+    "foundedYear" : 1892,
     "location" : "",
     "name" : "Zweisimmen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zweisimmen PS",
+    "sourceURL" : "https:\/\/ps-zweisimmen.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/ps-zweisimmen.ch\/"
   },
-  "contentHash" : "sha256-212a374a87ca7d1a79f2aed9bb2b15dafd1094b5a68b818ee7df88097d200b04",
+  "contentHash" : "sha256-22ce7f02d4bbff7ec7ec994af13e7d1f651a54d2eaa8211613996dba3d105e6a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

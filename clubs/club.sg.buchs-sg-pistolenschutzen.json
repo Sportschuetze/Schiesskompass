@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Buchs SG Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Buchs SG PS",
+    "sourceURL" : "https:\/\/www.pistolenbuchs.ch\/startseite",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.pistolenbuchs.ch\/startseite"
   },
-  "contentHash" : "sha256-3bb7bc626629e0e6337a7dd91b258ccbb20c2587e17650c8768047168a324d91",
+  "contentHash" : "sha256-68f61bbcd320f352c0a91d73e6dc54480569f114e12e1671a60cf2f81dfc0fa8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

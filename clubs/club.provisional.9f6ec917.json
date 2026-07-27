@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Wilderswil Unspunnen-Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wilderswil US",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7208f6f857a99f30c78d35f1cae206383c432687898a4cb7d6c2fc2ed8ea2661",
+  "contentHash" : "sha256-f4a408c5b7a1c15df36e7f5e3cb7d316b5d157ae1131adc4bcff3caef54bdfcd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

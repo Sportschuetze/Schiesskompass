@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Gersau Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gersau SG",
+    "sourceURL" : "https:\/\/www.schützengersau.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.schützengersau.ch\/"
   },
-  "contentHash" : "sha256-0f6a6e21e7af7111641c00a1418ff79233be79a892d7791082b5cbde30e67f25",
+  "contentHash" : "sha256-4a8eb92f525594652bc2282631293050a853b31af1bcaea0854db26f2696d4ba",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

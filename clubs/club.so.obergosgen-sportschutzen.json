@@ -6,27 +6,28 @@
     "canton" : "SO",
     "externalId" : "club.so.obergosgen-sportschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.so.obergosgen-sportschutzen.jpg",
     "name" : "Obergösgen Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Obergösgen Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a992c38781e62117a900af6dbc9f3c543787c9e847aa622f5383902928e3861f",
+  "contentHash" : "sha256-86f013489984211e64acece392ed12fc67f760d2f0105b36f94bcaae44a1f848",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

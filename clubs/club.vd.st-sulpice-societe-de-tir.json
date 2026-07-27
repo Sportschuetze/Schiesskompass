@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "St-Sulpice Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St-Sulpice ST",
+    "sourceURL" : "www.tir-st-sulpice.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tir-st-sulpice.ch"
   },
-  "contentHash" : "sha256-670a9f0404a4ba8906a3ea4219c3e5eb3e33b62efe8a6daf11e808c4b25738e3",
+  "contentHash" : "sha256-a6a3e8d4b76d9377c75a33d101743e42d6aabc1f9442f1003fc316143300850e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

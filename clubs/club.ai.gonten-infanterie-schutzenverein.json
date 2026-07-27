@@ -6,27 +6,28 @@
     "canton" : "AI",
     "externalId" : "club.ai.gonten-infanterie-schutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.ai.gonten-infanterie-schutzenverein.jpg",
     "name" : "Gonten Infanterie Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gonten Inf. SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1cc96e77613c40636540bae94c2daa981ce492c7dcbbaf8875e8c7eb0ebad004",
+  "contentHash" : "sha256-c96446156dc8abe86522fd0abae0b4b6cb8d894ad00b760bef9e53439c97256a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

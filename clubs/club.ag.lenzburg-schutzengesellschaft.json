@@ -5,28 +5,34 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.lenzburg-schutzengesellschaft",
+    "foundedYear" : 1464,
     "location" : "",
     "name" : "Lenzburg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lenzburg SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bbc73c14601ab4a6e567e4a01c1c96cc946069cefc5a70ca28706a7fe4ff2dd2",
+  "contentHash" : "sha256-0766e5c577156df282b781068c83590d080f0f7104cb605a5c213d08daad81e0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

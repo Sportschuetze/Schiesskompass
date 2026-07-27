@@ -6,23 +6,28 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.8b28fb0c",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.8b28fb0c.jpg",
     "name" : "Stäfa Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Stäfa SG",
+    "sourceURL" : "www.sgstaefa.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgstaefa.ch"
   },
-  "contentHash" : "sha256-50ac0ab3e7218fe05aa75b3e7d5da7046f8fee37905adcbba003f5505a5ceed7",
+  "contentHash" : "sha256-6f8a408a476eea72bdf73dc668fa0fe7e3ebf470a125ee4202bc2ec7d8297399",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +73,7 @@
       "title" : "55. Herbstschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

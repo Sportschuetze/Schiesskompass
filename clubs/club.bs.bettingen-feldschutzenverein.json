@@ -5,28 +5,32 @@
     ],
     "canton" : "BS",
     "externalId" : "club.bs.bettingen-feldschutzenverein",
+    "foundedYear" : 1882,
     "location" : "",
     "name" : "Bettingen Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bettingen FSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b4f84bd41bb80c71ed371b8e7937a3513eb4c29e3d4f03e1676ade6ab752b977",
+  "contentHash" : "sha256-c25780c5199feceac54bfab99dfaf81b618eb04183dddd30ead8b17f7677e591",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

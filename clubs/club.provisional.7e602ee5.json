@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Unterbach Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Unterbach FS",
+    "sourceURL" : "www.unterbachschuetzen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.unterbachschuetzen.ch"
   },
-  "contentHash" : "sha256-7d9f6978474f332e1c8d608f191c27ac0d82903c1aa35cea10417aa2c65930c0",
+  "contentHash" : "sha256-298d49df70bcb7c307220b8cd992f30018024a79cbd8069bc8b6bd867ffa40ae",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

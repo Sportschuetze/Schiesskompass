@@ -8,25 +8,31 @@
     "location" : "",
     "name" : "Beulet Tir sportif",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Beulet Ts",
+    "sourceURL" : "www.stsb.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.stsb.ch"
   },
-  "contentHash" : "sha256-3ba73baa3fec8bd6c75f231e55bdc0b43610d065fa19c979ad57cf7b7761196f",
+  "contentHash" : "sha256-11a6ee134576a73d604c9c1bf81146b2956e405a4e22b8e892a126c709a0df9b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

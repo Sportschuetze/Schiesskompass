@@ -5,28 +5,31 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.c7541a79",
+    "foundedYear" : 1874,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.c7541a79.jpg",
     "name" : "Stettlen-Deisswil Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Stettlen-Deisswil FS",
+    "sourceURL" : "www.fs-stettlen-deisswil.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fs-stettlen-deisswil.ch\/"
   },
-  "contentHash" : "sha256-c0ed920eae14fdc324a8eeab122c8adc1b2f3548ebef6cccb5b861969c694a2c",
+  "contentHash" : "sha256-b1b554847679f886b0ad6abc9a308b67e9dd574542d284091b8c17849d14542e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

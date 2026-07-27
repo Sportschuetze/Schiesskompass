@@ -5,28 +5,31 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.campocologno-societa-tiratori-pistola",
+    "foundedYear" : 1940,
     "location" : "",
     "name" : "Campocologno Società Tiratori Pistola",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Campocologno St Pistola",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-03ba8809a009a5d1dc4b0dd8abe47eafb966b5c895f35d355078553525b9f86a",
+  "contentHash" : "sha256-2cc163cc5a4a25a291f4d414b2cad088655453e7553afdf7e30bb2aa6a993a20",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,26 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.sulgen-schutzengesellschaft",
+    "foundedYear" : 1850,
     "location" : "",
     "name" : "Sulgen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sulgen SG",
+    "sourceURL" : "www.sgsulgen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgsulgen.ch"
   },
-  "contentHash" : "sha256-73bc68b61e69cd23d4fa91efbb46b0311adf94de84e733830ec27c0585e7e88e",
+  "contentHash" : "sha256-86f6b6f35e536e61dc3197bdbc9f4b1bb700dcc7a618a489c7fd3cfda664d722",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +65,7 @@
       "title" : "49. Winzerschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

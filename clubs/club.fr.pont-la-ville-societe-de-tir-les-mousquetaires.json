@@ -5,28 +5,29 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.pont-la-ville-societe-de-tir-les-mousquetaires",
+    "foundedYear" : 1952,
     "location" : "",
     "name" : "Pont-la-Ville Société de tir Les Mousquetaires",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Pont-la-Ville ST Les Mousquetaires",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f010582f27e6b2acfc51aa9a8ad79b532d25b5185c51792626082861fe9f485f",
+  "contentHash" : "sha256-fbe050d46ac4487499c522e9662176eb875ddf516866fb897ba67b90365a6647",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

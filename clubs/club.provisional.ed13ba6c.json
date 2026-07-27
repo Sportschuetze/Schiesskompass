@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Zwischenflüh-Schwenden Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zwischenflüh-Schwenden SG",
+    "sourceURL" : "schuetzengesellschaft-zwischenfluehschwenden.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "schuetzengesellschaft-zwischenfluehschwenden.ch"
   },
-  "contentHash" : "sha256-66f6ca2b0f050652623af347fbc76389a6c28e84db871628c314c23989c52bad",
+  "contentHash" : "sha256-558bf3aebd5260beed0e58d27f530693a47ac2848f8afbebefa7a1825a6a8883",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

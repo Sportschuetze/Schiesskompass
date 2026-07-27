@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Neuhausen Pistolenschützen ASB",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Neuhausen PS ASB",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ea5714eaf5dc6a632618ba607d7e9e51b7e874ba5ad7ded1baaf9d90df6fcaed",
+  "contentHash" : "sha256-c30e07317918728d81fc1630b74daaf09f1a1d2247239186d3cd9850b545d8cf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

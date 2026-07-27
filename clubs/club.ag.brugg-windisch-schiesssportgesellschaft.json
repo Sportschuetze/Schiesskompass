@@ -5,28 +5,34 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.brugg-windisch-schiesssportgesellschaft",
+    "foundedYear" : 1527,
     "location" : "",
     "name" : "Brugg-Windisch Schiesssportgesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Brugg-Windisch SSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-942ff6c97747073db6485a6ad2e54e5357bcd39fca589d34c9bfe7e531984bf0",
+  "contentHash" : "sha256-9786c1e7dc7f1a19251b84e5706973a38e72c96d9b5d01b23c69157503ef369e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

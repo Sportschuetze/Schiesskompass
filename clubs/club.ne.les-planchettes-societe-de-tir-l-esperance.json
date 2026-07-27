@@ -5,28 +5,29 @@
     ],
     "canton" : "NE",
     "externalId" : "club.ne.les-planchettes-societe-de-tir-l-esperance",
+    "foundedYear" : 1885,
     "location" : "",
     "name" : "Les Planchettes Société de tir L'Espérance",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Les Planchettes ST L'Espérance",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1251a3a7bd4cc70058d1d841a47f07a71d8a3b81471b437800b5893cdd121469",
+  "contentHash" : "sha256-0faedaab0e988455aa9453d59404a11c2bc5c3f62761d0872107ef2d83744351",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

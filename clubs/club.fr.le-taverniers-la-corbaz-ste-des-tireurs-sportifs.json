@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Le Taverniers - La Corbaz Sté des tireurs sportifs",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Le Taverniers - La Corbaz Sté TS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1a576f9702462245a39839aa9bc5efcd1afc99717f515abe3747d938f4b776e3",
+  "contentHash" : "sha256-989a26ccfc8fb9a0925ff89d053c4bc851feb3cee8077a04f50c6e513a4112e2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

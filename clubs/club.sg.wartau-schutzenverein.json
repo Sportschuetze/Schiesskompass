@@ -5,28 +5,30 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.wartau-schutzenverein",
+    "foundedYear" : 1868,
     "location" : "",
     "name" : "Wartau Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wartau SV",
+    "sourceURL" : "www.sv-wartau.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sv-wartau.ch"
   },
-  "contentHash" : "sha256-20260f3880224155704ab8302f85fbb80ce8bab2964f35c8fd79439753ba11e9",
+  "contentHash" : "sha256-58a71d5cc17985a3b2d9b1e1213a5587cc3a00b706c30458ceec53ce6882ade7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

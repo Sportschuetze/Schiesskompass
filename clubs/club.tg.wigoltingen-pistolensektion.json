@@ -6,23 +6,26 @@
     "canton" : "TG",
     "externalId" : "club.tg.wigoltingen-pistolensektion",
     "location" : "",
+    "logoPath" : "logos\/club.tg.wigoltingen-pistolensektion.jpg",
     "name" : "Wigoltingen Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wigoltingen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1cc848d58de8971bf6538020b0a335ca436e4028641d9d9eade0bd44071b3709",
+  "contentHash" : "sha256-2b469847af96bd3c4e630de0c78715a70e83f5191cf6d39d2349bf9f8e77a750",
   "events" : [
     {
       "championshipTags" : "",
@@ -121,7 +124,7 @@
       "title" : "5. Moswise-Schüüsse"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

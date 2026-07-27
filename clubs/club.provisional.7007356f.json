@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Weissenbach-Boltigen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Weissenbach-Boltigen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9ff2125560c3190ead7d9295bad2ec8117ff2b9075600a6c8c3dc78c81bee945",
+  "contentHash" : "sha256-c4891233eddd097a4dd8a996aec732123f1a5922226e491029bc073b9341e68e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

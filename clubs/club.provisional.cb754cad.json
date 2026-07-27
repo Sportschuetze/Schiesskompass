@@ -5,24 +5,31 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.cb754cad",
+    "foundedYear" : 1864,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.cb754cad.jpg",
     "name" : "Wülflingen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wülflingen SV",
+    "sourceURL" : "www.svwuelflingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svwuelflingen.ch"
   },
-  "contentHash" : "sha256-687a44ad1249dbd49117a8f88bce4be0f64eea78485a7fd2423677fbb3bfa5e3",
+  "contentHash" : "sha256-d3ddd69112a7f3459399b243dd213e992a1a0a0584d60399ddb5b0421cbd47da",
   "events" : [
     {
       "championshipTags" : "",
@@ -103,7 +110,7 @@
       "title" : "Wülflinger Schlossschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

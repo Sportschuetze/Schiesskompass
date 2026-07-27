@@ -5,28 +5,32 @@
     ],
     "canton" : "NW",
     "externalId" : "club.nw.stans-pistolenschutzen",
+    "foundedYear" : 1933,
     "location" : "",
     "name" : "Stans Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Stans PS",
+    "sourceURL" : "www.psstans.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.psstans.ch"
   },
-  "contentHash" : "sha256-efe8a841a014eae1a6216460b94013acbaa9eaf23f225fdbf3246f57dc407614",
+  "contentHash" : "sha256-cd0cb2cde24c2940db7d41ac74068d14f147dc1c605b29c3392fee95963b1d04",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

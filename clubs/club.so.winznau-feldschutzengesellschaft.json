@@ -5,28 +5,30 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.winznau-feldschutzengesellschaft",
+    "foundedYear" : 1871,
     "location" : "",
     "name" : "Winznau Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Winznau FSG",
+    "sourceURL" : "www.fs-winznau.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fs-winznau.ch"
   },
-  "contentHash" : "sha256-8017ee1738d5db58849b51a324bb33691cb4df2b90f627284eb0a28ba31f6288",
+  "contentHash" : "sha256-7b4d597fce55c6afd883addd2122f9ed527183a03f7532bbcad9ad351b3aff60",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,32 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.lachen-altendorf-pistolenschutzen",
+    "foundedYear" : 1923,
     "location" : "",
     "name" : "Lachen-Altendorf Pistolenschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lachen-Altendorf PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7ced355c89fb63e2fee2b546395b98a811202733199ec7ed2f9a462cb5f02ec6",
+  "contentHash" : "sha256-0d1b50c7ae0a74625d869f4c0cecef8e7d9b423bf4b2f471fea7ae95f5e21970",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

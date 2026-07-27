@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Unnergoms Sportschützen Unnergoms",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Unnergoms Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9b81ab5a289c9c214f9256fe0c33d18c7e0aff40570466ec61832392eebca1e3",
+  "contentHash" : "sha256-1993b6b8c942ff6a70cf9a2b27a5e38104d47e484e11c7abf914d014da194737",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

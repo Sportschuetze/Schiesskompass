@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Thörigen-Herzogenbuchsee Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thörigen-Herzogenbuchsee Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d06ee6a1547d654aabd95047c318b52b00df89168f9bd314e1258567603b4173",
+  "contentHash" : "sha256-d53d2bc24a260f7dea81c58e02a619c67f109e2e3f9c66668515995c7e36315c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

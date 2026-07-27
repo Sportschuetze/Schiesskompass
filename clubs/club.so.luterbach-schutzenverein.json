@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Luterbach Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Luterbach SV",
+    "sourceURL" : "www.svl-luterbach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svl-luterbach.ch"
   },
-  "contentHash" : "sha256-dfcbffb8359c26321c4299a5a7f04ebee6d94e487bec88c88fa7a3cb200b7809",
+  "contentHash" : "sha256-88547fbc6fe0b72768bf4e3cb2f9e780b643be94a5069ad7054e392d53eadcc5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

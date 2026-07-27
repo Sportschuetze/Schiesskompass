@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Cortébert Société de tir Les Amis du tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cortébert ST Les Amis du tir",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-618806550dbb915c2b8f1ebeb1051586c06dfe11fd2b5294e475e17c39f8aa66",
+  "contentHash" : "sha256-96b1d88eb19bf95928ee09eba203eb4d5c007df60d3b9bc23de6201b816a61a7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

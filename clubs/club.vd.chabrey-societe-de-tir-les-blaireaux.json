@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Chabrey Société de tir Les Blaireaux",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Chabrey ST Les Blaireaux",
+    "sourceURL" : "www.tirchabrey.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tirchabrey.ch"
   },
-  "contentHash" : "sha256-fe47dbceed24d3091399484b28aa884f94495a387dc440cd183ca56b863c531f",
+  "contentHash" : "sha256-904c7e6be8322c1396ea2ecda9c3bcea3d361916f1e66eeed10c85370de49c33",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

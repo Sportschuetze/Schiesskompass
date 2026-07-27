@@ -5,28 +5,32 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.0dac6636",
+    "foundedYear" : 1944,
     "location" : "",
     "name" : "Fehraltorf Pistolenschützenverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fehraltorf PSV",
+    "sourceURL" : "www.psv-fehraltorf.ch\/home",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.psv-fehraltorf.ch\/home"
   },
-  "contentHash" : "sha256-0f5cd47aa1ec0d2bd483c43f6d7ed05a926940335481ae148a62c1a9167781a0",
+  "contentHash" : "sha256-7c52aeb862773f072cd987ade72ae4c1030d8c2a1b2f792947dcb209ca4b7cf1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

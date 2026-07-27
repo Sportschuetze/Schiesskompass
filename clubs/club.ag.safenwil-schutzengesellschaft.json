@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.safenwil-schutzengesellschaft",
+    "foundedYear" : 1862,
     "location" : "",
+    "logoPath" : "logos\/club.ag.safenwil-schutzengesellschaft.jpg",
     "name" : "Safenwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Safenwil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8811143af5077958dfea6f76056a508713b352e96d087f2ccf4c95420abffd50",
+  "contentHash" : "sha256-77dbd672baccb91431dcf1166caac8b205aec44134994d36b22407c6ea3adec8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

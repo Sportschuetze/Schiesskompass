@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.waltenschwil-feldschutzengesellschaft",
+    "foundedYear" : 1883,
     "location" : "",
+    "logoPath" : "logos\/club.ag.waltenschwil-feldschutzengesellschaft.jpg",
     "name" : "Waltenschwil Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Waltenschwil FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a990895e002cdee868c63a960d7e2c9a0c0236741778e46ae3ae1ebbc494698d",
+  "contentHash" : "sha256-a46e089b1de55747e6231aa501f63c31f16242345440f1cecb288fe423889078",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

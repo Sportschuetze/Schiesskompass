@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Solothurn Schützengesellschaft der Stadt",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Solothurn SG der Stadt",
+    "sourceURL" : "www.sgsso.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgsso.ch"
   },
-  "contentHash" : "sha256-0c77b98fdc26ae067454d1b9d5d43186586754be2cd94e987a4a90a4a57c7826",
+  "contentHash" : "sha256-e16dea08199ba3db8a6b57d3592990c370d553a4dcf8668ffa3a1f94a63ec940",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

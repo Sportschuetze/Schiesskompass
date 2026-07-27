@@ -8,21 +8,23 @@
     "location" : "",
     "name" : "Diessenhofen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Diessenhofen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-63782e0972f8c2ab6c9c55bbef47eb00e5d16c3a09b8ab870d9649f9e2eb8999",
+  "contentHash" : "sha256-aef74a10b9b5f55e65531a41c852b8e573b66da2348fdde6657b0b61e996fef3",
   "events" : [
     {
       "championshipTags" : "",
@@ -143,7 +145,7 @@
       "title" : "49. St. Niklaus-Pistolenschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

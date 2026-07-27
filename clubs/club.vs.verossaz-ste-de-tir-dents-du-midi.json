@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Vérossaz Sté de tir Dents-du-Midi",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vérossaz ST Dents-du-Midi",
+    "sourceURL" : "www.tirverossaz.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tirverossaz.ch"
   },
-  "contentHash" : "sha256-586aff2836e7f143dd89e2ea67ee7aa66c6e412de9a09cae965c3d424090a81d",
+  "contentHash" : "sha256-1383ad84d0016fd1398fe6858399d748ffcb56932bd5a97392a6b3646c475fd3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

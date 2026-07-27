@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Udligenswil Allmend-Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Udligenswil AS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b0eead870e677e93e24b9a903434e8f76ca435e3372cc9b312b1284c99c5b32c",
+  "contentHash" : "sha256-4428150a3b08834c23931aa395ba631a507327154b444785f7d48dc7eecd1c9f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

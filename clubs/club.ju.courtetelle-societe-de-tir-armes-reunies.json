@@ -5,28 +5,29 @@
     ],
     "canton" : "JU",
     "externalId" : "club.ju.courtetelle-societe-de-tir-armes-reunies",
+    "foundedYear" : 1862,
     "location" : "",
     "name" : "Courtételle Société de tir Armes-réunies",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Courtételle ST AR",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6f0d949790f4b0435d1b1ce540a8fa2ade167b5dc79943e709d8c9ad75b095bb",
+  "contentHash" : "sha256-00a0ba1936515784ff0c2215275a6b3de368704ec534be2a6017c7a342caff94",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.full-reuenthal-schiessverein",
+    "foundedYear" : 2010,
     "location" : "",
     "name" : "Full-Reuenthal Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Full-Reuenthal SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8f4e0b1b7585a7acef565e4b331be85961b6cf75367f03082270c06852f06781",
+  "contentHash" : "sha256-48da885f25a5defb51a5b998299e42d7c5238bcec4a5e8b6cc4e87d5621dc405",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

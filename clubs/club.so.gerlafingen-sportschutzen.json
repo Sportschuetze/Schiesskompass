@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Gerlafingen Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gerlafingen Sport",
+    "sourceURL" : "www.sps-gerlafingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sps-gerlafingen.ch"
   },
-  "contentHash" : "sha256-1a939dea6c617318e5cef6207895ade83a2986c7190a4e56c2c10f4842c1c0c5",
+  "contentHash" : "sha256-c750d7f3caad113be8502bb3e3d704649165452d8b52b794981b8313873efe51",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

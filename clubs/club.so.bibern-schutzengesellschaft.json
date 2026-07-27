@@ -5,28 +5,30 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.bibern-schutzengesellschaft",
+    "foundedYear" : 1872,
     "location" : "",
     "name" : "Bibern Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bibern SG",
+    "sourceURL" : "sgbibern.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "sgbibern.ch"
   },
-  "contentHash" : "sha256-c16af352e3d389e952bc83be2c1e0351dbfa705fa6c12d4a9e2c450f0dedd6cf",
+  "contentHash" : "sha256-fcb86c3252f4ae66511e1f9af1258bb80e8017dc395be5d08948216c902c6926",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

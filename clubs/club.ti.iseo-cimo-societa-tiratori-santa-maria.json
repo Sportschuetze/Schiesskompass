@@ -5,28 +5,31 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.iseo-cimo-societa-tiratori-santa-maria",
+    "foundedYear" : 1890,
     "location" : "",
     "name" : "Iseo-Cimo Società Tiratori Santa Maria",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Iseo-Cimo St Santa Maria",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-422cddf568b213be16c3ed77ef4250bfb079f7b72ef5cfdd228f355bd3853d20",
+  "contentHash" : "sha256-9c63f896786c2330c9d802c73bcd6361c7b0cfd44af4dd842a13da3d8f2fa348",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

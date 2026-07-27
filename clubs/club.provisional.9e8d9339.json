@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Thunstetten-Bützberg Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thunstetten-Bützberg SV",
+    "sourceURL" : "www.svtb4922.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svtb4922.ch"
   },
-  "contentHash" : "sha256-f6d378b81b4d43526981d7172f421047f7bd9fa9aab239a8f370e52fb3b16999",
+  "contentHash" : "sha256-9c5ec5b96f37b665dcf8ffe418fe3723704faacff140751d583af7ff4bed5772",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

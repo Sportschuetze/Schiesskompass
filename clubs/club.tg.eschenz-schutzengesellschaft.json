@@ -5,28 +5,30 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.eschenz-schutzengesellschaft",
+    "foundedYear" : 1872,
     "location" : "",
+    "logoPath" : "logos\/club.tg.eschenz-schutzengesellschaft.jpg",
     "name" : "Eschenz Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Eschenz SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bbbf22198e1c62dec574a8b8611ac66477aa0195079d30a46255e081fe0b2610",
+  "contentHash" : "sha256-7a87aa1e06e27a7a76906466f813895d00572620c7d1b286c836992574d706fc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

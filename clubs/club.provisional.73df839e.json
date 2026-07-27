@@ -5,24 +5,27 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.73df839e",
+    "foundedYear" : 1751,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.73df839e.jpg",
     "name" : "Ossingen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ossingen SV",
+    "sourceURL" : "www.svossingen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svossingen.ch"
   },
-  "contentHash" : "sha256-9ff901392e194be7b1197d597925c25adbc975f53360e64754889e57e8280ac0",
+  "contentHash" : "sha256-c659c8bcdac1abf3b450a2af86bb3d095a4dcac20bb2d9638450f91f3c90a4e7",
   "events" : [
     {
       "championshipTags" : "",
@@ -83,7 +86,7 @@
       "title" : "Jubiläumsschiessen - 275 Jahre Schützenverein Ossingen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

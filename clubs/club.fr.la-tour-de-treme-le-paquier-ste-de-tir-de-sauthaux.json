@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "La Tour-de-Trême-Le Pâquier Sté de tir de Sauthaux",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "La Tour-de-Trême-Le Pâquier SdT de Sauthaux",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-78a63b8661d2a4829d56d188fd95d1c797c482417e902ed0da9342efade0cbb7",
+  "contentHash" : "sha256-b74e70dd6c645a19ff25f5556d4c3cbbdc3217b60167e9af25d64664fb3352f0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

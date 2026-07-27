@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Turbenthal-Neubrunn Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Turbenthal-Neubrunn SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a9c23ece4621b0e249a6d2f5f3445cac4585b2380c77ae9374d48085f53bed39",
+  "contentHash" : "sha256-ebd24982b8225d93b031e4f5071030ac688d743d204d36ba6e223733d855e893",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

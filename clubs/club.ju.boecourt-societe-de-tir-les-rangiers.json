@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Boécourt Société de tir Les Rangiers",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Boécourt ST Les Rangiers",
+    "sourceURL" : "www.tir-boecourt.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tir-boecourt.ch"
   },
-  "contentHash" : "sha256-5bf2d60ef22af8b338bab0485a77ffad4d5e802cd108425166bab2ca8550b15b",
+  "contentHash" : "sha256-d28fe251fda78a4986b3f5f319281cabb68143b071ee1a4c822f71e570f0b022",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

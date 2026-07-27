@@ -5,28 +5,29 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.soazza-societa-tiratori-sportivi",
+    "foundedYear" : 1962,
     "location" : "",
     "name" : "Soazza Società tiratori Sportivi",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Soazza St Sportivi",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ee801d9f6b3dcb2a457cbef4f6c4ee80670d3fa3a42ab2c365efeba507754eb0",
+  "contentHash" : "sha256-63220f40cdc9c3d9ad7c2700c8556a89291157da403abbcf3c9c95c1c019ae8b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

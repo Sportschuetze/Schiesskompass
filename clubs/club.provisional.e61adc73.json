@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Schwerzenbach-Greifensee Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schwerzenbach-Greifensee SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d3f4467c7d2aa500434e4fb6234baa747dc90c86bf7e01e7b1b0c59d7b24cf5e",
+  "contentHash" : "sha256-149079a3683053035133c067bbf8f649ec325c1c51d29ce36de6f8c90a381b61",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

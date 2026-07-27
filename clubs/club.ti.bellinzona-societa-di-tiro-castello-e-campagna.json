@@ -5,28 +5,29 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.bellinzona-societa-di-tiro-castello-e-campagna",
+    "foundedYear" : 1886,
     "location" : "",
     "name" : "Bellinzona Società di tiro Castello e Campagna",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bellinzona St Castello e Campagna",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-49f34dcba6de076b6cd86392afee3803be351eb4a7b039fddd708452e4ddda7f",
+  "contentHash" : "sha256-9f29798496434394f4c816fb6fff41719f837353b6726b47e48ae95ad4541d16",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

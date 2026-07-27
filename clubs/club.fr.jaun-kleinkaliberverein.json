@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Jaun Kleinkaliberverein",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Jaun KKV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ed78ac3bbc5d1d86f35b2fb37a93f67caebf62de97fc6e84985811cb4dcc2c94",
+  "contentHash" : "sha256-7fe5db2c9c3aa9631fa9b230c1ecb82a3e959a0dc2b9769f29fd09e6675c55d0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

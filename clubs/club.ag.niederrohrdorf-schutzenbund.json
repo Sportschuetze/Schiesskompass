@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Niederrohrdorf Schützenbund",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niederrohrdorf SB",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b3bf6214ff7db6b6b4f5e4aa288b9cddf74a4ae56085f1dafea32d5678107018",
+  "contentHash" : "sha256-1395c435c32b645cb709c7b7649b5ff5a1c0853cc2b537567ed769d89b2fdb5b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Lötschental Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lötschental SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f1446ccc243e1849d06f56a4ab3f6aa3b4380f0033352b53638614154ddcbda4",
+  "contentHash" : "sha256-bb45c2086c857f2c8dbbf0ad926e03b6b6f0fdd2d5927559dee244bdc2b768f6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

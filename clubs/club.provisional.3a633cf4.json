@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Escholzmatt Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Escholzmatt PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e288afca9b39d61aee9ab271b70ec741b526a93dc7cfe0633ec112887844140f",
+  "contentHash" : "sha256-1ca3aa4d9e3eaf557107d0a3c851cab24d1b372bbb5c74f7b3aefa22db16eb13",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

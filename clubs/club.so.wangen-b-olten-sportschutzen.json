@@ -6,27 +6,30 @@
     "canton" : "SO",
     "externalId" : "club.so.wangen-b-olten-sportschutzen",
     "location" : "",
+    "logoPath" : "logos\/club.so.wangen-b-olten-sportschutzen.jpg",
     "name" : "Wangen b.Olten Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wangen b.Olten Sport",
+    "sourceURL" : "www.sportschuetzen-wangenbo.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sportschuetzen-wangenbo.ch"
   },
-  "contentHash" : "sha256-8ccb1485ddc537c3d20c7fe635fd1988b947062e62e855a3b130b71f8fee1942",
+  "contentHash" : "sha256-b0d62c1a6e50030c61b075de10eca8040557ba6c6708c4c33d6220762c9f9e38",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

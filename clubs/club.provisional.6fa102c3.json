@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Moutier Société de tir PC",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Moutier ST PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c00a6d51f030e5718da85160e53018242b8fa9ad6c0bf8b2c844a0af5acd0f7b",
+  "contentHash" : "sha256-ea01d16221a3e321884efd1065541ed8a26328cca4001811837dfbf4fc3b77f9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

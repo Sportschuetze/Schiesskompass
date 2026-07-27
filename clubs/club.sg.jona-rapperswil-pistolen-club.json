@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Jona-Rapperswil Pistolen-Club",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Jona-Rapperswil PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ceb77a875307d9639fff711876f264dc9fd7dae0d03a344d48589d2a81fb639f",
+  "contentHash" : "sha256-577a2a8081a9b7933e050c5c26c62e421e4d6c5d5b47c4f5525804ae8796ba9d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

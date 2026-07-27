@@ -6,23 +6,24 @@
     "canton" : "TG",
     "externalId" : "club.tg.herdern-lanzenneunforn-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.tg.herdern-lanzenneunforn-schutzengesellschaft.jpg",
     "name" : "Herdern-Lanzenneunforn Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Herdern-Lanzenneunforn SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b17e29f4540cb9889af3783926730593692d43c3215330f52f5bfaf795d4b03f",
+  "contentHash" : "sha256-cbbd15adab00e96026649466a1d7d80e12c5e0d250fa098a704a81356f931f7b",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +64,7 @@
       "title" : "15. Pouletschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

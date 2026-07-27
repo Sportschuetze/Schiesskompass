@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Nods Société de tir Campagne",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Nods ST Campagne",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-17b7b18586d2aabc2a9ebc69dbe79ebb6bb5d3821e17d5c0252f61887731fffa",
+  "contentHash" : "sha256-8c54cbfedadaf26bb06d0ccefb8f7b26f8547fe8876b534ee731a231275e9c79",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

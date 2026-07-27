@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Rätikon Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rätikon SV",
+    "sourceURL" : "svraetikon.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "svraetikon.ch"
   },
-  "contentHash" : "sha256-c9c77f3fc40fe50de12859aee3df2b1e48ead85ac8ab6984161087691bc13b68",
+  "contentHash" : "sha256-e51150a2477f6acc672000718dcadf6cb54ccf15d106a7a4ee38d0f411467db8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

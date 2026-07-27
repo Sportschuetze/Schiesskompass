@@ -5,28 +5,34 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.peist-arosa-schutzenverein",
+    "foundedYear" : 1936,
     "location" : "",
     "name" : "Peist-Arosa Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Peist-Arosa SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b560f406f16bd370b735b8467054486a84febba6c7249469c0fa8fe05a36e20d",
+  "contentHash" : "sha256-579e6afb8665f78211a0430ceeb047f362d9914097af033ab07d534a90705446",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

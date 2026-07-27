@@ -6,23 +6,25 @@
     "canton" : "SZ",
     "externalId" : "club.sz.unteriberg-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.sz.unteriberg-schutzengesellschaft.jpg",
     "name" : "Unteriberg Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Unteriberg SG",
+    "sourceURL" : "www.sgunteriberg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgunteriberg.ch"
   },
-  "contentHash" : "sha256-3874ae603762cd1dbaebda16c655e5730cb7444754e2189b5c79bc7df63ac558",
+  "contentHash" : "sha256-b79b046078b169efaa9885e9639eb803c06e42321d7dc3b7b3b7e67e494166cc",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +70,7 @@
       "title" : "28. Hirschflueschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

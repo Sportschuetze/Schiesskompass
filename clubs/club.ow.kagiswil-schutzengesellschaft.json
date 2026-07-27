@@ -5,28 +5,29 @@
     ],
     "canton" : "OW",
     "externalId" : "club.ow.kagiswil-schutzengesellschaft",
+    "foundedYear" : 1855,
     "location" : "",
     "name" : "Kägiswil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kägiswil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ebe736dfe690a9f87b986f1a9d03349f02fe21b7088fdb0b46baff4750d928d9",
+  "contentHash" : "sha256-bd71c0df509bc8a61a30585740ac1327e8dc7d1608053cf8776ae485fef9b789",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

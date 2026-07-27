@@ -5,28 +5,34 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.basel-verein-fur-taktisches-polizeischiessen",
+    "foundedYear" : 2016,
     "location" : "",
     "name" : "Basel Verein für taktisches Polizeischiessen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Basel VtP",
+    "sourceURL" : "www.vtpbs.clubdesk.com",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.vtpbs.clubdesk.com"
   },
-  "contentHash" : "sha256-21a14e6eed7c000e31cac7f1c0144003e0e624357ecd8a050ea50ecff67f74b6",
+  "contentHash" : "sha256-afa6d7338a3e5c2b2230f900cd3155630f8dadb68bf5ec754976c4d59da1e0e6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

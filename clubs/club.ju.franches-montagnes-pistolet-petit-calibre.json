@@ -5,28 +5,34 @@
     ],
     "canton" : "JU",
     "externalId" : "club.ju.franches-montagnes-pistolet-petit-calibre",
+    "foundedYear" : 1968,
     "location" : "",
     "name" : "Franches-Montagnes Pistolet & Petit calibre",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Franches-Montagnes Pist & PC",
+    "sourceURL" : "tirfm.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "tirfm.ch"
   },
-  "contentHash" : "sha256-6bb6a109168360ed1d904de0a7014bbe226a0dcd45216408d97667f952977bf1",
+  "contentHash" : "sha256-d1784239065f2db6a5df6d4ec89990065555c47762120e0753603b451160eff5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,31 @@
     "canton" : "BE",
     "externalId" : "club.provisional.58fce49a",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.58fce49a.jpg",
     "name" : "Bern Scharfschützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bern Scharf",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-497553eafc042ff30470d3d3ac8cda2bc1ffadf1902f22a04582bd3197c96816",
+  "contentHash" : "sha256-8a0447260da9b8e513f8f7cdc33766099fa6cfbe094e0ccc8b425d714fb94f7e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

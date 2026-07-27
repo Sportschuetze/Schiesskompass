@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Zermatt Sport-Schiessverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zermatt SSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2e9456d55cf0079ce02441f3f3e4913b8601f0107d36f722f41046acf0945b0b",
+  "contentHash" : "sha256-1fe1ddc580225a631e441c1facfc3ad0b5cdd8e5d073667a85e8b5b2e779580a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

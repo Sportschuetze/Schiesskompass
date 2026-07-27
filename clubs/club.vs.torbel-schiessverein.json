@@ -5,28 +5,29 @@
     ],
     "canton" : "VS",
     "externalId" : "club.vs.torbel-schiessverein",
+    "foundedYear" : 1932,
     "location" : "",
     "name" : "Törbel Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Törbel SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-598420cf2ba6b5fefab6f1874cfe8bccbb078ba2bed6c2f5b7997614788195ac",
+  "contentHash" : "sha256-7922162682d904ede1bf8a0e0794e68a76e79d07786420c21c2890d784a86b86",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

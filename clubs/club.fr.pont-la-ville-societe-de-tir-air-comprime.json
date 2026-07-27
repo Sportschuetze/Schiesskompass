@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Pont la Ville Société de Tir Air Comprimé",
     "offeredDisciplines" : [
-
+      "G10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Pont la Ville ST AC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4b762e1e90d25066746a26aba77a6949cc3bc65ba08121e57e2cac777eea2341",
+  "contentHash" : "sha256-3bc7a4a8beec045096b945f21b70954dc567e48f18dd896616576340b5a66573",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

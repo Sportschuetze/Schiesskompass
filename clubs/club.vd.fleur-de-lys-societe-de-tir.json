@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Fleur-de-Lys Société de tir",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fleur-de-Lys ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4034e6c915ffa60ddd0c6d39e6754cab6aaef2151c8fc44aa2ba7f89a98e8f3e",
+  "contentHash" : "sha256-28793d9bf25e1d0b77e925e5b07bc81449b3c5495201032edcdc12206c43bee8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

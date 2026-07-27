@@ -5,28 +5,36 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.bellinzona-societa-carabinieri-della-citta",
+    "foundedYear" : 1891,
     "location" : "",
+    "logoPath" : "logos\/club.ti.bellinzona-societa-carabinieri-della-citta.jpg",
     "name" : "Bellinzona Società Carabinieri della città",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bellinzona SC della città",
+    "sourceURL" : "www.carabinieri-bellinzona.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.carabinieri-bellinzona.ch"
   },
-  "contentHash" : "sha256-8cca5415f5b67e235375f81f17b45abe2e776dd52f7f1383eb954f0919949dfa",
+  "contentHash" : "sha256-b5e5e9d1db7a09e36c8021b0fe2ba1422da1f15ca2f584d235d1be317d2a6954",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

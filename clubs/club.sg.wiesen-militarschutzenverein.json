@@ -5,24 +5,25 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.wiesen-militarschutzenverein",
+    "foundedYear" : 1877,
     "location" : "",
     "name" : "Wiesen Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wiesen MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a4989ad27b07902bdfc1448b8776aac06334ff265ee881885ebe97ee64470fe5",
+  "contentHash" : "sha256-d4bafa8a6d0e5cf78f2d2b6561e5ce4a3deb5f29eec22fca1f12519ceaf9c144",
   "events" : [
     {
       "championshipTags" : "",
@@ -78,7 +79,7 @@
       "title" : "150 Jahre MSV Wiesen - Jubiläumsschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

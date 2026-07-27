@@ -5,24 +5,25 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.e6c377ba",
+    "foundedYear" : 1863,
     "location" : "",
     "name" : "Fischenthal Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fischenthal FSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8e05a0526c9d54eaecdddf74c711cc60e8edbda25826fe75f33849132365d2e2",
+  "contentHash" : "sha256-87303fa8bdd3e35eb41f8e16052df6a7af2c295eb47149bda5a2dcd196ede506",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +74,7 @@
       "title" : "Fischenthaler Winterschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

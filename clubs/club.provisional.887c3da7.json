@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Bonstetten Feldschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bonstetten FSV",
+    "sourceURL" : "https:\/\/www.fsv-bonstetten.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.fsv-bonstetten.ch\/"
   },
-  "contentHash" : "sha256-a3874b18cbb4e891214f16e06ceb5d5b13b652513645cb29a269c5524a66c816",
+  "contentHash" : "sha256-2166a2d6be319a120661347d98459b2476a49b6b90674f1091c4f76e540adc4e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

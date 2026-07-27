@@ -5,28 +5,29 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.955455a2",
+    "foundedYear" : 2015,
     "location" : "",
     "name" : "Entlebucher Blindei-Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Entlebucher BlindeiS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6774c4740997f08a43164e9b1e1d46ab971780d2174ef223eeb6119289adf0bb",
+  "contentHash" : "sha256-16cb1005b0f2f5a4199561c75b4a9d1bc96a2d6bd2cf4709c59001d36b5a8fb8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

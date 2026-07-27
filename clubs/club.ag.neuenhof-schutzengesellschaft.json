@@ -5,24 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.neuenhof-schutzengesellschaft",
+    "foundedYear" : 1873,
     "location" : "",
+    "logoPath" : "logos\/club.ag.neuenhof-schutzengesellschaft.jpg",
     "name" : "Neuenhof Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Neuenhof SG",
+    "sourceURL" : "www.sgneuenhof.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgneuenhof.ch"
   },
-  "contentHash" : "sha256-6d520a73d7b03feeec7136e5d6718e2de2346fa5824ee613be6204c0350f55aa",
+  "contentHash" : "sha256-f3dab12d95eb2d1065e36572cc5034c476fa8660b744098e4941dcdd1aa467bb",
   "events" : [
     {
       "championshipTags" : "",
@@ -93,7 +99,7 @@
       "title" : "16. Bareggschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

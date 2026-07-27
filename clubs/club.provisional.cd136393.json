@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Schüpfen Pistolenklub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schüpfen PK",
+    "sourceURL" : "www.pistolenklub.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pistolenklub.ch"
   },
-  "contentHash" : "sha256-18e19d7911853803e67a2c310cad50cc4bb8f0a6b1de6dd5dd8c57b46983cc62",
+  "contentHash" : "sha256-5e89462d42f65a4b38bee8b5b6c822559b989dbeaaa7176293f777205b108f80",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Attalens-Châtel Société de tir sportif",
     "offeredDisciplines" : [
-
+      "G10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Attalens-Châtel STS",
+    "sourceURL" : "www.tir-attalens-chatel.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tir-attalens-chatel.ch"
   },
-  "contentHash" : "sha256-2b0eab132d2c311b13dfaf89413463c65208c6a381207fae8a0a0c671afb5355",
+  "contentHash" : "sha256-0455ff725679999135403512d2886aab87f03a9d0d9705e8baecec3b08378ce2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.71ffd0c5",
+    "foundedYear" : 1864,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.71ffd0c5.jpg",
     "name" : "Dietikon Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dietikon SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0284b47c64ddf4f9f8904a0050381311c401c3551108515229c9c8559c9deb64",
+  "contentHash" : "sha256-937733fad44623a8bcd3c56e08c5798e81879e0b4e18f096b70ad6abb3d2091d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

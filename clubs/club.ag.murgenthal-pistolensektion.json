@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Murgenthal Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Murgenthal PS",
+    "sourceURL" : "www.ps-murgenthal.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ps-murgenthal.ch"
   },
-  "contentHash" : "sha256-18b46af249739f81b87c39937330b1ec71222fa85d34f909bcbb7ad8411e2731",
+  "contentHash" : "sha256-fb057bab584ff80f74bd2166c0e9f91e9adfe3e0ceae5f77c5b9c9dbb9ac0335",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

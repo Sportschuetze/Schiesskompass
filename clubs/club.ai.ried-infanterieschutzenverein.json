@@ -5,28 +5,30 @@
     ],
     "canton" : "AI",
     "externalId" : "club.ai.ried-infanterieschutzenverein",
+    "foundedYear" : 1910,
     "location" : "",
+    "logoPath" : "logos\/club.ai.ried-infanterieschutzenverein.jpg",
     "name" : "Ried Infanterieschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ried Inf. SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bdecf7dbeb44ed01e83984abe1cf9e8ff044bafb6fa4bc83541cdc8e18d5499d",
+  "contentHash" : "sha256-d4d8eff654ad74e8f3872db403fb6d022b33d9b7df8edc1a75e85e2f12273c2e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Reinach AG Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Reinach AG SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1f4c9f915652676542c2dd7e2329917653e8ee7626ae1a6b836db99e0c7da3c0",
+  "contentHash" : "sha256-58b5db6a1a4dd8854e07eaff30e13841177fd90a1ac14f672c25ac2e3ebff522",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

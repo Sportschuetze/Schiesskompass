@@ -6,27 +6,28 @@
     "canton" : "SG",
     "externalId" : "club.sg.lutisburg-militarschutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.sg.lutisburg-militarschutzenverein.jpg",
     "name" : "Lütisburg Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lütisburg MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d292344532214ed3ca33cad42a0ac98e36d217fb93fc79ee3d868388d37b01e7",
+  "contentHash" : "sha256-b5350c41db9bd29dd7c8a39c63fa7598fe46ff06515162ed5663811528e74d1a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

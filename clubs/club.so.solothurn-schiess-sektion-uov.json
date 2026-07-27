@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Solothurn Schiess-Sektion UOV",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Solothurn UOV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cc04bdd0d55b5cce0eaa9d550470ad758a4f056b1745c033e3c5a610c0280646",
+  "contentHash" : "sha256-a288636f10e5d4ad8e5b4f026a6d4047d2e2a4f07ee70c03b53418a13376efa7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.luterkofen-standschutzen",
+    "foundedYear" : 1830,
     "location" : "",
     "name" : "Lüterkofen Standschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lüterkofen Stand",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-158cb73eff17325686e1957c594a302df6f50463e23dcf1b887a86bdd821272f",
+  "contentHash" : "sha256-6893103b7588f484c1dba4fe2e9f5134df0c8f2fa93f69264f0203626a6756ff",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

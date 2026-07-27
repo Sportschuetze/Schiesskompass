@@ -5,28 +5,36 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.poschiavo-societa-tiratori",
+    "foundedYear" : 1994,
     "location" : "",
+    "logoPath" : "logos\/club.gr.poschiavo-societa-tiratori.jpg",
     "name" : "Poschiavo Società Tiratori",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Poschiavo St",
+    "sourceURL" : "http:\/\/www.tiratoriposchiavo.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "http:\/\/www.tiratoriposchiavo.ch\/"
   },
-  "contentHash" : "sha256-1bbb6914aeb8d2a4229bf337cd7b74890868cba6e8a21aa34e101edd2bc4dbad",
+  "contentHash" : "sha256-ad8d72b13fed254800e4adb7e2e400dd705d4988483373a3f6384e210bb2ac62",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

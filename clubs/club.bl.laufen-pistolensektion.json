@@ -5,28 +5,32 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.laufen-pistolensektion",
+    "foundedYear" : 1932,
     "location" : "",
+    "logoPath" : "logos\/club.bl.laufen-pistolensektion.jpg",
     "name" : "Laufen Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Laufen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c18d16c43961a53fc9fa9ced0f372417e86be730d0a1a6be03d667a9fc1b782f",
+  "contentHash" : "sha256-df13adac1446bfa1ba86ad7776115a4f9381cff66bbc26a8982a109edb3e5050",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

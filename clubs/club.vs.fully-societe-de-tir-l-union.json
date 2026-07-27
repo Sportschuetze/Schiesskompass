@@ -5,28 +5,31 @@
     ],
     "canton" : "VS",
     "externalId" : "club.vs.fully-societe-de-tir-l-union",
+    "foundedYear" : 1909,
     "location" : "",
     "name" : "Fully Société de tir L'Union",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fully ST L'Union",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6f2086064b6c2a9436a297dc896928717a08abba1fe3da69693fce2ad5968c21",
+  "contentHash" : "sha256-6594633a6a809cc3ed3adc52aec4f5d837077525ff5c1318b679f1ab5e77c2b3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

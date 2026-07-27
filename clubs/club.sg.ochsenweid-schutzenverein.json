@@ -5,24 +5,26 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.ochsenweid-schutzenverein",
+    "foundedYear" : 2007,
     "location" : "",
+    "logoPath" : "logos\/club.sg.ochsenweid-schutzenverein.jpg",
     "name" : "Ochsenweid Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ochsenweid SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-29340ad2ce6e1e00f9c2c85f122d565d4fb058f2723459d266fb6fc12931e3e2",
+  "contentHash" : "sha256-591b6e9d3cdb63a4075c18145384bce42e39f8884cd3830ec8efaba6eb5f3386",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +70,7 @@
       "title" : "8. Ochsenweid-Schiessen St.Gallen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,31 @@
     ],
     "canton" : "GL",
     "externalId" : "club.gl.nieder-oberurnen-schutzenverein",
+    "foundedYear" : 2004,
     "location" : "",
+    "logoPath" : "logos\/club.gl.nieder-oberurnen-schutzenverein.jpg",
     "name" : "Nieder-\/Oberurnen Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Nieder-\/Oberurnen SV",
+    "sourceURL" : "schuetzenverein-nieder-oberurnen.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "schuetzenverein-nieder-oberurnen.ch\/"
   },
-  "contentHash" : "sha256-397090f29b29777ab55f76f3116e6ed3a576af549ed872708c885c93d75410cb",
+  "contentHash" : "sha256-06502d57b8e0495d5539eb1a2576405c58823a738f330bbe18473d419c7c991a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

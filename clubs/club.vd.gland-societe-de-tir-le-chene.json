@@ -6,27 +6,29 @@
     "canton" : "VD",
     "externalId" : "club.vd.gland-societe-de-tir-le-chene",
     "location" : "",
+    "logoPath" : "logos\/club.vd.gland-societe-de-tir-le-chene.jpg",
     "name" : "Gland Société de tir Le Chêne",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gland ST Le Chêne",
+    "sourceURL" : "https:\/\/www.tir-gland.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.tir-gland.ch\/"
   },
-  "contentHash" : "sha256-a957b4ddfb333d5e1eefcf5ae8273caa1aa493d6895b0cd84de8973c1a435e13",
+  "contentHash" : "sha256-25494a507649d7905dbb6c0750e001a2408af521a4b580aa4e343bd73869280c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

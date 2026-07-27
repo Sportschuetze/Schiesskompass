@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Grindelwald Eigerschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Grindelwald ES",
+    "sourceURL" : "www.schiessen-grindelwald.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schiessen-grindelwald.ch"
   },
-  "contentHash" : "sha256-f6274ff394670031302f6c62c388dfbfd1a9bcd5210ab2da8fc782ba92576268",
+  "contentHash" : "sha256-929dae188bc0145520c273d25214f8f3f83818ac9f14e493f925a9d2cc496644",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

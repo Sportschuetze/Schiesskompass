@@ -6,27 +6,29 @@
     "canton" : "SH",
     "externalId" : "club.sh.guntmadingen-feldschutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.sh.guntmadingen-feldschutzengesellschaft.jpg",
     "name" : "Guntmadingen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Guntmadingen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-12fb4c5980cb2fe66b79ff557380d1d3bf87479a37f937144bdd0d2d22792dba",
+  "contentHash" : "sha256-cd78a47690bbe7f217373ba2aa5703f48b152f0d88845e9c6abf17d4e0727f5c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

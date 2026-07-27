@@ -5,28 +5,29 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.st-aubin-societe-de-tir-air-comprime-la-taniere",
+    "foundedYear" : 2006,
     "location" : "",
     "name" : "St-Aubin Société de tir air comprimé La Tanière?",
     "offeredDisciplines" : [
-
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St-Aubin ST AC La Tanièr",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9102e5f87eafb10047f0017148f35f4ddd07f6a1bd295b45772054136f8b68fc",
+  "contentHash" : "sha256-384fd4c7a014a3fcf97805c0c8acff5a743dea0f28fc8f4378a06c59cace7678",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

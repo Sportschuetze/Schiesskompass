@@ -5,28 +5,29 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.estavayer-le-lac-lully-ste-de-tir-les-carabiniers",
+    "foundedYear" : 1801,
     "location" : "",
     "name" : "Estavayer-le-Lac-Lully Sté de tir Les Carabiniers",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Estavayer-le-Lac-Lully SdT Les Carabiniers",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6495a5ab9c456c54c3d31818248a0220521a0459993ec348bd6a2afa8fb6a342",
+  "contentHash" : "sha256-f27c737176adada16fef1f6392498581ff24f217cdfe816db9c4ca46830a2a39",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

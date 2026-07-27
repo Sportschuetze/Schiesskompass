@@ -5,28 +5,33 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.iragna-societa-tiratori-mairano",
+    "foundedYear" : 1975,
     "location" : "",
     "name" : "Iragna Società Tiratori Mairano",
     "offeredDisciplines" : [
-
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Iragna St Mairano",
+    "sourceURL" : "https:\/\/sites.google.com\/view\/tiratori-mairano\/home",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/sites.google.com\/view\/tiratori-mairano\/home"
   },
-  "contentHash" : "sha256-fcd5b8eddfbf79bcb82ceac882c01bddd104d6bf514842ddcde0612f1c6dc6d7",
+  "contentHash" : "sha256-5dd8353ecee11796c6bf1e03801a946ef5903ca19bac0418f15c4e8d0f0a6318",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

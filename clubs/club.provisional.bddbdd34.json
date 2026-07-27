@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Hohenrain Burgschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hohenrain BS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-631a8b30204cf4f4fdc6b3c6a8e09d67ccf7e69cddca46372ce9dcae407a4ed0",
+  "contentHash" : "sha256-4fa05f73ba7ee05df3c34ae17bc250390ee6c4ab84419575e2bba69589faca23",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

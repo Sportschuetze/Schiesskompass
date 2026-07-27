@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Miège Société de tir",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Noble-Contrée SdT",
+    "sourceURL" : "tirnoblecontree.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "tirnoblecontree.ch"
   },
-  "contentHash" : "sha256-290cdae5d7c9c9b498f652770b59a3401b0bab8a4b8f8936d00b894f71e70329",
+  "contentHash" : "sha256-3ccb19eca2eb8c35f12f31e7b85f6614069e5a74a1fa7e94b3d7f90a6898af39",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

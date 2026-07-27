@@ -5,28 +5,36 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.lugano-societa-civici-carabinieri",
+    "foundedYear" : 1832,
     "location" : "",
+    "logoPath" : "logos\/club.ti.lugano-societa-civici-carabinieri.jpg",
     "name" : "Lugano Società Civici Carabinieri",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lugano Società Civici Carabinieri",
+    "sourceURL" : "www.civicicarabinieri.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.civicicarabinieri.ch"
   },
-  "contentHash" : "sha256-62fae4bba73c5b67631628f328cba92403e03bd4a98c5d83f1a67ac13f40efef",
+  "contentHash" : "sha256-de32cd4748d3862c0cbdd1db0b3494c6e52d60ac7b7b767f97a6a8e3e23263c9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

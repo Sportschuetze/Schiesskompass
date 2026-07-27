@@ -5,28 +5,29 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.echarlens-societe-de-tir-l-arquebuse",
+    "foundedYear" : 1907,
     "location" : "",
     "name" : "Echarlens Société de tir L'Arquebuse",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Echarlens ST L'Arquebuse",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c924c27b35412f73ce292936e9e94f5d7421c353ed2ad345cb82b8e649418eab",
+  "contentHash" : "sha256-72386bb9dcd69c5724f0076a142412a2c98c7de9eb7b4c21616cfa3f5456e4e6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

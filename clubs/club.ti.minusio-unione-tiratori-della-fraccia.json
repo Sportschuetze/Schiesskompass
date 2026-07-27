@@ -5,28 +5,29 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.minusio-unione-tiratori-della-fraccia",
+    "foundedYear" : 1895,
     "location" : "",
     "name" : "Minusio Unione tiratori della fraccia",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Minusio Ut della fraccia",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-36a41c643e12fe1f9574b82e66752efd6da1d69fe3f64a75e9a7dc8bced5476d",
+  "contentHash" : "sha256-7d360d045f3df01aedb7d0d024fb8682091a4685bde6b6bcf011b40cc5637b77",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

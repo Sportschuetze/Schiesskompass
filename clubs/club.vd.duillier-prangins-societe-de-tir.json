@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Duillier-Prangins Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Duillier-Prangins St",
+    "sourceURL" : "https:\/\/www.tir-dp.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.tir-dp.ch\/"
   },
-  "contentHash" : "sha256-8e414adf4cfc9a1ec2f83e45fed8ba2e0e578f15bd22110aac20fa9d4a4755e7",
+  "contentHash" : "sha256-dfb1e45c8473a08ac464a3543899b056b909d6528598c19b6c7fe1db59fbc845",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,32 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.selzach-altreu-sportschutzen",
+    "foundedYear" : 2011,
     "location" : "",
     "name" : "Selzach-Altreu Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Selzach-Altreu Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7f44b271dc49a111a7646675d54026db956ea7053e76997cf358ff119830cd66",
+  "contentHash" : "sha256-4a41de94152780285f021d6e41a6b78e3da9e7006ac9dd46d22e631a3e1eef29",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

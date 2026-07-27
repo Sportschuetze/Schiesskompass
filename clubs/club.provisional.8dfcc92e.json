@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.8dfcc92e",
+    "foundedYear" : 1873,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.8dfcc92e.jpg",
     "name" : "Oberstammheim Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberstammheim FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-38b953cd504c18ac0110e9dcf9926f0919ff2f47353e904e56066734afed87c7",
+  "contentHash" : "sha256-a7b20c3970d7ff7040b7be09436283fcd5d095aa81868d62ddba096a68c679e3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

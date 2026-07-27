@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.ed072fd5",
+    "foundedYear" : 2016,
     "location" : "",
     "name" : "Köniz Sportschützen Platten",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Köniz Sport Platten",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e54919b324e886047506a124b99c5a0efa2b319833753d4edd1c91392fd3bfed",
+  "contentHash" : "sha256-6e7a72cd4b3b1272d2131e0bd891a14b40d8fa5d9610483c2635cd9acacac424",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

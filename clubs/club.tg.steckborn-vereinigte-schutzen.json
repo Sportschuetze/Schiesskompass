@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Steckborn Vereinigte Schützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Steckborn VS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f901b62ec7e6617cf77865feb1bcdd11d78245cd2159722d0d042f93deee3dac",
+  "contentHash" : "sha256-1b6c1f3904a002971514541964d91d3264cf5b159d8ec50393cffb63a2685534",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

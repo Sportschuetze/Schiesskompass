@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.witterswil-schutzenbund",
+    "foundedYear" : 1898,
     "location" : "",
     "name" : "Witterswil Schützenbund",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Witterswil SB",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1539da3923c2eb099f1e07395d5128052e2845c77c04f306ebd7e2cdc6201ab3",
+  "contentHash" : "sha256-222b195de1626b0c860bc95723d117a0fc48489b0dfcdd08a943291a30d2752b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

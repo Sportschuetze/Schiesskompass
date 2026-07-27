@@ -6,27 +6,28 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.d5c99d38",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.d5c99d38.jpg",
     "name" : "Männedorf Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Männedorf SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-968f5f623531260251230ce62b676af6d7f17ab84818f26a57250695d42093f3",
+  "contentHash" : "sha256-e2a9801430c4d0dc1d708d20708890fb6b7624e8d68eb9bec4f1f9b45fa3317d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

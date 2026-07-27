@@ -6,23 +6,25 @@
     "canton" : "TG",
     "externalId" : "club.tg.thunbachtal-schutzen",
     "location" : "",
+    "logoPath" : "logos\/club.tg.thunbachtal-schutzen.jpg",
     "name" : "Thunbachtal Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thunbachtal Schützen",
+    "sourceURL" : "www.schuetzen-thunbachtal.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schuetzen-thunbachtal.ch"
   },
-  "contentHash" : "sha256-47b627db1223f703c13820ac0f731c99f9e13d532288bc42ef1e6dcea9c56a76",
+  "contentHash" : "sha256-515ed482b91aceadf998d2f35c21be42d631d761aada5a25588f94be9186117f",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +70,7 @@
       "title" : "20. Berchtoldschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

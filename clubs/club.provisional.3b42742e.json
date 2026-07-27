@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Thalgut Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thalgut PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9c1ed0b9ab08c07154a1d9244c26511cea70680bdb881fa67dffde74635d32b8",
+  "contentHash" : "sha256-c4f63e25040b2dff4ff376cddbda12714f709391ee45d031d502e1375d8637ab",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

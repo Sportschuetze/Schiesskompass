@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.ammerswil-schutzengesellschaft",
+    "foundedYear" : 1879,
     "location" : "",
     "name" : "Ammerswil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ammerswil SG",
+    "sourceURL" : "sg-ammerswil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "sg-ammerswil.ch"
   },
-  "contentHash" : "sha256-e166e627854cdf97e89802c05dcb0def4973ef33bd318f1a1c4db0621a451556",
+  "contentHash" : "sha256-984725e4b3aa7024260c4613923017595e33cd7e10d42b40351af3dd91d3e84c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

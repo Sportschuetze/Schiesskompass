@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Wimmis-Reutigen Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wimmis-Reutigen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2a2759fa38fa00e44e3b24b64c3413d12dba66292e42de0af12bc2c073c8f7a6",
+  "contentHash" : "sha256-ac0ec005c83615e942a5f1175683b94cc29eac6e545348d23c79e0298f806af0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,32 @@
     ],
     "canton" : "FR",
     "externalId" : "club.fr.ecuvillens-ste-de-tir-confrerie-des-mousquetaires",
+    "foundedYear" : 1946,
     "location" : "",
     "name" : "Ecuvillens Sté de tir Confrérie des Mousquetaires",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ecuvillens ST Conf. d. Mousquetaires",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c7055adced4818fd5ed289723b2d0de96ba80a9515ddfa574aa00eeaaeec1be1",
+  "contentHash" : "sha256-f3749090cfd7b0c4e6d41587f4542acc0f09932659f5866b4ec231f93f04109c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

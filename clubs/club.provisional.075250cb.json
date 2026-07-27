@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.075250cb",
+    "foundedYear" : 1921,
     "location" : "",
     "name" : "Rüti Arbeiterschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rüti ASV",
+    "sourceURL" : "https:\/\/asv-rueti.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/asv-rueti.ch\/"
   },
-  "contentHash" : "sha256-9d7ae8ec9b1012f3f6c51356b515d3b5eee77326a4b82150efc8210605bd2cb0",
+  "contentHash" : "sha256-693124d16ed6396c3e92ab6c857e0a5669a7fc001fc2179aa8757c80b87435f6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

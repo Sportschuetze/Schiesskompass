@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.085bcbad",
+    "foundedYear" : 1913,
     "location" : "",
     "name" : "Spiez Lötschbergschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Spiez LS",
+    "sourceURL" : "www.localcities.ch\/de\/vereine\/spiez\/1669\/233182",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.localcities.ch\/de\/vereine\/spiez\/1669\/233182"
   },
-  "contentHash" : "sha256-a9651eceae8787c8bb99138b3fd4fd84a734cc8f1af25586535323bd5b66138e",
+  "contentHash" : "sha256-a1f428d2c930e29163cb7a53a67415f970b650a8fcebd55448fffda4ee71d507",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

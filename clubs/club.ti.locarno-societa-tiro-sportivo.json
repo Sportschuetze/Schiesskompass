@@ -5,28 +5,30 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.locarno-societa-tiro-sportivo",
+    "foundedYear" : 1954,
     "location" : "",
     "name" : "Locarno Società Tiro Sportivo",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Locarno STS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-974e83d0fae4a48c70766d2a0731a78e487ecb321cf481936b5e17a82fb13905",
+  "contentHash" : "sha256-9a4c1efe144ea625879e4b6971c053b1ed17878422e29d99eeaa014ee86d3b9f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

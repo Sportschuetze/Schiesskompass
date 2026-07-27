@@ -5,24 +5,28 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.aadorf-pistolenschutzenverein",
+    "foundedYear" : 1955,
     "location" : "",
+    "logoPath" : "logos\/club.tg.aadorf-pistolenschutzenverein.jpg",
     "name" : "Aadorf Pistolenschützenverein",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aadorf PSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e465c50d1e851252207854a3e685143452141565d7a31cc3ecb09c43cd7d27d3",
+  "contentHash" : "sha256-e33a95adad189d39454a206ae01028e62f1df96b7bda1350d8844b45a7522a1c",
   "events" : [
     {
       "championshipTags" : "",
@@ -103,7 +107,7 @@
       "title" : "14. Lützelmurgschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

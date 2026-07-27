@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Penthalaz Petit Calibre",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Penthalaz PC",
+    "sourceURL" : "www.pcpenthalaz.org",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pcpenthalaz.org"
   },
-  "contentHash" : "sha256-c36e040356925c39ab210e1afc8a6a5fc6db067682912626cc7dc765331e435e",
+  "contentHash" : "sha256-cb6010d5e606a71958c13b04ebe0478b87221031d7558229e5e2dbc0b1c08369",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

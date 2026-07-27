@@ -5,28 +5,31 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.746f5a33",
+    "foundedYear" : 1980,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.746f5a33.jpg",
     "name" : "Melchnau Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Melchnau SG",
+    "sourceURL" : "www.sg-melchnau.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-melchnau.ch\/"
   },
-  "contentHash" : "sha256-3c941d1fbea742973e94ec2a8d8abebabb916524da08840ead6c439614e7f5ce",
+  "contentHash" : "sha256-1d27eeb177803112642f841d42ab8afb97514afaef8d54049a5bb6cb1d393030",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

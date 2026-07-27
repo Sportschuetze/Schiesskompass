@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Frauenkappelen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Frauenkappelen FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-206991a34036c63724861a24d538b57dc150d59f95a7c92c05bf074d7ecf617c",
+  "contentHash" : "sha256-e89fb40b7a4e3c4ca4e4f23fc3933f6669a809b0106e932f759b947e40b81be2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

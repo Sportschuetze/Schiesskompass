@@ -6,27 +6,30 @@
     "canton" : "SH",
     "externalId" : "club.sh.schaffhausen-polizeischutzen",
     "location" : "",
+    "logoPath" : "logos\/club.sh.schaffhausen-polizeischutzen.jpg",
     "name" : "Schaffhausen Polizeischützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schaffhausen Polizei",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0f3bc274adef2bc86e352a27b8f8c99661c99d4c767f82f5ce08a6ca73630a61",
+  "contentHash" : "sha256-949c71ca13945f0aa09ac8919c725e8f3acf463266c4b5ffb8180f8a817de2ce",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

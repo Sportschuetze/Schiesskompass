@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.riedholz-schutzengesellschaft",
+    "foundedYear" : 1886,
     "location" : "",
     "name" : "Riedholz Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Riedholz SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ded663bf86d2bfa992b7e764e48c535e5b2daa5ebca5cfccb49324696d227db7",
+  "contentHash" : "sha256-d80dcbd09f15a3e841f9df004221de7a7e038c21d5fb6c9cdb54061839a9e7c1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Schiers Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schiers SV",
+    "sourceURL" : "www.sv-schiers.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sv-schiers.ch"
   },
-  "contentHash" : "sha256-5a37ef89a81d5fd5e4900a953fe3957f8a8f3ac2773abf8847e3d485ee83e0ce",
+  "contentHash" : "sha256-b162ab066f4a2dd5fea817c62efcdfe5a6ee9dfc719c79e9124fb1f598c85c90",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

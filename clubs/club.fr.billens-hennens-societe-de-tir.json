@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Billens-Hennens Société de tir",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Billens-Hennens ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b24cb08ea04a3e1d7e87a648a425892164d050344edc9b9327c7218ad1c17e40",
+  "contentHash" : "sha256-8ffdc09cf22d1b36e0fad87008acc02fa82bd67fa01738bc86ed4c43a47e327d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

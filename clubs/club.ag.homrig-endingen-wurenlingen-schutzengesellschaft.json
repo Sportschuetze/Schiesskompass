@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.homrig-endingen-wurenlingen-schutzengesellschaft",
+    "foundedYear" : 2022,
     "location" : "",
     "name" : "Homrig Endingen Würenlingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Homrig Endingen Würenlingen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4d8f87e41ca1f947191df3d2b036fccd897fc4c4462e0d60f3fb65940ac38ade",
+  "contentHash" : "sha256-9c0177cfe11e905d1bcfd105ada01d21d3e3c6a9e5a488deb1ca8fbc1a4249d0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

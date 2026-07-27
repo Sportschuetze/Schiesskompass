@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.bellach-sportschutzen",
+    "foundedYear" : 1937,
     "location" : "",
     "name" : "Bellach Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bellach Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bd1691623d1aed901bf5d6e9ff2791edd5aa04526bdfed3f5537eb2cdd6e1186",
+  "contentHash" : "sha256-302189fb6f753bf4a4b9111dcde7058f9a9ebac0175952e3cf528b7b051edc48",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

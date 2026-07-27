@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.75555301",
+    "foundedYear" : 1868,
     "location" : "",
     "name" : "Wangen ZH Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wangen ZH SV",
+    "sourceURL" : "www.svwangenzh.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svwangenzh.ch"
   },
-  "contentHash" : "sha256-1ee247b5a500ff7bd7664d4c587161d3505bd8a19c4ab35ad57bff15eeb3ccdc",
+  "contentHash" : "sha256-df0dc46609f33f228fe3b123bfd59d550f58a8bcf10ab5802480b2fd9f229724",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

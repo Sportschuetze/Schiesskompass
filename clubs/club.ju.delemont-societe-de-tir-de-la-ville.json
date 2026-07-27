@@ -5,28 +5,33 @@
     ],
     "canton" : "JU",
     "externalId" : "club.ju.delemont-societe-de-tir-de-la-ville",
+    "foundedYear" : 1454,
     "location" : "",
     "name" : "Delémont Société de tir de la Ville",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Delémont-Ville Sté tir",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1f7f1c66c9c433a894138d18a2539e25133757cb676d6184c6f0a5cf997100ae",
+  "contentHash" : "sha256-c8a4b1efe032421d599795e6126492d727ea62141bef5732ae8338bba7245929",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

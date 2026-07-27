@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Finhaut Sté de tir St-Sébastien",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Finhaut ST St-Sébastien",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9bfcbe07a5fc7ecc52aa6d9e257207128204c8e3aa98c836eea70e9a8eab2333",
+  "contentHash" : "sha256-6b461dc54ab71c2b7c9e302db27bee9d4f0d6f5ede732371c31f885c67f87d45",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

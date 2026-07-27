@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Bergdietikon Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bergdietikon SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3aec10220a53d575a4cdbc37753bea4c0a75dc193ae0a73ebdd1bbb55d9586e4",
+  "contentHash" : "sha256-92807a3056b8f06e4744ad5b64b09d10f425f523e0f92dc05ca0f7b11f43e236",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

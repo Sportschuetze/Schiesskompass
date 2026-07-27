@@ -6,27 +6,29 @@
     "canton" : "SG",
     "externalId" : "club.sg.orechbuel-schutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.sg.orechbuel-schutzenverein.jpg",
     "name" : "Orechbüel Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Orechbüel SV",
+    "sourceURL" : "www.svon.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.svon.ch"
   },
-  "contentHash" : "sha256-ab34cfa00f19b2720487b4d73f83a991888a32fe77934dadc39efe81458704f5",
+  "contentHash" : "sha256-d3ff9c7e8ddbc79ec2b41e06280f179dfe7f61dd2d8d7e72e966c4cd1a14c1af",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,29 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.riunite-grono-societa-carabinieri-riunite",
+    "foundedYear" : 1985,
     "location" : "",
     "name" : "Riunite Grono Società Carabinieri Riunite",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Grono SC Riunite",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-dbd3f3e2549e4dbb1727609d7b205ddd239674db462535b6c877cf67ba42c8fd",
+  "contentHash" : "sha256-c9461c631b8dc58e3dbd2bfb45faa639d1805ff129cbb6442b6dd849619f2153",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,29 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.778ba84a",
+    "foundedYear" : 1908,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.778ba84a.jpg",
     "name" : "Richterswil Pistolen- und Revolverclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Richterswil PRC",
+    "sourceURL" : "https:\/\/www.prc-richterswil.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.prc-richterswil.ch\/"
   },
-  "contentHash" : "sha256-516a6277d5947d419937e16f706f37948b447df3992f316c4be9644afd19baa3",
+  "contentHash" : "sha256-76e89c32e98102d5115a4800031b716032778e138dbbf3e416a9b0823d8531d8",
   "events" : [
     {
       "championshipTags" : "",
@@ -93,7 +98,7 @@
       "title" : "32. Zürichsee-Luftpistolenmeisterschaft"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

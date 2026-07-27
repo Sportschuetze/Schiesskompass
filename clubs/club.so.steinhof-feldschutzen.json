@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Steinhof Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Steinhof FS",
+    "sourceURL" : "www.fs-steinhof.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fs-steinhof.ch"
   },
-  "contentHash" : "sha256-e73255483f237877055c6f71b9f0fb95b96eacdd496faf74a424c6aa9f69e26f",
+  "contentHash" : "sha256-1f8fec98a3a14213374ce79485f60fd58a8a0bb701430bd5c7f79930fec2aef7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

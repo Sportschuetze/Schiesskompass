@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Duillier Tireurs Sportifs",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Duillier TS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e4369fcdcc4cdcc79471a151748199204468dfc5ce37e84086eb211628e92337",
+  "contentHash" : "sha256-ac9db71b4caba8612c330627c5e006b6f059b75bf5914ac05ba60e17fe9eed20",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

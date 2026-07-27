@@ -5,28 +5,29 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.flums-grossberg-militarschutzenverein",
+    "foundedYear" : 1890,
     "location" : "",
     "name" : "Flums-Grossberg Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Flums-Grossberg MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e821cbd5a56eb1eb16556f99d68169e581d44f8d14a2a92b685859f2bc49f7e3",
+  "contentHash" : "sha256-711ec2a290459735a7f3b2be2ce303f9cd014a10e6111a651c00a0e12202ccaa",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

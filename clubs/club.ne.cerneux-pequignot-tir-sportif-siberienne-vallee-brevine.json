@@ -5,28 +5,29 @@
     ],
     "canton" : "NE",
     "externalId" : "club.ne.cerneux-pequignot-tir-sportif-siberienne-vallee-brevine",
+    "foundedYear" : 1887,
     "location" : "",
     "name" : "Cerneux-Péquignot Tir sportif Sibérienne-Vallée Brévine",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Cerneux-Péquignot Ts Sibérienne-Vallée Brévine",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c38c193b392d4e4c2366e15928564383fc7f2cc74d3c68fdbe792a46c21f5422",
+  "contentHash" : "sha256-5ec7ccae5be4b2993cf79b93d8ca7ad9af684c02b2d0a9a8cd218461f0caaacd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

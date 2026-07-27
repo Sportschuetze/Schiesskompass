@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Maglio di Colla Società tiratori del Gazzirola",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Maglio di Colla St del Gazzirola",
+    "sourceURL" : "https:\/\/ftst.ch\/maglio-di-colla-tiratori-del-gazzirola\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/ftst.ch\/maglio-di-colla-tiratori-del-gazzirola\/"
   },
-  "contentHash" : "sha256-f6143ba68f970dee8f815e66ca5a487e2f2916c86ecb669ae505a5451d0e3441",
+  "contentHash" : "sha256-4463c0029e31769e625ba52519a484ac0bdea27d1ef6e4a1429e004296711929",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

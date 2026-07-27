@@ -5,28 +5,36 @@
     ],
     "canton" : "VS",
     "externalId" : "club.vs.st-maurice-confrerie-des-mousquetaires-du-noble-jeu-de-cible",
+    "foundedYear" : 1683,
     "location" : "",
+    "logoPath" : "logos\/club.vs.st-maurice-confrerie-des-mousquetaires-du-noble-jeu-de-cible.jpg",
     "name" : "St-Maurice Confrérie des mousquetaires du Noble Jeu de Cible",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St-Maurice NJC",
+    "sourceURL" : "www.njc-stmaurice.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.njc-stmaurice.ch"
   },
-  "contentHash" : "sha256-9ab7acf5b65815264fd3a658e6b8957ea6807e5de4145fd88a3f99875c71cc90",
+  "contentHash" : "sha256-27224870722a09a601e912fe3d788eb3c49c219de448ed98af10a456d968bee3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

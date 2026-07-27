@@ -5,28 +5,32 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.schonenwerd-pistolenclub",
+    "foundedYear" : 1924,
     "location" : "",
     "name" : "Schönenwerd Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schönenwerd PC",
+    "sourceURL" : "www.pistolenclub-schoenenwerd.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.pistolenclub-schoenenwerd.ch"
   },
-  "contentHash" : "sha256-cb628aa1e6f20fb5dff2b307242ee46ba6d5bdaef66bb76b44c879d689acf63e",
+  "contentHash" : "sha256-0fd243a8c470636a1052eabe0c2330374ebe6a2c8e075f18e21a7e37afca208c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

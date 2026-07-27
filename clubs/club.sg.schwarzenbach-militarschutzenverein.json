@@ -5,28 +5,29 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.schwarzenbach-militarschutzenverein",
+    "foundedYear" : 1883,
     "location" : "",
     "name" : "Schwarzenbach Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Schwarzenbach MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a2c73509a11a8b7a6f7a0ce5ff4f14106972d2aa9ae9c5ad18c750478c28b147",
+  "contentHash" : "sha256-ff0c6495bce553796f0230f34c27702dc66ad99afb26f3e7fe58c5cae8e542ad",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

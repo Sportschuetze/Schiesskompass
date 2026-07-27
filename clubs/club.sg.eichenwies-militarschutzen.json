@@ -8,21 +8,21 @@
     "location" : "",
     "name" : "Eichenwies Militärschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Eichenwies MS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-45cf7aed8d0867e1f50a65cf617139393c12661e196fe1f4eb900df86bce4c02",
+  "contentHash" : "sha256-1d4df8fb1912e17d2638947f7d053a05f661ed1fbab0f48c23b833d9827944a3",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,7 +58,7 @@
       "title" : "Rheintaler Vereinswettkampf + Jubiläumsschiessen 75 Jahre Zeigerverband"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

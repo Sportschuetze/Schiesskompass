@@ -6,27 +6,33 @@
     "canton" : "VS",
     "externalId" : "club.vs.evolene-societe-de-tir-la-cible",
     "location" : "",
+    "logoPath" : "logos\/club.vs.evolene-societe-de-tir-la-cible.jpg",
     "name" : "Evolène Société de tir La Cible",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Evolène ST La Cible",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5f4e5c037a2c53d8bd71c272802947e1010d7e61440da2e9f213587171788699",
+  "contentHash" : "sha256-e8e55c3e8a9f7571431ed7661d06ab4c45697041c769f9fbfb346f4772b6ddf1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

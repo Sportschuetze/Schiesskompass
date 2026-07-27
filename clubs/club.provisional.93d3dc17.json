@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Teuffenthal bei Thun Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Teuffenthal bei Thun FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-5e3f411f94eabfaa5abd8d5de96c63e6c6f7a478aa1f52a1c5f47ec5136b989c",
+  "contentHash" : "sha256-c772e3a4c89b33a278309c7639a7b907def88f335344d17a0a01d7b5b3c83cbb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

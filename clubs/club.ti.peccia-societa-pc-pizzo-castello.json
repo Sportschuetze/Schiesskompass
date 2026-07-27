@@ -5,28 +5,29 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.peccia-societa-pc-pizzo-castello",
+    "foundedYear" : 1989,
     "location" : "",
     "name" : "Peccia Società PC Pizzo Castello",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Peccia Società PC Pizzo Castello",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a18a5727f053817f2dd82047c4d538b9422beeb16194d47dad10a919b9beab4b",
+  "contentHash" : "sha256-f77e9ce7cd43db249ee67f41a5480497879b2bfc1a5a8bc346799466d5743140",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

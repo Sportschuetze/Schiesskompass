@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Sornetan Société de tir Petit-Val",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Petit-Val ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7fbc069b878d5e6addebd685063c39576efd6b20161b8b69e13b3b084bfe31bc",
+  "contentHash" : "sha256-ec285ae841d753a2bd04be9fcedbce32e73896f2df64d12f2df315a6c586666f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

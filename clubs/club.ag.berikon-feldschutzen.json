@@ -5,24 +5,27 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.berikon-feldschutzen",
+    "foundedYear" : 1877,
     "location" : "",
+    "logoPath" : "logos\/club.ag.berikon-feldschutzen.jpg",
     "name" : "Berikon Feldschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Berikon FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7c34cecf5b08e27e71af24c94b6469dc28d584fe8db2fef886ae2e33e826d21d",
+  "contentHash" : "sha256-b75a07640870be015d7582001e5384323d2205a401133edab45f9b5f33ea82c5",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +66,7 @@
       "title" : "Herbstschiessen Berikon"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

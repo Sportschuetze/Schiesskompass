@@ -5,28 +5,32 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.4e47477d",
+    "foundedYear" : 1962,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.4e47477d.jpg",
     "name" : "Unterengstringen Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Unterengstringen PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-90bb876fa02662265a847ccb54cfc991664239e618c3efe562b9dd6cf0e6433f",
+  "contentHash" : "sha256-b050cc23568a5f3a0f042f721978523a6af363d280b6dd3b5a822c8a94b76969",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

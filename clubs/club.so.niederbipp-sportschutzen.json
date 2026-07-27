@@ -5,28 +5,30 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.niederbipp-sportschutzen",
+    "foundedYear" : 1997,
     "location" : "",
+    "logoPath" : "logos\/club.so.niederbipp-sportschutzen.jpg",
     "name" : "Niederbipp Sportschützen",
     "offeredDisciplines" : [
-
+      "G10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niederbipp Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8cc5944dedea4006ff0b643f912686f7e92894bc02fbc8f5f0fcba4b4e3380f6",
+  "contentHash" : "sha256-788896cb6b9724dccce9b51e25c3f155131e5ab14ff0737ef221649fb5177677",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

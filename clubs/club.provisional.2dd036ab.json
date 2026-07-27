@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Fehraltorf und Umgebung Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Fehraltorf uU Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1ef313d1ec429fdf6302f3bc8027c6774eb25e013d712ed86d30135efe89cce5",
+  "contentHash" : "sha256-c46d56ffcdfa4ae964539118a703b3a3bf2ec78781abeb58c7c50bcae24fbb1b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,24 +5,26 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.hugelshofen-dotnacht-schutzengesellschaft",
+    "foundedYear" : 1876,
     "location" : "",
+    "logoPath" : "logos\/club.tg.hugelshofen-dotnacht-schutzengesellschaft.jpg",
     "name" : "Hugelshofen-Dotnacht Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hugelshofen-Dotnacht SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bd0d03375bbd4039de0d6a19f96f742877e67b119ffe780d82b14e82be13ac43",
+  "contentHash" : "sha256-dcbd0b59b304da6faa1ea13e88557be92c16f97ea299665489b2db4b5350c75e",
   "events" : [
     {
       "championshipTags" : "",
@@ -78,7 +80,7 @@
       "title" : "Jubiläumsschiessen 150 Jahre SG Hugelshofen-Dotnacht"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

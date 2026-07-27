@@ -5,28 +5,30 @@
     ],
     "canton" : "VD",
     "externalId" : "club.vd.vallorbe-societe-de-tir-pistolet-revolver",
+    "foundedYear" : 1930,
     "location" : "",
     "name" : "Vallorbe Société de tir Pistolet - Revolver",
     "offeredDisciplines" : [
-
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Vallorbe ST Pistolet - Revolver",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-aeac308ff345dd6e9450c0da88b6b7954a13c71a1321623fca5a51e19bb1d5bc",
+  "contentHash" : "sha256-266cb941caacc4c6e9aba753a8827c55f6863b9dc3ef0170f4822b6bcb23e6be",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

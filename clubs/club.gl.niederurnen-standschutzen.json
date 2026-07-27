@@ -8,21 +8,25 @@
     "location" : "",
     "name" : "Niederurnen Standschützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Niederurnen Stand",
+    "sourceURL" : "www.widi.ch\/sts",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.widi.ch\/sts"
   },
-  "contentHash" : "sha256-7317ad5de790485c37e60c6ab067e9c6fe3fdbce1431c087fa18b4ca91548328",
+  "contentHash" : "sha256-86f114bd9f9b6d47cf2f4b31e653d2bed26f2293439b04010e2a1dbd1fd56e8f",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +72,7 @@
       "title" : "46. Linth-Escher-Schiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

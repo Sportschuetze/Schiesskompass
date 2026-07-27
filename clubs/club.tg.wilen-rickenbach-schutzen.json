@@ -6,27 +6,28 @@
     "canton" : "TG",
     "externalId" : "club.tg.wilen-rickenbach-schutzen",
     "location" : "",
+    "logoPath" : "logos\/club.tg.wilen-rickenbach-schutzen.jpg",
     "name" : "Wilen - Rickenbach Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wilen - Rickenbach S",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-717cd5d6f2bae0ebc3e7ab2b582042647c99b6e27e7640b8ad1437d33b87c079",
+  "contentHash" : "sha256-15bdfad0a276b26d2568f95731de3cff56c9aaf12cb96154ed5eff2d0feb935b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

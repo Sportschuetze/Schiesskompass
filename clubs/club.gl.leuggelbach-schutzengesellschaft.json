@@ -6,23 +6,24 @@
     "canton" : "GL",
     "externalId" : "club.gl.leuggelbach-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.gl.leuggelbach-schutzengesellschaft.jpg",
     "name" : "Leuggelbach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Leuggelbach SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-23ae1cd6e91ca60ca255c78a558bd519d66b833f05958b20e5f84bd04e0be9c2",
+  "contentHash" : "sha256-efb4ecf8b3526a351a37820e833fdfead2e542b5270fd241de188e89f349b2b4",
   "events" : [
     {
       "championshipTags" : "",
@@ -83,7 +84,7 @@
       "title" : "9. Vorbachschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

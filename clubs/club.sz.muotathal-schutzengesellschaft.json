@@ -6,27 +6,28 @@
     "canton" : "SZ",
     "externalId" : "club.sz.muotathal-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.sz.muotathal-schutzengesellschaft.jpg",
     "name" : "Muotathal Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Muotathal SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1af47ae90fef17d32828756d0828376c8d1adee7093b06fc86209f0030358cf4",
+  "contentHash" : "sha256-4a9a7915a34efcd4819f5663f9fb4865399a5a93feaab551b947fbf6db1240c7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

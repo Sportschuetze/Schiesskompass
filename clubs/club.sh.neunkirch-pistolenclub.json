@@ -5,28 +5,32 @@
     ],
     "canton" : "SH",
     "externalId" : "club.sh.neunkirch-pistolenclub",
+    "foundedYear" : 1967,
     "location" : "",
     "name" : "Neunkirch Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Neunkirch PC",
+    "sourceURL" : "https:\/\/pistolenclub-neunkirch.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/pistolenclub-neunkirch.ch"
   },
-  "contentHash" : "sha256-f54169a0a5c9f3f5589d3e8ab63c1c604227604230e5159e2e92bff285e13b43",
+  "contentHash" : "sha256-9814b3242b2f7df7bfffa65169fcbd9969ac8e5a5f8557afdfdf05e18e586c6d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

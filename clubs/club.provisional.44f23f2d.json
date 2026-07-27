@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Gsteigwiler Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gsteigwiler FS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-27ed870d70216c4e249d6e8f5aa3ee12e940056523a5d049d897d6b71bb30d0c",
+  "contentHash" : "sha256-4999c06a31c7b9728e04cec189b8f40d375c06c397798befaea25d60b9bb2678",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Oberdorf BL Freischützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberdorf BL FS",
+    "sourceURL" : "www.fs-oberdorf.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fs-oberdorf.ch"
   },
-  "contentHash" : "sha256-0e23294aeb6db78df9126b138a20af2407a946809028a17f8ab83c33322d30de",
+  "contentHash" : "sha256-11ffccdde67508874f8f2f76a35a5d2d160eb021353455faa98f25638aa39c26",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

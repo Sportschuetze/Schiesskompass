@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Sugnens Société de tir Amis du tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sugnens ST Amis du tir",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0e856586b16dfd8b6b9dd583bd596450a7a30045c0323cb65074f60194a87619",
+  "contentHash" : "sha256-de60e0c0fcaaafdc7878d8f180ac603212e54f983e4c9055ca154e689fb573bb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

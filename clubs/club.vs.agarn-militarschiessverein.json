@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Agarn Militärschiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Agarn MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-43727e519a7939d7bd0d05d5b790d8b42fcebe0bf532e8d5ae334327e80ce3ab",
+  "contentHash" : "sha256-dc26ca809f472831774f97cb0149a3f218b5499fe45a1df6901d1ae78c866997",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

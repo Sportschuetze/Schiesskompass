@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Pratteln Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Pratteln SG",
+    "sourceURL" : "www.sgpratteln.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sgpratteln.ch"
   },
-  "contentHash" : "sha256-e1c5b01c6fd9635ed888b6e68cc3c77d839852dcbef1f7d9041f2a4d9f9ae90f",
+  "contentHash" : "sha256-e612ff8a518dab6d66d650f90d0a77f461aa68511693ffc83bc1c51fda4e7878",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

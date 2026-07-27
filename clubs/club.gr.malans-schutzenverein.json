@@ -5,28 +5,31 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.malans-schutzenverein",
+    "foundedYear" : 1825,
     "location" : "",
+    "logoPath" : "logos\/club.gr.malans-schutzenverein.jpg",
     "name" : "Malans Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Malans SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-12ac874d668c122277cb5e316ea8d9bba7a666e9f364734d7b22729934ead7da",
+  "contentHash" : "sha256-133b08bcfcfc175fa3a618356b7b1626c3dd07c2230dc9f436815c5b4099fc58",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

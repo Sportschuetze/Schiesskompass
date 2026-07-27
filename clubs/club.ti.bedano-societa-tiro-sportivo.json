@@ -5,28 +5,31 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.bedano-societa-tiro-sportivo",
+    "foundedYear" : 1988,
     "location" : "",
+    "logoPath" : "logos\/club.ti.bedano-societa-tiro-sportivo.jpg",
     "name" : "Bedano Società Tiro Sportivo",
     "offeredDisciplines" : [
-
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bedano St Sportivo",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-df2829c842b415ed2e7786018238b57d68730223f4c96e7c59089d64dd7831a4",
+  "contentHash" : "sha256-124e4d4c6fe4cc1e34cb91419a08073f65001ba8047527add87a4bd6a185237b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,28 @@
     "canton" : "TG",
     "externalId" : "club.tg.matzingen-stettfurt-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.tg.matzingen-stettfurt-schutzengesellschaft.jpg",
     "name" : "Matzingen-Stettfurt Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Matzingen-Stettfurt SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2b1822449b990ce29c2a13c0bffd5049e22a385b790f4095001efa8b3c19fda6",
+  "contentHash" : "sha256-367fec6c0be038c50a90682cd5b9c70713829eb46f4f6ebf39f534cf721bc1a7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

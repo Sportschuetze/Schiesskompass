@@ -5,28 +5,30 @@
     ],
     "canton" : "SZ",
     "externalId" : "club.sz.trachslau-schutzengesellschaft",
+    "foundedYear" : 1880,
     "location" : "",
+    "logoPath" : "logos\/club.sz.trachslau-schutzengesellschaft.jpg",
     "name" : "Trachslau Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Trachslau SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7edd7bcda6ea3f0c08ee23839902451356b570b00b2cc614e49ab7620e8fdf35",
+  "contentHash" : "sha256-c70077e9df755487bfaf04047f2de7f30afc25284f9230b5eb7625b0d7dcd10f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

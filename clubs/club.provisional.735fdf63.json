@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Hindelbank Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hindelbank SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e3613f186a5c7f693c3a9091b0ca980c262a53b82e93ae1cceadb4adc3fe7eaa",
+  "contentHash" : "sha256-19a0385ec4ba415b1ebafc3caf7881deb85c67463c0a4f95bba1a0a25af07ce3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

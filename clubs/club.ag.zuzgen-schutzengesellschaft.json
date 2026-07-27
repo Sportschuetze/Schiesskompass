@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.zuzgen-schutzengesellschaft",
+    "foundedYear" : 1880,
     "location" : "",
+    "logoPath" : "logos\/club.ag.zuzgen-schutzengesellschaft.jpg",
     "name" : "Zuzgen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zuzgen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b48fb9d9d19e9c2d4f697cfe0f08d29d51f7c75c7645e55de6142b5d7f1762a0",
+  "contentHash" : "sha256-73157eab76d6d3540ffd1921ca39c31942e20be3b7de5a469b6a3ee1a1ece824",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

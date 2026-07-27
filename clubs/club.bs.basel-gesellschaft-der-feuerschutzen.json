@@ -5,28 +5,34 @@
     ],
     "canton" : "BS",
     "externalId" : "club.bs.basel-gesellschaft-der-feuerschutzen",
+    "foundedYear" : 1466,
     "location" : "",
+    "logoPath" : "logos\/club.bs.basel-gesellschaft-der-feuerschutzen.jpg",
     "name" : "Basel Gesellschaft der Feuerschützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Basel GdF",
+    "sourceURL" : "www.feuerschuetzen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.feuerschuetzen.ch"
   },
-  "contentHash" : "sha256-5b32877c7f8e5f55840b8e2cede80d5b7078a319c0466d9d399b40cdbee77b7f",
+  "contentHash" : "sha256-df5aeaa8dc071c1677c4e6863ff9a1a7954da144828d959e1c4cc87000f4a0f9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,33 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.f4ba5e7e",
+    "foundedYear" : 1915,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.f4ba5e7e.jpg",
     "name" : "Uetendorf Pistolensektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Uetendorf PS",
+    "sourceURL" : "https:\/\/www.psuetendorf.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.psuetendorf.ch"
   },
-  "contentHash" : "sha256-4e4e668475f6fa09dcc3a25f3699d92395c1ff7e7237ea0fb6dc543c17662fb2",
+  "contentHash" : "sha256-037e47e65064dab7aefd2bf2aab9c47a60ab4db5ae40c0d0c6b5bc10b26f6be0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

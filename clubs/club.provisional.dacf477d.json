@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Höfen b\/Thun Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Höfen b\/Thun FSG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2a5a0321ac0e6f734186423b96ae11d450d2cae1fd136a6f445d459c8aae2218",
+  "contentHash" : "sha256-d8e1d02e2d230a67b067d37f9692f8fce7c9ab52baaa134168d93badeeae0ef2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

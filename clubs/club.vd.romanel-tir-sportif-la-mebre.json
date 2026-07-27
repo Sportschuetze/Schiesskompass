@@ -8,25 +8,31 @@
     "location" : "",
     "name" : "Romanel Tir Sportif la Mèbre",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Romanel TS la Mèbre",
+    "sourceURL" : "www.tsmromanel.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tsmromanel.ch"
   },
-  "contentHash" : "sha256-f74ee38fd2390cf4a90203b966b62e50439c1010d74b2a1dcc8cf0bd634134a0",
+  "contentHash" : "sha256-4754f7dbaac080795afe917b3eb53470e36db6e9d07e7d2101a7f9e29acbf156",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

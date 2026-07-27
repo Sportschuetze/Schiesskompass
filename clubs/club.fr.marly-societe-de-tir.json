@@ -8,25 +8,29 @@
     "location" : "",
     "name" : "Marly Société de tir",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Marly STM",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-29e18eae29e27c5cadd20ab32be2ea36ca8f67c7bd746deaec45d7ba99d75d53",
+  "contentHash" : "sha256-14c74a21fd0f4b09cc3096815ccac1fb9be417cb7c4319076a64fbf728f35a35",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

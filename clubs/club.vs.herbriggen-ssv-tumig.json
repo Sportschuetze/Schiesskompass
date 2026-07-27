@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Herbriggen SSV Tumig",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Herbriggen SSV Tumig",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-af10ebef35a74e3af9be8b185f5f54900791f23472fe588b4b0cc5683b8f1ff7",
+  "contentHash" : "sha256-671a383e6e8b05f14d8476790a7c8395bce7173bb07c6c23bbe0b8b24aeefcbd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

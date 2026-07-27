@@ -5,28 +5,32 @@
     ],
     "canton" : "LU",
     "externalId" : "club.provisional.2e591701",
+    "foundedYear" : 1865,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.2e591701.jpg",
     "name" : "Sempach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sempach SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6dfb099e902ac03207025bb46eee6a9370acfaf563567b462e8d667417379113",
+  "contentHash" : "sha256-49072ea06de53147a44c6ec8606d90102ad7885806facc8332e92406666ca5a2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

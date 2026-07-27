@@ -5,28 +5,32 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.17386bfc",
+    "foundedYear" : 1950,
     "location" : "",
     "name" : "Ursenbach Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ursenbach PS",
+    "sourceURL" : "www.psursenbach.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.psursenbach.ch"
   },
-  "contentHash" : "sha256-08de2f45d9b47bc2381d8f9be6685769fe0368d46ae134d22c8a0c48596d3456",
+  "contentHash" : "sha256-2801e8386b42f53a74d44d7ba597c880f7f46b429238d7aa02a67363aaec27df",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

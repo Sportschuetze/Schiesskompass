@@ -5,28 +5,35 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.mendrisio-societa-di-tiro-la-mendrisiense",
+    "foundedYear" : 1910,
     "location" : "",
+    "logoPath" : "logos\/club.ti.mendrisio-societa-di-tiro-la-mendrisiense.jpg",
     "name" : "Mendrisio Società di Tiro la Mendrisiense",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mendrisio St la Mendrisiense",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fbb9aa312aa403064b1c2107e15e10f69951da04d168bce3b67545063fe25e44",
+  "contentHash" : "sha256-7f032dda789b2d7f070009bd1e904d24c31894941a923da975b4a0be35770534",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

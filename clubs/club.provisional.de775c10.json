@@ -5,28 +5,32 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.de775c10",
+    "foundedYear" : 1926,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.de775c10.jpg",
     "name" : "Frutigen Pistolenklub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Frutigen PK",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d76a06f6acb6f067daaacbd1209cf1b64060017e821839ebc922d28f8c06b1fb",
+  "contentHash" : "sha256-9fd8fbc558b3f2b02b4f8846e616f48bd550b86246e97bca7ee64754c420301d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

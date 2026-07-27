@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Teufen ZH Schiessverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Teufen ZH SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ea974d274752fcc561438b138dbeb64876bcdf040ab6a004065de8d95ec021c8",
+  "contentHash" : "sha256-0ac7a27a3413abd3a3e87431ab28a1394724bb055afafc5ec05437b41cf7b9bc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

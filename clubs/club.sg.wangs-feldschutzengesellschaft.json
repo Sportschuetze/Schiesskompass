@@ -5,28 +5,30 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.wangs-feldschutzengesellschaft",
+    "foundedYear" : 1895,
     "location" : "",
     "name" : "Wangs Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wangs FSG",
+    "sourceURL" : "www.fsgwangs.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsgwangs.ch"
   },
-  "contentHash" : "sha256-4590346a1b19a3764621587c12c2d587b0e138be921503b12927853df361c95f",
+  "contentHash" : "sha256-8d32ad1ed3242584b2185ab135a48b8d9a81240d31e2cbf43038b41b36e3a111",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

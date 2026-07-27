@@ -8,21 +8,22 @@
     "location" : "",
     "name" : "Humlikon-Adlikon Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Humlikon-Adlikon SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a199a63eb70074cded4fdb33529e739fbb1c738d8d9d9404279f3df93d7ca858",
+  "contentHash" : "sha256-9dd7ccbc2a28f98623c4c8074d1f40fc4055c9cc7087bb712bf7721d99258cb0",
   "events" : [
     {
       "championshipTags" : "",
@@ -53,7 +54,7 @@
       "title" : "Irchelschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

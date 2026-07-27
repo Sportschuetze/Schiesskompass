@@ -5,24 +5,26 @@
     ],
     "canton" : "SH",
     "externalId" : "club.sh.merishausen-schutzenverein",
+    "foundedYear" : 1879,
     "location" : "",
     "name" : "Merishausen Schützenverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Merishausen SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6e1065a8c97442e36c4020bf51b82f64c6dc3169eafe9edf8287933cb9641e00",
+  "contentHash" : "sha256-48aa3da417ccd58b9f8644f82e71954e9f9e87f9b4cb658168792956b21edd89",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,7 +60,7 @@
       "title" : "41. Chlausschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

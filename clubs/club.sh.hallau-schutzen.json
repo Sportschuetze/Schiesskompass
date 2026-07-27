@@ -6,27 +6,29 @@
     "canton" : "SH",
     "externalId" : "club.sh.hallau-schutzen",
     "location" : "",
+    "logoPath" : "logos\/club.sh.hallau-schutzen.jpg",
     "name" : "Hallau Schützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Hallau S",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7a91ab1c6f4f4226d66fcafc41c9b4ea423e26a2813a2d7ed044b09995b5ce80",
+  "contentHash" : "sha256-42dc74159c339165eb209744a3bfc5e32299383b2d5b8bd5054d9ebaeb44380a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

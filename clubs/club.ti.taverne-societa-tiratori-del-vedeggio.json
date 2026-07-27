@@ -5,28 +5,33 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.taverne-societa-tiratori-del-vedeggio",
+    "foundedYear" : 1877,
     "location" : "",
     "name" : "Taverne Società Tiratori del Vedeggio",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Taverne St del Vedeggio",
+    "sourceURL" : "www.stvedeggio.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.stvedeggio.ch"
   },
-  "contentHash" : "sha256-c975750d8b131b81410daa4f7484e888505aa2c600a1743e7a4bc404224f987c",
+  "contentHash" : "sha256-dae5e7f705788e72422134cb1757c1472cf302b0798e88586cd3822aad87aba5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

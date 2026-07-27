@@ -5,28 +5,31 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.st-pantaleon-feldschutzen",
+    "foundedYear" : 1872,
     "location" : "",
+    "logoPath" : "logos\/club.so.st-pantaleon-feldschutzen.jpg",
     "name" : "St. Pantaleon Feldschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "St. Pantaleon FS",
+    "sourceURL" : "www.fs-stpantaleon.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fs-stpantaleon.ch"
   },
-  "contentHash" : "sha256-71a22ecadaff304abb022e842dcbdba5a9e9d0248ae3624129bc288854676897",
+  "contentHash" : "sha256-acb90525248023a2d3c7bc78440b74ffa9f415963a2fad2dccd945c268bc0e51",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

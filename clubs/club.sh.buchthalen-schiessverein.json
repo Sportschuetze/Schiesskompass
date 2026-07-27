@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Buchthalen Schiessverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Buchthalen SV",
+    "sourceURL" : "https:\/\/svbuchthalen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/svbuchthalen.ch"
   },
-  "contentHash" : "sha256-7eec694a8992b2137bb633ae6f42b5179221704825b37bfb1933c942fd3f161b",
+  "contentHash" : "sha256-777845ba5e4727a762e5575a1aeb757330ea852b105498c4fa8d773ce6cd106c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

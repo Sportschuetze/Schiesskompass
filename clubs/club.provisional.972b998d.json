@@ -5,28 +5,33 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.972b998d",
+    "foundedYear" : 2007,
     "location" : "",
+    "logoPath" : "logos\/club.provisional.972b998d.jpg",
     "name" : "Winterthur Stadtschützen",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Winterthur Stadt",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7de3fbd70c452a4d46bc0ea8864e6d264e24ece87618d8324b019ac544f7a759",
+  "contentHash" : "sha256-44a06dde06ef050054bdfd5b13e50e4eed2148febbbfa452d804a199a27e3f1e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

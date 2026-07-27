@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Krummenau Schützengesellschaft Wilhelm Tell",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Krummenau SG Wilhelm Tell",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a9f7024c9cf6596247a6a39cf25e4131932de3a17d1fc037bbf3cccf73bd7fa8",
+  "contentHash" : "sha256-42c8c9ca5911224e233eb26c19a67a2d3f32cfab5246fb746a8a35bf9b3adc49",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

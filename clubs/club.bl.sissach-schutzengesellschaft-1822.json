@@ -5,28 +5,36 @@
     ],
     "canton" : "BL",
     "externalId" : "club.bl.sissach-schutzengesellschaft-1822",
+    "foundedYear" : 1822,
     "location" : "",
+    "logoPath" : "logos\/club.bl.sissach-schutzengesellschaft-1822.jpg",
     "name" : "Sissach Schützengesellschaft 1822",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sissach SG 1822",
+    "sourceURL" : "www.sg-sissach1822.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-sissach1822.ch"
   },
-  "contentHash" : "sha256-7addc26c2719f9435f3765de307df939fc98ec239b0b91f14c7b5a1d17bdef19",
+  "contentHash" : "sha256-ff4bfd297f740b220603a488bab229b717575b5b07760046411867a5a9f031e5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,28 @@
     "canton" : "BE",
     "externalId" : "club.provisional.4ce0a4f1",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.4ce0a4f1.jpg",
     "name" : "Rüegsau Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Rüegsau S",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e3c5bca55c3fdcc547accf4007058ee7f7e439b88b5e3d8e609bffac3cb180d1",
+  "contentHash" : "sha256-2970a3e9e77fa7636fa57a7568fec429ff6f2ffe9ae606eb74a0c81fc0818646",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

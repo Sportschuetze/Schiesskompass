@@ -5,28 +5,30 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.wittenbach-schutzengesellschaft",
+    "foundedYear" : 1758,
     "location" : "",
+    "logoPath" : "logos\/club.sg.wittenbach-schutzengesellschaft.jpg",
     "name" : "Wittenbach Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wittenbach SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-10bf411974188b16044fe4c1fbb2b6e7f00776c20bf2aca9c49ea78b1679af3d",
+  "contentHash" : "sha256-4ac5612e91a1b1ed9adcbe461f66a8076973d9259c6e8aff2902d46640fda1dc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,27 +6,28 @@
     "canton" : "LU",
     "externalId" : "club.provisional.3e92cb2b",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.3e92cb2b.jpg",
     "name" : "Gettnau Sportschützen Ruessgraben",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ruessgraben Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fdf1feaa3d10b7ec7fd754f2b35ca5b8babcd69c17fb6659d8c99bb5dd2b3dec",
+  "contentHash" : "sha256-06e2f42d528406a04883f10a37e3865e255047e47a5b6e6d40f56ab43fbe626b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

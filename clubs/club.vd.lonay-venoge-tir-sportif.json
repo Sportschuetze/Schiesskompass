@@ -6,27 +6,28 @@
     "canton" : "VD",
     "externalId" : "club.vd.lonay-venoge-tir-sportif",
     "location" : "",
+    "logoPath" : "logos\/club.vd.lonay-venoge-tir-sportif.jpg",
     "name" : "Lonay Venoge Tir sportif",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lonay Venoge TS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-414ba9c88947938f920a4a0b8ce7a817eea538faf7ba693ac4cfad625b51373f",
+  "contentHash" : "sha256-0901f13d5de0e109c412e9ed551a5353036160b6cab5e94b0c8bebccda44dc21",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

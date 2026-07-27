@@ -6,27 +6,28 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.1cf0e9da",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.1cf0e9da.jpg",
     "name" : "Kollbrunn Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kollbrunn Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2c20db22458f8a9b24ea020d3f54c920dac74aa6caf85861f93f4bac523c96b7",
+  "contentHash" : "sha256-38214922c208291822336e25066f6a9da1ae3eee95b34daa150f3153447ece6f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

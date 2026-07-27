@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Bussigny Sté de tir Mousquetaires de la Venoge",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bussigny ST Mousquetaires de",
+    "sourceURL" : "https:\/\/mousquetaires.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/mousquetaires.ch\/"
   },
-  "contentHash" : "sha256-59b1f12a3d05105864fd2d5e0a5cb64ef4a53800d916d7b81b8a043539e47dee",
+  "contentHash" : "sha256-f95d2fb8d0df115241906c318021edddbd95bd0e371d28a3fdab29c45b29a302",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

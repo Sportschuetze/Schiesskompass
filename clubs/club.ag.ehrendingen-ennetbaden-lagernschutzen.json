@@ -5,28 +5,29 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.ehrendingen-ennetbaden-lagernschutzen",
+    "foundedYear" : 1871,
     "location" : "",
     "name" : "Ehrendingen-Ennetbaden Lägernschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ehrendingen-Ennetbaden LS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-41fc2984678f1162f8213962cd2eeeca03c59de380c4e9e189b3d204e203f2f1",
+  "contentHash" : "sha256-de5ca976415ae24c72cb7194dd8cf3c0f0b2063f512db21d2826be130f9c8ba8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

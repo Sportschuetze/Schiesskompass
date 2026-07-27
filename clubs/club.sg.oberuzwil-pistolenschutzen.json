@@ -5,28 +5,32 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.oberuzwil-pistolenschutzen",
+    "foundedYear" : 1889,
     "location" : "",
+    "logoPath" : "logos\/club.sg.oberuzwil-pistolenschutzen.jpg",
     "name" : "Oberuzwil Pistolenschützen",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Oberuzwil PS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d939b0a94ba8d0ac5e5473dd9242bb9511ee5e23d56f4c62f79bc1bd1cf2df19",
+  "contentHash" : "sha256-e0a95da03d44216b45bc716cdaf51eb79abfbf23b14240ab8baa20b028b74ff6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

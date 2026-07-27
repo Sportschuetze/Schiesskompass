@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Savagnier Société de tir Les Mousquetaires",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Savagnier ST Les Mousquetaires",
+    "sourceURL" : "https:\/\/mousquetaires-savagnier.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/mousquetaires-savagnier.ch\/"
   },
-  "contentHash" : "sha256-05b9361df99dee10f7f67ea36ad921f397fc29b669b54110fea8b0d86811eb4b",
+  "contentHash" : "sha256-2b22eb571c1209f604839601f603fc7828edc994d67e05c6edf1f86b2d727575",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

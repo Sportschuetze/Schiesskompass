@@ -5,28 +5,30 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.eggersriet-grub-schutzenverein",
+    "foundedYear" : 1872,
     "location" : "",
+    "logoPath" : "logos\/club.sg.eggersriet-grub-schutzenverein.jpg",
     "name" : "Eggersriet-Grub Schützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Eggersriet-Grub SV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2c230f0b898896ca299fb8de5ca7235e3fe652f8761e3f4cfde6f5c99c249b8d",
+  "contentHash" : "sha256-2173e6cedc3e84980126af84932df64575a7614db121a94ac4eb9c640ea9e710",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

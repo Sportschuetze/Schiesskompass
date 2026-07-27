@@ -5,28 +5,31 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.krummbach-hemberg-sportschutzen",
+    "foundedYear" : 2008,
     "location" : "",
+    "logoPath" : "logos\/club.sg.krummbach-hemberg-sportschutzen.jpg",
     "name" : "Krummbach-Hemberg Sportschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Krummbach-Hemberg Sport",
+    "sourceURL" : "http:\/\/www.krummbach-hemberg.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "http:\/\/www.krummbach-hemberg.ch"
   },
-  "contentHash" : "sha256-0ddbd5e13496731cc866f2e5a47bb0c736b81198880fda810b08e03a4f24e48b",
+  "contentHash" : "sha256-fc542db78efa97a83a83deb1935df3fc4c56ac529c92f4f2fd234e21040808ec",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

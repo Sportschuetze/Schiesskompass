@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Wartau Pistolen- und Kleinkaliber-Sektion",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wartau PKS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8cc26713ddd2353eab4618d1b112cefcf88c6b160e0e2eeddd22f2e94b88e9b3",
+  "contentHash" : "sha256-20f7ff3e4769d8b20e013b1e15e38d06c4191a6989d7a901ee68a54f97412b3b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

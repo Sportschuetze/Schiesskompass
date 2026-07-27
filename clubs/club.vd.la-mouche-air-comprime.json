@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "La Mouche Air Comprimé",
     "offeredDisciplines" : [
-
+      "G10"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "La Mouche AC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6c811010bbf932349e840331c4e5ac20979443b16813d980d4ade9d7bf231104",
+  "contentHash" : "sha256-4ae84e7daf55565fcaf2476accd7ae14a8ce168fe1423c2b47203c08550363ba",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

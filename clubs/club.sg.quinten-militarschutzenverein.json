@@ -5,28 +5,30 @@
     ],
     "canton" : "SG",
     "externalId" : "club.sg.quinten-militarschutzenverein",
+    "foundedYear" : 1896,
     "location" : "",
+    "logoPath" : "logos\/club.sg.quinten-militarschutzenverein.jpg",
     "name" : "Quinten Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Quinten MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4165362dce62e99701ad352208d6cd37f57a4d185a4a0ff321a0add5bbe5cb69",
+  "contentHash" : "sha256-cdba3120cc8a726420cf884dad0e74cf963d010024aea57c4b2a5ca42dd10380",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Corpataux Petit Calibre",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Corpataux PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-732f1b78ea04a2adb969b5cad2ba37ed5485028d2bbeab9dd4c97280b686db33",
+  "contentHash" : "sha256-b4b3c1ab287e3d972ca2706cae072f8ee7771214619e83f5e33fa90474f4c6bd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

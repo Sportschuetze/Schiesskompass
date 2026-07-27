@@ -5,28 +5,32 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.sent-societa-da-tregants",
+    "foundedYear" : 1922,
     "location" : "",
     "name" : "Sent Società da tregants",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Sent ST",
+    "sourceURL" : "www.tregants-sent.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tregants-sent.ch"
   },
-  "contentHash" : "sha256-4e3fb317236ca1fd114bc5f282b3d2335e48ab10783cf0ed6db72e0e679c79a9",
+  "contentHash" : "sha256-95cc5db64d29e60f9f916a0dfa5eb6537ff8c86ea13907f64a2ec8ae64c75770",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

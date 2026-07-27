@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.9e0c1dd5",
+    "foundedYear" : 1885,
     "location" : "",
     "name" : "Bettenhausen Sportschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bettenhausen Sport",
+    "sourceURL" : "www.sportschuetzen-bettenhausen.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sportschuetzen-bettenhausen.ch"
   },
-  "contentHash" : "sha256-a66cae38aa403382a189c239bb0a9246fa2a1f6936a5a966c9ba1065d20ecc8f",
+  "contentHash" : "sha256-19653f21d9f7d952d3e3cf12e097792b70166cbf5d6fd2b49ca4bb2585276c86",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,21 +8,21 @@
     "location" : "",
     "name" : "Zeihen Schützenbund",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Zeihen SB",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-de4a43de0be1481ec0e750fd73bf5fd5bb184ae751a918755abc434f9d6b8e9d",
+  "contentHash" : "sha256-eef50256af0014f312c1b2c07a04de5844763e4c670471176bdecaeaa927f7f5",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +68,7 @@
       "title" : "Sagemühleschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

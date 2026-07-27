@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Gächliwil-Gossliwil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gächliwil-Gossliwil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-613a094f18a6de7944c0261ae6b8ddebccd9f9669b4c3231d6dcbdae2979ce04",
+  "contentHash" : "sha256-351fe0af54391579d738cf6fdc77eec752b66f8eec109bccbfedfed5bfc719bc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

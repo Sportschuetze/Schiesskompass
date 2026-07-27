@@ -5,28 +5,29 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.5ced69e3",
+    "foundedYear" : 1870,
     "location" : "",
     "name" : "Mühlethurnen Lohnstorf Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mühlethurnen Lohnstorf SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-067a498d38db04a962d9668ff01dd98ef57a44852b7d6a0a9c346223419e3660",
+  "contentHash" : "sha256-69cec7ff5d85a683ebb6f87f855ed4e9f4577ba1b2fbd1bc9dd27ff0592a921e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

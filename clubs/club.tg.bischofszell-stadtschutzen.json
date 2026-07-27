@@ -5,28 +5,30 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.bischofszell-stadtschutzen",
+    "foundedYear" : 1527,
     "location" : "",
     "name" : "Bischofszell Stadtschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bischofszell Stadt",
+    "sourceURL" : "ssbzell.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "ssbzell.ch"
   },
-  "contentHash" : "sha256-fb939eeb62dfdf40a4aaa42c5d69081f54d9a0a4c19435e656c54022418c6297",
+  "contentHash" : "sha256-09f2f1dfb398782768768d1be22cb240f59b318d2dca5e38015faad38542d524",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

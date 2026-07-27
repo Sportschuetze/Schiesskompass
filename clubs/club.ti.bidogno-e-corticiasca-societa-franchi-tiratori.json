@@ -5,28 +5,31 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.bidogno-e-corticiasca-societa-franchi-tiratori",
+    "foundedYear" : 1900,
     "location" : "",
     "name" : "Bidogno e Corticiasca Società Franchi Tiratori",
     "offeredDisciplines" : [
-
+      "G300",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bidogno SFT",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-46566a996b6137508cdb2af3d20ca615979b2e8aafe9752239327a7de605c98b",
+  "contentHash" : "sha256-57798b21e7cce1a03c1fa80a3ef022b67f77fd1dd48f4cd3fefca2b5e2e36c8c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

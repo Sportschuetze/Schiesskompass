@@ -5,28 +5,34 @@
     ],
     "canton" : "GR",
     "externalId" : "club.gr.tschlin-strada-martina-societa-da-tregants",
+    "foundedYear" : 1930,
     "location" : "",
     "name" : "Tschlin-Strada-Martina Società da tregants",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Tschlin-Strada-Martina ST",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-979e33ecf2d70d543491e9952cc8d4ea0b1eba8ed61007ded627362c1ca238e3",
+  "contentHash" : "sha256-2ad41ecdc1094e34d04c1c5cda5fbf41f58f3045c168ba66ccdcf37aef2094a2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

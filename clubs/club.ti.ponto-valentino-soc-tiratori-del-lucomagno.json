@@ -5,28 +5,30 @@
     ],
     "canton" : "TI",
     "externalId" : "club.ti.ponto-valentino-soc-tiratori-del-lucomagno",
+    "foundedYear" : 1875,
     "location" : "",
+    "logoPath" : "logos\/club.ti.ponto-valentino-soc-tiratori-del-lucomagno.jpg",
     "name" : "Ponto Valentino Soc. Tiratori del Lucomagno",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Ponto Valentino St del Lucomagno",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-588e6f50be30dbb0f2dc05fd78f48586f058beb40a200d435133f004265d6239",
+  "contentHash" : "sha256-30ecab09af873ae6815384052113c11fad4392f4b547a318f312bc169582f471",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

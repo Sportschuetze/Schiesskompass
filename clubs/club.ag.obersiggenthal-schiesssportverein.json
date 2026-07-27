@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Obersiggenthal Schiesssportverein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Obersiggenthal SSV",
+    "sourceURL" : "www.ssv-obersiggenthal.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.ssv-obersiggenthal.ch"
   },
-  "contentHash" : "sha256-eb56ed18da14a7e6f4ccd67d79b2e9dfad7b34163885f086779e2b3b27d97dbf",
+  "contentHash" : "sha256-db5e96dcfaba374b6cf3c03278b359d3c4c4de383b0a2bcc62fac38d3166046a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

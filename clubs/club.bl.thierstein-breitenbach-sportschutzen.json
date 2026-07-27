@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Thierstein-Breitenbach Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thierstein-Breitenbach Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2ebe951ee3fee2a6e75edaa2fa1dd0ec42d6bcd1a1037cedfb10a3eec6d51249",
+  "contentHash" : "sha256-c18eb5ae6eb715cea96d773f7c022e09d46b53a8e84b281b6fa3a88427a8f826",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

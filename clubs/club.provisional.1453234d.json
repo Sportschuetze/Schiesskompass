@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.1453234d",
+    "foundedYear" : 1873,
     "location" : "",
     "name" : "Roggwil Infanterieschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Roggwil Inf. S",
+    "sourceURL" : "www.schuetzen-roggwil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schuetzen-roggwil.ch"
   },
-  "contentHash" : "sha256-88ebee262e9a9ebe0d11b61bcf185665cfca574a8ec2c3ea6453bc4bf9cc07e8",
+  "contentHash" : "sha256-dc4be4db69be10218e443be5816d4bb425dc8056c934a14ed328023d01313975",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

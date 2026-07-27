@@ -5,28 +5,30 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.unterlunkhofen-feldschutzengesellschaft",
+    "foundedYear" : 1889,
     "location" : "",
     "name" : "Unterlunkhofen Feldschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Unterlunkhofen FSG",
+    "sourceURL" : "www.fsgul.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.fsgul.ch"
   },
-  "contentHash" : "sha256-2726cb331de4f5b820244606ae550eacb4a326776206408b4d5dea97493696f4",
+  "contentHash" : "sha256-fce5d902e2065422179be4af0c5e51e7997ab3c8a16c1d4558340ad43bbdce70",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

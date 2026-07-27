@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Aeschi SO Regionalschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Aeschi SO RSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6741dba19c776f4d67fce0e7920fd7f798b35a60b9b275ca9529bf292fcc66b8",
+  "contentHash" : "sha256-02500523f1a0d3f31778be211f5c836f2b379bc4a4ff649adc40e93bbd83691d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Le Bouillet-Frenières-Bex Amis du tir",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Le Bouillet-Frenières-Bex Amis du tir",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f0d8432047bffb860a14a14ba37248b435e9222980bf0ba2f3a3185619f1e8d7",
+  "contentHash" : "sha256-ac9876b996ce578ca3beaa0eb844af2e42721374b2b2e89a05938c2048321ae0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

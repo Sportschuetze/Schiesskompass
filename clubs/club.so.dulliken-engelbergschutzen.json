@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Dulliken Engelbergschützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Dulliken ES",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f761d141159e69ac8b27de02d9a5bd99b0ba8e18dde67fa2cfb040f0c66878dc",
+  "contentHash" : "sha256-5de5f96c90e00f7d8008ace0d50f891e372f42da0a0de6323eb149694b8062aa",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

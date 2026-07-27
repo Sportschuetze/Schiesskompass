@@ -8,25 +8,27 @@
     "location" : "",
     "name" : "Stein am Rhein Pistolenclub",
     "offeredDisciplines" : [
-
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Stein am Rhein PC",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-85dd2f2dade5427b5337a23ee9b0561d54271a827b8fdd9ba99d398fcbf2ea31",
+  "contentHash" : "sha256-7f989aa97c076793435aacb4a4f96cf1041aa4c0c94bc60bd995b65d5463973d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

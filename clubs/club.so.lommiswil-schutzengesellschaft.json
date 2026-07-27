@@ -5,24 +5,27 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.lommiswil-schutzengesellschaft",
+    "foundedYear" : 1871,
     "location" : "",
+    "logoPath" : "logos\/club.so.lommiswil-schutzengesellschaft.jpg",
     "name" : "Lommiswil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lommiswil SG",
+    "sourceURL" : "www.sg-lommiswil.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sg-lommiswil.ch"
   },
-  "contentHash" : "sha256-74ebaf603273a6f380a7ad4a27f5a452bc2032d3ea76e126f9f8d5c5f92a2fd4",
+  "contentHash" : "sha256-35842288735722523cb0cf5f4e7d6956eedb9943d1063c42591c945b8c3c012c",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +66,7 @@
       "title" : "St. German Schiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

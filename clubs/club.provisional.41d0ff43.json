@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Kratzmatt Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Kratzmatt S",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cda44c070bf64dec0276bbcd0bb9970ab742adbdac68705ab8248861591d09ff",
+  "contentHash" : "sha256-43c9aadc427e0516c85d012b1a7dc779309dee206930290ad23fb8dd949e3da6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -6,23 +6,26 @@
     "canton" : "ZH",
     "externalId" : "club.provisional.7134cd45",
     "location" : "",
+    "logoPath" : "logos\/club.provisional.7134cd45.jpg",
     "name" : "Glattfelden Sportschützen-Verein",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Glattfelden Sport",
+    "sourceURL" : "www.sps8192.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sps8192.ch"
   },
-  "contentHash" : "sha256-7b9d0d912b5f15568864e20438be0c5a07fde59037561c573e3641c7cc5e0be4",
+  "contentHash" : "sha256-3172ee5b937b5e4f8ed95d2f5d31d31ba5dae647efc6c03ad9d062f890f1dc3f",
   "events" : [
     {
       "championshipTags" : "",
@@ -83,7 +86,7 @@
       "title" : "Unterland-Tournee 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

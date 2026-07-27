@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.meltingen-schutzengesellschaft",
+    "foundedYear" : 1882,
     "location" : "",
     "name" : "Meltingen Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Meltingen SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3dcf52ac2617581954bb271b187d5064c57a56e0b62ae8575979a0c202c85e05",
+  "contentHash" : "sha256-38e72aed8c3998c71a2700406e1e8a1091918c83b84653319664de30c38ea9b5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

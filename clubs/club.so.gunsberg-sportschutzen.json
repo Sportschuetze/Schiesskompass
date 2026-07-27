@@ -5,28 +5,29 @@
     ],
     "canton" : "SO",
     "externalId" : "club.so.gunsberg-sportschutzen",
+    "foundedYear" : 1967,
     "location" : "",
     "name" : "Günsberg Sportschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Günsberg Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-62426b6df306f240780f1058d3ed9880df6af77e61427a1e582c4920e5e71626",
+  "contentHash" : "sha256-e9036627bedf367285e142ed2cedd222c2485b80ed1bd0823df17fc79b950389",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Mollens Société de tir",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mollens ST",
+    "sourceURL" : "www.tir-mollens.com",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.tir-mollens.com"
   },
-  "contentHash" : "sha256-c283de89ad9c01f8dea919196b1d4c9f1ad93030504accc251e641a80fd40a3c",
+  "contentHash" : "sha256-323c86a80abb014190400f744ff3cec435b49c643ecfa116bcdccff29c2be65c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

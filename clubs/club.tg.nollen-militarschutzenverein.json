@@ -6,27 +6,28 @@
     "canton" : "TG",
     "externalId" : "club.tg.nollen-militarschutzenverein",
     "location" : "",
+    "logoPath" : "logos\/club.tg.nollen-militarschutzenverein.jpg",
     "name" : "Nollen Militärschützenverein",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Nollen MSV",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e2a687b2617428c3ed80b40a44d85d79f7d3a74e2c4a4784c508c180566923d8",
+  "contentHash" : "sha256-44264276eb0c9059882ef73f5c43c55bc4681359b932d6eeecaa08579f1a2b39",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

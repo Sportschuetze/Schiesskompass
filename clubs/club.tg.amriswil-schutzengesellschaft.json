@@ -6,23 +6,24 @@
     "canton" : "TG",
     "externalId" : "club.tg.amriswil-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.tg.amriswil-schutzengesellschaft.jpg",
     "name" : "Amriswil Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Amriswil SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fee287bad7eee64db8fde347ded105748b58f96ca406ed8af18049a47b733082",
+  "contentHash" : "sha256-b8d7db7d08fb9bd30f717e2156c0e76a5bd9728633fb3323b278a5f73ea1d57f",
   "events" : [
     {
       "championshipTags" : "",
@@ -91,7 +92,7 @@
       "title" : "3. Oberthurgauer Adventsschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

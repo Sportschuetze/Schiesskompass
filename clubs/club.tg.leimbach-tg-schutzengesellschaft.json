@@ -6,27 +6,28 @@
     "canton" : "TG",
     "externalId" : "club.tg.leimbach-tg-schutzengesellschaft",
     "location" : "",
+    "logoPath" : "logos\/club.tg.leimbach-tg-schutzengesellschaft.jpg",
     "name" : "Leimbach TG Schützengesellschaft",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Leimbach TG SG",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c916c963b64811aa93c9f7ce9f63c422ed13069444a8c6340934b803ed196f0e",
+  "contentHash" : "sha256-aa98b7cdc156cb97ff0ef7c454c48a0eecc0e4df7919694cc73b74c54a3bc686",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

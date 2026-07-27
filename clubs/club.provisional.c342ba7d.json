@@ -8,25 +8,30 @@
     "location" : "",
     "name" : "Bramberg-Neuenegg Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Bramberg-Neuenegg Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-193f2aa6a2f1855c8fd4a7c8335f2d4f630eb5c8ef5b1cc54e36d223014a6a5e",
+  "contentHash" : "sha256-9bc14758ae9e4499f33d4a79fd0ba3531fb19c7af3bea885aa645506c9fcda69",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

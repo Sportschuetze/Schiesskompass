@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Frauenkappelen Kleinkaliberschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Frauenkappelen KKS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-907dabd7dcbf105b58946c1be503cf1b21f258651ec592006f16754ed0a8b613",
+  "contentHash" : "sha256-a063dbdb2ea3392eaed592578d5a9d73af1f9a1c31695c01d1cfa2ba8b644305",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

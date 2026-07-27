@@ -8,25 +8,25 @@
     "location" : "",
     "name" : "Gruyères Société de tir Les Mousquetaires",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gruyères ST Les Mousquetaires",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-425561f308f408939eb69cd4e179602d156e7e22220c25d707b55dc6fe7e427c",
+  "contentHash" : "sha256-860fbf620ba5e42e80f7c4bbb8f90173652344515781d2d1528d90ea0b84237e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Golaten Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Golaten S",
+    "sourceURL" : "www.schuetzen-golaten.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.schuetzen-golaten.ch"
   },
-  "contentHash" : "sha256-b61fba288e445fa3678997bee56d975900ab9112d9c92e9c98144c19542b7576",
+  "contentHash" : "sha256-64ca54c1e6d293735c7052a6ddb0526e03edf52d098248fd21a617afa51e9f81",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

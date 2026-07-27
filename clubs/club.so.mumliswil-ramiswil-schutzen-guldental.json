@@ -8,25 +8,28 @@
     "location" : "",
     "name" : "Mümliswil-Ramiswil Schützen Guldental",
     "offeredDisciplines" : [
-
+      "G300",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Mümliswil-Ramiswil Schützen Guldental",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1596070ff437e4b4536741b56aa28b0ed34bf7801f2e749028c38956aaadb018",
+  "contentHash" : "sha256-2f7079cce497f460a057f414dcf3e5b1f53619ab1231c406d97ed77a2a28f221",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

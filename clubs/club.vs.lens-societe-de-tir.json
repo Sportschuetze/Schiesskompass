@@ -5,28 +5,34 @@
     ],
     "canton" : "VS",
     "externalId" : "club.vs.lens-societe-de-tir",
+    "foundedYear" : 1918,
     "location" : "",
     "name" : "Lens Société de tir",
     "offeredDisciplines" : [
-
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Lens ST",
+    "sourceURL" : "https:\/\/www.tir-lens.ch\/",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "https:\/\/www.tir-lens.ch\/"
   },
-  "contentHash" : "sha256-23843d34f67aa88a3ad185c6492027c9f78136d88f885ab78993c3ec9819f738",
+  "contentHash" : "sha256-63affb894a4075ad1268d97017348f95879a3fdd43289d4f21d4a6f50300e201",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

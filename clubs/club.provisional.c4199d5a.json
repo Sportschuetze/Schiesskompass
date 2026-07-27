@@ -5,28 +5,30 @@
     ],
     "canton" : "ZH",
     "externalId" : "club.provisional.c4199d5a",
+    "foundedYear" : 1922,
     "location" : "",
     "name" : "Wetzikon Sportschützengesellschaft",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Wetzikon Sport",
+    "sourceURL" : "www.sportschuetzen-wetzikon.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.sportschuetzen-wetzikon.ch"
   },
-  "contentHash" : "sha256-a6d8b440a684f3bb427b5ac3be6dd9bb2248cbbc86c49f214cf3f0574e19ff91",
+  "contentHash" : "sha256-309eafa968d2f069659d0af0a309423db3ca20036e083b67cde95cb5a88f5520",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

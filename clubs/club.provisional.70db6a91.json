@@ -5,28 +5,30 @@
     ],
     "canton" : "BE",
     "externalId" : "club.provisional.70db6a91",
+    "foundedYear" : 1884,
     "location" : "",
     "name" : "Courtelary Société de tir Armes-Réunies",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Courtelary ST Armes-Réunies",
+    "sourceURL" : "www.armes-reunies-courtelary.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.armes-reunies-courtelary.ch"
   },
-  "contentHash" : "sha256-b8da204829e8224010ee27f7ec3db9604fb845ac7d88ebd76aea7d771ecd30ec",
+  "contentHash" : "sha256-3bc6258f4da49f6095038b38b51d67bb7c43e3625d2f1977c9655999dc088727",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

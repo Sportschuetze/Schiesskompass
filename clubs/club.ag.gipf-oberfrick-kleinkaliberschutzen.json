@@ -5,28 +5,31 @@
     ],
     "canton" : "AG",
     "externalId" : "club.ag.gipf-oberfrick-kleinkaliberschutzen",
+    "foundedYear" : 1943,
     "location" : "",
+    "logoPath" : "logos\/club.ag.gipf-oberfrick-kleinkaliberschutzen.jpg",
     "name" : "Gipf-Oberfrick Kleinkaliberschützen",
     "offeredDisciplines" : [
-
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Gipf-Oberfrick KKS",
+    "sourceURL" : "www.kks-gipf-oberfrick.ch",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : ""
+    "website" : "www.kks-gipf-oberfrick.ch"
   },
-  "contentHash" : "sha256-5de9d16f388c2d40bf74e3da039ba69f62805f6250ff46cc9e6557daf423db7f",
+  "contentHash" : "sha256-401f5683ed59afcf84e7aff40cbda99e2a5f7500c944308bdb6bc0552fc4df53",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -5,28 +5,34 @@
     ],
     "canton" : "NE",
     "externalId" : "club.ne.le-locle-societe-locloise-de-tir-sportif-slts",
+    "foundedYear" : 1834,
     "location" : "",
     "name" : "Le Locle Société Locloise de Tir Sportif (SLTS)",
     "offeredDisciplines" : [
-
+      "G10",
+      "G300",
+      "G50",
+      "P10",
+      "P25",
+      "P50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Le Locle SLTS",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-31883dd07a240700750c14fde2324ef9333fb3a02c7461bbccdc370f09baa2a6",
+  "contentHash" : "sha256-4569790715d8c382a98ca373d742a0bb5c438c2fe78a688f4f42ca178e2c9cf6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

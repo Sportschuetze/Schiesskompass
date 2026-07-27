@@ -5,28 +5,30 @@
     ],
     "canton" : "TG",
     "externalId" : "club.tg.birwinken-schutzen",
+    "foundedYear" : 2018,
     "location" : "",
+    "logoPath" : "logos\/club.tg.birwinken-schutzen.jpg",
     "name" : "Birwinken Schützen",
     "offeredDisciplines" : [
-
+      "G300"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Birwinken Schützen",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b7e06df48f9ca1c79e5a8a2a44b3aefc6cf7e0f454628e7fe2a478c1cb561d90",
+  "contentHash" : "sha256-8795161ff9c61bc5bef31f582b250b674d31d09866f5feca71260baaa46bd165",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

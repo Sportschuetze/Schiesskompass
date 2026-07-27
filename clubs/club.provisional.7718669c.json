@@ -8,25 +8,26 @@
     "location" : "",
     "name" : "Thörishaus Sportschützen",
     "offeredDisciplines" : [
-
+      "G10",
+      "G50"
     ],
     "postalCode" : "",
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
     "seasonStartMonth" : 4,
-    "shortName" : "",
+    "shortName" : "Thörishaus Sport",
     "trainingDiscipline" : "",
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-000f23f6c1e656563e4ea25e7ecffde0ff8e61d1ffaad3e2869499823aa944de",
+  "contentHash" : "sha256-d5df0a0e0bf0710abbad7387a3f41785b48d1f03a34d5941f35d09896b2bce16",
   "events" : [
 
   ],
-  "generatedAt" : "2026-07-27T06:45:13Z",
+  "generatedAt" : "2026-07-27T13:42:28Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }
