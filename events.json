@@ -1,0 +1,2679 @@
+{
+  "events" : [
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-08-29T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.bachtelianer.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Bachtel-Hinwil ZH",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-21T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-28T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Bachtelianerschiessen (Bachtel-Hinwil) P25\/P50\/P50A"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-06-26T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.esf-chur.2026",
+      "isExternal" : false,
+      "isNational" : true,
+      "licenseRequired" : false,
+      "location" : "Chur \/ Dürrboden GR",
+      "mainEventExternalId" : "event.ssv.esf.2026",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-26T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-26T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "07:00"
+        }
+      ],
+      "title" : "Eidg. Schützenfest Chur – Schiesstag PSaE"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.01",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "36. Josefi-Gruppenschiessen Buchs SG P25&50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.02",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Alpenrösli Pistolenschiessen Klosters GR"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.03",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Bülacher Frühlings-Pistolenschiessen Bülach ZH P25&50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.04",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Mittefastenschiessen Unterengstringen ZH P25&50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.05",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Schaffhauser-Pistolenschiessen Schaffhausen P25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.06",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Schwabenkrieg Erinnerungsschiessen Hallau SH P25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.07",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eulachschiessen Winterthur P25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.08",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Pistolen-Gruppenschiessen Emmen LU"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.09",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen Willisau LU P25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.10",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Ochsenweid-Pistolenschiessen Zizers GR P25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.11",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Türggenschiessen Enetbaden AG P25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.12",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Tiro di Primavera San Carlo GR P25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.13",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Dielsdorfer Bärenschiessen Dielsdorf ZH P25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.14",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Maischiessen Küblis GR P25\/50 & PA25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.15",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Steig-Schiessen St. Luzisteig GR P25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.16",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "St. Luzi-Schiessen Chur GR P25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.17",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Römerturmschiessen Weiach AG P25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.18",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Hist. Calvenschiessen Davos GR P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.19",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Landquarter Gruppenschiessen Igis GR P25&50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.20",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Landesplattenberg Schiessen Engi GL P25&50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.21",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Hist. Überfallschiessen Enetmoos NW P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.22",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Hist. Stoss Schiessen Gais AR P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.23",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "NW Gruppenschiessen Beckenried NW P25&50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.24",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Teufmoosschiessen Hergiswil NW P25&50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.25",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Zentralschweizerisches Gruppenschiessen P25&50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.26",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Concorso Squadre Tesserete TI P25&50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.27",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gottfried Keller Schiessen Glattfelden ZH P25&50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.28",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Hist. Schwaderlohschiessen Alterswilen TG P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.29",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Herbstschiessen Affoltern am Albis ZH P25&50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.30",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Chrisiwasser Nachtschiessen Frick AG P25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.31",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Hist. Rütli-Pistolenschiessen P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.32",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Tiro Storico del San Gottardo Airolo TI P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.33",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Reinacher Pistolen Schiessen Reinach AG P25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.34",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Winzerschiessen Kleinandelfingen ZH P25\/50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.35",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Ustertagschiessen 25\/50m Uster ZH"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25&P50",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.extern.36",
+      "isExternal" : true,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Auswärts (weitere Möglichkeit)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Chlaus Schiessen Frick AG P25&P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P50",
+      "endDate" : "2026-04-26T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.gedenk-rothenthurm-p50.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Rothenthurm",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-25T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-25T10:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2026-04-26T10:00:00Z",
+          "endTime" : "11:45",
+          "startTime" : "08:30"
+        }
+      ],
+      "title" : "59. Hist. Gedenk-Pistolenschiessen am Rothenthurm P50"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P50",
+      "endDate" : "2026-05-23T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.kant-final-gm-p50.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Cholmattli",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-23T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-23T10:00:00Z",
+          "endTime" : "12:30",
+          "startTime" : "08:30"
+        }
+      ],
+      "title" : "Kant. Final GM-P50 (Cholmattli)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P50",
+      "endDate" : "2026-11-15T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.morgarten-hist-p50.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Morgarten",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-15T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-15T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Historisches Morgarten Pistolenschiessen P50"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "P25",
+      "endDate" : "2026-03-07T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.rosenstaedter.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Rapperswil-Jona",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-02-28T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-02-28T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-03-07T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Rosenstädter Pistolenschiessen P25"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P50",
+      "endDate" : "2026-08-18T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.rsa-lachen-p50.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Lachen",
+      "participationCategory" : "",
+      "requiresRegistration" : true,
+      "startDate" : "2026-08-11T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-11T10:00:00Z",
+          "endTime" : "19:45",
+          "startTime" : "17:45"
+        },
+        {
+          "date" : "2026-08-18T10:00:00Z",
+          "endTime" : "19:45",
+          "startTime" : "17:45"
+        }
+      ],
+      "title" : "RSA Lachen Vereinsstich P50 (nur mit Anmeldung)"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-08-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.shooting-wursting.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "OGMH",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-22T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        }
+      ],
+      "title" : "Shooting & Wursting P25 \/ G300 (OGMH)"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "P25",
+      "endDate" : "2026-05-23T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.psae.walensee.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Rüti\/Weesen SG",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-21T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-21T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-05-22T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-05-23T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "1. Walensee Schiessen (Schiessst. Rüti Weesen)"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "G300",
+      "endDate" : "2026-09-12T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.ammler-bergschiessen.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schützen Amden",
+      "participationCategory" : "G+V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-04T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-04T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "14:00"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "17:30",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-09-12T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "20. Ammler Bergschiessen – Schützen Amden"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-10-03T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.bockenkrieg-horgen.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SG Horgen",
+      "participationCategory" : "G",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-25T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-25T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-09-26T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-10-03T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "54. Bockenkriegschiessen (Gruppen) – SG Horgen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-11-28T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.chlausschiessen-mettmenstetten.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Mettmenstetten",
+      "participationCategory" : "G",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-28T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-28T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Chlausschiessen 2026 (Gruppen) – Mettmenstetten"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-04-25T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.einzelwettschiessen-riet.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SV Tell (Riet)",
+      "participationCategory" : "G+V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-24T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-24T10:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "18:30"
+        },
+        {
+          "date" : "2026-04-25T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        }
+      ],
+      "title" : "Einzelwettschiessen – SV Tell (Riet)"
+    },
+    {
+      "championshipTags" : "JM,JMR,JMK",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "G300",
+      "endDate" : "2026-06-13T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.etzelbund-oberiberg.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SG Oberiberg",
+      "participationCategory" : "V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-09T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-09T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-06-12T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-06-13T10:00:00Z",
+          "endTime" : "17:30",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "63. Etzelbundschiessen – SG Oberiberg"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-04-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.freundschaft-lachen.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SG Lachen",
+      "participationCategory" : "V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-14T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-14T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        }
+      ],
+      "title" : "Freundschaftschiessen mit Lachen – SG Lachen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-05-03T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.fruehlingsschiessen-rufi.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Rufi-Maseltrangen",
+      "participationCategory" : "G+V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-24T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-24T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-04-25T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-05-02T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-05-03T10:00:00Z",
+          "endTime" : "11:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "59. Frühlingsschiessen – Rufi-Maseltrangen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-04-26T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.gedenk-rothenthurm.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "FSV Rothenthurm",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-25T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-25T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-04-26T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Hist. Gedenkschiessen – FSV Rothenthurm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-05-23T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.gm-final-rothenthurm.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Rothenthurm",
+      "participationCategory" : "G",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-23T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-23T10:00:00Z",
+          "endTime" : "17:40",
+          "startTime" : "07:30"
+        }
+      ],
+      "title" : "Gruppenmeisterschaft Final – Rothenthurm"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "G300",
+      "endDate" : "2026-05-23T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.grynau-schmerikon.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SV Schmerikon",
+      "participationCategory" : "V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-15T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-15T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-05-16T10:00:00Z",
+          "endTime" : "17:30",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-05-22T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-05-23T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "150 Jahre Grynau – SV Schmerikon"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-03-21T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.hanslin.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Stadtschützen Rapperswil",
+      "participationCategory" : "G",
+      "requiresRegistration" : false,
+      "startDate" : "2026-03-13T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-03-13T11:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "14:00"
+        },
+        {
+          "date" : "2026-03-14T11:00:00Z",
+          "endTime" : "15:30",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-03-15T11:00:00Z",
+          "endTime" : "11:30",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-03-21T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "42. Hanslin Gedenkschiessen (Gruppen) – Stadtschützen Rapperswil"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-26T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.herbstschiessen-staefa.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SG Stäfa",
+      "participationCategory" : "G",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-18T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-18T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-09-19T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2026-09-26T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "08:30"
+        }
+      ],
+      "title" : "54. Herbstschiessen Stäfa (Gruppen) – SG Stäfa"
+    },
+    {
+      "championshipTags" : "JM,JMR",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "G300",
+      "endDate" : "2026-08-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.hirschflue-unteriberg.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SG Unteriberg",
+      "participationCategory" : "V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-21T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-30T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "28. Hirschflueschiessen – SG Unteriberg"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-23T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.jugendschiessen-rothenthurm.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Rothenthurm",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-21T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-08-23T10:00:00Z",
+          "endTime" : "10:30",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Kantonal Jugendschiessen (Jahrgänge 2010–2016) – Rothenthurm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-04-25T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.msv-brunnen.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "MSV Brunnen-Ingenbohl",
+      "participationCategory" : "G+V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-18T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-18T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-04-19T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-04-24T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-04-25T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "125 Jahre MSV Brunnen-Ingenbohl"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "G300",
+      "endDate" : "2026-08-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.muotaschiessen.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "FSV-Sattel \/ FSV-Rothenthurm",
+      "participationCategory" : "G+V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-07T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-07T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-08-08T10:00:00Z",
+          "endTime" : "15:30",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-21T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "15:30",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Muotaschiessen – FSV Sattel\/Rothenthurm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-05-03T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.panterschiessen.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SV-Walde St. Gallenkappel",
+      "participationCategory" : "G+V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-24T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-24T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-04-25T10:00:00Z",
+          "endTime" : "17:30",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-05-02T10:00:00Z",
+          "endTime" : "17:30",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-05-03T10:00:00Z",
+          "endTime" : "11:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "10. Panterschiessen am Ricken – SV-Walde St. Gallenkappel"
+    },
+    {
+      "championshipTags" : "JMR",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "G300",
+      "endDate" : "2026-04-18T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.regional-liegend.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Einsiedeln (SV-Tell)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-18T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-18T10:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "10:00"
+        }
+      ],
+      "title" : "Regional Liegendschiessen – SV-Tell Einsiedeln"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-05T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.regional-matchtag.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SG Einsiedeln \/ Wäni",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-05T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Regional Matchtag – SG Einsiedeln\/Wäni"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-12T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.regional-veteranen-svtell.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SV-Tell",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-12T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-12T10:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "13:00"
+        }
+      ],
+      "title" : "Regional Veteranenschiessen – SV-Tell"
+    },
+    {
+      "championshipTags" : "JM,JMR,JMK",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "G300",
+      "endDate" : "2026-05-16T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.regionalverband-bennau.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SG Bennau",
+      "participationCategory" : "V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-05-06T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-05-06T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:30"
+        },
+        {
+          "date" : "2026-05-15T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:30"
+        },
+        {
+          "date" : "2026-05-16T10:00:00Z",
+          "endTime" : "11:30",
+          "startTime" : "10:00"
+        }
+      ],
+      "title" : "53. Regionalverbandschiessen – SG Bennau"
+    },
+    {
+      "championshipTags" : "JM,JMR",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "G300",
+      "endDate" : "2026-08-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.roggenstock-oberiberg.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SG Oberiberg",
+      "participationCategory" : "V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-21T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-30T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "41. Roggenstockschiessen – SG Oberiberg"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-09T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.rossberg.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "FSV Rossberg",
+      "participationCategory" : "V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-07T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-07T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-08-08T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-09T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Rossbergschiessen – FSV Rossberg"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-04-25T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.schlossturm.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Freienbach \/ Wilen \/ Wollerau",
+      "participationCategory" : "V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-18T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-18T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-04-19T10:00:00Z",
+          "endTime" : "11:30",
+          "startTime" : "09:30"
+        },
+        {
+          "date" : "2026-04-25T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "36. Schlossturmschiessen – Freienbach\/Wilen\/Wollerau"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-02-14T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.valentin.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SV Wädenswil",
+      "participationCategory" : "G",
+      "requiresRegistration" : false,
+      "startDate" : "2026-02-07T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-02-07T11:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2026-02-14T11:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "08:30"
+        }
+      ],
+      "title" : "20. Valentin-Teamschiessen (Gruppen) – SV Wädenswil"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-06-27T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.veteranen-seewen.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Seewen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-26T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-26T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-06-27T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
+        }
+      ],
+      "title" : "Kantonales Veteranenschiessen – Seewen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-10-03T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.werdmueller-waedenswil.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SV Wädenswil",
+      "participationCategory" : "G",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-25T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-25T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-09-26T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-10-03T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "40. General-Werdmüller (Gruppen) – SV Wädenswil"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-11-28T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.winterschiessen-beinwil.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Beinwil \/ Freiamt",
+      "participationCategory" : "G",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-28T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-28T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Winterschiessen 2026 (Gruppen) – Beinwil\/Freiamt"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-11-07T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.winterschiessen-hoefe.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Höfner Veteranenverband",
+      "participationCategory" : "V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-11-07T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-11-07T11:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Winterschiessen Höfe – Höfner Veteranenverband"
+    },
+    {
+      "championshipTags" : "JM,JMR,JMK",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "G300",
+      "endDate" : "2026-10-03T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.reg.winterschiessen-oberiberg.2026",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "SG Oberiberg",
+      "participationCategory" : "V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-26T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-26T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-10-03T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Winterschiessen – SG Oberiberg"
+    },
+    {
+      "championshipTags" : "JM",
+      "countsForAnnualChampionship" : true,
+      "discipline" : "G300",
+      "endDate" : "2026-06-21T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "occ.trachslau.esf.2026",
+      "isExternal" : false,
+      "isNational" : true,
+      "licenseRequired" : false,
+      "location" : "Grüsch GR",
+      "mainEventExternalId" : "event.ssv.esf.2026",
+      "participationCategory" : "G+V",
+      "requiresRegistration" : false,
+      "startDate" : "2026-06-19T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-06-19T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "15:00"
+        },
+        {
+          "date" : "2026-06-20T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "07:30"
+        },
+        {
+          "date" : "2026-06-21T10:00:00Z",
+          "endTime" : "09:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Eidg. Schützenfest Chur in Grüsch"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.47e28147",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-12T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20509.11229",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Oberrieden, Neuforst",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-10T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-10T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-09-12T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        }
+      ],
+      "title" : "Bezirksschiessen BSV Horgen"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.47e28147",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-09-08T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20572.11293",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Adliswil, Büel",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-05T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        },
+        {
+          "date" : "2026-09-08T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "17:00"
+        }
+      ],
+      "title" : "Bezirksschiessen BSV Horgen"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.9ab2f15c",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20616.11319",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Zumikon, Breitwis",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-14T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:30"
+        }
+      ],
+      "title" : "Bezirksschiessen 300m BSV Meilen"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.022533b6",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-13T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20630.11333",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Fischenthal, Strahlegg",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-05T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        },
+        {
+          "date" : "2026-09-12T10:00:00Z",
+          "endTime" : "15:30",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-09-13T10:00:00Z",
+          "endTime" : "11:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Tösstalverbandsschiessen 2026"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.f7e0d49d",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20692.11385",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Oberstammheim, Tütteltal",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-19T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-19T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-08-28T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-08-30T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:30"
+        }
+      ],
+      "title" : "Bezirkssommerschiessen BSV Andelfingen"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.4eb10cff",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-12T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20704.11395",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Volketswil, Hegnau",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-04T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-04T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-09-11T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-09-12T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        }
+      ],
+      "title" : "Bezirksschiessen Uster 2026"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.d1486603",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-02-28T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20768.11452",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-02-28T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-02-28T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        },
+        {
+          "date" : "2026-02-28T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        },
+        {
+          "date" : "2026-02-28T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        },
+        {
+          "date" : "2026-02-28T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        },
+        {
+          "date" : "2026-02-28T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        }
+      ],
+      "title" : "Verbandsschiessen RSV Fürstenland 2026"
+    },
+    {
+      "associationExternalId" : "assoc.kv.tksv",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-02-16T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20808.11486",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "G300",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-02-16T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-02-16T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        },
+        {
+          "date" : "2026-02-16T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        },
+        {
+          "date" : "2026-02-16T11:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        }
+      ],
+      "title" : "Kantonalstich 2026"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.8736b22d",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-23T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20830.11497",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Bachs, Breiti (4) und Neerach Höriberg(6)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-06T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-06T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-23T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Bezirksschiessen BSVD 300m 2026"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.8736b22d",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-08-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:20832.11499",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Otelfingen, Berg",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-08-05T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-08-05T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2027-08-21T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2027-08-22T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Bezirksschiessen BSVD 300m 2027"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.022533b6",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P50",
+      "endDate" : "2026-08-29T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21017.11645",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage (Details unbekannt)",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-21T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:30"
+        },
+        {
+          "date" : "2026-08-21T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:30"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Bezirksschiessen 50m"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.2f0dec39",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-09-19T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21045.11673",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "P25",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-09T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-09T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-09-19T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:30"
+        }
+      ],
+      "title" : "Bezirksschiessen Pistole 25m"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.2f0dec39",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-19T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21046.11674",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Rafz",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-09T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-09T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-09-19T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:30"
+        }
+      ],
+      "title" : "Bezirksschiessen BSV Bülach Gewehr"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.022533b6",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-09-19T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21083.11712",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Kyburg, Brüel",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-09-11T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-09-11T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "16:30"
+        },
+        {
+          "date" : "2026-09-18T10:00:00Z",
+          "endTime" : "19:30",
+          "startTime" : "16:30"
+        },
+        {
+          "date" : "2026-09-19T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        }
+      ],
+      "title" : "Bezirksschiessen Bezirk Pfäffikon"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.47e28147",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2027-03-20T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21105.11734",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Rüschlikon, Leilöcher",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2027-03-20T11:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2027-03-20T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        },
+        {
+          "date" : "2027-03-20T11:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "14:00"
+        },
+        {
+          "date" : "2027-03-20T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        },
+        {
+          "date" : "2027-03-20T11:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "14:00"
+        }
+      ],
+      "title" : "Winterschiessen Bezirksschützenverband Horgen"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.297558b7",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-16T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21120.11744",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Zürich-Albisgütli",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-14T10:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-08-14T10:00:00Z",
+          "endTime" : "20:30",
+          "startTime" : "18:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "12:30",
+          "startTime" : "07:30"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "07:45"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "13:00",
+          "startTime" : "07:30"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "12:30",
+          "startTime" : "08:30"
+        },
+        {
+          "date" : "2026-08-16T10:00:00Z",
+          "endTime" : "15:00",
+          "startTime" : "07:30"
+        }
+      ],
+      "title" : "Zürcher Kantonale Matchmeisterschaften 2026 (KMM Outdoor) Final"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.47e28147",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-12T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21136.11760",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Langnau a A, Schützenmatt",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-05T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-05T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:30"
+        },
+        {
+          "date" : "2026-08-08T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "14:00"
+        },
+        {
+          "date" : "2026-08-08T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-12T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:30"
+        }
+      ],
+      "title" : "Horgener Liegendmatch"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.296e452f",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21201.11821",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Bild, Eggerstanden",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-22T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "11:30",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "11:55",
+          "startTime" : "07:30"
+        }
+      ],
+      "title" : "OJGM\/OGWJJ-Final 2026"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.8736b22d",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P25",
+      "endDate" : "2026-08-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21295.11906",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Opfikon-Glattbrugg, Rohr",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-13T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-13T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Bezirksschiessen BSVD 2026 P25m"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.8736b22d",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "P50",
+      "endDate" : "2026-08-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21296.11907",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Opfikon-Glattbrugg, Rohr",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-13T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-13T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "09:00"
+        }
+      ],
+      "title" : "Bezirksschiessen BSVD 2026 P50m"
+    },
+    {
+      "associationExternalId" : "assoc.kv.tksv",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G300",
+      "endDate" : "2026-08-08T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21299.11910",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "Regionale Schiessanlage Almensberg",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-08-08T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-08-08T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-08-08T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "13:00"
+        }
+      ],
+      "title" : "Kantonaler JJ-\/JS-GM-Final 2026"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.8ae9870f",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G10A",
+      "endDate" : "2026-10-10T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21310.11921",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "G10A",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-10-10T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-10-10T10:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        }
+      ],
+      "title" : "Auflageschiessen G10 Rundenwettkampf mit Final"
+    },
+    {
+      "associationExternalId" : "assoc.provisional.297558b7",
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "discipline" : "G50",
+      "endDate" : "2026-04-15T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "portal:21313.11924",
+      "isExternal" : false,
+      "isNational" : false,
+      "licenseRequired" : false,
+      "location" : "G50",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "startDate" : "2026-04-15T10:00:00Z",
+      "timeBlocks" : [
+        {
+          "date" : "2026-04-15T10:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        },
+        {
+          "date" : "2026-04-15T10:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
+        }
+      ],
+      "title" : "Schweizerische Vereinswettschiessen"
+    }
+  ],
+  "generatedAt" : "2026-07-27T13:42:28Z",
+  "schemaVersion" : 1
+}
