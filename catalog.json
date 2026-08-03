@@ -934,6 +934,24 @@
       "programExternalId" : "program.provisional.9b68f7ee",
       "programPartExternalId" : "program.provisional.9b68f7ee.part.3",
       "repetition" : 1
+    },
+    {
+      "order" : 1,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "programPartExternalId" : "program.provisional.d9ccf052.part.1",
+      "repetition" : 1
+    },
+    {
+      "order" : 2,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "programPartExternalId" : "program.provisional.d9ccf052.part.2",
+      "repetition" : 1
+    },
+    {
+      "order" : 3,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "programPartExternalId" : "program.provisional.d9ccf052.part.3",
+      "repetition" : 1
     }
   ],
   "calibers" : [
@@ -998,8 +1016,8 @@
       "notes" : "Standardkaliber Ordonnanzpistole CH. Zugelassen OP\/EFS."
     }
   ],
-  "catalogLabel" : "2026v11",
-  "catalogVersion" : 11,
+  "catalogLabel" : "2026v12",
+  "catalogVersion" : 12,
   "competitions" : [
 
   ],
@@ -1071,7 +1089,7 @@
       "weaponConstraint" : "free"
     }
   ],
-  "exportedAt" : "2026-08-03T05:57:43Z",
+  "exportedAt" : "2026-08-03T06:03:04Z",
   "kranzRequirements" : [
     {
       "ageCategoryRaw" : "elite",
@@ -1600,6 +1618,102 @@
       "partOrder" : 0,
       "programExternalId" : "program.provisional.9b68f7ee",
       "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "requiredPoints" : 58
+    },
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "requiredPoints" : 63
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "requiredPoints" : 54
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "requiredPoints" : 59
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "requiredPoints" : 58
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "requiredPoints" : 63
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "requiredPoints" : 54
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "requiredPoints" : 59
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "requiredPoints" : 60
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.d9ccf052",
+      "requiredPoints" : 60
     }
   ],
   "programParts" : [
@@ -2096,6 +2210,23 @@
       "resultCaptureMode" : "",
       "standardAwardPointsRequired" : 55,
       "standardKranzPointsRequired" : 57,
+      "version" : 1
+    },
+    {
+      "ammunitionDefault" : "",
+      "disciplineCode" : "P25",
+      "expectsSeriesImages" : false,
+      "externalId" : "program.provisional.d9ccf052",
+      "isActive" : true,
+      "isArchived" : false,
+      "name" : "Feldstich P25",
+      "notes" : "",
+      "programLevel" : "Standard",
+      "programType" : "Bundesübung",
+      "requiresScoreSheet" : false,
+      "resultCaptureMode" : "",
+      "standardAwardPointsRequired" : 58,
+      "standardKranzPointsRequired" : 63,
       "version" : 1
     },
     {
