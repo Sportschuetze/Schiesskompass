@@ -1621,7 +1621,7 @@
         "assoc.kv.agsv"
       ],
       "canton" : "AG",
-      "contentHash" : "sha256-06cdf4bda58ccf7eec51ea5a66cea342db9b1407ee781dfeeb54955aa00a9837",
+      "contentHash" : "sha256-97986e83d4cb88789ca2344f24b406dfc58cb5a1086835969fcd1c5dcc48d45c",
       "eventCount" : 1,
       "externalId" : "club.ag.jonen-schutzengesellschaft",
       "foundedYear" : 1873,
@@ -1632,7 +1632,7 @@
       ],
       "path" : "clubs\/club.ag.jonen-schutzengesellschaft.json",
       "shortName" : "Jonen SG",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -1845,7 +1845,7 @@
         "assoc.kv.agsv"
       ],
       "canton" : "AG",
-      "contentHash" : "sha256-2b2e3f9ae8830f744fef996cae22c9f580cdf1fb21679436e6795355d86078c9",
+      "contentHash" : "sha256-53c58f45d0b7a4437697f2728209994f0b8eb3bd9378d98854a267606aaee5f6",
       "eventCount" : 1,
       "externalId" : "club.ag.leibstadt-schiessverein",
       "foundedYear" : 2007,
@@ -1856,7 +1856,7 @@
       ],
       "path" : "clubs\/club.ag.leibstadt-schiessverein.json",
       "shortName" : "Leibstadt SV",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -2273,7 +2273,7 @@
         "assoc.kv.agsv"
       ],
       "canton" : "AG",
-      "contentHash" : "sha256-f3dab12d95eb2d1065e36572cc5034c476fa8660b744098e4941dcdd1aa467bb",
+      "contentHash" : "sha256-37a90a7865ca9e11403bde3ef5efc40feaaa02fe3311d0541b42f233a6a1fb33",
       "eventCount" : 1,
       "externalId" : "club.ag.neuenhof-schutzengesellschaft",
       "foundedYear" : 1873,
@@ -2287,7 +2287,7 @@
       ],
       "path" : "clubs\/club.ag.neuenhof-schutzengesellschaft.json",
       "shortName" : "Neuenhof SG",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.sgneuenhof.ch"
     },
     {
@@ -3034,7 +3034,7 @@
         "assoc.kv.agsv"
       ],
       "canton" : "AG",
-      "contentHash" : "sha256-e22044a7dff0d0c5f92bfc460cfe9d5549a2bf3691dc288e16b1b9dc8348a669",
+      "contentHash" : "sha256-bdf7e43c51b82c5cc90ac4ca27076c95d50f72fae90ca11c9eb220a570078051",
       "eventCount" : 1,
       "externalId" : "club.ag.seon-schutzengesellschaft",
       "foundedYear" : 1974,
@@ -3046,7 +3046,7 @@
       ],
       "path" : "clubs\/club.ag.seon-schutzengesellschaft.json",
       "shortName" : "Seon SG",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.sgseon.ch"
     },
     {
@@ -4380,7 +4380,7 @@
         "assoc.kv.ksvar"
       ],
       "canton" : "AR",
-      "contentHash" : "sha256-aa56289cc03d465d4f6728cb927aabe79e6317c25ee303b1cc81b2612e2787a9",
+      "contentHash" : "sha256-95fa3776f15b8decacc365b68c7592d5fcb8eace014c4ac302fd717cb6277a23",
       "eventCount" : 1,
       "externalId" : "club.ar.urnasch-pistolensektion",
       "foundedYear" : 1946,
@@ -4393,7 +4393,7 @@
       ],
       "path" : "clubs\/club.ar.urnasch-pistolensektion.json",
       "shortName" : "Urnäsch PS",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -9630,7 +9630,7 @@
 
       ],
       "canton" : "GL",
-      "contentHash" : "sha256-86f114bd9f9b6d47cf2f4b31e653d2bed26f2293439b04010e2a1dbd1fd56e8f",
+      "contentHash" : "sha256-a840de746f65f8d05c0441687d162cdfdf49ca99320c828025a71b712b089280",
       "eventCount" : 1,
       "externalId" : "club.gl.niederurnen-standschutzen",
       "location" : "",
@@ -9643,7 +9643,7 @@
       ],
       "path" : "clubs\/club.gl.niederurnen-standschutzen.json",
       "shortName" : "Niederurnen Stand",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.widi.ch\/sts"
     },
     {
@@ -10255,7 +10255,7 @@
         "assoc.kv.bsv"
       ],
       "canton" : "GR",
-      "contentHash" : "sha256-24b3b00257b3611444a744ec44edef45e597ac3a7552f4b054db2557c7ba8169",
+      "contentHash" : "sha256-a28dfd7152219cbb6f0d51643fb0dbe4d606f194888a3e84bb4ff2410858c938",
       "eventCount" : 1,
       "externalId" : "club.gr.igis-landquart-pistolenclub",
       "foundedYear" : 1990,
@@ -10268,7 +10268,7 @@
       ],
       "path" : "clubs\/club.gr.igis-landquart-pistolenclub.json",
       "shortName" : "Igis-Landquart PC",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -14163,7 +14163,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-d000a510ae7aedb650b859894d3e472cb5b9a09138000c4f00dc50fea0b0c99d",
+      "contentHash" : "sha256-c0c6adf5815230e7583d316c537f63e4c379722dbb35a0a06448fed3d59cf22f",
       "eventCount" : 4,
       "externalId" : "club.provisional.1350b537",
       "foundedYear" : 1867,
@@ -14179,7 +14179,7 @@
       ],
       "path" : "clubs\/club.provisional.1350b537.json",
       "shortName" : "Adliswil SV",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.svadliswil.ch"
     },
     {
@@ -15853,7 +15853,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-4db2277dd385ff8fd778921e1cc85a66d23d61bf8356b4db4ffe6cc37c4ee8ce",
+      "contentHash" : "sha256-1425b960124b6278d9be13ffcc5469f9f98a399a6349ed9e7a20a02da86dad31",
       "eventCount" : 1,
       "externalId" : "club.provisional.2f175188",
       "location" : "",
@@ -15866,7 +15866,7 @@
       ],
       "path" : "clubs\/club.provisional.2f175188.json",
       "shortName" : "Horgen SG",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -16993,7 +16993,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-2855793ac78cfb24180feeffe2b80bb88c8aa2cb24a86512ba6696703eae5d43",
+      "contentHash" : "sha256-c9fc029691894ce3771856fffb3e461c7a3b27001bb96f3ee345a836ff1a0c38",
       "eventCount" : 2,
       "externalId" : "club.provisional.47849eda",
       "location" : "",
@@ -17003,7 +17003,7 @@
       ],
       "path" : "clubs\/club.provisional.47849eda.json",
       "shortName" : "Marthalen MSV",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -17376,7 +17376,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-b86e06c600ee34fb186edddfb81e30f3ec3b7d35a3f02b017300a9f8590beb42",
+      "contentHash" : "sha256-4f9a7512fff12e825e9df96f8e480f8279b910740af379a7e2098f197691a3bd",
       "eventCount" : 1,
       "externalId" : "club.provisional.4ec73c93",
       "foundedYear" : 1979,
@@ -17388,7 +17388,7 @@
       ],
       "path" : "clubs\/club.provisional.4ec73c93.json",
       "shortName" : "Wallisellen SSG",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.ssgw.ch"
     },
     {
@@ -17505,7 +17505,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-494318be506116b8e7cbbac567b990d3b37c5687120c887c2569da07889d448a",
+      "contentHash" : "sha256-d63b9bc48e9a5a7d829db40e1398f5f3474a47d45ead31cfa9b41635840891ad",
       "eventCount" : 1,
       "externalId" : "club.provisional.5184ceff",
       "foundedYear" : 1927,
@@ -17518,7 +17518,7 @@
       ],
       "path" : "clubs\/club.provisional.5184ceff.json",
       "shortName" : "Andelfingen PS",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -17710,7 +17710,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-f5072dda12010c8d9e7f5efdff9756f155576383f1b20c0ed28cf83abd500973",
+      "contentHash" : "sha256-31e0efdd51f8fba05ff492888231c449c150cbf553e5b55765e7f6a6cca492b6",
       "eventCount" : 1,
       "externalId" : "club.provisional.565aa748",
       "location" : "",
@@ -17723,7 +17723,7 @@
       ],
       "path" : "clubs\/club.provisional.565aa748.json",
       "shortName" : "Zürichberg FS",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -18573,7 +18573,7 @@
 
       ],
       "canton" : "BE",
-      "contentHash" : "sha256-5213a53a2103c13fc40b053a5e753bebba1d0c74d211e86aa4274ea6ad5db5cc",
+      "contentHash" : "sha256-b508091b99e4bacfd92e1126802ccaa80aec13b91c1246a2612dd7670df36432",
       "eventCount" : 1,
       "externalId" : "club.provisional.69942c4f",
       "foundedYear" : 1876,
@@ -18584,7 +18584,7 @@
       ],
       "path" : "clubs\/club.provisional.69942c4f.json",
       "shortName" : "Schwanden b. Sigriswil MS",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.msschwanden.ch"
     },
     {
@@ -18682,7 +18682,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-724e90ae337f800d1090ba04d3cfcc83ef18fe408fd55ab641a3f0899a9d5e8b",
+      "contentHash" : "sha256-4db95a84b1de24945d1de4d1feb558fbb8c7c48fb160366e17ce9131438d2a18",
       "eventCount" : 1,
       "externalId" : "club.provisional.6c1c793f",
       "foundedYear" : 1932,
@@ -18695,7 +18695,7 @@
       ],
       "path" : "clubs\/club.provisional.6c1c793f.json",
       "shortName" : "Kloten PS",
-      "version" : 2,
+      "version" : 3,
       "website" : "pskloten.ch"
     },
     {
@@ -19068,7 +19068,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-3172ee5b937b5e4f8ed95d2f5d31d31ba5dae647efc6c03ad9d062f890f1dc3f",
+      "contentHash" : "sha256-e9df13459fc5a285ada9a42969ccaf6d3f194f91330977664fd6a65f01433f41",
       "eventCount" : 1,
       "externalId" : "club.provisional.7134cd45",
       "location" : "",
@@ -19079,7 +19079,7 @@
       ],
       "path" : "clubs\/club.provisional.7134cd45.json",
       "shortName" : "Glattfelden Sport",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.sps8192.ch"
     },
     {
@@ -19304,7 +19304,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-c659c8bcdac1abf3b450a2af86bb3d095a4dcac20bb2d9638450f91f3c90a4e7",
+      "contentHash" : "sha256-16b3dab66a4a40cd8e7921d46ac30cfd917408df1e9694adeacb613ec9202c30",
       "eventCount" : 1,
       "externalId" : "club.provisional.73df839e",
       "foundedYear" : 1751,
@@ -19315,7 +19315,7 @@
       ],
       "path" : "clubs\/club.provisional.73df839e.json",
       "shortName" : "Ossingen SV",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.svossingen.ch"
     },
     {
@@ -19979,7 +19979,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-5d40313c784b5531a5f5782edbdbba62ee1b857f0c44ed220d86f626bfa53662",
+      "contentHash" : "sha256-9778763e5e2f940e73470bbcd38ab9d222b46e80afd334f204253e2fbe718a96",
       "eventCount" : 1,
       "externalId" : "club.provisional.7e5fac86",
       "foundedYear" : 1874,
@@ -19990,7 +19990,7 @@
       ],
       "path" : "clubs\/club.provisional.7e5fac86.json",
       "shortName" : "Strahlegg MSV",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.strahlegg.ch"
     },
     {
@@ -20072,7 +20072,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-a66ddb5cf60dad9637741548e9562d10c88b31512b85910f5ec595808ddd2381",
+      "contentHash" : "sha256-147adeeb7bde23e5b94635896181e901c1584f9ce7706340041b1ad93976dd44",
       "eventCount" : 3,
       "externalId" : "club.provisional.7f39de28",
       "location" : "",
@@ -20082,7 +20082,7 @@
       ],
       "path" : "clubs\/club.provisional.7f39de28.json",
       "shortName" : "",
-      "version" : 1
+      "version" : 2
     },
     {
       "associationExternalIds" : [
@@ -20964,7 +20964,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-6f8a408a476eea72bdf73dc668fa0fe7e3ebf470a125ee4202bc2ec7d8297399",
+      "contentHash" : "sha256-12ff5425aa25bfff3b7b89e1cc7feb178b77680746d07eb560584a8411f1abff",
       "eventCount" : 1,
       "externalId" : "club.provisional.8b28fb0c",
       "location" : "",
@@ -20977,7 +20977,7 @@
       ],
       "path" : "clubs\/club.provisional.8b28fb0c.json",
       "shortName" : "Stäfa SG",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.sgstaefa.ch"
     },
     {
@@ -22087,7 +22087,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-b4788138b3dadc298a16b5b4203551df1b56387e405a17188f485114b548669f",
+      "contentHash" : "sha256-2ed146d7d0228cf9dfa03920972bfd9f3649c5eb317529c9a342d4fdf074b733",
       "eventCount" : 1,
       "externalId" : "club.provisional.9d94d98d",
       "foundedYear" : 1835,
@@ -22102,7 +22102,7 @@
       ],
       "path" : "clubs\/club.provisional.9d94d98d.json",
       "shortName" : "Uster SG",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -22624,7 +22624,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-d0e29501135b53956a24eaa65fd04dc2a1c737def888f4ffdc3c6989c863547a",
+      "contentHash" : "sha256-66eeb615cd3d4caea77df43888e96b4b3b6876a2234f30b968aeccbca41b32df",
       "eventCount" : 1,
       "externalId" : "club.provisional.a481f268",
       "foundedYear" : 2008,
@@ -22637,7 +22637,7 @@
       ],
       "path" : "clubs\/club.provisional.a481f268.json",
       "shortName" : "Affoltern a.A. PSG",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -23454,7 +23454,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-2ab06e6a26ed11f63359cc2a099f2d6aab5a5923637f288f3d8b98cedf140cd4",
+      "contentHash" : "sha256-1b0d51622eb288630db2e4e127d93223fc3d67e9be6e382881a5309002ab6175",
       "eventCount" : 1,
       "externalId" : "club.provisional.b793bada",
       "location" : "",
@@ -23464,7 +23464,7 @@
       ],
       "path" : "clubs\/club.provisional.b793bada.json",
       "shortName" : "Truttikon MSV",
-      "version" : 2,
+      "version" : 3,
       "website" : "msvtruttikon.ch"
     },
     {
@@ -24174,7 +24174,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-caf48e320fb7bba72bbfb56f3f08b9099e2374762bb902f9980d0511740bc928",
+      "contentHash" : "sha256-77283dd89fc1ae4dd59b51b0a1df0d4d4573fd4ef21b09bd7d967ef1c5fb1845",
       "eventCount" : 1,
       "externalId" : "club.provisional.c2f4e13c",
       "location" : "",
@@ -24184,7 +24184,7 @@
       ],
       "path" : "clubs\/club.provisional.c2f4e13c.json",
       "shortName" : "Langnau a.A. ASV",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -25683,7 +25683,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-82cd1c2e9408fcfdd0ba71fe87c723d8440474270fed1bfc7d797efc2e3a59f3",
+      "contentHash" : "sha256-a9cd55d3753d4850bbbedcc55bd8b117b771f709d899ef703a5626c94f46f6f9",
       "eventCount" : 1,
       "externalId" : "club.provisional.dee64ed7",
       "foundedYear" : 1877,
@@ -25694,7 +25694,7 @@
       ],
       "path" : "clubs\/club.provisional.dee64ed7.json",
       "shortName" : "Sünikon SV",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -26158,7 +26158,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-87303fa8bdd3e35eb41f8e16052df6a7af2c295eb47149bda5a2dcd196ede506",
+      "contentHash" : "sha256-349ca213e6162b820435350c8a9359c6f453a492ecb1dcc96f661d1e53ffb501",
       "eventCount" : 1,
       "externalId" : "club.provisional.e6c377ba",
       "foundedYear" : 1863,
@@ -26169,7 +26169,7 @@
       ],
       "path" : "clubs\/club.provisional.e6c377ba.json",
       "shortName" : "Fischenthal FSV",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -26467,7 +26467,7 @@
 
       ],
       "canton" : "BE",
-      "contentHash" : "sha256-61ee563a4853dcb18fb3ea91f006f7d5d5a096c244ee42c854d6ad647a9b673f",
+      "contentHash" : "sha256-dd2a715ae488714be95aaa0037beeb6b2feb60436e89c2af2fba409ca534603a",
       "eventCount" : 1,
       "externalId" : "club.provisional.ecc2f5ba",
       "location" : "",
@@ -26477,7 +26477,7 @@
       ],
       "path" : "clubs\/club.provisional.ecc2f5ba.json",
       "shortName" : "Aeschau-Eggiwil SV",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -26956,7 +26956,7 @@
 
       ],
       "canton" : "ZH",
-      "contentHash" : "sha256-35ba7615398c7cd2e48d049a24ad32b72dbf90f6e8359eabf0dfa5afb16a50a8",
+      "contentHash" : "sha256-fcd166ed048fd8130b65e0f36bada9181276fb2080758d5a57fb186617bcd6fd",
       "eventCount" : 1,
       "externalId" : "club.provisional.f2bb3e21",
       "foundedYear" : 1970,
@@ -26967,7 +26967,7 @@
       ],
       "path" : "clubs\/club.provisional.f2bb3e21.json",
       "shortName" : "Bäretswil SG",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -27668,7 +27668,7 @@
         "assoc.kv.sgksv"
       ],
       "canton" : "SG",
-      "contentHash" : "sha256-9ee11a58b7b8441804df9cfed0c7afd987dd529bf31a60590ae8470bdf38b6fe",
+      "contentHash" : "sha256-4be07a07bdbb70f01272afe9acc09d772e7f50c571e8cbb517cc2f147f761aec",
       "eventCount" : 1,
       "externalId" : "club.sg.amden-schutzen",
       "location" : "",
@@ -27678,7 +27678,7 @@
       ],
       "path" : "clubs\/club.sg.amden-schutzen.json",
       "shortName" : "Amden Schützen",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.schuetzenamden.ch"
     },
     {
@@ -28056,7 +28056,7 @@
         "assoc.kv.sgksv"
       ],
       "canton" : "SG",
-      "contentHash" : "sha256-87b73378b29c8c7ce48d9d57808fa0df10f22088c2881eab1dd6d899446be79e",
+      "contentHash" : "sha256-9a7a74d21c28860d5e0aefdb6da07e7c8675d878eeb3764dbfdacb8deaa2ad38",
       "eventCount" : 1,
       "externalId" : "club.sg.flawil-schutzengesellschaft-pistolensektion",
       "foundedYear" : 1803,
@@ -28069,7 +28069,7 @@
       ],
       "path" : "clubs\/club.sg.flawil-schutzengesellschaft-pistolensektion.json",
       "shortName" : "Flawil SG PS",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -28362,7 +28362,7 @@
         "assoc.kv.sgksv"
       ],
       "canton" : "SG",
-      "contentHash" : "sha256-0e8b59c97ed0a939939c6f849d620f28f81f5f8832beac694b373e01a13dceb9",
+      "contentHash" : "sha256-31c87d107d59444e8a4920645dba36183d445de7228fd75252eef37d6580b1a8",
       "eventCount" : 2,
       "externalId" : "club.sg.lichtensteig-schutzengesellschaft",
       "location" : "",
@@ -28375,7 +28375,7 @@
       ],
       "path" : "clubs\/club.sg.lichtensteig-schutzengesellschaft.json",
       "shortName" : "Lichtensteig SG",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.landschiessen.ch"
     },
     {
@@ -28527,7 +28527,7 @@
         "assoc.kv.sgksv"
       ],
       "canton" : "SG",
-      "contentHash" : "sha256-c4a9da9b882e8cdaf5c68fcba6e3ea7d957e071ce052df7b0526cbcd55db9e95",
+      "contentHash" : "sha256-a80a37d8b5424dada169742d928d98024c817cce9a629d6b97ba5af3c5cd6778",
       "eventCount" : 1,
       "externalId" : "club.sg.montlingen-pistolenverein",
       "location" : "",
@@ -28539,7 +28539,7 @@
       ],
       "path" : "clubs\/club.sg.montlingen-pistolenverein.json",
       "shortName" : "Montlingen PS",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -28693,7 +28693,7 @@
         "assoc.kv.sgksv"
       ],
       "canton" : "SG",
-      "contentHash" : "sha256-ecd87248dfa9bdce93df0e158885bc233b84487bf51a0a8a1c83232d64d4a002",
+      "contentHash" : "sha256-c85c53546be6c4a9864ce8567be3c0e30a84821648e8627dd593399bbd82309e",
       "eventCount" : 2,
       "externalId" : "club.sg.oberegg-muolen-schutzen",
       "foundedYear" : 1884,
@@ -28704,7 +28704,7 @@
       ],
       "path" : "clubs\/club.sg.oberegg-muolen-schutzen.json",
       "shortName" : "Oberegg-Muolen S",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -28950,7 +28950,7 @@
         "assoc.kv.sgksv"
       ],
       "canton" : "SG",
-      "contentHash" : "sha256-76071e7f94ecb51f97126e5a376cdaef22affa2f8695ed160cfcaccb28043d45",
+      "contentHash" : "sha256-f16e21d60d426f25e916366fc0ed5ac5aa0cf72316414e9dde7f3e97868f186b",
       "eventCount" : 2,
       "externalId" : "club.sg.rorschacherberg-schutzengesellschaft",
       "foundedYear" : 1926,
@@ -28964,7 +28964,7 @@
       ],
       "path" : "clubs\/club.sg.rorschacherberg-schutzengesellschaft.json",
       "shortName" : "Rorschacherberg SG",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -29007,7 +29007,7 @@
         "assoc.kv.sgksv"
       ],
       "canton" : "SG",
-      "contentHash" : "sha256-6dc922a89864a5a8e03a3133d1ee80c02269ad8b9059a8a78dd686e7c029473b",
+      "contentHash" : "sha256-a7c4aea3a23ea607c7e3148d9deeef0511a1ac49b3811678a36362374f397d66",
       "eventCount" : 2,
       "externalId" : "club.sg.ruthi-lienz-pistolenschutzen",
       "foundedYear" : 1946,
@@ -29020,7 +29020,7 @@
       ],
       "path" : "clubs\/club.sg.ruthi-lienz-pistolenschutzen.json",
       "shortName" : "Rüthi-Lienz PS",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.pistolenruethi.ch"
     },
     {
@@ -29121,7 +29121,7 @@
         "assoc.kv.sgksv"
       ],
       "canton" : "SG",
-      "contentHash" : "sha256-837c59124765feb616aa71b70184879fc673386c95b4bf96b040d12ad8908983",
+      "contentHash" : "sha256-c5f2822cc1a5d4b58a91f130803c30367927453c2da4e7e0f88503069c7c62fc",
       "eventCount" : 1,
       "externalId" : "club.sg.sennwald-schutzenverein",
       "foundedYear" : 1911,
@@ -29132,7 +29132,7 @@
       ],
       "path" : "clubs\/club.sg.sennwald-schutzenverein.json",
       "shortName" : "Sennwald SV",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -29289,7 +29289,7 @@
         "assoc.kv.sgksv"
       ],
       "canton" : "SG",
-      "contentHash" : "sha256-e04461f84fa05be9b6ce28a70d719b94e5dbe074bfb50cb1d7452d60230375e4",
+      "contentHash" : "sha256-613dfb45e6a6d4c768a8949cb7abc87767189166992b34f1f5d5c04ea4a19a08",
       "eventCount" : 1,
       "externalId" : "club.sg.uznach-pistolenclub",
       "location" : "",
@@ -29301,7 +29301,7 @@
       ],
       "path" : "clubs\/club.sg.uznach-pistolenclub.json",
       "shortName" : "Uznach PC",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -29361,7 +29361,7 @@
         "assoc.kv.sgksv"
       ],
       "canton" : "SG",
-      "contentHash" : "sha256-be5905e50717020ac83fb88607ae9ca084e8c534565aaffa3ead0b35b6a7ff67",
+      "contentHash" : "sha256-8b83caca4ce638dd5591d0e962acdbacc7df243634f9fe83effc8b4d18632561",
       "eventCount" : 1,
       "externalId" : "club.sg.waldkirch-haggenschwil-schutzenverein-ramschwag",
       "foundedYear" : 1875,
@@ -29372,7 +29372,7 @@
       ],
       "path" : "clubs\/club.sg.waldkirch-haggenschwil-schutzenverein-ramschwag.json",
       "shortName" : "Waldkirch-Häggenschwil SV Ramschwag",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -29509,7 +29509,7 @@
         "assoc.kv.sgksv"
       ],
       "canton" : "SG",
-      "contentHash" : "sha256-18ef17a3a806836f535bf77984d36a371a8f50a7af00d91acce5821b8d35bef7",
+      "contentHash" : "sha256-44808a8b885f6de7e4fb74183dba11a6ad1e1e52b769ddedd1864c92afdfd1a8",
       "eventCount" : 1,
       "externalId" : "club.sg.weesen-schutzenverein",
       "location" : "",
@@ -29519,7 +29519,7 @@
       ],
       "path" : "clubs\/club.sg.weesen-schutzenverein.json",
       "shortName" : "",
-      "version" : 1,
+      "version" : 2,
       "website" : "http:\/\/www.sv-weesen.ch"
     },
     {
@@ -29544,7 +29544,7 @@
         "assoc.kv.sgksv"
       ],
       "canton" : "SG",
-      "contentHash" : "sha256-d4bafa8a6d0e5cf78f2d2b6561e5ce4a3deb5f29eec22fca1f12519ceaf9c144",
+      "contentHash" : "sha256-0f33fe68d5cca491b7fe2ab01763cd932a48f52646da2719471cc027fdf0a199",
       "eventCount" : 1,
       "externalId" : "club.sg.wiesen-militarschutzenverein",
       "foundedYear" : 1877,
@@ -29555,7 +29555,7 @@
       ],
       "path" : "clubs\/club.sg.wiesen-militarschutzenverein.json",
       "shortName" : "Wiesen MSV",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -30107,7 +30107,7 @@
         "assoc.kv.shksv"
       ],
       "canton" : "SH",
-      "contentHash" : "sha256-c273357e0b69ee1ee9593a1771ffa54c6f37918448b2ff75ec2175f811f1eaf2",
+      "contentHash" : "sha256-6cd27e710ec6a93a5358baf3e10c47cc5d0cb849521ae462c09ef5c9604fc504",
       "eventCount" : 1,
       "externalId" : "club.sh.oberhallau-schiessverein",
       "location" : "",
@@ -30118,7 +30118,7 @@
       ],
       "path" : "clubs\/club.sh.oberhallau-schiessverein.json",
       "shortName" : "Oberhallau SV",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -30202,7 +30202,7 @@
         "assoc.kv.shksv"
       ],
       "canton" : "SH",
-      "contentHash" : "sha256-328834a066505558b21828f75710d62a9893ae814f273efe79a8d78127269b99",
+      "contentHash" : "sha256-0fdd4c0490edb1bace032d965ae72f9fecdd5ae8409ca32ac9c698f48b59dfb7",
       "eventCount" : 1,
       "externalId" : "club.sh.schaffhausen-feldschutzenverein-hohlenbaum",
       "foundedYear" : 1872,
@@ -30214,7 +30214,7 @@
       ],
       "path" : "clubs\/club.sh.schaffhausen-feldschutzenverein-hohlenbaum.json",
       "shortName" : "Schaffhausen FSV Hohlenbaum",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -33613,7 +33613,7 @@
 
       ],
       "canton" : "SZ",
-      "contentHash" : "sha256-b79b046078b169efaa9885e9639eb803c06e42321d7dc3b7b3b7e67e494166cc",
+      "contentHash" : "sha256-57a8dfb0bfddffc19720a28acefe9243f93311b0f1c645ae93598ed60551674c",
       "eventCount" : 1,
       "externalId" : "club.sz.unteriberg-schutzengesellschaft",
       "location" : "",
@@ -33623,7 +33623,7 @@
       ],
       "path" : "clubs\/club.sz.unteriberg-schutzengesellschaft.json",
       "shortName" : "Unteriberg SG",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.sgunteriberg.ch"
     },
     {
@@ -33684,7 +33684,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-e33a95adad189d39454a206ae01028e62f1df96b7bda1350d8844b45a7522a1c",
+      "contentHash" : "sha256-03d8a8d9f5fa175dcf14a00075f486e8b5ef901d82379538c8c363d324c34fb8",
       "eventCount" : 1,
       "externalId" : "club.tg.aadorf-pistolenschutzenverein",
       "foundedYear" : 1955,
@@ -33697,7 +33697,7 @@
       ],
       "path" : "clubs\/club.tg.aadorf-pistolenschutzenverein.json",
       "shortName" : "Aadorf PSV",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -33741,7 +33741,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-fec99bed3f25010b4400dd034c29d880cc2c7edab0aa41c927f8e2055c381f6f",
+      "contentHash" : "sha256-0490f46725d74c60c53c3182a2c563beccfabe860d22cf3174d6ef2e7460d2b6",
       "eventCount" : 1,
       "externalId" : "club.tg.altnau-langrickenbach-schutzen",
       "foundedYear" : 1895,
@@ -33752,7 +33752,7 @@
       ],
       "path" : "clubs\/club.tg.altnau-langrickenbach-schutzen.json",
       "shortName" : "Altnau-Langrickenbach S",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.schuetzen-altnau.ch"
     },
     {
@@ -33856,7 +33856,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-41d73b40bd8c8da18da4c9c99c31139b14368d7a5ce404251ec339d652001406",
+      "contentHash" : "sha256-ecfac57f1404f21a52427911754ed6e7e37be43152980f3a58a758ef8949805d",
       "eventCount" : 2,
       "externalId" : "club.tg.bettwiesen-tobel-schlossschutzen",
       "foundedYear" : 2025,
@@ -33867,7 +33867,7 @@
       ],
       "path" : "clubs\/club.tg.bettwiesen-tobel-schlossschutzen.json",
       "shortName" : "Bettwiesen-Tobel Schlossschützen",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.ssbt.ch"
     },
     {
@@ -33946,7 +33946,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-eeb2ea5efebe0fc129e07678cf7f1536db77c28fb80477b2cbd642e80e3f5293",
+      "contentHash" : "sha256-25168dd2eef50396098179ec6693439e1a6d16a5b07350003fb5ad8c894983da",
       "eventCount" : 1,
       "externalId" : "club.tg.braunau-schutzengesellschaft",
       "location" : "",
@@ -33956,7 +33956,7 @@
       ],
       "path" : "clubs\/club.tg.braunau-schutzengesellschaft.json",
       "shortName" : "Braunau SG",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -34018,7 +34018,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-aef74a10b9b5f55e65531a41c852b8e573b66da2348fdde6657b0b61e996fef3",
+      "contentHash" : "sha256-e453791c4f6e074cbee092b0c27b66ec21b9aa44e9fc3cf9ee34dca5c8d612f0",
       "eventCount" : 1,
       "externalId" : "club.tg.diessenhofen-pistolenschutzen",
       "location" : "",
@@ -34030,7 +34030,7 @@
       ],
       "path" : "clubs\/club.tg.diessenhofen-pistolenschutzen.json",
       "shortName" : "Diessenhofen PS",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -34054,7 +34054,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-c4a33ac3648c625942bdeaf554d850f87ca2620113e873602ee043d60a6682ad",
+      "contentHash" : "sha256-52b182f0275c5ec6fc5e408e6b3ab68c368c4a118874d70b41f48dde6adf22eb",
       "eventCount" : 1,
       "externalId" : "club.tg.ermatingen-pistolenschutzen",
       "location" : "",
@@ -34066,7 +34066,7 @@
       ],
       "path" : "clubs\/club.tg.ermatingen-pistolenschutzen.json",
       "shortName" : "Ermatingen PS",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -34143,7 +34143,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-0299aa38917aef97e303ffe659de6e17ffef0aadcdda3c0391d8a8bb61e2a3a1",
+      "contentHash" : "sha256-d4fdb779d3d8e16b14bd0c47aed10c7aeb77727ccea68dfce43dd80964c4ab0a",
       "eventCount" : 1,
       "externalId" : "club.tg.fischingen-schutzengesellschaft",
       "foundedYear" : 1876,
@@ -34154,7 +34154,7 @@
       ],
       "path" : "clubs\/club.tg.fischingen-schutzengesellschaft.json",
       "shortName" : "Fischingen SG",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -34198,7 +34198,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-9f90c59d1e326cbd817357dc786d2dc837861b5a207c0e0f98dfd7bf3f31cd24",
+      "contentHash" : "sha256-28ea85e0c160f9209bce993108ccd3f412dcae05ae02de297798168d3b2950f8",
       "eventCount" : 1,
       "externalId" : "club.tg.gachnang-tegelbachschutzen",
       "location" : "",
@@ -34208,7 +34208,7 @@
       ],
       "path" : "clubs\/club.tg.gachnang-tegelbachschutzen.json",
       "shortName" : "",
-      "version" : 1,
+      "version" : 2,
       "website" : "https:\/\/www.tegelbachschuetzen-gachnang.ch\/"
     },
     {
@@ -34234,7 +34234,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-7ffd007f645e56e68fec78b3ef71efadbab16e20104cfc4e04cd8dea4566fa2e",
+      "contentHash" : "sha256-ada9134ed4b7b1a3d76b91551f9b000ace044fb82e6ff36617f4631755de9fa9",
       "eventCount" : 2,
       "externalId" : "club.tg.hefenhofen-dozwil-schutzengesellschaft",
       "location" : "",
@@ -34244,7 +34244,7 @@
       ],
       "path" : "clubs\/club.tg.hefenhofen-dozwil-schutzengesellschaft.json",
       "shortName" : "Hefenhofen-Dozwil SG",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -34268,7 +34268,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-cbbd15adab00e96026649466a1d7d80e12c5e0d250fa098a704a81356f931f7b",
+      "contentHash" : "sha256-6cb84e773b09e3c79c68b2bebfeac0fe5bb969a025ec3e803928129c992de7a7",
       "eventCount" : 1,
       "externalId" : "club.tg.herdern-lanzenneunforn-schutzengesellschaft",
       "location" : "",
@@ -34278,7 +34278,7 @@
       ],
       "path" : "clubs\/club.tg.herdern-lanzenneunforn-schutzengesellschaft.json",
       "shortName" : "Herdern-Lanzenneunforn SG",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -34520,7 +34520,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-2230c9077441237ab2b8c3daeb5cc55f3ab5260b3089fac2b6e4215965f4cb9c",
+      "contentHash" : "sha256-29ecd128d881a9ec35f0a36fb11dbb40e82697d3c29bec258894834ad536a41e",
       "eventCount" : 1,
       "externalId" : "club.tg.lommis-weingarten-schutzengesellschaft",
       "foundedYear" : 1886,
@@ -34531,7 +34531,7 @@
       ],
       "path" : "clubs\/club.tg.lommis-weingarten-schutzengesellschaft.json",
       "shortName" : "Lommis-Weingarten SG",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -34607,7 +34607,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-0dfaa5ff24e6b780d9e3639901b4966186af2c4e0d1911e680c5eaaa8189bb57",
+      "contentHash" : "sha256-1adddbe8e1138b8d947703a03be83a1fab7f87cd9449969625116982d40d2242",
       "eventCount" : 1,
       "externalId" : "club.tg.munchwilen-pistolenclub",
       "foundedYear" : 1901,
@@ -34620,7 +34620,7 @@
       ],
       "path" : "clubs\/club.tg.munchwilen-pistolenclub.json",
       "shortName" : "Münchwilen PC",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -34882,7 +34882,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-86f6b6f35e536e61dc3197bdbc9f4b1bb700dcc7a618a489c7fd3cfda664d722",
+      "contentHash" : "sha256-f32e96685973fc710f65abec93127eb15ed3386e6a537ed0377dc2ff5612dc57",
       "eventCount" : 1,
       "externalId" : "club.tg.sulgen-schutzengesellschaft",
       "foundedYear" : 1850,
@@ -34893,7 +34893,7 @@
       ],
       "path" : "clubs\/club.tg.sulgen-schutzengesellschaft.json",
       "shortName" : "Sulgen SG",
-      "version" : 2,
+      "version" : 3,
       "website" : "www.sgsulgen.ch"
     },
     {
@@ -34939,7 +34939,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-e68f40b9edf8602f647212ee562fa8ad8cb6c6bb534853475564289945ff729b",
+      "contentHash" : "sha256-bd5083cc2f93ae5bb102000e99c9e3a181bcfc1cbd7cc9fb09a271bc24d3f5a3",
       "eventCount" : 1,
       "externalId" : "club.tg.thurtal-huttlingen-schutzenverein",
       "foundedYear" : 1887,
@@ -34950,7 +34950,7 @@
       ],
       "path" : "clubs\/club.tg.thurtal-huttlingen-schutzenverein.json",
       "shortName" : "Thurtal SV",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -35047,7 +35047,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-1da8487c642fc56f3c3191e278ab627c90cf9ba517c3bd1876cb45d4e10c8aad",
+      "contentHash" : "sha256-c365dafb8fc158746fac9d475fae4edc4479f90b3eda8eae0f3162af5dda4b69",
       "eventCount" : 1,
       "externalId" : "club.tg.wangi-tuttwil-schutzengesellschaft",
       "location" : "",
@@ -35057,7 +35057,7 @@
       ],
       "path" : "clubs\/club.tg.wangi-tuttwil-schutzengesellschaft.json",
       "shortName" : "Wängi-Tuttwil SG",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -35082,7 +35082,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-2b469847af96bd3c4e630de0c78715a70e83f5191cf6d39d2349bf9f8e77a750",
+      "contentHash" : "sha256-053618a82ecccc19b6bb484eb4761a9ce8806ea8878e119c835f3b0b50fb0690",
       "eventCount" : 2,
       "externalId" : "club.tg.wigoltingen-pistolensektion",
       "location" : "",
@@ -35094,7 +35094,7 @@
       ],
       "path" : "clubs\/club.tg.wigoltingen-pistolensektion.json",
       "shortName" : "Wigoltingen PS",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -35118,7 +35118,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "contentHash" : "sha256-91ba9de344737f1cff7c0cd731751dcc851bb1725902123932b31bf592fa0ff7",
+      "contentHash" : "sha256-a3c28803300ffb03bda7adb1f26c04a5916d87084809e37f7e5458e9c78bd62e",
       "eventCount" : 1,
       "externalId" : "club.tg.zihlschlacht-feldschutzengesellschaft",
       "location" : "",
@@ -35128,7 +35128,7 @@
       ],
       "path" : "clubs\/club.tg.zihlschlacht-feldschutzengesellschaft.json",
       "shortName" : "Zihlschlacht FSG",
-      "version" : 2
+      "version" : 3
     },
     {
       "associationExternalIds" : [
@@ -40865,6 +40865,6 @@
       "website" : "www.uov-zug.ch\/schiesssektion"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1
 }

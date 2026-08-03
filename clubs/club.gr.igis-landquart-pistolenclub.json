@@ -26,7 +26,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-24b3b00257b3611444a744ec44edef45e597ac3a7552f4b054db2557c7ba8169",
+  "contentHash" : "sha256-a28dfd7152219cbb6f0d51643fb0dbe4d606f194888a3e84bb4ff2410858c938",
   "events" : [
     {
       "championshipTags" : "",
@@ -85,23 +85,13 @@
         },
         {
           "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-08-15T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "10:00"
         },
         {
           "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "10:00"
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-08-15T10:00:00Z",
@@ -122,12 +112,22 @@
           "date" : "2026-08-15T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "10:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "10:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         }
       ],
       "title" : "Landquarter Gruppenschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

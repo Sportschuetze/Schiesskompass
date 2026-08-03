@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-aef74a10b9b5f55e65531a41c852b8e573b66da2348fdde6657b0b61e996fef3",
+  "contentHash" : "sha256-e453791c4f6e074cbee092b0c27b66ec21b9aa44e9fc3cf9ee34dca5c8d612f0",
   "events" : [
     {
       "championshipTags" : "",
@@ -43,23 +43,8 @@
       "timeBlocks" : [
         {
           "date" : "2026-10-24T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
-        },
-        {
-          "date" : "2026-10-24T10:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-10-24T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-10-24T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
         },
         {
           "date" : "2026-10-24T10:00:00Z",
@@ -80,6 +65,21 @@
           "date" : "2026-10-24T10:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-10-24T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-10-24T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-10-24T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-10-25T11:00:00Z",
@@ -103,21 +103,6 @@
         },
         {
           "date" : "2026-10-31T11:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-10-31T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
-        },
-        {
-          "date" : "2026-10-31T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
-        },
-        {
-          "date" : "2026-10-31T11:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
         },
@@ -128,6 +113,11 @@
         },
         {
           "date" : "2026-10-31T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-10-31T11:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:00"
         },
@@ -135,6 +125,16 @@
           "date" : "2026-10-31T11:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-10-31T11:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-10-31T11:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-10-31T11:00:00Z",
@@ -145,7 +145,7 @@
       "title" : "49. St. Niklaus-Pistolenschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

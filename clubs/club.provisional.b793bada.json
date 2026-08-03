@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "msvtruttikon.ch"
   },
-  "contentHash" : "sha256-2ab06e6a26ed11f63359cc2a099f2d6aab5a5923637f288f3d8b98cedf140cd4",
+  "contentHash" : "sha256-1b0d51622eb288630db2e4e127d93223fc3d67e9be6e382881a5309002ab6175",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,13 +68,13 @@
         },
         {
           "date" : "2027-08-28T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2027-08-28T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-08-29T10:00:00Z",
@@ -85,7 +85,7 @@
       "title" : "Fahnenweihschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

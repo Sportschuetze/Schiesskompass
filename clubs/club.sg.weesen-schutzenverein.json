@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "http:\/\/www.sv-weesen.ch"
   },
-  "contentHash" : "sha256-18ef17a3a806836f535bf77984d36a371a8f50a7af00d91acce5821b8d35bef7",
+  "contentHash" : "sha256-44808a8b885f6de7e4fb74183dba11a6ad1e1e52b769ddedd1864c92afdfd1a8",
   "events" : [
     {
       "championshipTags" : "",
@@ -47,11 +47,16 @@
         },
         {
           "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
           "endTime" : "17:30",
           "startTime" : "13:30"
         },
         {
-          "date" : "2026-09-05T10:00:00Z",
+          "date" : "2026-09-12T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:00"
         },
@@ -59,17 +64,12 @@
           "date" : "2026-09-12T10:00:00Z",
           "endTime" : "16:30",
           "startTime" : "13:30"
-        },
-        {
-          "date" : "2026-09-12T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
         }
       ],
       "title" : "49. Weesner Herbstschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

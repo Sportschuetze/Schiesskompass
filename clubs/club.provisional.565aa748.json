@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f5072dda12010c8d9e7f5efdff9756f155576383f1b20c0ed28cf83abd500973",
+  "contentHash" : "sha256-31e0efdd51f8fba05ff492888231c449c150cbf553e5b55765e7f6a6cca492b6",
   "events" : [
     {
       "championshipTags" : "",
@@ -49,6 +49,11 @@
         },
         {
           "date" : "2027-01-09T11:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "14:00"
+        },
+        {
+          "date" : "2027-01-09T11:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
         },
@@ -58,16 +63,6 @@
           "startTime" : "14:00"
         },
         {
-          "date" : "2027-01-09T11:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "14:00"
-        },
-        {
-          "date" : "2027-01-16T11:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "14:00"
-        },
-        {
           "date" : "2027-01-16T11:00:00Z",
           "endTime" : "16:00",
           "startTime" : "14:00"
@@ -81,6 +76,11 @@
           "date" : "2027-01-16T11:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
+        },
+        {
+          "date" : "2027-01-16T11:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "14:00"
         },
         {
           "date" : "2027-01-17T11:00:00Z",
@@ -96,7 +96,7 @@
       "title" : "46. Oerliker Winterschüsse 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

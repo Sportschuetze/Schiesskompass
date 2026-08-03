@@ -26,7 +26,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-e33a95adad189d39454a206ae01028e62f1df96b7bda1350d8844b45a7522a1c",
+  "contentHash" : "sha256-03d8a8d9f5fa175dcf14a00075f486e8b5ef901d82379538c8c363d324c34fb8",
   "events" : [
     {
       "championshipTags" : "",
@@ -60,18 +60,18 @@
         },
         {
           "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "11:30",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "11:30",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:30"
-        },
-        {
-          "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "11:30",
-          "startTime" : "09:00"
-        },
-        {
-          "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "11:30",
-          "startTime" : "09:00"
         },
         {
           "date" : "2026-08-28T10:00:00Z",
@@ -85,8 +85,8 @@
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:30"
+          "endTime" : "11:30",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-08-29T10:00:00Z",
@@ -100,14 +100,14 @@
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "11:30",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:30"
         }
       ],
       "title" : "14. Lützelmurgschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

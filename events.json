@@ -2269,13 +2269,13 @@
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         }
       ],
       "title" : "Bezirksschiessen 50m"
@@ -2390,8 +2390,8 @@
       "timeBlocks" : [
         {
           "date" : "2027-03-20T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "10:00"
+          "endTime" : "16:00",
+          "startTime" : "14:00"
         },
         {
           "date" : "2027-03-20T11:00:00Z",
@@ -2405,8 +2405,8 @@
         },
         {
           "date" : "2027-03-20T11:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "14:00"
+          "endTime" : "12:00",
+          "startTime" : "10:00"
         }
       ],
       "title" : "Winterschiessen Bezirksschützenverband Horgen"
@@ -2444,11 +2444,6 @@
         },
         {
           "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "18:00",
-          "startTime" : "07:45"
-        },
-        {
-          "date" : "2026-08-15T10:00:00Z",
           "endTime" : "13:00",
           "startTime" : "07:30"
         },
@@ -2456,6 +2451,11 @@
           "date" : "2026-08-15T10:00:00Z",
           "endTime" : "12:30",
           "startTime" : "08:30"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "07:45"
         },
         {
           "date" : "2026-08-16T10:00:00Z",
@@ -2610,12 +2610,12 @@
         {
           "date" : "2026-08-08T10:00:00Z",
           "endTime" : "16:30",
-          "startTime" : "13:30"
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-08-08T10:00:00Z",
           "endTime" : "16:30",
-          "startTime" : "13:00"
+          "startTime" : "13:30"
         }
       ],
       "title" : "Kantonaler JJ-\/JS-GM-Final 2026"
@@ -2674,6 +2674,6 @@
       "title" : "Schweizerische Vereinswettschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1
 }

@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2b469847af96bd3c4e630de0c78715a70e83f5191cf6d39d2349bf9f8e77a750",
+  "contentHash" : "sha256-053618a82ecccc19b6bb484eb4761a9ce8806ea8878e119c835f3b0b50fb0690",
   "events" : [
     {
       "championshipTags" : "",
@@ -59,13 +59,13 @@
         },
         {
           "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-09-06T10:00:00Z",
@@ -124,7 +124,7 @@
       "title" : "5. Moswise-Schüüsse"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

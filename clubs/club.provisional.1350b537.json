@@ -30,7 +30,7 @@
     "trainingWeekday" : "",
     "website" : "www.svadliswil.ch"
   },
-  "contentHash" : "sha256-d000a510ae7aedb650b859894d3e472cb5b9a09138000c4f00dc50fea0b0c99d",
+  "contentHash" : "sha256-c0c6adf5815230e7583d316c537f63e4c379722dbb35a0a06448fed3d59cf22f",
   "events" : [
     {
       "championshipTags" : "",
@@ -50,6 +50,11 @@
         {
           "date" : "2026-07-25T10:00:00Z",
           "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-07-25T10:00:00Z",
+          "endTime" : "12:00",
           "startTime" : "09:20"
         },
         {
@@ -58,69 +63,64 @@
           "startTime" : "08:00"
         },
         {
-          "date" : "2026-07-25T10:00:00Z",
+          "date" : "2026-07-28T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:25"
+        },
+        {
+          "date" : "2026-07-28T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:25"
+        },
+        {
+          "date" : "2026-07-29T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-07-29T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-07-29T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-04T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:25"
+        },
+        {
+          "date" : "2026-08-04T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "17:25"
+        },
+        {
+          "date" : "2026-08-05T10:00:00Z",
+          "endTime" : "19:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-05T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-05T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-08T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:00"
-        },
-        {
-          "date" : "2026-07-28T10:00:00Z",
-          "endTime" : "20:00",
-          "startTime" : "17:25"
-        },
-        {
-          "date" : "2026-07-28T10:00:00Z",
-          "endTime" : "20:00",
-          "startTime" : "17:25"
-        },
-        {
-          "date" : "2026-07-29T10:00:00Z",
-          "endTime" : "20:00",
-          "startTime" : "16:00"
-        },
-        {
-          "date" : "2026-07-29T10:00:00Z",
-          "endTime" : "19:00",
-          "startTime" : "16:00"
-        },
-        {
-          "date" : "2026-07-29T10:00:00Z",
-          "endTime" : "20:00",
-          "startTime" : "16:00"
-        },
-        {
-          "date" : "2026-08-04T10:00:00Z",
-          "endTime" : "20:00",
-          "startTime" : "17:25"
-        },
-        {
-          "date" : "2026-08-04T10:00:00Z",
-          "endTime" : "20:00",
-          "startTime" : "17:25"
-        },
-        {
-          "date" : "2026-08-05T10:00:00Z",
-          "endTime" : "19:00",
-          "startTime" : "16:00"
-        },
-        {
-          "date" : "2026-08-05T10:00:00Z",
-          "endTime" : "20:00",
-          "startTime" : "16:00"
-        },
-        {
-          "date" : "2026-08-05T10:00:00Z",
-          "endTime" : "20:00",
-          "startTime" : "16:00"
         },
         {
           "date" : "2026-08-08T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:15"
-        },
-        {
-          "date" : "2026-08-08T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-08T10:00:00Z",
@@ -215,7 +215,7 @@
       "title" : "Weggenschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

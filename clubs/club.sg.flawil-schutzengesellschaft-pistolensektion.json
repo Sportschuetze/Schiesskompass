@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-87b73378b29c8c7ce48d9d57808fa0df10f22088c2881eab1dd6d899446be79e",
+  "contentHash" : "sha256-9a7a74d21c28860d5e0aefdb6da07e7c8675d878eeb3764dbfdacb8deaa2ad38",
   "events" : [
     {
       "championshipTags" : "",
@@ -49,13 +49,13 @@
         },
         {
           "date" : "2026-11-14T11:00:00Z",
-          "endTime" : "",
-          "startTime" : ""
+          "endTime" : "16:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-11-14T11:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "09:00"
+          "endTime" : "",
+          "startTime" : ""
         },
         {
           "date" : "2026-11-16T11:00:00Z",
@@ -121,7 +121,7 @@
       "title" : "50. Untertoggenburger Lupi-Meisterschaft \/ 10. Untertoggenburger Auflage-Meisterschaft"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

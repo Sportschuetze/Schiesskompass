@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0299aa38917aef97e303ffe659de6e17ffef0aadcdda3c0391d8a8bb61e2a3a1",
+  "contentHash" : "sha256-d4fdb779d3d8e16b14bd0c47aed10c7aeb77727ccea68dfce43dd80964c4ab0a",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,13 +48,13 @@
         },
         {
           "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "18:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "18:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-16T10:00:00Z",
@@ -80,7 +80,7 @@
       "title" : "Jubiläumsschiessen 150 Jahre Schützengesellschaft Fischingen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.tegelbachschuetzen-gachnang.ch\/"
   },
-  "contentHash" : "sha256-9f90c59d1e326cbd817357dc786d2dc837861b5a207c0e0f98dfd7bf3f31cd24",
+  "contentHash" : "sha256-28ea85e0c160f9209bce993108ccd3f412dcae05ae02de297798168d3b2950f8",
   "events" : [
     {
       "championshipTags" : "",
@@ -67,19 +67,19 @@
         },
         {
           "date" : "2027-04-24T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:30",
+          "startTime" : "13:30"
         },
         {
           "date" : "2027-04-24T10:00:00Z",
-          "endTime" : "17:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         }
       ],
       "title" : "25. Gochlinger Liegendmatch 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2b2e3f9ae8830f744fef996cae22c9f580cdf1fb21679436e6795355d86078c9",
+  "contentHash" : "sha256-53c58f45d0b7a4437697f2728209994f0b8eb3bd9378d98854a267606aaee5f6",
   "events" : [
     {
       "championshipTags" : "",
@@ -42,13 +42,13 @@
       "timeBlocks" : [
         {
           "date" : "2027-03-13T11:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2027-03-13T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-03-14T11:00:00Z",
@@ -57,19 +57,19 @@
         },
         {
           "date" : "2027-03-20T11:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2027-03-20T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         }
       ],
       "title" : "38. Einzel & Gruppenschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -27,7 +27,7 @@
     "trainingWeekday" : "",
     "website" : "www.pistolenruethi.ch"
   },
-  "contentHash" : "sha256-6dc922a89864a5a8e03a3133d1ee80c02269ad8b9059a8a78dd686e7c029473b",
+  "contentHash" : "sha256-a7c4aea3a23ea607c7e3148d9deeef0511a1ac49b3811678a36362374f397d66",
   "events" : [
     {
       "championshipTags" : "",
@@ -71,13 +71,13 @@
         },
         {
           "date" : "2026-11-15T11:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:00"
+          "endTime" : "11:30",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-11-15T11:00:00Z",
-          "endTime" : "11:30",
-          "startTime" : "09:00"
+          "endTime" : "16:30",
+          "startTime" : "13:00"
         }
       ],
       "title" : "Lyonerschiessen 2026"
@@ -161,7 +161,7 @@
       "title" : "50. Rheintaler-Luftpistolenmeisterschaft mit Auflageschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -27,7 +27,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgstaefa.ch"
   },
-  "contentHash" : "sha256-6f8a408a476eea72bdf73dc668fa0fe7e3ebf470a125ee4202bc2ec7d8297399",
+  "contentHash" : "sha256-12ff5425aa25bfff3b7b89e1cc7feb178b77680746d07eb560584a8411f1abff",
   "events" : [
     {
       "championshipTags" : "",
@@ -51,13 +51,13 @@
         },
         {
           "date" : "2026-09-19T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "16:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-09-19T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2026-09-26T10:00:00Z",
@@ -73,7 +73,7 @@
       "title" : "55. Herbstschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

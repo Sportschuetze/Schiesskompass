@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-328834a066505558b21828f75710d62a9893ae814f273efe79a8d78127269b99",
+  "contentHash" : "sha256-0fdd4c0490edb1bace032d965ae72f9fecdd5ae8409ca32ac9c698f48b59dfb7",
   "events" : [
     {
       "championshipTags" : "",
@@ -43,13 +43,13 @@
       "timeBlocks" : [
         {
           "date" : "2027-03-06T11:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:15"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2027-03-06T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "16:00",
+          "startTime" : "13:15"
         },
         {
           "date" : "2027-03-07T11:00:00Z",
@@ -70,7 +70,7 @@
       "title" : "33. Schaffhauser Frühlingsschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

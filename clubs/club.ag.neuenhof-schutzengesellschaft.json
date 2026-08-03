@@ -28,7 +28,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgneuenhof.ch"
   },
-  "contentHash" : "sha256-f3dab12d95eb2d1065e36572cc5034c476fa8660b744098e4941dcdd1aa467bb",
+  "contentHash" : "sha256-37a90a7865ca9e11403bde3ef5efc40feaaa02fe3311d0541b42f233a6a1fb33",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,17 +48,17 @@
         {
           "date" : "2026-09-05T10:00:00Z",
           "endTime" : "16:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "16:00",
           "startTime" : "08:00"
-        },
-        {
-          "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "09:00"
-        },
-        {
-          "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "09:00"
         },
         {
           "date" : "2026-09-06T10:00:00Z",
@@ -99,7 +99,7 @@
       "title" : "16. Bareggschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

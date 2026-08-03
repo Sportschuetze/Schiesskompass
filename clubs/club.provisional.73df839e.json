@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.svossingen.ch"
   },
-  "contentHash" : "sha256-c659c8bcdac1abf3b450a2af86bb3d095a4dcac20bb2d9638450f91f3c90a4e7",
+  "contentHash" : "sha256-16b3dab66a4a40cd8e7921d46ac30cfd917408df1e9694adeacb613ec9202c30",
   "events" : [
     {
       "championshipTags" : "",
@@ -49,13 +49,13 @@
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-08-23T10:00:00Z",
@@ -86,7 +86,7 @@
       "title" : "Jubiläumsschiessen - 275 Jahre Schützenverein Ossingen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

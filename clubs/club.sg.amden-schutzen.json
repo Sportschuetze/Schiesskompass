@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzenamden.ch"
   },
-  "contentHash" : "sha256-9ee11a58b7b8441804df9cfed0c7afd987dd529bf31a60590ae8470bdf38b6fe",
+  "contentHash" : "sha256-4be07a07bdbb70f01272afe9acc09d772e7f50c571e8cbb517cc2f147f761aec",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,19 +58,19 @@
         },
         {
           "date" : "2026-09-12T10:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-09-12T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "16:30",
+          "startTime" : "13:00"
         }
       ],
       "title" : "20. Ammler Bergschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

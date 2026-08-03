@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a66ddb5cf60dad9637741548e9562d10c88b31512b85910f5ec595808ddd2381",
+  "contentHash" : "sha256-147adeeb7bde23e5b94635896181e901c1584f9ce7706340041b1ad93976dd44",
   "events" : [
     {
       "championshipTags" : "",
@@ -89,13 +89,13 @@
       "timeBlocks" : [
         {
           "date" : "2026-09-12T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-09-12T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "17:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-09-19T10:00:00Z",
@@ -129,7 +129,7 @@
       "title" : "Bezirks-Winterschiessen BSVA 2027"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

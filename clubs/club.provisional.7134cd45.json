@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.sps8192.ch"
   },
-  "contentHash" : "sha256-3172ee5b937b5e4f8ed95d2f5d31d31ba5dae647efc6c03ad9d062f890f1dc3f",
+  "contentHash" : "sha256-e9df13459fc5a285ada9a42969ccaf6d3f194f91330977664fd6a65f01433f41",
   "events" : [
     {
       "championshipTags" : "",
@@ -49,6 +49,11 @@
         },
         {
           "date" : "2026-09-13T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-09-13T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:00"
         },
@@ -58,11 +63,6 @@
           "startTime" : "13:00"
         },
         {
-          "date" : "2026-09-13T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
-        },
-        {
           "date" : "2026-10-04T10:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:00"
@@ -74,19 +74,19 @@
         },
         {
           "date" : "2026-10-04T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-10-04T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         }
       ],
       "title" : "Unterland-Tournee 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

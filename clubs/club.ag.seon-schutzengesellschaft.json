@@ -26,7 +26,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgseon.ch"
   },
-  "contentHash" : "sha256-e22044a7dff0d0c5f92bfc460cfe9d5549a2bf3691dc288e16b1b9dc8348a669",
+  "contentHash" : "sha256-bdf7e43c51b82c5cc90ac4ca27076c95d50f72fae90ca11c9eb220a570078051",
   "events" : [
     {
       "championshipTags" : "",
@@ -60,19 +60,19 @@
         },
         {
           "date" : "2026-10-31T11:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2026-10-31T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "16:30",
+          "startTime" : "13:30"
         }
       ],
       "title" : "37.Haebnischiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

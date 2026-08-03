@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-aa56289cc03d465d4f6728cb927aabe79e6317c25ee303b1cc81b2612e2787a9",
+  "contentHash" : "sha256-95fa3776f15b8decacc365b68c7592d5fcb8eace014c4ac302fd717cb6277a23",
   "events" : [
     {
       "championshipTags" : "",
@@ -49,19 +49,19 @@
         },
         {
           "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         }
       ],
       "title" : "Herbstmonetschüüsse"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

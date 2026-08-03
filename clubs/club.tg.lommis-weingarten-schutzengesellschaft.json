@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2230c9077441237ab2b8c3daeb5cc55f3ab5260b3089fac2b6e4215965f4cb9c",
+  "contentHash" : "sha256-29ecd128d881a9ec35f0a36fb11dbb40e82697d3c29bec258894834ad536a41e",
   "events" : [
     {
       "championshipTags" : "",
@@ -47,13 +47,13 @@
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "19:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "19:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-30T10:00:00Z",
@@ -84,7 +84,7 @@
       "title" : "Standartenweihschiessen 140 Jahre SG Lommis-Weingarten"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

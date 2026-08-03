@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-35ba7615398c7cd2e48d049a24ad32b72dbf90f6e8359eabf0dfa5afb16a50a8",
+  "contentHash" : "sha256-fcd166ed048fd8130b65e0f36bada9181276fb2080758d5a57fb186617bcd6fd",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,19 +63,19 @@
         },
         {
           "date" : "2026-10-17T10:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-10-17T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:30",
+          "startTime" : "13:30"
         }
       ],
       "title" : "31. Guyer-Zellerschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

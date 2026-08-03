@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7ffd007f645e56e68fec78b3ef71efadbab16e20104cfc4e04cd8dea4566fa2e",
+  "contentHash" : "sha256-ada9134ed4b7b1a3d76b91551f9b000ace044fb82e6ff36617f4631755de9fa9",
   "events" : [
     {
       "championshipTags" : "",
@@ -42,13 +42,13 @@
       "timeBlocks" : [
         {
           "date" : "2027-02-20T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-02-20T11:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2027-02-21T11:00:00Z",
@@ -62,13 +62,13 @@
         },
         {
           "date" : "2027-02-27T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-02-27T11:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2027-02-28T11:00:00Z",
@@ -95,13 +95,13 @@
       "timeBlocks" : [
         {
           "date" : "2027-02-20T11:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2027-02-20T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-02-21T11:00:00Z",
@@ -115,13 +115,13 @@
         },
         {
           "date" : "2027-02-27T11:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2027-02-27T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-02-28T11:00:00Z",
@@ -132,7 +132,7 @@
       "title" : "34. Oberthurg. Gewehrschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

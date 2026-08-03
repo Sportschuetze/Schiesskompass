@@ -26,7 +26,7 @@
     "trainingWeekday" : "",
     "website" : "www.ssgw.ch"
   },
-  "contentHash" : "sha256-b86e06c600ee34fb186edddfb81e30f3ec3b7d35a3f02b017300a9f8590beb42",
+  "contentHash" : "sha256-4f9a7512fff12e825e9df96f8e480f8279b910740af379a7e2098f197691a3bd",
   "events" : [
     {
       "championshipTags" : "",
@@ -50,11 +50,6 @@
         },
         {
           "date" : "2026-09-13T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-09-13T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
         },
@@ -64,6 +59,16 @@
           "startTime" : "08:00"
         },
         {
+          "date" : "2026-09-13T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-10-04T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
           "date" : "2026-10-04T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:00"
@@ -72,11 +77,6 @@
           "date" : "2026-10-04T10:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-10-04T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
         },
         {
           "date" : "2026-10-04T10:00:00Z",
@@ -87,7 +87,7 @@
       "title" : "Unterland-Tournee 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

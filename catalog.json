@@ -769,24 +769,6 @@
   "assignments" : [
     {
       "order" : 1,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "programPartExternalId" : "ch-efs-g300-1",
-      "repetition" : 1
-    },
-    {
-      "order" : 2,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "programPartExternalId" : "ch-efs-g300-2",
-      "repetition" : 1
-    },
-    {
-      "order" : 3,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "programPartExternalId" : "ch-efs-g300-3",
-      "repetition" : 1
-    },
-    {
-      "order" : 1,
       "programExternalId" : "ch-feldschiessen-p25",
       "programPartExternalId" : "ch-feldschiessen-p25-60",
       "repetition" : 1
@@ -916,6 +898,42 @@
       "programExternalId" : "ch-obligatorisch-p50",
       "programPartExternalId" : "ch-op-p50-4",
       "repetition" : 1
+    },
+    {
+      "order" : 1,
+      "programExternalId" : "program.provisional.34989f7c",
+      "programPartExternalId" : "program.provisional.34989f7c.part.1",
+      "repetition" : 1
+    },
+    {
+      "order" : 2,
+      "programExternalId" : "program.provisional.34989f7c",
+      "programPartExternalId" : "program.provisional.34989f7c.part.2",
+      "repetition" : 1
+    },
+    {
+      "order" : 3,
+      "programExternalId" : "program.provisional.34989f7c",
+      "programPartExternalId" : "program.provisional.34989f7c.part.3",
+      "repetition" : 1
+    },
+    {
+      "order" : 1,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "programPartExternalId" : "program.provisional.9b68f7ee.part.1",
+      "repetition" : 1
+    },
+    {
+      "order" : 2,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "programPartExternalId" : "program.provisional.9b68f7ee.part.2",
+      "repetition" : 1
+    },
+    {
+      "order" : 3,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "programPartExternalId" : "program.provisional.9b68f7ee.part.3",
+      "repetition" : 1
     }
   ],
   "calibers" : [
@@ -980,8 +998,8 @@
       "notes" : "Standardkaliber Ordonnanzpistole CH. Zugelassen OP\/EFS."
     }
   ],
-  "catalogLabel" : "2026v10",
-  "catalogVersion" : 10,
+  "catalogLabel" : "2026v11",
+  "catalogVersion" : 11,
   "competitions" : [
 
   ],
@@ -1053,109 +1071,13 @@
       "weaponConstraint" : "free"
     }
   ],
-  "exportedAt" : "2026-08-03T05:27:09Z",
+  "exportedAt" : "2026-08-03T05:57:43Z",
   "kranzRequirements" : [
     {
       "ageCategoryRaw" : "elite",
       "competitionClassCode" : "",
       "kindRaw" : "anerkennung",
       "partOrder" : 0,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "requiredPoints" : 55
-    },
-    {
-      "ageCategoryRaw" : "elite",
-      "competitionClassCode" : "",
-      "kindRaw" : "kranz",
-      "partOrder" : 0,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "requiredPoints" : 57
-    },
-    {
-      "ageCategoryRaw" : "seniorVeteranen",
-      "competitionClassCode" : "",
-      "kindRaw" : "anerkennung",
-      "partOrder" : 0,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "requiredPoints" : 52
-    },
-    {
-      "ageCategoryRaw" : "seniorVeteranen",
-      "competitionClassCode" : "",
-      "kindRaw" : "kranz",
-      "partOrder" : 0,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "requiredPoints" : 54
-    },
-    {
-      "ageCategoryRaw" : "senioren",
-      "competitionClassCode" : "",
-      "kindRaw" : "anerkennung",
-      "partOrder" : 0,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "requiredPoints" : 55
-    },
-    {
-      "ageCategoryRaw" : "senioren",
-      "competitionClassCode" : "",
-      "kindRaw" : "kranz",
-      "partOrder" : 0,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "requiredPoints" : 57
-    },
-    {
-      "ageCategoryRaw" : "u17",
-      "competitionClassCode" : "",
-      "kindRaw" : "anerkennung",
-      "partOrder" : 0,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "requiredPoints" : 52
-    },
-    {
-      "ageCategoryRaw" : "u17",
-      "competitionClassCode" : "",
-      "kindRaw" : "kranz",
-      "partOrder" : 0,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "requiredPoints" : 54
-    },
-    {
-      "ageCategoryRaw" : "u21",
-      "competitionClassCode" : "",
-      "kindRaw" : "anerkennung",
-      "partOrder" : 0,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "requiredPoints" : 53
-    },
-    {
-      "ageCategoryRaw" : "u21",
-      "competitionClassCode" : "",
-      "kindRaw" : "kranz",
-      "partOrder" : 0,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "requiredPoints" : 55
-    },
-    {
-      "ageCategoryRaw" : "veteranen",
-      "competitionClassCode" : "",
-      "kindRaw" : "anerkennung",
-      "partOrder" : 0,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "requiredPoints" : 53
-    },
-    {
-      "ageCategoryRaw" : "veteranen",
-      "competitionClassCode" : "",
-      "kindRaw" : "kranz",
-      "partOrder" : 0,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "requiredPoints" : 55
-    },
-    {
-      "ageCategoryRaw" : "elite",
-      "competitionClassCode" : "",
-      "kindRaw" : "anerkennung",
-      "partOrder" : 0,
       "programExternalId" : "ch-feldschiessen-p25",
       "requiredPoints" : 153
     },
@@ -1486,26 +1408,201 @@
       "partOrder" : 0,
       "programExternalId" : "ch-obligatorisch-p50",
       "requiredPoints" : 67
+    },
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.34989f7c",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.34989f7c",
+      "requiredPoints" : 57
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.34989f7c",
+      "requiredPoints" : 52
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.34989f7c",
+      "requiredPoints" : 54
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.34989f7c",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.34989f7c",
+      "requiredPoints" : 57
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.34989f7c",
+      "requiredPoints" : 52
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.34989f7c",
+      "requiredPoints" : 54
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.34989f7c",
+      "requiredPoints" : 53
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.34989f7c",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.34989f7c",
+      "requiredPoints" : 53
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.34989f7c",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "elite",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "requiredPoints" : 57
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "requiredPoints" : 52
+    },
+    {
+      "ageCategoryRaw" : "seniorVeteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "requiredPoints" : 54
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "senioren",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "requiredPoints" : 57
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "requiredPoints" : 52
+    },
+    {
+      "ageCategoryRaw" : "u17",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "requiredPoints" : 54
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "requiredPoints" : 53
+    },
+    {
+      "ageCategoryRaw" : "u21",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "requiredPoints" : 55
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "anerkennung",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "requiredPoints" : 53
+    },
+    {
+      "ageCategoryRaw" : "veteranen",
+      "competitionClassCode" : "",
+      "kindRaw" : "kranz",
+      "partOrder" : 0,
+      "programExternalId" : "program.provisional.9b68f7ee",
+      "requiredPoints" : 55
     }
   ],
   "programParts" : [
-    {
-      "distanceMeters" : 300,
-      "expectedSighters" : 0,
-      "externalId" : "ch-efs-g300-1",
-      "fireMode" : "Einzelfeuer",
-      "isActive" : true,
-      "name" : "Einzelfeuer 6 Schuss",
-      "notes" : "",
-      "numberOfSeries" : 1,
-      "partNumber" : 1,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "scoringType" : "Punkte",
-      "shotsPerSeries" : 6,
-      "timeLimitSeconds" : 0,
-      "totalShots" : 6,
-      "version" : 1
-    },
     {
       "distanceMeters" : 25,
       "expectedSighters" : 0,
@@ -1535,6 +1632,7 @@
       "programExternalId" : "ch-obligatorisch-gewehr-300m",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.g300.a5",
       "timeLimitSeconds" : 0,
       "totalShots" : 5,
       "version" : 1
@@ -1552,6 +1650,7 @@
       "programExternalId" : "ch-feldschiessen-p50",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 6,
+      "targetExternalId" : "target.p50.osfs",
       "timeLimitSeconds" : 0,
       "totalShots" : 6,
       "version" : 1
@@ -1569,6 +1668,7 @@
       "programExternalId" : "ch-obligatorisch-p50",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.p50.osfs",
       "timeLimitSeconds" : 0,
       "totalShots" : 5,
       "version" : 1
@@ -1620,6 +1720,7 @@
       "programExternalId" : "ch-feldschiessen-p25",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 3,
+      "targetExternalId" : "target.p25.osfs",
       "timeLimitSeconds" : 60,
       "totalShots" : 3,
       "version" : 1
@@ -1637,25 +1738,9 @@
       "programExternalId" : "ch-obligatorisch-p25",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.p25.osfs",
       "timeLimitSeconds" : 100,
       "totalShots" : 5,
-      "version" : 1
-    },
-    {
-      "distanceMeters" : 300,
-      "expectedSighters" : 0,
-      "externalId" : "ch-efs-g300-2",
-      "fireMode" : "Seriefeuer",
-      "isActive" : true,
-      "name" : "Seriefeuer 2 × 3 Schuss (je 60 Sek.)",
-      "notes" : "",
-      "numberOfSeries" : 1,
-      "partNumber" : 2,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "scoringType" : "Punkte",
-      "shotsPerSeries" : 6,
-      "timeLimitSeconds" : 60,
-      "totalShots" : 6,
       "version" : 1
     },
     {
@@ -1671,6 +1756,7 @@
       "programExternalId" : "ch-obligatorisch-p50",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.p50.osfs",
       "timeLimitSeconds" : 60,
       "totalShots" : 5,
       "version" : 1
@@ -1705,6 +1791,7 @@
       "programExternalId" : "ch-obligatorisch-p25",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.p25.osfs",
       "timeLimitSeconds" : 50,
       "totalShots" : 5,
       "version" : 1
@@ -1722,6 +1809,7 @@
       "programExternalId" : "ch-feldschiessen-p50",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 6,
+      "targetExternalId" : "target.p50.osfs",
       "timeLimitSeconds" : 60,
       "totalShots" : 6,
       "version" : 1
@@ -1739,6 +1827,7 @@
       "programExternalId" : "ch-obligatorisch-gewehr-300m",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.g300.b4",
       "timeLimitSeconds" : 0,
       "totalShots" : 5,
       "version" : 1
@@ -1756,6 +1845,7 @@
       "programExternalId" : "ch-feldschiessen-p25",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.p25.osfs",
       "timeLimitSeconds" : 50,
       "totalShots" : 5,
       "version" : 1
@@ -1789,6 +1879,7 @@
       "programExternalId" : "ch-feldschiessen-p50",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 6,
+      "targetExternalId" : "target.p50.osfs",
       "timeLimitSeconds" : 60,
       "totalShots" : 6,
       "version" : 1
@@ -1806,6 +1897,7 @@
       "programExternalId" : "ch-obligatorisch-gewehr-300m",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.g300.b4",
       "timeLimitSeconds" : 0,
       "totalShots" : 5,
       "version" : 1
@@ -1823,25 +1915,9 @@
       "programExternalId" : "ch-obligatorisch-p25",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.p25.osfs",
       "timeLimitSeconds" : 40,
       "totalShots" : 5,
-      "version" : 1
-    },
-    {
-      "distanceMeters" : 300,
-      "expectedSighters" : 0,
-      "externalId" : "ch-efs-g300-3",
-      "fireMode" : "Seriefeuer",
-      "isActive" : true,
-      "name" : "Seriefeuer 6 Schuss (60 Sek.)",
-      "notes" : "",
-      "numberOfSeries" : 1,
-      "partNumber" : 3,
-      "programExternalId" : "ch-feldschiessen-gewehr-300m",
-      "scoringType" : "Punkte",
-      "shotsPerSeries" : 6,
-      "timeLimitSeconds" : 60,
-      "totalShots" : 6,
       "version" : 1
     },
     {
@@ -1857,6 +1933,7 @@
       "programExternalId" : "ch-obligatorisch-p50",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.p50.osfs",
       "timeLimitSeconds" : 0,
       "totalShots" : 5,
       "version" : 1
@@ -1874,6 +1951,7 @@
       "programExternalId" : "ch-feldschiessen-p25",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.p25.osfs",
       "timeLimitSeconds" : 40,
       "totalShots" : 5,
       "version" : 1
@@ -1891,6 +1969,7 @@
       "programExternalId" : "ch-obligatorisch-p25",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.p25.osfs",
       "timeLimitSeconds" : 30,
       "totalShots" : 5,
       "version" : 1
@@ -1908,6 +1987,7 @@
       "programExternalId" : "ch-feldschiessen-p25",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.p25.osfs",
       "timeLimitSeconds" : 30,
       "totalShots" : 5,
       "version" : 1
@@ -1925,6 +2005,7 @@
       "programExternalId" : "ch-obligatorisch-gewehr-300m",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.g300.b4",
       "timeLimitSeconds" : 0,
       "totalShots" : 5,
       "version" : 1
@@ -1942,6 +2023,7 @@
       "programExternalId" : "ch-obligatorisch-p50",
       "scoringType" : "Punkte",
       "shotsPerSeries" : 5,
+      "targetExternalId" : "target.p50.osfs",
       "timeLimitSeconds" : 30,
       "totalShots" : 5,
       "version" : 1
@@ -1949,18 +2031,18 @@
   ],
   "programs" : [
     {
-      "ammunitionDefault" : "5.56 NATO \/ GP90",
+      "ammunitionDefault" : "",
       "disciplineCode" : "G300",
       "expectsSeriesImages" : false,
-      "externalId" : "ch-feldschiessen-gewehr-300m",
+      "externalId" : "program.provisional.9b68f7ee",
       "isActive" : true,
       "isArchived" : false,
-      "name" : "Feldschiessen Gewehr 300 m",
+      "name" : "Feldschiessen G300",
       "notes" : "",
       "programLevel" : "Standard",
       "programType" : "Bundesübung",
-      "requiresScoreSheet" : true,
-      "resultCaptureMode" : "Manuell",
+      "requiresScoreSheet" : false,
+      "resultCaptureMode" : "",
       "standardAwardPointsRequired" : 55,
       "standardKranzPointsRequired" : 57,
       "version" : 1
@@ -1997,6 +2079,23 @@
       "resultCaptureMode" : "Manuell",
       "standardAwardPointsRequired" : 58,
       "standardKranzPointsRequired" : 63,
+      "version" : 1
+    },
+    {
+      "ammunitionDefault" : "",
+      "disciplineCode" : "G300",
+      "expectsSeriesImages" : false,
+      "externalId" : "program.provisional.34989f7c",
+      "isActive" : true,
+      "isArchived" : false,
+      "name" : "Feldstich G300",
+      "notes" : "",
+      "programLevel" : "Standard",
+      "programType" : "Bundesübung",
+      "requiresScoreSheet" : false,
+      "resultCaptureMode" : "",
+      "standardAwardPointsRequired" : 55,
+      "standardKranzPointsRequired" : 57,
       "version" : 1
     },
     {

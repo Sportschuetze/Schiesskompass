@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c4a33ac3648c625942bdeaf554d850f87ca2620113e873602ee043d60a6682ad",
+  "contentHash" : "sha256-52b182f0275c5ec6fc5e408e6b3ab68c368c4a118874d70b41f48dde6adf22eb",
   "events" : [
     {
       "championshipTags" : "",
@@ -59,18 +59,18 @@
         },
         {
           "date" : "2026-12-12T11:00:00Z",
+          "endTime" : "15:30",
+          "startTime" : "12:45"
+        },
+        {
+          "date" : "2026-12-12T11:00:00Z",
+          "endTime" : "15:30",
+          "startTime" : "12:45"
+        },
+        {
+          "date" : "2026-12-12T11:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:30"
-        },
-        {
-          "date" : "2026-12-12T11:00:00Z",
-          "endTime" : "15:30",
-          "startTime" : "12:45"
-        },
-        {
-          "date" : "2026-12-12T11:00:00Z",
-          "endTime" : "15:30",
-          "startTime" : "12:45"
         },
         {
           "date" : "2026-12-13T11:00:00Z",
@@ -86,7 +86,7 @@
       "title" : "71. Pistolen-Gangfisch-Schiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

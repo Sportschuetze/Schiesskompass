@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.strahlegg.ch"
   },
-  "contentHash" : "sha256-5d40313c784b5531a5f5782edbdbba62ee1b857f0c44ed220d86f626bfa53662",
+  "contentHash" : "sha256-9778763e5e2f940e73470bbcd38ab9d222b46e80afd334f204253e2fbe718a96",
   "events" : [
     {
       "championshipTags" : "",
@@ -54,13 +54,13 @@
         },
         {
           "date" : "2026-08-30T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "15:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-08-30T10:00:00Z",
-          "endTime" : "15:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-09-04T10:00:00Z",
@@ -76,7 +76,7 @@
       "title" : "40. Strahleggschiessen MSV Strahlegg"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

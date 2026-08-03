@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-eeb2ea5efebe0fc129e07678cf7f1536db77c28fb80477b2cbd642e80e3f5293",
+  "contentHash" : "sha256-25168dd2eef50396098179ec6693439e1a6d16a5b07350003fb5ad8c894983da",
   "events" : [
     {
       "championshipTags" : "",
@@ -61,13 +61,13 @@
         },
         {
           "date" : "2028-08-26T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2028-08-26T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2028-08-27T10:00:00Z",
@@ -78,7 +78,7 @@
       "title" : "Jubiläumsschiessen 150 Jahre"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

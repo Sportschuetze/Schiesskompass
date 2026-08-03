@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ecd87248dfa9bdce93df0e158885bc233b84487bf51a0a8a1c83232d64d4a002",
+  "contentHash" : "sha256-c85c53546be6c4a9864ce8567be3c0e30a84821648e8627dd593399bbd82309e",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,13 +48,13 @@
         },
         {
           "date" : "2026-10-17T10:00:00Z",
-          "endTime" : "18:30",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-10-17T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "18:30",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-10-18T10:00:00Z",
@@ -86,13 +86,13 @@
         },
         {
           "date" : "2027-10-23T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "18:30",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-10-23T10:00:00Z",
-          "endTime" : "18:30",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2027-10-24T10:00:00Z",
@@ -103,7 +103,7 @@
       "title" : "24. Racletteschiessen"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

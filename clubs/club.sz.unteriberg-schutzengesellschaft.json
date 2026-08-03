@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgunteriberg.ch"
   },
-  "contentHash" : "sha256-b79b046078b169efaa9885e9639eb803c06e42321d7dc3b7b3b7e67e494166cc",
+  "contentHash" : "sha256-57a8dfb0bfddffc19720a28acefe9243f93311b0f1c645ae93598ed60551674c",
   "events" : [
     {
       "championshipTags" : "",
@@ -53,13 +53,13 @@
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "16:30",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-08-30T10:00:00Z",
@@ -70,7 +70,7 @@
       "title" : "28. Hirschflueschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-07-27T13:42:28Z",
+  "generatedAt" : "2026-08-03T05:57:43Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }
