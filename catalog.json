@@ -1016,8 +1016,8 @@
       "notes" : "Standardkaliber Ordonnanzpistole CH. Zugelassen OP\/EFS."
     }
   ],
-  "catalogLabel" : "2026v12",
-  "catalogVersion" : 12,
+  "catalogLabel" : "2026v14",
+  "catalogVersion" : 14,
   "competitions" : [
 
   ],
@@ -1089,7 +1089,7 @@
       "weaponConstraint" : "free"
     }
   ],
-  "exportedAt" : "2026-08-03T06:03:04Z",
+  "exportedAt" : "2026-08-03T18:50:34Z",
   "kranzRequirements" : [
     {
       "ageCategoryRaw" : "elite",
@@ -2196,12 +2196,15 @@
       "version" : 1
     },
     {
+      "allowsNachdoppel" : true,
       "ammunitionDefault" : "",
       "disciplineCode" : "G300",
       "expectsSeriesImages" : false,
       "externalId" : "program.provisional.34989f7c",
       "isActive" : true,
       "isArchived" : false,
+      "maxNachdoppel" : 1,
+      "nachdoppelScoring" : "highest",
       "name" : "Feldstich G300",
       "notes" : "",
       "programLevel" : "Standard",
@@ -2213,12 +2216,15 @@
       "version" : 1
     },
     {
+      "allowsNachdoppel" : true,
       "ammunitionDefault" : "",
       "disciplineCode" : "P25",
       "expectsSeriesImages" : false,
       "externalId" : "program.provisional.d9ccf052",
       "isActive" : true,
       "isArchived" : false,
+      "maxNachdoppel" : 1,
+      "nachdoppelScoring" : "highest",
       "name" : "Feldstich P25",
       "notes" : "",
       "programLevel" : "Standard",
