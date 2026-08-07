@@ -12,6 +12,24 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.zullwil-schutzengesellschaft.gilgenbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gilgenbergschiessen",
+        "sourceURL" : "https:\/\/www.sgzullwil.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.zullwil-schutzengesellschaft.hauptschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Hauptschiessen",
+        "sourceURL" : "https:\/\/www.sgzullwil.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +42,11 @@
     "trainingWeekday" : "",
     "website" : "www.sgzullwil.ch"
   },
-  "contentHash" : "sha256-58d13b73be071ec8cd2cb180c14ee93f10e32c2287d58edf4dc0eee27b3c9ce4",
+  "contentHash" : "sha256-986cf8e98040bf808e23f5993a9323a97cb6720ca417640a120e808a04533429",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

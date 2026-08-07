@@ -13,6 +13,72 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.eigenamt-pist-rev-klub.auflagenstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Auflagenstich",
+        "sourceURL" : "https:\/\/www.prkeigenamt.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.eigenamt-pist-rev-klub.chlausschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chlausschiessen",
+        "sourceURL" : "https:\/\/www.prkeigenamt.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.eigenamt-pist-rev-klub.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/www.prkeigenamt.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.eigenamt-pist-rev-klub.fuchshaldenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fuchshaldenschiessen",
+        "sourceURL" : "https:\/\/www.prkeigenamt.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.eigenamt-pist-rev-klub.gabenstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gabenstich",
+        "sourceURL" : "https:\/\/www.prkeigenamt.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.eigenamt-pist-rev-klub.gruppenstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenstich",
+        "sourceURL" : "https:\/\/www.prkeigenamt.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.eigenamt-pist-rev-klub.nachtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nachtschiessen",
+        "sourceURL" : "https:\/\/www.prkeigenamt.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.eigenamt-pist-rev-klub.revolverschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Revolverschiessen",
+        "sourceURL" : "https:\/\/www.prkeigenamt.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,7 +91,7 @@
     "trainingWeekday" : "",
     "website" : "www.prkeigenamt.ch"
   },
-  "contentHash" : "sha256-d202fa6fbf5bf6228409026af384aea6a0a1300ebfddae98dc653d97e3c498b5",
+  "contentHash" : "sha256-941806ef62dee31e2d97eb4cd76052863218fcfdbea9ee47cd0654b56aa3eafc",
   "events" : [
     {
       "championshipTags" : "",
@@ -74,9 +140,216 @@
         }
       ],
       "title" : "29. Fuchshaldeschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-01-01T11:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.ag.eigenamt-pist-rev-klub.efs.2026-01-01",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.prkeigenamt.ch\/",
+      "startDate" : "2026-01-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-31T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.ag.eigenamt-pist-rev-klub.efs.2026-05-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.prkeigenamt.ch\/",
+      "startDate" : "2026-05-31T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-08T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.ag.eigenamt-pist-rev-klub.efs.2026-08-08",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.prkeigenamt.ch\/",
+      "startDate" : "2026-08-08T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-01-02T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.eigenamt-pist-rev-klub.fuchshaldenschiessen.2026-01-02",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.prkeigenamt.ch\/",
+      "startDate" : "2026-01-02T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Fuchshaldenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-01-03T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.eigenamt-pist-rev-klub.fuchshaldenschiessen.2026-01-03",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.prkeigenamt.ch\/",
+      "startDate" : "2026-01-03T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Fuchshaldenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-29T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.eigenamt-pist-rev-klub.fuchshaldenschiessen.2026-08-29",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.prkeigenamt.ch\/",
+      "startDate" : "2026-08-29T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Fuchshaldenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-01-02T11:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.ag.eigenamt-pist-rev-klub.op.2026-01-02",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.prkeigenamt.ch\/",
+      "startDate" : "2026-01-02T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-08T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.ag.eigenamt-pist-rev-klub.op.2026-08-08",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.prkeigenamt.ch\/",
+      "startDate" : "2026-08-08T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-12T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.eigenamt-pist-rev-klub.revolverschiessen.2026-09-12",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.prkeigenamt.ch\/",
+      "startDate" : "2026-09-12T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Revolverschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

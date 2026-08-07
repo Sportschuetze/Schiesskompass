@@ -15,6 +15,16 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f4ba5e7e.fruhlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frühlingsschiessen",
+        "sourceURL" : "https:\/\/www.psuetendorf.ch\/clubdesk\/www"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -27,11 +37,171 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.psuetendorf.ch"
   },
-  "contentHash" : "sha256-037e47e65064dab7aefd2bf2aab9c47a60ab4db5ae40c0d0c6b5bc10b26f6be0",
+  "contentHash" : "sha256-868775688711568dea6f7b00f13a123dcf12573f49331ba001ebfddf6789cd2b",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-02T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.provisional.f4ba5e7e.efs.2026-06-02",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.psuetendorf.ch\/clubdesk\/www",
+      "startDate" : "2026-06-02T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-05T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.provisional.f4ba5e7e.efs.2026-06-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.psuetendorf.ch\/clubdesk\/www",
+      "startDate" : "2026-06-05T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-06T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.f4ba5e7e.fruhlingsschiessen.2026-03-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.psuetendorf.ch\/clubdesk\/www",
+      "startDate" : "2026-03-06T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Frühlingsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-07T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.f4ba5e7e.fruhlingsschiessen.2026-05-07",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.psuetendorf.ch\/clubdesk\/www",
+      "startDate" : "2026-05-07T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Frühlingsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-07T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.f4ba5e7e.fruhlingsschiessen.2026-08-07",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.psuetendorf.ch\/clubdesk\/www",
+      "startDate" : "2026-08-07T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Frühlingsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-11T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.f4ba5e7e.fruhlingsschiessen.2026-08-11",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.psuetendorf.ch\/clubdesk\/www",
+      "startDate" : "2026-08-11T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Frühlingsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-11T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.provisional.f4ba5e7e.op.2026-08-11",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Au Teilnehmer",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.psuetendorf.ch\/clubdesk\/www",
+      "startDate" : "2026-08-11T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

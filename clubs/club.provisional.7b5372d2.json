@@ -13,6 +13,48 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7b5372d2.bergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bergschiessen",
+        "sourceURL" : "https:\/\/asbduebi.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7b5372d2.bockenkriegschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bockenkriegschiessen",
+        "sourceURL" : "https:\/\/asbduebi.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7b5372d2.einhornschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einhornschiessen",
+        "sourceURL" : "https:\/\/asbduebi.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7b5372d2.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/asbduebi.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7b5372d2.herbstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Herbstschiessen",
+        "sourceURL" : "https:\/\/asbduebi.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +67,33 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/asbduebi.ch"
   },
-  "contentHash" : "sha256-2e4ddb4ded85ef3753ee11f2cb9bfc2ce8d6fc5cfa12946e39471debadd30642",
+  "contentHash" : "sha256-8811f49754a10d26fed834daa864e972632b341dd7081405710f250230b68b03",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-04T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.7b5372d2.bergschiessen.2026-09-04",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/asbduebi.ch\/",
+      "startDate" : "2026-09-04T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Bergschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

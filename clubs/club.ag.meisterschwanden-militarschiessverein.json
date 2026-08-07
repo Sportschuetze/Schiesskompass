@@ -22,13 +22,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.msv-meisterschwanden.ch"
+    "website" : "www.msv-meisterschwanden.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-fee329c2e884ea13d96aca448b7be5c0f336e8a723bd7c7c7bde2f95834fb198",
+  "contentHash" : "sha256-9f4d52b93087469e94247bf895d145010596cff729ec7e71e098f97644881a0e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

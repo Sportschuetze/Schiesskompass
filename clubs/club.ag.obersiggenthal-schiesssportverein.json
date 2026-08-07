@@ -12,6 +12,264 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.bareggschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bareggschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.beguttenalpschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Beguttenalpschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.bessersteinschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bessersteinschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.bundesfeierschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bundesfeierschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.chruzlichbachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chrüzlichbachschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.ebnischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Ebnischiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.egelseeschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Egelseeschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.eroffnungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eröffnungsschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.festungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Festungsschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.frickbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frickbergschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.gladiatorenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gladiatorenschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.grossfelsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Grossfelsschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.gruppenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.herbstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Herbstschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.habnischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Häbnischiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.limmatschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Limmatschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.lochbachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Lochbachschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.maiengrunschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Maiengrünschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.michelsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Michelsschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.nachtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nachtschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.oelbachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Oelbachschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.osterwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Osterwettschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.rotkornschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Rotkornschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.sagemuhleschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sagemühleschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.schenkenbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schenkenbergschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.siggenbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Siggenbergschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.sparbligschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sparbligschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.standstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Standstich",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.weiherschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Weiherschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-schiesssportverein.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +282,102 @@
     "trainingWeekday" : "",
     "website" : "www.ssv-obersiggenthal.ch"
   },
-  "contentHash" : "sha256-db5e96dcfaba374b6cf3c03278b359d3c4c4de383b0a2bcc62fac38d3166046a",
+  "contentHash" : "sha256-2e33320e2bc4c68a2e5f0cae094605303ca983ab89a9c4b4b519aa78476906a6",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-15T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.obersiggenthal-schiesssportverein.chlausschiessen.2026-04-15",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf",
+      "startDate" : "2026-04-15T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Chlausschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2027-03-19T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.obersiggenthal-schiesssportverein.chlausschiessen.2027-03-19",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf",
+      "startDate" : "2027-03-19T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Chlausschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-05T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.ag.obersiggenthal-schiesssportverein.op.2026-09-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf",
+      "startDate" : "2026-09-05T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-15T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.obersiggenthal-schiesssportverein.siggenbergschiessen.2026-04-15",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/ssv-obersiggenthal.ch\/wp-content\/uploads\/2026\/03\/2026-JP-SSV-Obersiggenthal-2026-Rev-4.pdf",
+      "startDate" : "2026-04-15T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Siggenbergschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

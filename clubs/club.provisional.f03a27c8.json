@@ -12,6 +12,16 @@
       "G50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f03a27c8.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/www.kk-riedli.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.kk-riedli.ch"
   },
-  "contentHash" : "sha256-ea409181433639f57afa7c4a7eca2e7ce703735f187780340eea2b22561829d9",
+  "contentHash" : "sha256-a91ea8d1a469484e21d7fddd2392a0971df9674e31ad38e2a06fdeb13cbd10b3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

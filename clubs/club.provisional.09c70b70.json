@@ -11,6 +11,24 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.09c70b70.amtsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Amtsschiessen",
+        "sourceURL" : "https:\/\/www.sg-oberkirch.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.09c70b70.herbstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Herbstschiessen",
+        "sourceURL" : "https:\/\/www.sg-oberkirch.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +41,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-oberkirch.ch"
   },
-  "contentHash" : "sha256-bb6b62aeafc2a98d9c8a2fd0726184e52761f2763412b4c4f989741c3d7a3315",
+  "contentHash" : "sha256-33a4a4dd05374f460e1e9ae8d1cac0dbf78516ddaf126782991dd8af7e54ecd8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

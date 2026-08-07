@@ -13,6 +13,16 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.e3c99686.pistolenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Pistolenschiessen",
+        "sourceURL" : "https:\/\/pistolenschuetzen-bremgarten-kirchlindach.clubdesk.com\/willkommen"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,13 +33,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.pistolenschuetzen-bremgarten-kirchlindach.clubdesk.com\/willkommen"
+    "website" : "www.pistolenschuetzen-bremgarten-kirchlindach.clubdesk.com\/willkommen",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-07573433d74f45c38f2e7a7058a8b8db3914f6663ddfde64a7730c1fe6413301",
+  "contentHash" : "sha256-1f61454c21a04dd46c84ccd996ed6d632e0bc1263bd31991f74c9754af928b6f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

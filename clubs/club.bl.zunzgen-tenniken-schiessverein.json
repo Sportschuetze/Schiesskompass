@@ -17,6 +17,48 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.zunzgen-tenniken-schiessverein.buchelschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Büchelschiessen",
+        "sourceURL" : "https:\/\/www.svzunzgentenniken.ch\/wp-content\/uploads\/Schiessplan-300m.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.zunzgen-tenniken-schiessverein.calvenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Calvenschiessen",
+        "sourceURL" : "https:\/\/www.svzunzgentenniken.ch\/wp-content\/uploads\/Schiessplan-300m.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.zunzgen-tenniken-schiessverein.morgartenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Morgartenschiessen",
+        "sourceURL" : "https:\/\/www.svzunzgentenniken.ch\/wp-content\/uploads\/Schiessplan-300m.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.zunzgen-tenniken-schiessverein.rutlischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Rütlischiessen",
+        "sourceURL" : "https:\/\/www.svzunzgentenniken.ch\/wp-content\/uploads\/Schiessplan-300m.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.zunzgen-tenniken-schiessverein.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.svzunzgentenniken.ch\/wp-content\/uploads\/Schiessplan-300m.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -29,11 +71,11 @@
     "trainingWeekday" : "",
     "website" : "www.svzunzgentenniken.ch"
   },
-  "contentHash" : "sha256-311598eba1168ae1cfb2b8a0ebf3798ce1500415e308183dc5a69e0a91c05ab9",
+  "contentHash" : "sha256-5afc797729bcb766ef973e54f8d643dc5450d33e42b08ef346fab963d4bf209c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -12,6 +12,48 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.hohentannen-heldswil-feldschutzenverein.behordenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Behördenschiessen",
+        "sourceURL" : "https:\/\/www.fsv-hohentannen-heldswil.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.hohentannen-heldswil-feldschutzenverein.bischofbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bischofbergschiessen",
+        "sourceURL" : "https:\/\/www.fsv-hohentannen-heldswil.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.hohentannen-heldswil-feldschutzenverein.eroffnungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eröffnungsschiessen",
+        "sourceURL" : "https:\/\/www.fsv-hohentannen-heldswil.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.hohentannen-heldswil-feldschutzenverein.firmenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Firmenschiessen",
+        "sourceURL" : "https:\/\/www.fsv-hohentannen-heldswil.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.hohentannen-heldswil-feldschutzenverein.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.fsv-hohentannen-heldswil.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,7 +66,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsv-hohentannen-heldswil.ch"
   },
-  "contentHash" : "sha256-18cabb5d375f53615618928e19bf597f5b8672949659a7be6d73ff1b8b646c9f",
+  "contentHash" : "sha256-883f8ee7508793dd0a6a4039aa52e1bc5c9dab02817c246b2baedd5844dab0f0",
   "events" : [
     {
       "championshipTags" : "",
@@ -53,19 +95,19 @@
         },
         {
           "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         }
       ],
       "title" : "Bischofbergschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

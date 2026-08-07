@@ -14,6 +14,40 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7529a88f.bareggschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bareggschiessen",
+        "sourceURL" : "https:\/\/fsv-luzern.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7529a88f.fruhlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frühlingsschiessen",
+        "sourceURL" : "https:\/\/fsv-luzern.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7529a88f.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/fsv-luzern.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7529a88f.anzischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Änzischiessen",
+        "sourceURL" : "https:\/\/fsv-luzern.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -26,11 +60,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsv-luzern.ch"
   },
-  "contentHash" : "sha256-0b321333925885aaab28ee2f58f66cd792173806f92f07d232548e4605fb44d2",
+  "contentHash" : "sha256-70120bc874e6d8eb1a2b0453bd175d6c3d24e8f0b4acf2608a481cb49794c90f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

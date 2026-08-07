@@ -13,6 +13,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.69942c4f.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.msschwanden.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,7 +35,7 @@
     "trainingWeekday" : "",
     "website" : "www.msschwanden.ch"
   },
-  "contentHash" : "sha256-b508091b99e4bacfd92e1126802ccaa80aec13b91c1246a2612dd7670df36432",
+  "contentHash" : "sha256-0547576d9d970b50128df2b835522464dbb6cf86d883e2d4d9528991a40ba3db",
   "events" : [
     {
       "championshipTags" : "",
@@ -74,11 +84,16 @@
         },
         {
           "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
           "endTime" : "20:00",
           "startTime" : "13:00"
         },
         {
-          "date" : "2026-08-29T10:00:00Z",
+          "date" : "2026-08-30T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:00"
         },
@@ -86,17 +101,35 @@
           "date" : "2026-08-30T10:00:00Z",
           "endTime" : "17:00",
           "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-08-30T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
         }
       ],
       "title" : "150 Jahr Jubiläum Militärschützen Schwanden mit sehr schönem Gabentempel"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-07-31T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.69942c4f.jubilaumsschiessen.2026-07-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.msschwanden.ch\/",
+      "startDate" : "2026-07-31T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Jubiläumsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

@@ -15,6 +15,16 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.rupperswil-pistolenclub.adventschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Adventschiessen",
+        "sourceURL" : "https:\/\/www.pc-rupperswil.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -27,11 +37,11 @@
     "trainingWeekday" : "",
     "website" : "www.pc-rupperswil.ch"
   },
-  "contentHash" : "sha256-bb14a35a94052c5d35b4b3029fb37d612d24d0c1b667eb3f0ab78617f62327c9",
+  "contentHash" : "sha256-ae6a71dd08090483c2cd006988850ce3b5ad584174e02e98cc02f82472f5bdbe",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

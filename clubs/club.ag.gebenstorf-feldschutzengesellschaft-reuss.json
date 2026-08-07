@@ -12,6 +12,200 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.badenerstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Badenerstich",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.bareggschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bareggschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.bessersteinschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bessersteinschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.chriesisteischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chriesisteischiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.egelseeschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Egelseeschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.endschiessenstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Endschiessenstich",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.festungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Festungsschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.fruhlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frühlingsschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.gladiatorenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gladiatorenschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.grossfelsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Grossfelsschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.herbstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Herbstschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.jahresschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jahresschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.limmatschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Limmatschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.lochbachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Lochbachschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.maiengrunschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Maiengrünschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.oelbachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Oelbachschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.rotkornschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Rotkornschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.romergutschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Römergutschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.sagemuhleschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sagemühleschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.sparbligschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sparbligschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.vereinsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vereinsstich",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.weiherschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Weiherschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.gebenstorf-feldschutzengesellschaft-reuss.uberfallschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Überfallschiessen",
+        "sourceURL" : "https:\/\/www.fsg-reuss.ch\/custom\/data\/ckeditorfiles\/Schuetzen2026\/Jahresprogramm2026zweiSeiten.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +218,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-reuss.ch"
   },
-  "contentHash" : "sha256-adb4ddf73ffca39d22a4a3e7967f56e397fc0c6fced31287d827a23500f5d53a",
+  "contentHash" : "sha256-3457b32ed936fe36c6a47476c1b50de05f5933aa433183f05f14175b2c950293",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

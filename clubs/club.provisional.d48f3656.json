@@ -14,6 +14,32 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.d48f3656.fruhlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fruhlingsschiessen",
+        "sourceURL" : "https:\/\/lavignerole.ch\/wp-content\/uploads\/2026\/04\/Calendrier-PAC-26-27_V1.-20260401.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.d48f3656.pistolenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Pistolenschiessen",
+        "sourceURL" : "https:\/\/lavignerole.ch\/wp-content\/uploads\/2026\/04\/Calendrier-PAC-26-27_V1.-20260401.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.d48f3656.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/lavignerole.ch\/wp-content\/uploads\/2026\/04\/Calendrier-PAC-26-27_V1.-20260401.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -26,11 +52,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/lavignerole.ch\/"
   },
-  "contentHash" : "sha256-737940938a6bd14afc9655b73c35e4734d6a89d4aed7dfd8b57d337e426e2092",
+  "contentHash" : "sha256-86235bf2bf9a9f1d8f42646e0c720975a32b8b93b073b5e3fa049b5f8f1131c4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

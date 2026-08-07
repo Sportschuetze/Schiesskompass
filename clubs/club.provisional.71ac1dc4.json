@@ -14,6 +14,72 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.71ac1dc4.barzelistagschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bärzelistagschiessen",
+        "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.71ac1dc4.chlausentagschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chlausentagschiessen",
+        "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.71ac1dc4.gruppenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenschiessen",
+        "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.71ac1dc4.nachtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nachtschiessen",
+        "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.71ac1dc4.pistolenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Pistolenschiessen",
+        "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.71ac1dc4.schlossschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schlossschiessen",
+        "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.71ac1dc4.sektionsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sektionsschiessen",
+        "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.71ac1dc4.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -26,11 +92,378 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/prssu.ch"
   },
-  "contentHash" : "sha256-7ac8eb9d22d571072052c9fecac2ad5e0200029cf8e1bf59137333395eab1b86",
+  "contentHash" : "sha256-89c1a0ef076e616728093531d099a9320143b4e7273fa2ba1b5cb01ecf6a0f38",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-01-02T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.barzelistagschiessen.2026-01-02",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Bemerkungen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-01-02T11:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Bärzelistagschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.bernerstich.2026-09-30",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-09-30T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Bernerstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-12-05T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.chlausentagschiessen.2026-12-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Bemerkungen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-12-05T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Chlausentagschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-11T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.efs.2026-04-11",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-04-11T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-07T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.efs.2026-05-07",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Bemerkungen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-05-07T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-29T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.efs.2026-05-29",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Bemerkungen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-05-29T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-30T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.efs.2026-05-30",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-05-30T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.einzelwettschiessen.2026-09-30",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Bemerkungen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-09-30T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Einzelwettschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-29T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.feldstich.2026-05-29",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Bemerkungen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-05-29T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Feldstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-01-02T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.gruppenschiessen.2026-01-02",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Bemerkungen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-01-02T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-13T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.gruppenschiessen.2026-03-13",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Bemerkungen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-03-13T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-07T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.gruppenschiessen.2026-05-07",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Bemerkungen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-05-07T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-07T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.gruppenschiessen.2026-08-07",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Bemerkungen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-08-07T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-11-05T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.nachtschiessen.2026-11-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-11-05T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Nachtschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-21T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.winterschiessen.2026-03-21",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-03-21T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Winterschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-28T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.71ac1dc4.winterschiessen.2026-03-28",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/prssu.ch\/prssu\/wp-content\/uploads\/files\/PRSSU\/JahresProgramm.pdf",
+      "startDate" : "2026-03-28T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Winterschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

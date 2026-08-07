@@ -17,6 +17,96 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liestal-schutzengesellschaft.banntagschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Banntagschiessen",
+        "sourceURL" : "https:\/\/www.sgliestal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liestal-schutzengesellschaft.erinnerungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Erinnerungsschiessen",
+        "sourceURL" : "https:\/\/www.sgliestal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liestal-schutzengesellschaft.fahrtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fahrtschiessen",
+        "sourceURL" : "https:\/\/www.sgliestal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liestal-schutzengesellschaft.gedenkschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gedenkschiessen",
+        "sourceURL" : "https:\/\/www.sgliestal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liestal-schutzengesellschaft.pistolenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Pistolenschiessen",
+        "sourceURL" : "https:\/\/www.sgliestal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liestal-schutzengesellschaft.schlachtgedenkschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schlachtgedenkschiessen",
+        "sourceURL" : "https:\/\/www.sgliestal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liestal-schutzengesellschaft.grimselschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "grimselschiessen",
+        "sourceURL" : "https:\/\/www.sgliestal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liestal-schutzengesellschaft.morgartenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "morgartenschiessen",
+        "sourceURL" : "https:\/\/www.sgliestal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liestal-schutzengesellschaft.ruetlischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "ruetlischiessen",
+        "sourceURL" : "https:\/\/www.sgliestal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liestal-schutzengesellschaft.ueberfallschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "ueberfallschiessen",
+        "sourceURL" : "https:\/\/www.sgliestal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liestal-schutzengesellschaft.uberfallschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Überfallschiessen",
+        "sourceURL" : "https:\/\/www.sgliestal.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -29,11 +119,33 @@
     "trainingWeekday" : "",
     "website" : "www.sgliestal.ch"
   },
-  "contentHash" : "sha256-cd9c4e9826d3c7845dfb7037ea9dcac123fd99212337824c4b72495b062eba52",
+  "contentHash" : "sha256-cf6ced49d730d98b757227f49dad397d780e49be1a69b7e4f387fc6f3ddf0d61",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-11-26T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.bl.liestal-schutzengesellschaft.freundschaftsschiessen.2026-11-26",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgliestal.ch\/",
+      "startDate" : "2026-11-26T11:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Freundschaftsschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

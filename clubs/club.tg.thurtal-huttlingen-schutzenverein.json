@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-bd5083cc2f93ae5bb102000e99c9e3a181bcfc1cbd7cc9fb09a271bc24d3f5a3",
+  "contentHash" : "sha256-e68f40b9edf8602f647212ee562fa8ad8cb6c6bb534853475564289945ff729b",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,23 +48,23 @@
         },
         {
           "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "18:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "18:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "18:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-22T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-08-22T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-08-23T10:00:00Z",
@@ -75,7 +75,7 @@
       "title" : "Fusionsschiessen 2026 - SV Thurtal"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

@@ -11,6 +11,40 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.gersau-schutzengesellschaft.auszahlungsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Auszahlungsstich",
+        "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.gersau-schutzengesellschaft.kilbischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kilbischiessen",
+        "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.gersau-schutzengesellschaft.vereinsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vereinsstich",
+        "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.gersau-schutzengesellschaft.wolfenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wolfenschiessen",
+        "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +57,286 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.schützengersau.ch\/"
   },
-  "contentHash" : "sha256-4a8eb92f525594652bc2282631293050a853b31af1bcaea0854db26f2696d4ba",
+  "contentHash" : "sha256-63740f00bc163eec19b6db221b6b71f99b2e6b29f1139e9bd01bcaba1b438a9f",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-07T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.auszahlungsstich.2026-08-07",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf",
+      "startDate" : "2026-08-07T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Auszahlungsstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-11-04T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.banzenschiessen.2026-11-04",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf",
+      "startDate" : "2026-11-04T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Bänzenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-29T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.efs.2026-05-29",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf",
+      "startDate" : "2026-05-29T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-31T11:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.efs.2026-10-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf",
+      "startDate" : "2026-10-31T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-18T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.einzelwettschiessen.2026-04-18",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf",
+      "startDate" : "2026-04-18T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Einzelwettschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-05T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.einzelwettschiessen.2026-08-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf",
+      "startDate" : "2026-08-05T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Einzelwettschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-31T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.kilbischiessen.2026-10-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf",
+      "startDate" : "2026-10-31T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Kilbischiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-03T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.kniendschiessen.2026-10-03",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf",
+      "startDate" : "2026-10-03T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Kniendschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-31T11:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.op.2026-10-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf",
+      "startDate" : "2026-10-31T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-11-04T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.rutlischiessen.2026-11-04",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf",
+      "startDate" : "2026-11-04T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Rütlischiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-06T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.schutzenbundschiessen.2026-06-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf",
+      "startDate" : "2026-06-06T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Schützenbundschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-31T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.winterschiessen.2026-10-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf",
+      "startDate" : "2026-10-31T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Winterschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

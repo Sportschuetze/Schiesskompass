@@ -12,6 +12,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.niedererlinsbach-schutzenbund.leibrunnelischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Leibrünnelischiessen",
+        "sourceURL" : "https:\/\/www.sb-ne.com\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.sb-ne.com"
   },
-  "contentHash" : "sha256-15d276ad4adc0b0d0c45faf0bab5c58ab3c99ae85116f9df647ffc6e5fe37760",
+  "contentHash" : "sha256-e49c908da75eabb5fdca172f3b4e50a5dead6fc616a0e1e01b8aeaadf4bb958a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -21,13 +21,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "schuetzengesellschaft-zwischenfluehschwenden.ch"
+    "website" : "schuetzengesellschaft-zwischenfluehschwenden.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-558bf3aebd5260beed0e58d27f530693a47ac2848f8afbebefa7a1825a6a8883",
+  "contentHash" : "sha256-5bd96308eb651724aa1e23d7a9361c140701eea0f1fb27ea66ee5b7789c9ed4b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

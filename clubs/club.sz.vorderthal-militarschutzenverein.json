@@ -13,6 +13,88 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.vorderthal-militarschutzenverein.balmenrainschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Balmenrainschiessen",
+        "sourceURL" : "https:\/\/www.msv-vorderthal.ch\/uploads\/1\/5\/2\/5\/152578056\/jahresprogramm_msvv_2026_aussen.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.vorderthal-militarschutzenverein.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.msv-vorderthal.ch\/uploads\/1\/5\/2\/5\/152578056\/jahresprogramm_msvv_2026_aussen.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.vorderthal-militarschutzenverein.fahrtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fahrtschiessen",
+        "sourceURL" : "https:\/\/www.msv-vorderthal.ch\/uploads\/1\/5\/2\/5\/152578056\/jahresprogramm_msvv_2026_aussen.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.vorderthal-militarschutzenverein.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/www.msv-vorderthal.ch\/uploads\/1\/5\/2\/5\/152578056\/jahresprogramm_msvv_2026_aussen.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.vorderthal-militarschutzenverein.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.msv-vorderthal.ch\/uploads\/1\/5\/2\/5\/152578056\/jahresprogramm_msvv_2026_aussen.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.vorderthal-militarschutzenverein.morgartenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Morgartenschiessen",
+        "sourceURL" : "https:\/\/www.msv-vorderthal.ch\/uploads\/1\/5\/2\/5\/152578056\/jahresprogramm_msvv_2026_aussen.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.vorderthal-militarschutzenverein.pantherschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Pantherschiessen",
+        "sourceURL" : "https:\/\/www.msv-vorderthal.ch\/uploads\/1\/5\/2\/5\/152578056\/jahresprogramm_msvv_2026_aussen.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.vorderthal-militarschutzenverein.rossbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Rossbergschiessen",
+        "sourceURL" : "https:\/\/www.msv-vorderthal.ch\/uploads\/1\/5\/2\/5\/152578056\/jahresprogramm_msvv_2026_aussen.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.vorderthal-militarschutzenverein.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.msv-vorderthal.ch\/uploads\/1\/5\/2\/5\/152578056\/jahresprogramm_msvv_2026_aussen.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.vorderthal-militarschutzenverein.ubungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Übungsschiessen",
+        "sourceURL" : "https:\/\/www.msv-vorderthal.ch\/uploads\/1\/5\/2\/5\/152578056\/jahresprogramm_msvv_2026_aussen.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +107,11 @@
     "trainingWeekday" : "",
     "website" : "www.msv-vorderthal.ch"
   },
-  "contentHash" : "sha256-7bfacdfb1fb5db7d6c98cdc22c46204f0af9bc13aeed7e110c6aef1928ce6ac1",
+  "contentHash" : "sha256-54d23c70dc557fb74d6a54cb330ee9829c691655c339cedde682ee70b719182d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

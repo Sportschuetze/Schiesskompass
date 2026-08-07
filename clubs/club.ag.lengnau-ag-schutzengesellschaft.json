@@ -12,6 +12,32 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lengnau-ag-schutzengesellschaft.chruzlibachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chrüzlibachschiessen",
+        "sourceURL" : "https:\/\/www.chruezlibach.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lengnau-ag-schutzengesellschaft.nachtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nachtschiessen",
+        "sourceURL" : "https:\/\/www.chruezlibach.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lengnau-ag-schutzengesellschaft.chruezlibachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "chruezlibachschiessen",
+        "sourceURL" : "https:\/\/www.chruezlibach.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -22,9 +48,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "https:\/\/www.chruezlibach.ch\/index.php?id=2"
+    "website" : "https:\/\/www.chruezlibach.ch\/index.php?id=2",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-c8d52c01d5d37dde9fa12e76c13f4155ffc0332acca76eb6ec3dcb7a1efbd4fe",
+  "contentHash" : "sha256-392de2da7ba76792c3d5ef461bd1da94ee38726a2f46efbcd97f979cce540a06",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,9 +86,32 @@
         }
       ],
       "title" : "32. Chrüzlibachschiessen 2027"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2027-03-02T11:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.ag.lengnau-ag-schutzengesellschaft.op.2027-03-02",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.chruezlibach.ch\/",
+      "startDate" : "2027-03-02T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

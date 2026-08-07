@@ -13,6 +13,120 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ar.schwellbrunn-feldschutzen.alpsteinschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Alpsteinschiessen",
+        "sourceURL" : "https:\/\/www.fsg-schwellbrunn.ch\/downloads\/jahresprogramm-2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ar.schwellbrunn-feldschutzen.chilbischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chilbischiessen",
+        "sourceURL" : "https:\/\/www.fsg-schwellbrunn.ch\/downloads\/jahresprogramm-2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ar.schwellbrunn-feldschutzen.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.fsg-schwellbrunn.ch\/downloads\/jahresprogramm-2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ar.schwellbrunn-feldschutzen.emmentalerschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Emmentalerschiessen",
+        "sourceURL" : "https:\/\/www.fsg-schwellbrunn.ch\/downloads\/jahresprogramm-2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ar.schwellbrunn-feldschutzen.eroffnungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eröffnungsschiessen",
+        "sourceURL" : "https:\/\/www.fsg-schwellbrunn.ch\/downloads\/jahresprogramm-2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ar.schwellbrunn-feldschutzen.fruhlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frühlingsschiessen",
+        "sourceURL" : "https:\/\/www.fsg-schwellbrunn.ch\/downloads\/jahresprogramm-2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ar.schwellbrunn-feldschutzen.herbstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Herbstschiessen",
+        "sourceURL" : "https:\/\/www.fsg-schwellbrunn.ch\/downloads\/jahresprogramm-2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ar.schwellbrunn-feldschutzen.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.fsg-schwellbrunn.ch\/downloads\/jahresprogramm-2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ar.schwellbrunn-feldschutzen.jubilaumsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsstich",
+        "sourceURL" : "https:\/\/www.fsg-schwellbrunn.ch\/downloads\/jahresprogramm-2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ar.schwellbrunn-feldschutzen.putzstockschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Putzstockschiessen",
+        "sourceURL" : "https:\/\/www.fsg-schwellbrunn.ch\/downloads\/jahresprogramm-2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ar.schwellbrunn-feldschutzen.racletteschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Racletteschiessen",
+        "sourceURL" : "https:\/\/www.fsg-schwellbrunn.ch\/downloads\/jahresprogramm-2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ar.schwellbrunn-feldschutzen.ramschwagschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Ramschwagschiessen",
+        "sourceURL" : "https:\/\/www.fsg-schwellbrunn.ch\/downloads\/jahresprogramm-2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ar.schwellbrunn-feldschutzen.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/www.fsg-schwellbrunn.ch\/downloads\/jahresprogramm-2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ar.schwellbrunn-feldschutzen.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.fsg-schwellbrunn.ch\/downloads\/jahresprogramm-2025.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +139,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-schwellbrunn.ch"
   },
-  "contentHash" : "sha256-b42aa8b98ff6a797eb7bbde1f685cb623e3b11c6c567a8db333627be4e7f1887",
+  "contentHash" : "sha256-c0a3d3a3a70e473fb425bb9acb5a40b10ef01748a8ca3b984bea69f0f0198887",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

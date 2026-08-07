@@ -12,6 +12,32 @@
       "G50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.riedholz-feldbrunnen-sportschutzen.kleinkaliberschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kleinkaliberschiessen",
+        "sourceURL" : "https:\/\/www.sps-riedholz-feldbrunnen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.riedholz-feldbrunnen-sportschutzen.luftgewehrschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Luftgewehrschiessen",
+        "sourceURL" : "https:\/\/www.sps-riedholz-feldbrunnen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.riedholz-feldbrunnen-sportschutzen.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/www.sps-riedholz-feldbrunnen.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +50,11 @@
     "trainingWeekday" : "",
     "website" : "www.sps-riedholz-feldbrunnen.ch"
   },
-  "contentHash" : "sha256-41eab9a0d75809b4690fcc7169d28e98178573f208cfbd3870501cbb345b8552",
+  "contentHash" : "sha256-5e76ad975b6dce3587541ec7daaa158721bfee86ce7cc63587116bebf722a649",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

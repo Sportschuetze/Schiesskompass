@@ -12,6 +12,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.bb5275ea.dorfschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Dorfschiessen",
+        "sourceURL" : "https:\/\/test.xn--sv-brtten-u9a.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.sv-brütten.ch"
   },
-  "contentHash" : "sha256-5ac5be46e6f056d52f7ecb880ce75945bfd2ef2eb70388d31cdb622fed9d9dd0",
+  "contentHash" : "sha256-b5e868596699c1816d621fced8e2560d2930b123eaa42eee74fb168e1eea7eee",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

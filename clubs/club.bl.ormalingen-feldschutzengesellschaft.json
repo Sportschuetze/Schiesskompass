@@ -12,6 +12,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.ormalingen-feldschutzengesellschaft.sportschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sportschiessen",
+        "sourceURL" : "https:\/\/fsg-ormalingen.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-ormalingen.ch"
   },
-  "contentHash" : "sha256-5f5617c97966a4cfe607dc08dda4ae98cc5c15a4d5c1d46c39ae200ab0f5c165",
+  "contentHash" : "sha256-0aa19ffd4f7b080cdaff6c750ff065b23313609a108f4684deb0373f336074da",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

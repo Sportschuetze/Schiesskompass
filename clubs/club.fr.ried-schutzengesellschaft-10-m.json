@@ -11,6 +11,48 @@
       "G10"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.ried-schutzengesellschaft-10-m.armbrustschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Armbrustschiessen",
+        "sourceURL" : "https:\/\/sftsfssv.ch\/wp-content\/uploads\/2025\/09\/AC-2025-2026-SFTS-Calendrier.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.ried-schutzengesellschaft-10-m.auflageschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Auflageschiessen",
+        "sourceURL" : "https:\/\/sftsfssv.ch\/wp-content\/uploads\/2025\/09\/AC-2025-2026-SFTS-Calendrier.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.ried-schutzengesellschaft-10-m.luftgewehrschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Luftgewehrschiessen",
+        "sourceURL" : "https:\/\/sftsfssv.ch\/wp-content\/uploads\/2025\/09\/AC-2025-2026-SFTS-Calendrier.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.ried-schutzengesellschaft-10-m.vereinswettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vereinswettschiessen",
+        "sourceURL" : "https:\/\/sftsfssv.ch\/wp-content\/uploads\/2025\/09\/AC-2025-2026-SFTS-Calendrier.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.ried-schutzengesellschaft-10-m.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/sftsfssv.ch\/wp-content\/uploads\/2025\/09\/AC-2025-2026-SFTS-Calendrier.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +65,11 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-ried.ch"
   },
-  "contentHash" : "sha256-9b09fa118228f62a5c895941e15b4ac72283c63f047dcfccfe934852591d84b3",
+  "contentHash" : "sha256-205c52a110fb0afa3bfd23d404569338455ee170348c53fe883b845265a0d592",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

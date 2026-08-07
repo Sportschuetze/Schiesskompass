@@ -11,6 +11,40 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.25bcc252.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.fs-obernau.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.25bcc252.gedenkschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gedenkschiessen",
+        "sourceURL" : "https:\/\/www.fs-obernau.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.25bcc252.luzernerstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Luzernerstich",
+        "sourceURL" : "https:\/\/www.fs-obernau.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.25bcc252.neinzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "nEinzelwettschiessen",
+        "sourceURL" : "https:\/\/www.fs-obernau.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +57,11 @@
     "trainingWeekday" : "",
     "website" : "www.fs-obernau.ch"
   },
-  "contentHash" : "sha256-0994fad69474f5f03af7aea57e4b5190c2392f3183a2a7faf6a7f676bf3a1886",
+  "contentHash" : "sha256-a9bcd68e9033c5f493178678171d111c533eda87fae067096d3c6f80e889c555",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

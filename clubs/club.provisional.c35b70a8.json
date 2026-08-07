@@ -21,13 +21,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sg-limpach.ch"
+    "website" : "www.sg-limpach.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-03644440ca936677a740016e0c2b5c3161b3430eac8f35c571faccf22c750b89",
+  "contentHash" : "sha256-3cbcd32c284f594f1487ed0067c8a7d216351f0fd72407d34b34479bc2d82e0b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

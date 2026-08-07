@@ -11,6 +11,40 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.grossfelsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Grossfelsschiessen",
+        "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.jubilaumsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsstich",
+        "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.luftgewehrschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Luftgewehrschiessen",
+        "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +57,309 @@
     "trainingWeekday" : "",
     "website" : "fsgscherzschinznachbad.ch"
   },
-  "contentHash" : "sha256-c70d021cfd4cd095b0730441d96c2251703bb1dbbc187491ab66da7627b88d72",
+  "contentHash" : "sha256-2bbdd4fa935a1d9b127900d55205e7619b090f3915a0d61efd452c6be478e920",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-05T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.bareggschiessen.2026-09-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/",
+      "startDate" : "2026-09-05T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Bareggschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-06T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.bareggschiessen.2026-09-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/",
+      "startDate" : "2026-09-06T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Bareggschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-11T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.bareggschiessen.2026-09-11",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/",
+      "startDate" : "2026-09-11T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Bareggschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-12T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.bareggschiessen.2026-09-12",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Scherz Sa",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/",
+      "startDate" : "2026-09-12T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Bareggschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-15T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.gladiatorenschiessen.2026-03-15",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/",
+      "startDate" : "2026-03-15T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gladiatorenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-21T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.gladiatorenschiessen.2026-08-21",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Scherz Fr",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/",
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gladiatorenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.gladiatorenschiessen.2026-08-22",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/",
+      "startDate" : "2026-08-22T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gladiatorenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-29T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.gladiatorenschiessen.2026-08-29",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/",
+      "startDate" : "2026-08-29T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gladiatorenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.gladiatorenschiessen.2026-08-30",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/",
+      "startDate" : "2026-08-30T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gladiatorenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-23T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.op.2026-08-23",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Scherz Fr",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/",
+      "startDate" : "2026-08-23T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-24T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.sagemuhleschiessen.2026-10-24",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Scherz Sa",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/",
+      "startDate" : "2026-10-24T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Sagemühleschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-25T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.sagemuhleschiessen.2026-10-25",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Scherz Fr",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/",
+      "startDate" : "2026-10-25T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Sagemühleschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-31T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.sagemuhleschiessen.2026-10-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Scherz Fr",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/",
+      "startDate" : "2026-10-31T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Sagemühleschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

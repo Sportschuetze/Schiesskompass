@@ -13,6 +13,64 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.e2aea3f5.freundschaftschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftschiessen",
+        "sourceURL" : "https:\/\/www.psroethenbach.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.e2aea3f5.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/www.psroethenbach.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.e2aea3f5.fruhlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frühlingsschiessen",
+        "sourceURL" : "https:\/\/www.psroethenbach.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.e2aea3f5.salvisbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Salvisbergschiessen",
+        "sourceURL" : "https:\/\/www.psroethenbach.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.e2aea3f5.schlossschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schlossschiessen",
+        "sourceURL" : "https:\/\/www.psroethenbach.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.e2aea3f5.stauffenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Stauffenschiessen",
+        "sourceURL" : "https:\/\/www.psroethenbach.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.e2aea3f5.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.psroethenbach.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +83,11 @@
     "trainingWeekday" : "",
     "website" : "www.psroethenbach.ch"
   },
-  "contentHash" : "sha256-dc4fc14d88232226a007071035eea53fcf6df1fecf318b5d6f445dab5a78c742",
+  "contentHash" : "sha256-b8a02c9296cea52bda5c75fa4fce6034adbbbca0f6f1f443b1144944606ab214",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

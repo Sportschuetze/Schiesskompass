@@ -24,13 +24,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.www.sportschuetzen-seengen.ch"
+    "website" : "www.www.sportschuetzen-seengen.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-502a3d3a0e85b825a28f9b58432ab28e14bb6dda8053fc6071bbd6e4b8c27e86",
+  "contentHash" : "sha256-1ca5fc2eb9e9269daade6549151054aea8fbaf31470b824053b39930d8cf963e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

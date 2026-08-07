@@ -17,6 +17,56 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.gr.samedan-societed-da-tregants.bundnerstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bündnerstich",
+        "sourceURL" : "http:\/\/www.schuetzen-samedan.ch\/wp-content\/uploads\/2026\/05\/Schiessprogramm-300-m-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.gr.samedan-societed-da-tregants.calvenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Calvenschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-samedan.ch\/wp-content\/uploads\/2026\/05\/Schiessprogramm-300-m-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.gr.samedan-societed-da-tregants.calvenstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Calvenstich",
+        "sourceURL" : "http:\/\/www.schuetzen-samedan.ch\/wp-content\/uploads\/2026\/05\/Schiessprogramm-300-m-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.gr.samedan-societed-da-tregants.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-samedan.ch\/wp-content\/uploads\/2026\/05\/Schiessprogramm-300-m-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.gr.samedan-societed-da-tregants.hauptschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Hauptschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-samedan.ch\/wp-content\/uploads\/2026\/05\/Schiessprogramm-300-m-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.gr.samedan-societed-da-tregants.rutlischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Rütlischiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-samedan.ch\/wp-content\/uploads\/2026\/05\/Schiessprogramm-300-m-2026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -29,11 +79,33 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-samedan.ch"
   },
-  "contentHash" : "sha256-6db0d1f85c48c1fa9bcbd8111203a8faa8648d1e9a824abca1b796f40190cbda",
+  "contentHash" : "sha256-ee1629bec1896d9e5949f6f673c93d8356eddfdb477fcd688cac194a9e124887",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-08T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.gr.samedan-societed-da-tregants.op.2026-08-08",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "http:\/\/www.schuetzen-samedan.ch\/wp-content\/uploads\/2026\/05\/Schiessprogramm-300-m-2026.pdf",
+      "startDate" : "2026-08-08T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Obligatorisches Programm"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

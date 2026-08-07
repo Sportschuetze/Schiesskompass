@@ -12,6 +12,56 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.speer-laad-militarschutzenverein.balmenrainschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Balmenrainschiessen",
+        "sourceURL" : "https:\/\/www.msvspeer-laad.ch\/uploads\/1\/4\/5\/1\/145157071\/msv_jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.speer-laad-militarschutzenverein.bergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bergschiessen",
+        "sourceURL" : "https:\/\/www.msvspeer-laad.ch\/uploads\/1\/4\/5\/1\/145157071\/msv_jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.speer-laad-militarschutzenverein.eroffnungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eröffnungsschiessen",
+        "sourceURL" : "https:\/\/www.msvspeer-laad.ch\/uploads\/1\/4\/5\/1\/145157071\/msv_jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.speer-laad-militarschutzenverein.gemeindewettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gemeindewettschiessen",
+        "sourceURL" : "https:\/\/www.msvspeer-laad.ch\/uploads\/1\/4\/5\/1\/145157071\/msv_jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.speer-laad-militarschutzenverein.matchschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Matchschiessen",
+        "sourceURL" : "https:\/\/www.msvspeer-laad.ch\/uploads\/1\/4\/5\/1\/145157071\/msv_jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.speer-laad-militarschutzenverein.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/www.msvspeer-laad.ch\/uploads\/1\/4\/5\/1\/145157071\/msv_jahresprogramm_2026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +74,79 @@
     "trainingWeekday" : "",
     "website" : "www.msvspeer-laad.ch"
   },
-  "contentHash" : "sha256-1fbfa0d6f22dff9c44ca885c4c1ceee79f3b07087a5d4908f9e6abe97104f999",
+  "contentHash" : "sha256-632e5dc133b4fc3dbda3e349e99ff6c8e74bf0180c38f741f36aed621d871dae",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-21T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.speer-laad-militarschutzenverein.eroffnungsschiessen.2026-03-21",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.msvspeer-laad.ch\/uploads\/1\/4\/5\/1\/145157071\/msv_jahresprogramm_2026.pdf",
+      "startDate" : "2026-03-21T11:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Eröffnungsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-03T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.speer-laad-militarschutzenverein.freundschaftsschiessen.2026-03-03",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.msvspeer-laad.ch\/uploads\/1\/4\/5\/1\/145157071\/msv_jahresprogramm_2026.pdf",
+      "startDate" : "2026-03-03T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Freundschaftsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-30T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.sg.speer-laad-militarschutzenverein.op.2026-08-30",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.msvspeer-laad.ch\/uploads\/1\/4\/5\/1\/145157071\/msv_jahresprogramm_2026.pdf",
+      "startDate" : "2026-08-30T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

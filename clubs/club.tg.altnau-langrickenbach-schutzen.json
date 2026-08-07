@@ -12,6 +12,80 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.altnau-langrickenbach-schutzen.auszahlungsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Auszahlungsstich",
+        "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.altnau-langrickenbach-schutzen.bischofbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bischofbergschiessen",
+        "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.altnau-langrickenbach-schutzen.fruhlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frühlingsschiessen",
+        "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.altnau-langrickenbach-schutzen.ramschwagschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Ramschwagschiessen",
+        "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.altnau-langrickenbach-schutzen.ruinenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Ruinenschiessen",
+        "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.altnau-langrickenbach-schutzen.standartenweihschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Standartenweihschiessen",
+        "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.altnau-langrickenbach-schutzen.vereinsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vereinsschiessen",
+        "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.altnau-langrickenbach-schutzen.vereinsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vereinsstich",
+        "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.altnau-langrickenbach-schutzen.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,7 +98,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-altnau.ch"
   },
-  "contentHash" : "sha256-0490f46725d74c60c53c3182a2c563beccfabe860d22cf3174d6ef2e7460d2b6",
+  "contentHash" : "sha256-b36cad92396e1942dae62c889aad8523f045ebda774bc340b7e0620795a725f7",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,16 +122,11 @@
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
-        },
-        {
-          "date" : "2026-09-05T10:00:00Z",
           "endTime" : "17:00",
           "startTime" : "13:30"
         },
@@ -65,6 +134,11 @@
           "date" : "2026-09-05T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-09-06T10:00:00Z",
@@ -73,9 +147,262 @@
         }
       ],
       "title" : "Öpfelschüüsse"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-03T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.tg.altnau-langrickenbach-schutzen.efs.2026-06-03",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Altnau",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf",
+      "startDate" : "2026-06-03T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-03T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.tg.altnau-langrickenbach-schutzen.efs.2026-10-03",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Altnau",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf",
+      "startDate" : "2026-10-03T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2027-03-01T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.altnau-langrickenbach-schutzen.einzelwettschiessen.2027-03-01",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf",
+      "startDate" : "2027-03-01T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Einzelwettschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-01-21T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.altnau-langrickenbach-schutzen.eroffnungsschiessen.2026-01-21",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf",
+      "startDate" : "2026-01-21T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eröffnungsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-28T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.altnau-langrickenbach-schutzen.eroffnungsschiessen.2026-03-28",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Altnau",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf",
+      "startDate" : "2026-03-28T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eröffnungsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2027-03-27T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.altnau-langrickenbach-schutzen.eroffnungsschiessen.2027-03-27",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf",
+      "startDate" : "2027-03-27T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eröffnungsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-05T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.altnau-langrickenbach-schutzen.fruhlingschiessen.2026-09-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf",
+      "startDate" : "2026-09-05T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Frühlingschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-01-21T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.altnau-langrickenbach-schutzen.fusionsschiessen.2026-01-21",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf",
+      "startDate" : "2026-01-21T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Fusionsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.altnau-langrickenbach-schutzen.jubilaumsschiessen.2026-08-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf",
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Jubiläumsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-05T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.altnau-langrickenbach-schutzen.ruinenschiessen.2026-09-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf",
+      "startDate" : "2026-09-05T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Ruinenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-10T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.altnau-langrickenbach-schutzen.wettschiessen.2026-06-10",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Altnau",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-altnau.ch\/files\/2026_08_26_-PFELSCH--SSE_SCHIESSPLAN_2.1--2-.pdf",
+      "startDate" : "2026-06-10T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

@@ -11,6 +11,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.d4be6239.sportschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sportschiessen",
+        "sourceURL" : "https:\/\/www.sv-altikon.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : "www.sv-altikon.ch"
   },
-  "contentHash" : "sha256-922a52887fb3f3440f3f6afe532dd4a6d3161a0f1ea709a6a6986bc590245ad0",
+  "contentHash" : "sha256-66227b88bc9419b89cd1cbca29dfe25cc38d8d3c5d17510ee6b8577e3f02f5ea",
   "events" : [
     {
       "championshipTags" : "",
@@ -49,7 +59,7 @@
       "title" : "Sauschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -14,6 +14,72 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.62cccb1d.behordenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Behördenschiessen",
+        "sourceURL" : "https:\/\/schuetzen-muri-guemligen.ch\/media\/attachments\/2026\/03\/03\/jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.62cccb1d.behordeschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Behördeschiessen",
+        "sourceURL" : "https:\/\/schuetzen-muri-guemligen.ch\/media\/attachments\/2026\/03\/03\/jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.62cccb1d.chlausenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chlausenschiessen",
+        "sourceURL" : "https:\/\/schuetzen-muri-guemligen.ch\/media\/attachments\/2026\/03\/03\/jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.62cccb1d.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/schuetzen-muri-guemligen.ch\/media\/attachments\/2026\/03\/03\/jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.62cccb1d.gewehrschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gewehrschiessen",
+        "sourceURL" : "https:\/\/schuetzen-muri-guemligen.ch\/media\/attachments\/2026\/03\/03\/jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.62cccb1d.luftdruckwaffenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Luftdruckwaffenschiessen",
+        "sourceURL" : "https:\/\/schuetzen-muri-guemligen.ch\/media\/attachments\/2026\/03\/03\/jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.62cccb1d.pistolenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Pistolenschiessen",
+        "sourceURL" : "https:\/\/schuetzen-muri-guemligen.ch\/media\/attachments\/2026\/03\/03\/jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.62cccb1d.zvierischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Zvierischiessen",
+        "sourceURL" : "https:\/\/schuetzen-muri-guemligen.ch\/media\/attachments\/2026\/03\/03\/jahresprogramm_2026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -26,11 +92,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/schuetzen-muri-guemligen.ch\/"
   },
-  "contentHash" : "sha256-2c290855ddb398ea9510c1493bf179a178671051e9e97f7f82cae0c70ee922f9",
+  "contentHash" : "sha256-a48b77abba8f890c6eda75b0aefd8322e138ff2e1e60aa2444db2811221c5f52",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

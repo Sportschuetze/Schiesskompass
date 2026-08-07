@@ -13,6 +13,80 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.746f5a33.fasnachtsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fasnachtsschiessen",
+        "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.746f5a33.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.746f5a33.freunschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freunschaftsschiessen",
+        "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.746f5a33.grunenbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Grünenbergschiessen",
+        "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.746f5a33.herbstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Herbstschiessen",
+        "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.746f5a33.murtenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Murtenschiessen",
+        "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.746f5a33.standartenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Standartenschiessen",
+        "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.746f5a33.standerneuerungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Standerneuerungsschiessen",
+        "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.746f5a33.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +99,56 @@
     "trainingWeekday" : "",
     "website" : "www.sg-melchnau.ch\/"
   },
-  "contentHash" : "sha256-1d27eeb177803112642f841d42ab8afb97514afaef8d54049a5bb6cb1d393030",
+  "contentHash" : "sha256-6c75be31aa9f7171e12e7307d01649fcb80c4da1353d3ba024a3a8bc8be0212e",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-19T11:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.provisional.746f5a33.op.2026-02-19",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf",
+      "startDate" : "2026-02-19T11:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-19T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.746f5a33.schnupperschiessen.2026-02-19",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf",
+      "startDate" : "2026-02-19T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Schnupperschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

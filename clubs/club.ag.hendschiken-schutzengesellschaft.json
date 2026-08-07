@@ -12,6 +12,136 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.canadastich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Canadastich",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.emmetfeldschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Emmetfeldschiessen",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.gladiatorenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gladiatorenschiessen",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.grossfelsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Grossfelsschiessen",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.habnischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Häbnischiessen",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.kanadastich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kanadastich",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.maiengrunschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Maiengrünschiessen",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.maiengrunstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Maiengrünstich",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.subarustich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Subarustich",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.vereinsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vereinsstich",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.ubungschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Übungschiessen",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.ubungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Übungsschiessen",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.hendschiken-schutzengesellschaft.ubungsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Übungsstich",
+        "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +154,217 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.sg-hendschiken.ch\/"
   },
-  "contentHash" : "sha256-b84975301fea7c71d08ac40e3b951b76107208bb0963095486da636650c5cf31",
+  "contentHash" : "sha256-c03400df7dc6f9605362c299a662a55fc182f78361aa5938a9bb46feb23152b2",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-17T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.hendschiken-schutzengesellschaft.bareggschiessen.2026-03-17",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf",
+      "startDate" : "2026-03-17T11:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Bareggschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-27T11:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.ag.hendschiken-schutzengesellschaft.efs.2026-02-27",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf",
+      "startDate" : "2026-02-27T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-17T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.hendschiken-schutzengesellschaft.eichbergschiessen.2026-03-17",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf",
+      "startDate" : "2026-03-17T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eichbergschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-17T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.hendschiken-schutzengesellschaft.freiamterschiessen.2026-03-17",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf",
+      "startDate" : "2026-03-17T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Freiämterschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-27T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.hendschiken-schutzengesellschaft.fruhlingschiessen.2026-02-27",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf",
+      "startDate" : "2026-02-27T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Frühlingschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-17T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.hendschiken-schutzengesellschaft.habnischiessen.2026-03-17",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf",
+      "startDate" : "2026-03-17T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Häbnischiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-17T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.hendschiken-schutzengesellschaft.muhlescheerschiessen.2026-03-17",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf",
+      "startDate" : "2026-03-17T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Mühlescheerschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-28T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.hendschiken-schutzengesellschaft.schnupperschiessen.2026-04-28",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf",
+      "startDate" : "2026-04-28T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Schnupperschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-28T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.hendschiken-schutzengesellschaft.winterschiessen.2026-02-28",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-hendschiken.ch\/wp-content\/uploads\/sites\/5\/2026\/06\/SGH_2026.03.17_Jahresprogramm_DEF.pdf",
+      "startDate" : "2026-02-28T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Winterschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

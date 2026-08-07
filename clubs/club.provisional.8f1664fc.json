@@ -11,6 +11,128 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.belchenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Belchenschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.chruzlibachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chrüzlibachschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.fruhlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frühlingsschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.furttalschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Furttalschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.fyraabigschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fyraabigschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.fyrabigschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fyrabigschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.gruppenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.hauptschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Hauptschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.lochbachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Lochbachschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.lagerenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Lägerenschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.nachtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nachtschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.standartenweihschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Standartenweihschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.warpelschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Warpelschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8f1664fc.wyberschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wyberschiessen",
+        "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +145,263 @@
     "trainingWeekday" : "",
     "website" : "www.sgweiach.ch"
   },
-  "contentHash" : "sha256-9855571282f89ae974db3e69d121fd709844a8265a68b7cad7375d8ce72969ba",
+  "contentHash" : "sha256-b141cbae2c7842a7bcf26f6401ebbcaaa798d87dbf980de82d7b814bf78fff40",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-19T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.8f1664fc.belchenschiessen.2026-08-19",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Steinmaur",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-08-19T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Belchenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-14T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.8f1664fc.chruzlibachschiessen.2026-03-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Chrüzlibachtal",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-03-14T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Chrüzlibachschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-04T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.8f1664fc.fyrabigschiessen.2026-06-04",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Im Maas",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-06-04T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Fyrabigschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-14T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.8f1664fc.gruppenschiessen.2026-03-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Steinmaur",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-03-14T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-25T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.8f1664fc.gruppenschiessen.2026-04-25",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Salen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-04-25T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.8f1664fc.lagerenschiessen.2026-08-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Sandhöli",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Lägerenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-24T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.8f1664fc.lochbachschiessen.2026-04-24",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Homrig",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-04-24T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Lochbachschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-09T11:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.provisional.8f1664fc.op.2026-02-09",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-02-09T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-24T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.8f1664fc.warpelschiessen.2026-04-24",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Salen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-04-24T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Warpelschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-28T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.8f1664fc.winterschiessen.2026-02-28",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Steinmaur",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-02-28T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Winterschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-21T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.8f1664fc.wyberschiessen.2026-08-21",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Hasli",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweiach.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Wyberschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

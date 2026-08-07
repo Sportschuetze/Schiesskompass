@@ -11,6 +11,128 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.bolchenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bölchenschiessen",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.freieschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freieschiessen",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.foiflibertalschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Föiflibertalschiessen",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.jubilaumsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsstich",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.jungschutzenwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jungschützenwettschiessen",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.pistolenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Pistolenschiessen",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.riedbachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Riedbachschiessen",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.rifensteinschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Rifensteinschiessen",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.schutzenkonigstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schützenkönigstich",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.wasserfallenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wasserfallenschiessen",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.liedertswil-schutzengesellschaft.ezirkswettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "ezirkswettschiessen",
+        "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +145,33 @@
     "trainingWeekday" : "",
     "website" : "www.bsvwaldenburg.ch"
   },
-  "contentHash" : "sha256-ab7d70440d50d47ec2c4cc964c356979227a874433bcc1d77fdfe9182c90d122",
+  "contentHash" : "sha256-bf694724e1473e32189fb1ac439d8ea858820cde307197808fc8061a8c4ba887",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-29T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.bl.liedertswil-schutzengesellschaft.rifensteinschiessen.2026-05-29",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Widentäli",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.bsvwaldenburg.ch\/index_htm_files\/Schiessplan-Rifensteinschiessen%202017.pdf",
+      "startDate" : "2026-05-29T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Rifensteinschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

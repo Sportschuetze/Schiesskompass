@@ -26,11 +26,102 @@
     "trainingWeekday" : "",
     "website" : "www.pistolet-villeneuve.ch"
   },
-  "contentHash" : "sha256-9146b0b06e55f4797551e7dd5763b92dfff4eb5c9b8bfaeead75dab0b17e2dea",
+  "contentHash" : "sha256-2989305a708a3dfa59aaa3701372721504eaf4e2f5b79aee7f5886ee50b3f93e",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-02T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.fr.villeneuve-societe-de-tir-au-pistolet-revolver.efs.2026-05-02",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.pistolet-villeneuve.ch\/_media\/dates-des-tirs-saison-2026.pdf",
+      "startDate" : "2026-05-02T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-12-05T11:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.fr.villeneuve-societe-de-tir-au-pistolet-revolver.efs.2026-12-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.pistolet-villeneuve.ch\/_media\/dates-des-tirs-saison-2026.pdf",
+      "startDate" : "2026-12-05T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-08T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.fr.villeneuve-societe-de-tir-au-pistolet-revolver.op.2026-05-08",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.pistolet-villeneuve.ch\/_media\/dates-des-tirs-saison-2026.pdf",
+      "startDate" : "2026-05-08T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-12-05T11:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.fr.villeneuve-societe-de-tir-au-pistolet-revolver.op.2026-12-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.pistolet-villeneuve.ch\/_media\/dates-des-tirs-saison-2026.pdf",
+      "startDate" : "2026-12-05T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

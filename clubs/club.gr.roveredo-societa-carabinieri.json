@@ -25,11 +25,33 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.carabinieriroveredo.ch\/"
   },
-  "contentHash" : "sha256-df493402bbb8705f407cacb8fd2317baacb0beddfe6a04199db78ffc191b91f3",
+  "contentHash" : "sha256-a0968d876540eccec37af996ae225ff6bae021772ef4a43b90b5427b1e1eab8d",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-15T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.gr.roveredo-societa-carabinieri.feldstich.2026-05-15",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.carabinieriroveredo.ch\/wp-content\/uploads\/2026\/03\/Programma_generale_2026.pdf",
+      "startDate" : "2026-05-15T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Feldstich"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

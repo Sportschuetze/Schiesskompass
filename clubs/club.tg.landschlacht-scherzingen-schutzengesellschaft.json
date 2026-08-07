@@ -13,6 +13,24 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.landschlacht-scherzingen-schutzengesellschaft.standartenweihschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Standartenweihschiessen",
+        "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.landschlacht-scherzingen-schutzengesellschaft.ubungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Übungsschiessen",
+        "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,7 +43,7 @@
     "trainingWeekday" : "",
     "website" : "sg-landschlacht-scherzingen.ch"
   },
-  "contentHash" : "sha256-f7ce739714e6315c469642d53330ce44e9c884197aa79391aa3979e6a01222fd",
+  "contentHash" : "sha256-91afc97456874ef81e1ce52108ef76d2d453a1478193174b580e985ea73753e1",
   "events" : [
     {
       "championshipTags" : "",
@@ -69,9 +87,400 @@
         }
       ],
       "title" : "Jubiläumsschiessen 150 Jahre"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-29T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.efs.2026-08-29",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Alte Landstrasse",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-08-29T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.fusionsschiessen.2026-08-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Alte Landstrasse",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Fusionsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-15T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.fusionsschiessen.2026-08-15",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-08-15T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Fusionsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.fusionsschiessen.2026-08-22",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-08-22T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Fusionsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-23T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.fusionsschiessen.2026-08-23",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-08-23T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Fusionsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.jubilaumsschiessen.2026-08-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Brüggis",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Jubiläumsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-15T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.jubilaumsschiessen.2026-08-15",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Brüggis",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-08-15T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Jubiläumsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-16T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.jubilaumsschiessen.2026-08-16",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Brüggis",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-08-16T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Jubiläumsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-21T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.jubilaumsschiessen.2026-08-21",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Alte Landstrasse",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Jubiläumsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.jubilaumsschiessen.2026-08-22",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Brüggis",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-08-22T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Jubiläumsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-29T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.op.2026-08-29",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Alte Landstrasse",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-08-29T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-28T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.standartenweihschiessen.2026-08-28",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Alte Landstrasse",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-08-28T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Standartenweihschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-29T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.standartenweihschiessen.2026-08-29",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-08-29T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Standartenweihschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.standartenweihschiessen.2026-08-30",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Alte Landstrasse",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-08-30T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Standartenweihschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-02T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.standartenweihschiessen.2026-09-02",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Alte Landstrasse",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-09-02T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Standartenweihschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-04T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.standartenweihschiessen.2026-09-04",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-09-04T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Standartenweihschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-05T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.landschlacht-scherzingen-schutzengesellschaft.standartenweihschiessen.2026-09-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sg-landschlacht-scherzingen.ch\/",
+      "startDate" : "2026-09-05T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Standartenweihschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

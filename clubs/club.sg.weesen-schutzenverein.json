@@ -11,6 +11,240 @@
 
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.balmenrainschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Balmenrainschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.berchtoldschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Berchtoldschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.bergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bergschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.buechwaldschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Buechwaldschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.bachtelischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bächtelischiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.chilbischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chilbischiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.chlausschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chlausschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.fahrtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fahrtschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.fruhlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frühlingsschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.fusionsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fusionsschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.gruppenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.hauptschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Hauptschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.herbstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Herbstschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.knappenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Knappenschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.kranzfestschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kranzfestschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.nidbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nidbergschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.pantherschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Pantherschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.paschgaschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Paschgaschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.putzstockschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Putzstockschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.ramschwagschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Ramschwagschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.schlosszurmschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schlosszurmschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.ustertagschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Ustertagschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.vereinsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vereinsschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.vorbachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vorbachschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.weesen-schutzenverein.wildschweinschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wildschweinschiessen",
+        "sourceURL" : "https:\/\/www.sv-weesen.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,7 +257,7 @@
     "trainingWeekday" : "",
     "website" : "http:\/\/www.sv-weesen.ch"
   },
-  "contentHash" : "sha256-44808a8b885f6de7e4fb74183dba11a6ad1e1e52b769ddedd1864c92afdfd1a8",
+  "contentHash" : "sha256-35e08f265943ad9b4cf3c19493d17f95dde6645c134906d961848e5681cc46ae",
   "events" : [
     {
       "championshipTags" : "",
@@ -47,13 +281,13 @@
         },
         {
           "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:30",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "17:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-09-12T10:00:00Z",
@@ -67,9 +301,124 @@
         }
       ],
       "title" : "49. Weesner Herbstschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-10T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.weesen-schutzenverein.hauptschiessen.2026-04-10",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-weesen.ch\/",
+      "startDate" : "2026-04-10T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Hauptschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-05T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.weesen-schutzenverein.herbstschiessen.2026-09-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-weesen.ch\/",
+      "startDate" : "2026-09-05T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Herbstschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-12T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.weesen-schutzenverein.herbstschiessen.2026-09-12",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-weesen.ch\/",
+      "startDate" : "2026-09-12T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Herbstschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-31T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.weesen-schutzenverein.herbstschiessen.2026-10-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-weesen.ch\/",
+      "startDate" : "2026-10-31T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Herbstschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-10T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.weesen-schutzenverein.wettschiessen.2026-04-10",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-weesen.ch\/",
+      "startDate" : "2026-04-10T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

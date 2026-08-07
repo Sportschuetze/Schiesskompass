@@ -12,6 +12,176 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.aemtlischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Aemtlischiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.ebnetschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Ebnetschiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.hauptschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Hauptschiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.jugendschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jugendschiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.kniendschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kniendschiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.morgartenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Morgartenschiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.nachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nachschiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.nidwaldnerstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nidwaldnerstich",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.riedbodenstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Riedbodenstich",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.rutlischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Rütlischiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.samichlausschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Samichlausschiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.sektionsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sektionsstich",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.vereinsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vereinsstich",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.wienerlischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wienerlischiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.wolfenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wolfenschiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.wyberschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wyberschiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.sgwolfenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "sgwolfenschiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.wolfenschiessen-schutzengesellschaft.uberfallschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Überfallschiessen",
+        "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +194,194 @@
     "trainingWeekday" : "",
     "website" : "www.sgwolfenschiessen.ch"
   },
-  "contentHash" : "sha256-178ae0fb2baa40bbd1f90895b97aed702cf9ac1a4584895847fe4250ee8f799b",
+  "contentHash" : "sha256-3940740612bb8e7f2c412094c79f909d7a1c60db0c1e2a5faf362897bde62978",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-31T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.nw.wolfenschiessen-schutzengesellschaft.aemtlischiessen.2026-08-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf",
+      "startDate" : "2026-08-31T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Aemtlischiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-27T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.nw.wolfenschiessen-schutzengesellschaft.efs.2026-06-27",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf",
+      "startDate" : "2026-06-27T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-31T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.nw.wolfenschiessen-schutzengesellschaft.efs.2026-08-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf",
+      "startDate" : "2026-08-31T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-31T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.nw.wolfenschiessen-schutzengesellschaft.nidwaldnerstich.2026-08-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf",
+      "startDate" : "2026-08-31T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Nidwaldnerstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-31T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.nw.wolfenschiessen-schutzengesellschaft.op.2026-08-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf",
+      "startDate" : "2026-08-31T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-27T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.nw.wolfenschiessen-schutzengesellschaft.riedbodenstich.2026-06-27",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf",
+      "startDate" : "2026-06-27T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Riedbodenstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-27T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.nw.wolfenschiessen-schutzengesellschaft.rutlischiessen.2026-02-27",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Riedboden",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf",
+      "startDate" : "2026-02-27T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Rütlischiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-15T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.nw.wolfenschiessen-schutzengesellschaft.wolfenschiessen.2026-05-15",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sgwolfenschiessen.ch\/wp-content\/uploads\/2026\/03\/SG_Wolfenschiessen_Jahresprogramm_2026.pdf",
+      "startDate" : "2026-05-15T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Wolfenschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

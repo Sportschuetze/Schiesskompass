@@ -12,6 +12,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.bettwil-feldschutzen.freiamterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freiämterschiessen",
+        "sourceURL" : "https:\/\/www.fsg-bettwil.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-bettwil.ch"
   },
-  "contentHash" : "sha256-0860cc003dcae435c19a3530a3ffcd541b0e3ed94b13637c2fcf51686ce81beb",
+  "contentHash" : "sha256-68e38ce36625d8a7280f1d31bec8e5876b668761d72c489aa46aead755258712",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

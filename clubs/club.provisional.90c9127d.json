@@ -12,6 +12,40 @@
       "G50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.90c9127d.chlousenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chlousenschiessen",
+        "sourceURL" : "https:\/\/sportschuetzen-kerzers.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.90c9127d.sektionsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sektionsschiessen",
+        "sourceURL" : "https:\/\/sportschuetzen-kerzers.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.90c9127d.testschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Testschiessen",
+        "sourceURL" : "https:\/\/sportschuetzen-kerzers.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.90c9127d.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/sportschuetzen-kerzers.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +58,11 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-kerzers.ch"
   },
-  "contentHash" : "sha256-8ff4eac9bd73e2815ea79e8c7a5982d7e69c1b3b359e582a0746463a81971a8c",
+  "contentHash" : "sha256-9fde6c72c0a69f34290bd449ee1b04b19e966c44bb1a7bf31e0ca06b7fe0bdd1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

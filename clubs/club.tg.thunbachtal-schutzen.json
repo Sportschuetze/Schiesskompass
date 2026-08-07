@@ -12,6 +12,24 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.thunbachtal-schutzen.berchtoldschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Berchtoldschiessen",
+        "sourceURL" : "https:\/\/www.schuetzen-thunbachtal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.thunbachtal-schutzen.gruppenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenschiessen",
+        "sourceURL" : "https:\/\/www.schuetzen-thunbachtal.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-thunbachtal.ch"
   },
-  "contentHash" : "sha256-515ed482b91aceadf998d2f35c21be42d631d761aada5a25588f94be9186117f",
+  "contentHash" : "sha256-81c9e4fc4744e69035382fe69ccd4cd00774cbaff1a7cf16634c3022303af177",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,9 +86,55 @@
         }
       ],
       "title" : "20. Berchtoldschiessen 2027"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-07-03T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.thunbachtal-schutzen.berchtoldschiessen.2026-07-03",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-thunbachtal.ch\/",
+      "startDate" : "2026-07-03T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Berchtoldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-07-03T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.tg.thunbachtal-schutzen.efs.2026-07-03",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-thunbachtal.ch\/",
+      "startDate" : "2026-07-03T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

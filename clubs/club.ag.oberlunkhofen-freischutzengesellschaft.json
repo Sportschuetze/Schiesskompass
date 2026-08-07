@@ -12,6 +12,240 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.chlausschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chlausschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.egelseeschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Egelseeschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.emmetfeldschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Emmetfeldschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.eroffnungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eröffnungsschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.freiamterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freiämterschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.glucksstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Glücksstich",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.gruppenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.gruppenwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenwettschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.gottistich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Göttistich",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.gutlischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gütlischiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.herbstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Herbstschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.habnischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Häbnischiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.jahresschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jahresschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.kobistich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Köbistich",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.limmatschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Limmatschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.maiengrunschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Maiengrünschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.mattenriedschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Mattenriedschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.michaelsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Michaelsschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.murweidschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Murweidschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.nueschwaldschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nüeschwaldschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.rotkornschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Rotkornschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.schwingerschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schwingerschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.standartenstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Standartenstich",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.steiacherschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Steiacherschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.vereinsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vereinsstich",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.wyberschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wyberschiessen",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.oberlunkhofen-freischutzengesellschaft.wyberstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wyberstich",
+        "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +258,56 @@
     "trainingWeekday" : "",
     "website" : "www.fsgol.ch"
   },
-  "contentHash" : "sha256-5bf08cdb5cde6e8de5711bdedc7191be25b180e6b85b609d70bc03822dc0084c",
+  "contentHash" : "sha256-7e9488758a46607ffe57f67fba76f51880637f34ff41850f8d05a8ce91943856",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-11-07T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.oberlunkhofen-freischutzengesellschaft.schwingerschiessen.2026-11-07",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf",
+      "startDate" : "2026-11-07T11:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Schwingerschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-19T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.oberlunkhofen-freischutzengesellschaft.wettschiessen.2026-05-19",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/fsgol.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm_2026_FSGOL_20260130.pdf",
+      "startDate" : "2026-05-19T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Wettschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

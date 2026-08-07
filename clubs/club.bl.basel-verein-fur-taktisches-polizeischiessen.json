@@ -16,6 +16,16 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.basel-verein-fur-taktisches-polizeischiessen.polizeischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Polizeischiessen",
+        "sourceURL" : "https:\/\/vtpbs.clubdesk.com\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -26,13 +36,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.vtpbs.clubdesk.com"
+    "website" : "www.vtpbs.clubdesk.com",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-afa6d7338a3e5c2b2230f900cd3155630f8dadb68bf5ec754976c4d59da1e0e6",
+  "contentHash" : "sha256-8efda4b00561a63e5e74a34c3149aba1887c943e4da58266229c0ffb6fad42e5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -28,7 +28,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2ed146d7d0228cf9dfa03920972bfd9f3649c5eb317529c9a342d4fdf074b733",
+  "contentHash" : "sha256-3ff65bc4989b88051b2cd207c4c9b0fa51ad18b1d97f23e6a175b25bd7dfe279",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,17 +48,17 @@
         {
           "date" : "2026-11-14T11:00:00Z",
           "endTime" : "16:00",
-          "startTime" : "10:00"
-        },
-        {
-          "date" : "2026-11-14T11:00:00Z",
-          "endTime" : "16:00",
           "startTime" : "11:00"
         },
         {
           "date" : "2026-11-14T11:00:00Z",
           "endTime" : "15:00",
           "startTime" : "11:00"
+        },
+        {
+          "date" : "2026-11-14T11:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "10:00"
         },
         {
           "date" : "2026-11-15T11:00:00Z",
@@ -78,12 +78,12 @@
         {
           "date" : "2026-11-21T11:00:00Z",
           "endTime" : "16:00",
-          "startTime" : "11:00"
+          "startTime" : "10:00"
         },
         {
           "date" : "2026-11-21T11:00:00Z",
           "endTime" : "16:00",
-          "startTime" : "10:00"
+          "startTime" : "11:00"
         },
         {
           "date" : "2026-11-21T11:00:00Z",
@@ -94,7 +94,7 @@
       "title" : "56. Ustertag-Schiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

@@ -14,6 +14,16 @@
       "G50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.4ec73c93.stadtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Stadtschiessen",
+        "sourceURL" : "https:\/\/www.ssgw.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -26,7 +36,7 @@
     "trainingWeekday" : "",
     "website" : "www.ssgw.ch"
   },
-  "contentHash" : "sha256-4f9a7512fff12e825e9df96f8e480f8279b910740af379a7e2098f197691a3bd",
+  "contentHash" : "sha256-72e2171956c15301f95ca2f6bee657d490aa49b9e649c05815ad8e2ed2b7a951",
   "events" : [
     {
       "championshipTags" : "",
@@ -51,24 +61,19 @@
         {
           "date" : "2026-09-13T10:00:00Z",
           "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-09-13T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-09-13T10:00:00Z",
+          "endTime" : "12:00",
           "startTime" : "09:00"
         },
         {
-          "date" : "2026-09-13T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
-        },
-        {
-          "date" : "2026-09-13T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-10-04T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
-        },
-        {
           "date" : "2026-10-04T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:00"
@@ -77,6 +82,11 @@
           "date" : "2026-10-04T10:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-10-04T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-10-04T10:00:00Z",
@@ -85,9 +95,78 @@
         }
       ],
       "title" : "Unterland-Tournee 2026"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-28T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.4ec73c93.sportschiessen.2026-06-28",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.ssgw.ch\/",
+      "startDate" : "2026-06-28T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "SPORTSCHIESSEN"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-10T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.4ec73c93.stadtschiessen.2026-03-10",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.ssgw.ch\/",
+      "startDate" : "2026-03-10T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Stadtschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-15T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.4ec73c93.stadtschiessen.2026-03-15",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.ssgw.ch\/",
+      "startDate" : "2026-03-15T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Stadtschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

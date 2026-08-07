@@ -21,13 +21,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.fs-gysenstein.ch"
+    "website" : "www.fs-gysenstein.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-999915d3928ad7938e2e7b91a4daf4c154a188b29096cf5c83eb3fa2a2a86cea",
+  "contentHash" : "sha256-b267af2803a056af8d8cfe064fe91639c265c817cdf8f9970eaf96a4e9847281",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

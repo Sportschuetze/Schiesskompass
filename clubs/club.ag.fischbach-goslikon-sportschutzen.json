@@ -12,6 +12,16 @@
       "G50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.fischbach-goslikon-sportschutzen.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/www.sportschuetzen-figoe.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.sportschuetzen-figoe.ch"
   },
-  "contentHash" : "sha256-423b74f4ffd9ec94c6d8c66f0601aafd9e383c389e0d0b9e544ae814e7aa9a9f",
+  "contentHash" : "sha256-7ad400b0ed132ed29f6a1c8e7d14af65a31367ad35eb25797a5757f7c9d2d4ee",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

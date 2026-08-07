@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-66eeb615cd3d4caea77df43888e96b4b3b6876a2234f30b968aeccbca41b32df",
+  "contentHash" : "sha256-d0e29501135b53956a24eaa65fd04dc2a1c737def888f4ffdc3c6989c863547a",
   "events" : [
     {
       "championshipTags" : "",
@@ -59,18 +59,18 @@
         },
         {
           "date" : "2026-09-26T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-09-26T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-09-26T10:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:30"
-        },
-        {
-          "date" : "2026-09-26T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
-        },
-        {
-          "date" : "2026-09-26T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
         },
         {
           "date" : "2026-10-03T10:00:00Z",
@@ -96,7 +96,7 @@
       "title" : "Herbstschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

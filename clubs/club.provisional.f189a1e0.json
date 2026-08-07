@@ -16,6 +16,152 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.auflageschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Auflageschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.ausscheidungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Ausscheidungsschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.drachenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Drachenschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.gedenkschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gedenkschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.gruppenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.herbstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Herbstschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.luzernerstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Luzernerstich",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.nachtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nachtschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.nadelstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nadelstich",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.pistolengruppenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Pistolengruppenschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.rontalerschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Rontalerschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.rutlischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Rütlischiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.standerneuerungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Standerneuerungsschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.f189a1e0.uberfallschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Überfallschiessen",
+        "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -28,11 +174,33 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-sursee.ch"
   },
-  "contentHash" : "sha256-cb9800d6270a4bf76c5b6471059cfb6e087e7819f0426df2ca60cb5f5cb10a2f",
+  "contentHash" : "sha256-be7631c583288c7212b3c4f6bfaecb045a7fa254a5e572d02ef899e1a780c8f8",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-18T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.f189a1e0.gruppenschiessen.2026-02-18",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.fsg-sursee.ch\/files\/Jahresprogramm-2026---gelb-.pdf",
+      "startDate" : "2026-02-18T11:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Gruppenschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

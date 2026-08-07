@@ -11,6 +11,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.luterswil-biezwil-schutzengesellschaft.nachtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nachtschiessen",
+        "sourceURL" : "https:\/\/www.xn--sglterswil-biezwil-o6b.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +33,11 @@
     "trainingWeekday" : "",
     "website" : "www.sglüterswil-biezwil.ch"
   },
-  "contentHash" : "sha256-b5325bdf8950ac314ba650752041a5adad4c265f96d3c17fdd7a04a9b74ee6b2",
+  "contentHash" : "sha256-a71ccf217c9ad69de6d6d105a3df4a03a82e552200e29b1a185d05af3b1fe398",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

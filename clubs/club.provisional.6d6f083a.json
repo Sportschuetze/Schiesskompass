@@ -13,6 +13,48 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.6d6f083a.armbrustschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Armbrustschiessen",
+        "sourceURL" : "https:\/\/www.zwillikon-fsg.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.6d6f083a.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/www.zwillikon-fsg.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.6d6f083a.gruppenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenschiessen",
+        "sourceURL" : "https:\/\/www.zwillikon-fsg.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.6d6f083a.sportschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sportschiessen",
+        "sourceURL" : "https:\/\/www.zwillikon-fsg.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.6d6f083a.trainingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Trainingsschiessen",
+        "sourceURL" : "https:\/\/www.zwillikon-fsg.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,7 +67,7 @@
     "trainingWeekday" : "",
     "website" : "www.zwillikon-fsg.ch"
   },
-  "contentHash" : "sha256-eec877f54f8e9bd464a0fb4093b3e77e7115be3ab75a7d3cfbbeb0e859aa000d",
+  "contentHash" : "sha256-7ef37821f5e6eebb4d963ee35f2f4bf56882739b199b7bc48307f3e25176f531",
   "events" : [
     {
       "championshipTags" : "",
@@ -71,7 +113,7 @@
       "title" : "Säuliämtler Gruppenschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

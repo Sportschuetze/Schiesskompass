@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a80a37d8b5424dada169742d928d98024c817cce9a629d6b97ba5af3c5cd6778",
+  "contentHash" : "sha256-b7269669cb08d386ec5d25414d37afcfa057c18d2c01cb75342b44bf2fe19553",
   "events" : [
     {
       "championshipTags" : "",
@@ -54,18 +54,18 @@
         },
         {
           "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
-        },
-        {
-          "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
         },
         {
           "date" : "2026-08-15T10:00:00Z",
@@ -76,7 +76,7 @@
       "title" : "Rheintaler Vereinswettkämpfe 2026"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

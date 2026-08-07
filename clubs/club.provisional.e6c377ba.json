@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-349ca213e6162b820435350c8a9359c6f453a492ecb1dcc96f661d1e53ffb501",
+  "contentHash" : "sha256-0f0f618d5dc53b005c5bba6cade242c728ace67e730f166f2decfe8f9b0b2e4b",
   "events" : [
     {
       "championshipTags" : "",
@@ -42,13 +42,13 @@
       "timeBlocks" : [
         {
           "date" : "2027-01-16T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "15:30",
+          "startTime" : "13:30"
         },
         {
           "date" : "2027-01-16T11:00:00Z",
-          "endTime" : "15:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2027-01-17T11:00:00Z",
@@ -57,13 +57,13 @@
         },
         {
           "date" : "2027-01-23T11:00:00Z",
-          "endTime" : "15:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2027-01-23T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "15:30",
+          "startTime" : "13:30"
         },
         {
           "date" : "2027-01-24T11:00:00Z",
@@ -74,7 +74,7 @@
       "title" : "Fischenthaler Winterschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

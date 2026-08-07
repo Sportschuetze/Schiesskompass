@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6cb84e773b09e3c79c68b2bebfeac0fe5bb969a025ec3e803928129c992de7a7",
+  "contentHash" : "sha256-cbbd15adab00e96026649466a1d7d80e12c5e0d250fa098a704a81356f931f7b",
   "events" : [
     {
       "championshipTags" : "",
@@ -52,19 +52,19 @@
         },
         {
           "date" : "2026-09-12T10:00:00Z",
-          "endTime" : "19:00",
-          "startTime" : "14:00"
+          "endTime" : "13:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-09-12T10:00:00Z",
-          "endTime" : "13:00",
-          "startTime" : "08:00"
+          "endTime" : "19:00",
+          "startTime" : "14:00"
         }
       ],
       "title" : "15. Pouletschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

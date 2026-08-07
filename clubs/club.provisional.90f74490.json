@@ -12,6 +12,72 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.90f74490.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.svdaenikon-huettikon.ch\/downloads\/Jahresprogramm26.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.90f74490.eroffnungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eröffnungsschiessen",
+        "sourceURL" : "https:\/\/www.svdaenikon-huettikon.ch\/downloads\/Jahresprogramm26.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.90f74490.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/www.svdaenikon-huettikon.ch\/downloads\/Jahresprogramm26.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.90f74490.gladiatorenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gladiatorenschiessen",
+        "sourceURL" : "https:\/\/www.svdaenikon-huettikon.ch\/downloads\/Jahresprogramm26.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.90f74490.jahresstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jahresstich",
+        "sourceURL" : "https:\/\/www.svdaenikon-huettikon.ch\/downloads\/Jahresprogramm26.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.90f74490.sektionsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sektionsstich",
+        "sourceURL" : "https:\/\/www.svdaenikon-huettikon.ch\/downloads\/Jahresprogramm26.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.90f74490.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.svdaenikon-huettikon.ch\/downloads\/Jahresprogramm26.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.90f74490.wyberschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wyberschiessen",
+        "sourceURL" : "https:\/\/www.svdaenikon-huettikon.ch\/downloads\/Jahresprogramm26.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +90,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.svdaenikon-huettikon.ch\/"
   },
-  "contentHash" : "sha256-b4199051d98538cc28612d9b29e0065217610612113507e4cf92f168fe2acd53",
+  "contentHash" : "sha256-488d6cfc3eba78be8d2728775aae4ff8c040cae81c47fd2bd3e79c2102c256e9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

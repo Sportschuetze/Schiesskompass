@@ -11,6 +11,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.3e73a581.grauholzschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Grauholzschiessen",
+        "sourceURL" : "https:\/\/tir-saint-imier.ch\/wp-content\/uploads\/2026\/03\/Programme-2026-1.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +33,11 @@
     "trainingWeekday" : "",
     "website" : "www.tir-saint-imier.ch"
   },
-  "contentHash" : "sha256-02cdf5fb09e11026d02a1c4257e963bd27c789ebcd4e8fac4f4861bedca5e7dd",
+  "contentHash" : "sha256-bda7dde22a88c5ce311ff0453ae4b8b4cb002caadf84ef70b5a71c0f96c15944",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

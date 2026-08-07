@@ -13,6 +13,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.wolfwil-feldschutzen.waldeggschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Waldeggschiessen",
+        "sourceURL" : "https:\/\/www.feldschuetzen-wolfwil.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,7 +35,7 @@
     "trainingWeekday" : "",
     "website" : "www.feldschuetzen-wolfwil.ch"
   },
-  "contentHash" : "sha256-afe08b06c1018752f9d1b34d248ab47bad4cd9895aa05b347a4760986b5c8150",
+  "contentHash" : "sha256-7c607ce49964dc09ccd2e5ca92ea77d4cf2e89b74ca7cd8ac8d2b054b89f2a42",
   "events" : [
     {
       "championshipTags" : "",
@@ -66,7 +76,7 @@
       "title" : "19. Waldeggschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

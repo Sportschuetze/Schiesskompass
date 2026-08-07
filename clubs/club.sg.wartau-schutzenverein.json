@@ -12,6 +12,144 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.augustschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Augustschiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.barbaraschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Barbaraschiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.beizlischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Beizlischiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.biberschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Biberschiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.chlausschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chlausschiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.emmentalerschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Emmentalerschiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.gruppenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenschiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.herbstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Herbstschiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.hirschflueschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Hirschflueschiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.jubilaumsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsstich",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.oblischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Oblischiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.pistolenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Pistolenschiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.sonnenbrauschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sonnenbräuschiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.speckschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Speckschiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wartau-schutzenverein.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +162,516 @@
     "trainingWeekday" : "",
     "website" : "www.sv-wartau.ch"
   },
-  "contentHash" : "sha256-58a71d5cc17985a3b2d9b1e1213a5587cc3a00b706c30458ceec53ce6882ade7",
+  "contentHash" : "sha256-571a099e5b28b7df0fcc90d41c144f344470060c0231b81d1a9d4ff2b21aebdd",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-13T11:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.efs.2026-02-13",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-02-13T11:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-30T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.efs.2026-03-30",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-03-30T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-17T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.efs.2026-05-17",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-05-17T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-26T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.efs.2026-05-26",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-05-26T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-31T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.efs.2026-05-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-05-31T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-01T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.efs.2026-06-01",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-06-01T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-26T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.emmentalerschiessen.2026-05-26",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-05-26T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Emmentalerschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-07-06T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.feldstich.2026-07-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-07-06T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Feldstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-01-26T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.gruppenschiessen.2026-01-26",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-01-26T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-25T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.gruppenschiessen.2026-02-25",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-02-25T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-11T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.gruppenschiessen.2026-03-11",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-03-11T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.gruppenschiessen.2026-03-30",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-03-30T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-17T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.gruppenschiessen.2026-04-17",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-04-17T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-20T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.gruppenschiessen.2026-04-20",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-04-20T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-07-31T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.gruppenschiessen.2026-07-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-07-31T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-25T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.jubilaumsstich.2026-02-25",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-02-25T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Jubiläumsstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.knappenschiessen.2026-06-22",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-06-22T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Knappenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-13T11:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.op.2026-02-13",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-02-13T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-17T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.op.2026-04-17",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-04-17T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-11T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.paschgaschiessen.2026-02-11",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-02-11T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Paschgaschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-17T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.schiesseggschiessen.2026-05-17",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-05-17T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Schiesseggschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-18T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.wartau-schutzenverein.speckschiessen.2026-06-18",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-wartau.ch\/images\/2026_JS-Jahresprogramm.pdf",
+      "startDate" : "2026-06-18T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Speckschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

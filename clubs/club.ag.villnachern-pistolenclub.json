@@ -13,6 +13,32 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.villnachern-pistolenclub.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/pistolenclub-villnachern.ch\/wp\/wp-content\/uploads\/2026\/07\/Jahresprogramm-2026-V3b.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.villnachern-pistolenclub.luftpistolenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Luftpistolenschiessen",
+        "sourceURL" : "https:\/\/pistolenclub-villnachern.ch\/wp\/wp-content\/uploads\/2026\/07\/Jahresprogramm-2026-V3b.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.villnachern-pistolenclub.vancouverstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vancouverstich",
+        "sourceURL" : "https:\/\/pistolenclub-villnachern.ch\/wp\/wp-content\/uploads\/2026\/07\/Jahresprogramm-2026-V3b.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +51,148 @@
     "trainingWeekday" : "",
     "website" : "www.pistolenclub-villnachern.ch"
   },
-  "contentHash" : "sha256-4fa12a739e1a20d3479011104f78891c88d443221a4c7f4ce9d50e0eefc0a0f6",
+  "contentHash" : "sha256-3e8a8e0e47df56ec72605427dbc29a34778a36f4599bf4bfb7f17b2ef99588d3",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-20T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.villnachern-pistolenclub.fuchshaldenschiessen.2026-06-20",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/pistolenclub-villnachern.ch\/wp\/wp-content\/uploads\/2026\/07\/Jahresprogramm-2026-V3b.pdf",
+      "startDate" : "2026-06-20T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Fuchshaldenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-15T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.villnachern-pistolenclub.luftpistolenschiessen.2026-10-15",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/pistolenclub-villnachern.ch\/wp\/wp-content\/uploads\/2026\/07\/Jahresprogramm-2026-V3b.pdf",
+      "startDate" : "2026-10-15T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Luftpistolenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-11T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.villnachern-pistolenclub.pistolengruppenschiessen.2026-10-11",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/pistolenclub-villnachern.ch\/wp\/wp-content\/uploads\/2026\/07\/Jahresprogramm-2026-V3b.pdf",
+      "startDate" : "2026-10-11T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Pistolengruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.villnachern-pistolenclub.pistolenschiessen.2026-05-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/pistolenclub-villnachern.ch\/wp\/wp-content\/uploads\/2026\/07\/Jahresprogramm-2026-V3b.pdf",
+      "startDate" : "2026-05-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Pistolenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-25T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.villnachern-pistolenclub.romerturmschiessen.2026-04-25",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/pistolenclub-villnachern.ch\/wp\/wp-content\/uploads\/2026\/07\/Jahresprogramm-2026-V3b.pdf",
+      "startDate" : "2026-04-25T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Römerturmschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-28T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.villnachern-pistolenclub.turggenschiessen.2026-03-28",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/pistolenclub-villnachern.ch\/wp\/wp-content\/uploads\/2026\/07\/Jahresprogramm-2026-V3b.pdf",
+      "startDate" : "2026-03-28T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Türggenschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

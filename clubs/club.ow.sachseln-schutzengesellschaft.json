@@ -14,6 +14,160 @@
       "G50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.ebnetschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Ebnetschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.engelbergertalschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Engelbergertalschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.fruhlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frühlingsschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.karlischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Karlischiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.kniendschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kniendschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.kranzfestschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kranzfestschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.kranzschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kranzschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.rutlischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Rütlischiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.trainingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Trainingsschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.weihnachtsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Weihnachtsschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.wolfenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wolfenschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.berfallschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "berfallschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.hlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "hlingsschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.lggischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "lggischiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.alggischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Älggischiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ow.sachseln-schutzengesellschaft.uberfallschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Überfallschiessen",
+        "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -26,11 +180,79 @@
     "trainingWeekday" : "",
     "website" : "www.sgsachseln.ch"
   },
-  "contentHash" : "sha256-da50af2ec77d8440735bfaad2293f36f68a93abfcd71a6f84fe2b10a06cb20bb",
+  "contentHash" : "sha256-0fbf71c93941e19114c0589c210f0124ef1bf215e91574a3d4bfd620df875811",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-21T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ow.sachseln-schutzengesellschaft.dossastich.2026-02-21",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf",
+      "startDate" : "2026-02-21T11:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Dossästich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-06T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ow.sachseln-schutzengesellschaft.kranzschiessen.2026-06-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf",
+      "startDate" : "2026-06-06T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Kranzschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-21T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ow.sachseln-schutzengesellschaft.weihnachtsschiessen.2026-02-21",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sgsachseln.ch\/download\/2026_Terminkalender_SG_Sachseln.pdf",
+      "startDate" : "2026-02-21T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Weihnachtsschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

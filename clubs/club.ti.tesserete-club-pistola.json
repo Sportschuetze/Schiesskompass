@@ -15,6 +15,16 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ti.tesserete-club-pistola.ruetlischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "ruetlischiessen",
+        "sourceURL" : "https:\/\/www.cptesserete.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -27,11 +37,11 @@
     "trainingWeekday" : "",
     "website" : "www.cptesserete.ch"
   },
-  "contentHash" : "sha256-da2135d7c61dd02104bf550111b097169849b68951334f9d521345a7ffd106c3",
+  "contentHash" : "sha256-06ce7a22608c3ebe92619d33f6e0298baa77701d4a210ee31423526cfd9be459",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -12,6 +12,24 @@
       "G50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.weissenstein-sportschutzen.banzenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bänzenschiessen",
+        "sourceURL" : "https:\/\/spsw.clubdesk.com\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.weissenstein-sportschutzen.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/spsw.clubdesk.com\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -22,13 +40,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.spsw.clubdesk.com"
+    "website" : "www.spsw.clubdesk.com",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-68439fffc3c2d85941a4803af5b3833964db1ee91088f5a78345eaecbee5f648",
+  "contentHash" : "sha256-438dab5d3882a5ab444aec8b59964eeca2024eec205c2ed1637b5a3affe7fea1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -21,13 +21,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.svl-luterbach.ch"
+    "website" : "www.svl-luterbach.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-88547fbc6fe0b72768bf4e3cb2f9e780b643be94a5069ad7054e392d53eadcc5",
+  "contentHash" : "sha256-8d796a61e5d738a4c5596ec9969a6fffc4cddeee0aa1efaa2a8f9ef5c5b75674",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -17,6 +17,48 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.cb754cad.gewehrschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gewehrschiessen",
+        "sourceURL" : "https:\/\/www.svwuelflingen.ch\/dokumente\/resultate\/2026_Kombi_Rali.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.cb754cad.schlossschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schlossschiessen",
+        "sourceURL" : "https:\/\/www.svwuelflingen.ch\/dokumente\/resultate\/2026_Kombi_Rali.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.cb754cad.sportschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sportschiessen",
+        "sourceURL" : "https:\/\/www.svwuelflingen.ch\/dokumente\/resultate\/2026_Kombi_Rali.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.cb754cad.ustertagschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Ustertagschiessen",
+        "sourceURL" : "https:\/\/www.svwuelflingen.ch\/dokumente\/resultate\/2026_Kombi_Rali.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.cb754cad.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/www.svwuelflingen.ch\/dokumente\/resultate\/2026_Kombi_Rali.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -29,7 +71,7 @@
     "trainingWeekday" : "",
     "website" : "www.svwuelflingen.ch"
   },
-  "contentHash" : "sha256-d3ddd69112a7f3459399b243dd213e992a1a0a0584d60399ddb5b0421cbd47da",
+  "contentHash" : "sha256-4b50a4317ef36ef4d12f2e8be87fb076f0587f0541050d1c0a33be876f842a11",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,16 +110,6 @@
         },
         {
           "date" : "2027-05-22T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:30"
-        },
-        {
-          "date" : "2027-05-22T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:30"
-        },
-        {
-          "date" : "2027-05-22T10:00:00Z",
           "endTime" : "11:30",
           "startTime" : "09:30"
         },
@@ -85,6 +117,16 @@
           "date" : "2027-05-22T10:00:00Z",
           "endTime" : "11:30",
           "startTime" : "09:30"
+        },
+        {
+          "date" : "2027-05-22T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-05-22T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2027-05-27T10:00:00Z",
@@ -110,7 +152,7 @@
       "title" : "Wülflinger Schlossschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

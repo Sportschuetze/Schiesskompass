@@ -12,6 +12,112 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.bratwurstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bratwurstschiessen",
+        "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.fondueschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fondueschiessen",
+        "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.grimselschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Grimselschiessen",
+        "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.guggelischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Güggelischiessen",
+        "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.harzerschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Harzerschiessen",
+        "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.kotelettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kotelettschiessen",
+        "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.kranzstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kranzstich",
+        "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.laupenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Laupenschiessen",
+        "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.murtenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Murtenschiessen",
+        "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.niklausschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Niklausschiessen",
+        "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.schlachtgedenkschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schlachtgedenkschiessen",
+        "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.wurstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wurstschiessen",
+        "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -22,13 +128,60 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sgliebistorf.ch"
+    "website" : "www.sgliebistorf.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-743e35a1586028989d254ca1cdeb75f7518cc4615eaa35f1af5778fdb25207e4",
+  "contentHash" : "sha256-7d2d42d8248a15b3e899d3266de3847705b5fba812acf941c3c6a8687e1e1e9f",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-12-26T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.gangfischschiessen.2026-12-26",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Morgartenschiessen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf",
+      "startDate" : "2026-12-26T11:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Gangfischschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-12-26T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.fr.liebistorf-kleinbosingen-wallenbuch-schutzengesellschaft.morgartenschiessen.2026-12-26",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Morgartenschiessen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "http:\/\/www.sgliebistorf.ch\/files\/Schiesskal2026.pdf",
+      "startDate" : "2026-12-26T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Morgartenschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

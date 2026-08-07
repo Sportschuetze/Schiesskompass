@@ -13,6 +13,104 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.buus-maisprach-schutzengesellschaft.bischofsteinschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bischofsteinschiessen",
+        "sourceURL" : "https:\/\/www.sg-buus-maisprach.ch\/wp-content\/uploads\/2026\/05\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.buus-maisprach-schutzengesellschaft.buchelschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Büchelschiessen",
+        "sourceURL" : "https:\/\/www.sg-buus-maisprach.ch\/wp-content\/uploads\/2026\/05\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.buus-maisprach-schutzengesellschaft.edletenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Edletenschiessen",
+        "sourceURL" : "https:\/\/www.sg-buus-maisprach.ch\/wp-content\/uploads\/2026\/05\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.buus-maisprach-schutzengesellschaft.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.sg-buus-maisprach.ch\/wp-content\/uploads\/2026\/05\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.buus-maisprach-schutzengesellschaft.farnsburgkreisschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Farnsburgkreisschiessen",
+        "sourceURL" : "https:\/\/www.sg-buus-maisprach.ch\/wp-content\/uploads\/2026\/05\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.buus-maisprach-schutzengesellschaft.fluhschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fluhschiessen",
+        "sourceURL" : "https:\/\/www.sg-buus-maisprach.ch\/wp-content\/uploads\/2026\/05\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.buus-maisprach-schutzengesellschaft.gheischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gheischiessen",
+        "sourceURL" : "https:\/\/www.sg-buus-maisprach.ch\/wp-content\/uploads\/2026\/05\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.buus-maisprach-schutzengesellschaft.grenzschutzschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Grenzschutzschiessen",
+        "sourceURL" : "https:\/\/www.sg-buus-maisprach.ch\/wp-content\/uploads\/2026\/05\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.buus-maisprach-schutzengesellschaft.herbstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Herbstschiessen",
+        "sourceURL" : "https:\/\/www.sg-buus-maisprach.ch\/wp-content\/uploads\/2026\/05\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.buus-maisprach-schutzengesellschaft.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.sg-buus-maisprach.ch\/wp-content\/uploads\/2026\/05\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.buus-maisprach-schutzengesellschaft.rabeschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Räbeschiessen",
+        "sourceURL" : "https:\/\/www.sg-buus-maisprach.ch\/wp-content\/uploads\/2026\/05\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.buus-maisprach-schutzengesellschaft.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.sg-buus-maisprach.ch\/wp-content\/uploads\/2026\/05\/jahresprogramm-2026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +123,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-buus-maisprach.ch"
   },
-  "contentHash" : "sha256-d3360e77e63f93a2dfa0b808b5505ef5cfffc03e1f83c61e097fa8bf8452978b",
+  "contentHash" : "sha256-20aca5b66151cc2c009456b96f15edc7c7bcf281dc59f3f648771945faaa9038",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

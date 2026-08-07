@@ -21,13 +21,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sv-obermumpf.ch"
+    "website" : "www.sv-obermumpf.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-12d6bdc76a0d94239de0454a5c2e30ca532a008f1e2741a933eddb62d88ddd77",
+  "contentHash" : "sha256-a5af4f5536990fa8074be805d0a74fedf926237631e7dfb49d2b51b60c7f8bfa",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

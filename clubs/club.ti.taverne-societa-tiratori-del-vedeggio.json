@@ -15,6 +15,16 @@
       "P10"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ti.taverne-societa-tiratori-del-vedeggio.sturmgewehrschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sturmgewehrschiessen",
+        "sourceURL" : "https:\/\/stvedeggio.ch\/wp-content\/uploads\/2026\/04\/Calendario-STV-2026_Bozza_Dopo-Feedback-Esercito_Def_Dopo-Assemblea_aggiornato.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -27,11 +37,33 @@
     "trainingWeekday" : "",
     "website" : "www.stvedeggio.ch"
   },
-  "contentHash" : "sha256-dae5e7f705788e72422134cb1757c1472cf302b0798e88586cd3822aad87aba5",
+  "contentHash" : "sha256-1bdc61a09879bd2e6e90ed3f4daa335f797376fa1bcc9e4888292d513ad1e603",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-07-19T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.ti.taverne-societa-tiratori-del-vedeggio.efs.2026-07-19",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/stvedeggio.ch\/wp-content\/uploads\/2026\/04\/Calendario-STV-2026_Bozza_Dopo-Feedback-Esercito_Def_Dopo-Assemblea_aggiornato.pdf",
+      "startDate" : "2026-07-19T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Eidg. Feldschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

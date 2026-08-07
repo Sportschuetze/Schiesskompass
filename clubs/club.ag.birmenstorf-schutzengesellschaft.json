@@ -13,6 +13,32 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.birmenstorf-schutzengesellschaft.behordenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Behördenschiessen",
+        "sourceURL" : "https:\/\/sgbirmenstorf.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.birmenstorf-schutzengesellschaft.bundesschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bundesschiessen",
+        "sourceURL" : "https:\/\/sgbirmenstorf.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.birmenstorf-schutzengesellschaft.behoerdenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "behoerdenschiessen",
+        "sourceURL" : "https:\/\/sgbirmenstorf.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +51,11 @@
     "trainingWeekday" : "",
     "website" : "www.sgbirmenstorf.ch"
   },
-  "contentHash" : "sha256-c60eef3f0af99e154dbc99a2810447a0244a6ac8ccb6b81d2efdbbec55ca58f1",
+  "contentHash" : "sha256-90d218e5d0147e1c2b15e2b19828153956e02857c679a1e49520be0fdcc5d181",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

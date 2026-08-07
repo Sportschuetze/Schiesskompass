@@ -24,9 +24,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.widi.ch\/sts"
+    "website" : "www.widi.ch\/sts",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-a840de746f65f8d05c0441687d162cdfdf49ca99320c828025a71b712b089280",
+  "contentHash" : "sha256-deee8772d9742e06c2e98bbd13ab1e4a65cf2810d88c8486022bc2e0d44b498e",
   "events" : [
     {
       "championshipTags" : "",
@@ -60,19 +62,19 @@
         },
         {
           "date" : "2026-09-12T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "16:30",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-09-12T10:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         }
       ],
       "title" : "46. Linth-Escher-Schiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

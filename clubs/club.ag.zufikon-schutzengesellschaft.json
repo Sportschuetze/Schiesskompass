@@ -13,6 +13,40 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.zufikon-schutzengesellschaft.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.sg-zufikon.com\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.zufikon-schutzengesellschaft.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.sg-zufikon.com\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.zufikon-schutzengesellschaft.nueschwaldschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nüeschwaldschiessen",
+        "sourceURL" : "https:\/\/www.sg-zufikon.com\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.zufikon-schutzengesellschaft.nueeschwaldschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "nueeschwaldschiessen",
+        "sourceURL" : "https:\/\/www.sg-zufikon.com\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +59,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-zufikon.com"
   },
-  "contentHash" : "sha256-ea244120f9b5fc6c7b8b20530b4e82c6be931f6eaad4a172f2c24dca05b10908",
+  "contentHash" : "sha256-29fb94a6cbf095dcb169873a2a75efc3e361b121b76340aa9feaa8e9f780d43b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

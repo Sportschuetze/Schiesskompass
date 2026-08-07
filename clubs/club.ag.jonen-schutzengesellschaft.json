@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-97986e83d4cb88789ca2344f24b406dfc58cb5a1086835969fcd1c5dcc48d45c",
+  "contentHash" : "sha256-4c0024bdf9e527f3de902b7c765cb5127a80df84156f7e25ac991757612887a6",
   "events" : [
     {
       "championshipTags" : "",
@@ -62,19 +62,19 @@
         },
         {
           "date" : "2027-05-08T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2027-05-08T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         }
       ],
       "title" : "Kellerämterschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

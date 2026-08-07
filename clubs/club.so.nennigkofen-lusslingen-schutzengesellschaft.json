@@ -13,6 +13,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.nennigkofen-lusslingen-schutzengesellschaft.eymattschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eymattschiessen",
+        "sourceURL" : "https:\/\/www.sgnl.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +35,11 @@
     "trainingWeekday" : "",
     "website" : "sgnl.ch"
   },
-  "contentHash" : "sha256-3997f94867d8b9d80b7828a620c416de6b81e1d5038fd2903561dd53235a6052",
+  "contentHash" : "sha256-170ac843f96a0a1c5963dd5929a6cfa55ba9fefb01b446aa6d828258315b0ba2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

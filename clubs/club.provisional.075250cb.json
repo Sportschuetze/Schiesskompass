@@ -12,6 +12,64 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.075250cb.bockenkriegschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bockenkriegschiessen",
+        "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.075250cb.eroffnungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eröffnungsschiessen",
+        "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.075250cb.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.075250cb.fruhlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frühlingsschiessen",
+        "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.075250cb.herbstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Herbstschiessen",
+        "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.075250cb.vancouverstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vancouverstich",
+        "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.075250cb.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +82,102 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/asv-rueti.ch\/"
   },
-  "contentHash" : "sha256-693124d16ed6396c3e92ab6c857e0a5669a7fc001fc2179aa8757c80b87435f6",
+  "contentHash" : "sha256-89e69411095d5a4567dc073c1680bd46a8bee0ddf5476e3874da2c51ef3e197c",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-01-26T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.075250cb.eroffnungsschiessen.2026-01-26",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf",
+      "startDate" : "2026-01-26T11:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Eröffnungsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.075250cb.freundschaftsschiessen.2026-06-22",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf",
+      "startDate" : "2026-06-22T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Freundschaftsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.075250cb.jubilaumsschiessen.2026-06-22",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf",
+      "startDate" : "2026-06-22T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Jubiläumsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-01-26T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.075250cb.nachtschiessen.2026-01-26",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf",
+      "startDate" : "2026-01-26T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Nachtschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

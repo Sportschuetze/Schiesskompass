@@ -13,6 +13,24 @@
       "G50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.gerlafingen-sportschutzen.auflageschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Auflageschiessen",
+        "sourceURL" : "https:\/\/www.sps-gerlafingen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.gerlafingen-sportschutzen.bruckwachtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Brückwachtschiessen",
+        "sourceURL" : "https:\/\/www.sps-gerlafingen.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "www.sps-gerlafingen.ch"
   },
-  "contentHash" : "sha256-c750d7f3caad113be8502bb3e3d704649165452d8b52b794981b8313873efe51",
+  "contentHash" : "sha256-997f6d117f8f51e7cf38595fbb4bc4db7f5c7f757c4de79702446a944d642e43",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

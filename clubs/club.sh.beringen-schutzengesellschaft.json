@@ -15,6 +15,72 @@
       "P10"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sh.beringen-schutzengesellschaft.auflageschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Auflageschiessen",
+        "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sh.beringen-schutzengesellschaft.blauburgunderlandschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Blauburgunderlandschiessen",
+        "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sh.beringen-schutzengesellschaft.erinnerungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Erinnerungsschiessen",
+        "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sh.beringen-schutzengesellschaft.fruhlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frühlingsschiessen",
+        "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sh.beringen-schutzengesellschaft.hauptschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Hauptschiessen",
+        "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sh.beringen-schutzengesellschaft.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sh.beringen-schutzengesellschaft.nachtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nachtschiessen",
+        "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sh.beringen-schutzengesellschaft.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -27,7 +93,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-beringen.ch"
   },
-  "contentHash" : "sha256-aa8ef1b43b89569bf25e1d51462588fb1c51a9b37dbbf9141a41a90acf5d92f9",
+  "contentHash" : "sha256-7070198d4ade4ece8976fd10896702a2f018f385193d2ca3e26490ce82c0ef10",
   "events" : [
     {
       "championshipTags" : "",
@@ -147,9 +213,101 @@
         }
       ],
       "title" : "Gwaaggeschüsse"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-31T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sh.beringen-schutzengesellschaft.chlausschiessen.2026-03-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf",
+      "startDate" : "2026-03-31T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Chlausschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-08T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sh.beringen-schutzengesellschaft.chlausschiessen.2026-04-08",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf",
+      "startDate" : "2026-04-08T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Chlausschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-08T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.sh.beringen-schutzengesellschaft.efs.2026-04-08",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf",
+      "startDate" : "2026-04-08T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-08T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sh.beringen-schutzengesellschaft.winterschiessen.2026-04-08",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf",
+      "startDate" : "2026-04-08T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

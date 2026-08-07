@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-eef50256af0014f312c1b2c07a04de5844763e4c670471176bdecaeaa927f7f5",
+  "contentHash" : "sha256-9b88613e78daeec695eb549becdbd48412cc41bae1223b03b39ac4aa210947fe",
   "events" : [
     {
       "championshipTags" : "",
@@ -41,13 +41,13 @@
       "timeBlocks" : [
         {
           "date" : "2026-10-24T10:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2026-10-24T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "16:30",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-10-25T11:00:00Z",
@@ -56,19 +56,19 @@
         },
         {
           "date" : "2026-10-31T11:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2026-10-31T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "16:30",
+          "startTime" : "13:30"
         }
       ],
       "title" : "Sagemühleschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

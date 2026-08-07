@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-dcbd0b59b304da6faa1ea13e88557be92c16f97ea299665489b2db4b5350c75e",
+  "contentHash" : "sha256-f2d4574ea9cfdeab3a5e090c9aca27a14fb5fcc0d395f90e0d0d2e7f3b7a60a8",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,13 +48,13 @@
         },
         {
           "date" : "2027-05-01T10:00:00Z",
-          "endTime" : "20:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2027-05-01T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "20:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-05-07T10:00:00Z",
@@ -80,7 +80,7 @@
       "title" : "Jubiläumsschiessen 150 Jahre SG Hugelshofen-Dotnacht"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

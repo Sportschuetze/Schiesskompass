@@ -18,6 +18,176 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.albisschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Albisschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.augustschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Augustschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.barbaraschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Barbaraschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.fruhjahrsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frühjahrsstich",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.gruppenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.gruppenstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenstich",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.kniendstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kniendstich",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.kombistich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kombistich",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.michaelsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Michaelsschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.nachtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nachtschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.reppischtalschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Reppischtalschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.schlosswaldschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schlosswaldschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.sektionsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sektionsstich",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.siggenbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Siggenbergschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.storenbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Storenbergschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.trainingsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Trainingsstich",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.vereinsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vereinsstich",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.vereinswettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vereinswettschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.weggenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Weggenschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -30,7 +200,7 @@
     "trainingWeekday" : "",
     "website" : "www.svadliswil.ch"
   },
-  "contentHash" : "sha256-c0c6adf5815230e7583d316c537f63e4c379722dbb35a0a06448fed3d59cf22f",
+  "contentHash" : "sha256-0906907f840223e4db4b8587c4ed456db565f23270a8a9408cc151b9a70ce384",
   "events" : [
     {
       "championshipTags" : "",
@@ -74,17 +244,17 @@
         },
         {
           "date" : "2026-07-29T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-07-29T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-07-29T10:00:00Z",
           "endTime" : "19:00",
-          "startTime" : "16:00"
-        },
-        {
-          "date" : "2026-07-29T10:00:00Z",
-          "endTime" : "20:00",
-          "startTime" : "16:00"
-        },
-        {
-          "date" : "2026-07-29T10:00:00Z",
-          "endTime" : "20:00",
           "startTime" : "16:00"
         },
         {
@@ -111,6 +281,11 @@
           "date" : "2026-08-05T10:00:00Z",
           "endTime" : "20:00",
           "startTime" : "16:00"
+        },
+        {
+          "date" : "2026-08-08T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-08T10:00:00Z",
@@ -121,11 +296,6 @@
           "date" : "2026-08-08T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:15"
-        },
-        {
-          "date" : "2026-08-08T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
         }
       ],
       "title" : "Adliswiler Matchtage G300+G50+P25m"
@@ -213,9 +383,331 @@
         }
       ],
       "title" : "Weggenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-07-31T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.1350b537.barbaraschiessen.2026-07-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504",
+      "startDate" : "2026-07-31T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Barbaraschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-06T11:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.provisional.1350b537.efs.2026-03-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504",
+      "startDate" : "2026-03-06T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-06T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.1350b537.fruhjahrsstich.2026-03-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504",
+      "startDate" : "2026-03-06T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Frühjahrsstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-06T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.1350b537.gruppenstich.2026-03-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504",
+      "startDate" : "2026-03-06T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-06T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.1350b537.kombistich.2026-03-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504",
+      "startDate" : "2026-03-06T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Kombistich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-06T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.1350b537.michaelsschiessen.2026-03-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504",
+      "startDate" : "2026-03-06T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Michaelsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-06T11:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.provisional.1350b537.op.2026-03-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504",
+      "startDate" : "2026-03-06T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-07-31T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.provisional.1350b537.op.2026-07-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504",
+      "startDate" : "2026-07-31T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-06T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.1350b537.reppischtalschiessen.2026-03-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504",
+      "startDate" : "2026-03-06T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Reppischtalschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-06T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.1350b537.storenbergschiessen.2026-03-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504",
+      "startDate" : "2026-03-06T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Storenbergschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-06T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.1350b537.vereinsstich.2026-03-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504",
+      "startDate" : "2026-03-06T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Vereinsstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-06T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.1350b537.vereinswettschiessen.2026-03-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504",
+      "startDate" : "2026-03-06T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Vereinswettschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-18T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.1350b537.weggenschiessen.2026-03-18",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504",
+      "startDate" : "2026-03-18T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Weggenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-07-31T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.1350b537.weggenschiessen.2026-07-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504",
+      "startDate" : "2026-07-31T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Weggenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

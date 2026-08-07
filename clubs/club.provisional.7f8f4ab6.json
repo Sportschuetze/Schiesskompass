@@ -16,6 +16,96 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7f8f4ab6.augustschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Augustschiessen",
+        "sourceURL" : "https:\/\/www.isvhr.ch\/images\/Home\/2026_auswartige_Schiessanlasse_Juli.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7f8f4ab6.forchschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Forchschiessen",
+        "sourceURL" : "https:\/\/www.isvhr.ch\/images\/Home\/2026_auswartige_Schiessanlasse_Juli.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7f8f4ab6.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/www.isvhr.ch\/images\/Home\/2026_auswartige_Schiessanlasse_Juli.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7f8f4ab6.gruppenstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenstich",
+        "sourceURL" : "https:\/\/www.isvhr.ch\/images\/Home\/2026_auswartige_Schiessanlasse_Juli.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7f8f4ab6.herbstschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Herbstschiessen",
+        "sourceURL" : "https:\/\/www.isvhr.ch\/images\/Home\/2026_auswartige_Schiessanlasse_Juli.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7f8f4ab6.klappscheibenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Klappscheibenschiessen",
+        "sourceURL" : "https:\/\/www.isvhr.ch\/images\/Home\/2026_auswartige_Schiessanlasse_Juli.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7f8f4ab6.nadelstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nadelstich",
+        "sourceURL" : "https:\/\/www.isvhr.ch\/images\/Home\/2026_auswartige_Schiessanlasse_Juli.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7f8f4ab6.rehalpschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Rehalpschiessen",
+        "sourceURL" : "https:\/\/www.isvhr.ch\/images\/Home\/2026_auswartige_Schiessanlasse_Juli.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7f8f4ab6.vereinsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vereinsstich",
+        "sourceURL" : "https:\/\/www.isvhr.ch\/images\/Home\/2026_auswartige_Schiessanlasse_Juli.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7f8f4ab6.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/www.isvhr.ch\/images\/Home\/2026_auswartige_Schiessanlasse_Juli.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7f8f4ab6.waldmannschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Waldmannschiessen",
+        "sourceURL" : "https:\/\/www.isvhr.ch\/images\/Home\/2026_auswartige_Schiessanlasse_Juli.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -28,7 +118,7 @@
     "trainingWeekday" : "",
     "website" : "www.isvhr.ch"
   },
-  "contentHash" : "sha256-933939b6edc5f6b72612d098e7300b7af89d094556f65b32fcfee5562b72860c",
+  "contentHash" : "sha256-ae4d1699aa9d17dd4e127ee47abb6eb457c193e91c7881e10f519de3cb5a0286",
   "events" : [
     {
       "championshipTags" : "",
@@ -117,9 +207,55 @@
         }
       ],
       "title" : "48. Stadtzürcher Luftpistolen-Meisterschaft 2026"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-06T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.provisional.7f8f4ab6.op.2026-08-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.isvhr.ch\/images\/Home\/2026_auswartige_Schiessanlasse_Juli.pdf",
+      "startDate" : "2026-08-06T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-06T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.7f8f4ab6.rehalpschiessen.2026-08-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.isvhr.ch\/images\/Home\/2026_auswartige_Schiessanlasse_Juli.pdf",
+      "startDate" : "2026-08-06T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Rehalpschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -15,6 +15,24 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.ruthi-lienz-pistolenschutzen.lyonerschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Lyonerschiessen",
+        "sourceURL" : "https:\/\/www.pistolenruethi.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.ruthi-lienz-pistolenschutzen.zusatzstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Zusatzstich",
+        "sourceURL" : "https:\/\/www.pistolenruethi.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -27,7 +45,7 @@
     "trainingWeekday" : "",
     "website" : "www.pistolenruethi.ch"
   },
-  "contentHash" : "sha256-a7c4aea3a23ea607c7e3148d9deeef0511a1ac49b3811678a36362374f397d66",
+  "contentHash" : "sha256-93f17a6a203805b166b871060187658475ffc1adf6ce4ec2a7adce623f3a3de3",
   "events" : [
     {
       "championshipTags" : "",
@@ -161,7 +179,7 @@
       "title" : "50. Rheintaler-Luftpistolenmeisterschaft mit Auflageschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

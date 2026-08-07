@@ -13,6 +13,32 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.leimental-pistolenclub.felsplattenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Felsplattenschiessen",
+        "sourceURL" : "https:\/\/www.pcleimental.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.leimental-pistolenclub.probeschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Probeschiessen",
+        "sourceURL" : "https:\/\/www.pcleimental.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.leimental-pistolenclub.sportschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sportschiessen",
+        "sourceURL" : "https:\/\/www.pcleimental.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +51,79 @@
     "trainingWeekday" : "",
     "website" : "www.pcleimental.ch"
   },
-  "contentHash" : "sha256-8b93cc9e88bc5aaee20f2ed29af25ee26f7465efd01d3c3c1b19c2004ac193f5",
+  "contentHash" : "sha256-57ceed2b8f2eba6d0d46af0961468a26abc1ce438439669e4da97fe91b4b31b0",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-06T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.leimental-pistolenclub.felsplattenschiessen.2026-05-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.pcleimental.ch\/",
+      "startDate" : "2026-05-06T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Felsplattenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-06T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.so.leimental-pistolenclub.op.2026-05-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.pcleimental.ch\/",
+      "startDate" : "2026-05-06T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-06T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.leimental-pistolenclub.probeschiessen.2026-05-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.pcleimental.ch\/",
+      "startDate" : "2026-05-06T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Probeschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

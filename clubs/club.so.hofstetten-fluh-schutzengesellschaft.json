@@ -11,6 +11,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.hofstetten-fluh-schutzengesellschaft.gewehrschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gewehrschiessen",
+        "sourceURL" : "https:\/\/sghf.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +33,11 @@
     "trainingWeekday" : "",
     "website" : "www.sghf.ch"
   },
-  "contentHash" : "sha256-71a88841a860a2a2df24d5b4bd6c66e92656b13759560cbba5fd62291384a7e4",
+  "contentHash" : "sha256-59e2efca53458fa95fa334d8b442dc0bd28c0155736189a0d263093d3c92be23",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

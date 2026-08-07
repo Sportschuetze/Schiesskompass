@@ -11,6 +11,80 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.bolchenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bölchenschiessen",
+        "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.foiflibertalschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Föiflibertalschiessen",
+        "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.nachtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nachtschiessen",
+        "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.riedbachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Riedbachschiessen",
+        "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.wasserfallenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wasserfallenschiessen",
+        "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +97,11 @@
     "trainingWeekday" : "",
     "website" : "www.fs-oberdorf.ch"
   },
-  "contentHash" : "sha256-11ffccdde67508874f8f2f76a35a5d2d160eb021353455faa98f25638aa39c26",
+  "contentHash" : "sha256-53e2789756771ed35a3a6b78c4367fc77ce74551005c91f7d261a516721b7b81",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

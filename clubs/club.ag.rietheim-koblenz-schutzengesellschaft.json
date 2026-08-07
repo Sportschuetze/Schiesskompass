@@ -22,13 +22,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sg-rietheimkoblenz.ch"
+    "website" : "www.sg-rietheimkoblenz.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-273bc7bac57496a3942581c8fb212187c10039f2dcb6a2414efb79e779e8faab",
+  "contentHash" : "sha256-907e9141ccb17217c2575bf35a19b4399e08cc6b348e73c7762414c940f167b0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

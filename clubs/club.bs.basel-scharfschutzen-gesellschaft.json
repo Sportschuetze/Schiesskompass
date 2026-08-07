@@ -17,6 +17,16 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bs.basel-scharfschutzen-gesellschaft.sportschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sportschiessen",
+        "sourceURL" : "https:\/\/www.scharfschuetzen-basel.ch\/files\/documents%20%C3%B6ffentlich\/2026\/Saison%202026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -29,11 +39,194 @@
     "trainingWeekday" : "",
     "website" : "www.scharfschuetzen-basel.ch\/"
   },
-  "contentHash" : "sha256-4a7f2038b4b5354998b62f84f7f08c7c92d81c054f350b80634b6a82e309a26d",
+  "contentHash" : "sha256-b989e7d904f496fbba37ab6aa319d9bb41926537b9a91567e2b3ff0948be4c82",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-26T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.bs.basel-scharfschutzen-gesellschaft.efs.2026-05-26",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.scharfschuetzen-basel.ch\/files\/documents%20%C3%B6ffentlich\/2026\/Saison%202026.pdf",
+      "startDate" : "2026-05-26T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-14T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.bs.basel-scharfschutzen-gesellschaft.efs.2026-08-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.scharfschuetzen-basel.ch\/files\/documents%20%C3%B6ffentlich\/2026\/Saison%202026.pdf",
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-07T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.bs.basel-scharfschutzen-gesellschaft.op.2026-08-07",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.scharfschuetzen-basel.ch\/files\/documents%20%C3%B6ffentlich\/2026\/Saison%202026.pdf",
+      "startDate" : "2026-08-07T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-14T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.bs.basel-scharfschutzen-gesellschaft.op.2026-08-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.scharfschuetzen-basel.ch\/files\/documents%20%C3%B6ffentlich\/2026\/Saison%202026.pdf",
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-21T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.bs.basel-scharfschutzen-gesellschaft.op.2026-08-21",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.scharfschuetzen-basel.ch\/files\/documents%20%C3%B6ffentlich\/2026\/Saison%202026.pdf",
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-28T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.bs.basel-scharfschutzen-gesellschaft.op.2026-08-28",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.scharfschuetzen-basel.ch\/files\/documents%20%C3%B6ffentlich\/2026\/Saison%202026.pdf",
+      "startDate" : "2026-08-28T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-20T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.bs.basel-scharfschutzen-gesellschaft.op.2026-09-20",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Schiesswoche Thusis",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.scharfschuetzen-basel.ch\/files\/documents%20%C3%B6ffentlich\/2026\/Saison%202026.pdf",
+      "startDate" : "2026-09-20T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-11-15T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.bs.basel-scharfschutzen-gesellschaft.pistolenschiessen.2026-11-15",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.scharfschuetzen-basel.ch\/files\/documents%20%C3%B6ffentlich\/2026\/Saison%202026.pdf",
+      "startDate" : "2026-11-15T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Pistolenschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -15,6 +15,16 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.gl.glarus-pistolenschutzen.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/schuetzen-glarus.ch\/wordpress\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -27,11 +37,11 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-glarus.ch"
   },
-  "contentHash" : "sha256-0c2df1b1b929e40e9b7b454ef1a74c3a049bf2ad661e6a522eae5fef66a02d67",
+  "contentHash" : "sha256-c73fea61bdc3317e43e597ecf35b46d07a2e2b5ed842b629ac0a41b2fd7ef55c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

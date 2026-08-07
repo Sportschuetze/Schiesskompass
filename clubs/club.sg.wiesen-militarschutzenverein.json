@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0f33fe68d5cca491b7fe2ab01763cd932a48f52646da2719471cc027fdf0a199",
+  "contentHash" : "sha256-804ee3d69d019e1429a074787ac59f6aad3ae7b166302e67a01b66f7647163af",
   "events" : [
     {
       "championshipTags" : "",
@@ -42,18 +42,13 @@
       "timeBlocks" : [
         {
           "date" : "2027-04-23T10:00:00Z",
-          "endTime" : "",
-          "startTime" : ""
-        },
-        {
-          "date" : "2027-04-23T10:00:00Z",
           "endTime" : "19:00",
           "startTime" : "16:00"
         },
         {
-          "date" : "2027-04-24T10:00:00Z",
-          "endTime" : "18:00",
-          "startTime" : "13:30"
+          "date" : "2027-04-23T10:00:00Z",
+          "endTime" : "",
+          "startTime" : ""
         },
         {
           "date" : "2027-04-24T10:00:00Z",
@@ -61,14 +56,19 @@
           "startTime" : "08:00"
         },
         {
-          "date" : "2027-05-01T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "date" : "2027-04-24T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2027-05-01T10:00:00Z",
           "endTime" : "18:00",
           "startTime" : "13:30"
+        },
+        {
+          "date" : "2027-05-01T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2027-05-02T10:00:00Z",
@@ -79,7 +79,7 @@
       "title" : "150 Jahre MSV Wiesen - Jubiläumsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

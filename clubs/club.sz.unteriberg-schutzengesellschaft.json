@@ -12,6 +12,24 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.unteriberg-schutzengesellschaft.hirschflueschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Hirschflueschiessen",
+        "sourceURL" : "https:\/\/www.sgunteriberg.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.unteriberg-schutzengesellschaft.hirschfluhschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Hirschfluhschiessen",
+        "sourceURL" : "https:\/\/www.sgunteriberg.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgunteriberg.ch"
   },
-  "contentHash" : "sha256-57a8dfb0bfddffc19720a28acefe9243f93311b0f1c645ae93598ed60551674c",
+  "contentHash" : "sha256-e32a4c9d7911364752fae325538c7f857dd7255b98dbb8aed885b68e92c2ce10",
   "events" : [
     {
       "championshipTags" : "",
@@ -53,13 +71,13 @@
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "16:30",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-30T10:00:00Z",
@@ -70,7 +88,7 @@
       "title" : "28. Hirschflueschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

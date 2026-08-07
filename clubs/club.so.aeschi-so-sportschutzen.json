@@ -11,6 +11,72 @@
       "G50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.aeschi-so-sportschutzen.chlausenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chlausenschiessen",
+        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.aeschi-so-sportschutzen.eroffnungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eröffnungsschiessen",
+        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.aeschi-so-sportschutzen.freundschaftschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftschiessen",
+        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.aeschi-so-sportschutzen.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.aeschi-so-sportschutzen.nachtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nachtschiessen",
+        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.aeschi-so-sportschutzen.schlosswaldschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schlosswaldschiessen",
+        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.aeschi-so-sportschutzen.serieschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Serieschiessen",
+        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.aeschi-so-sportschutzen.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +89,332 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-aeschi.ch"
   },
-  "contentHash" : "sha256-0f0965933d6fb9e558e1aa7d03453dbb4c40bced2b13b24113251fc5e7b1471d",
+  "contentHash" : "sha256-3efc6bc71476b4a909fd06a2e988f48c742cdec2849e87adc77fa702742b2877",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-31T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.chlausschiessen.2026-10-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-10-31T11:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Chlausschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-31T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.efs.2026-05-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-05-31T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-10T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.eroffnungsschiessen.2026-04-10",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-04-10T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eröffnungsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-20T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.freundschaftsschiessen.2026-03-20",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-03-20T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Freundschaftsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.freundschaftsschiessen.2026-08-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Freundschaftsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-21T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.freundschaftsschiessen.2026-08-21",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Freundschaftsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-13T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.nachtschiessen.2026-05-13",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-05-13T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Nachtschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-09T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.nachtschiessen.2026-10-09",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-10-09T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Nachtschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.schlosswaldschiessen.2026-05-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-05-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Schlosswaldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-27T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.serieschiessen.2026-09-27",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-09-27T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Serieschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-27T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.vereinsstich.2026-09-27",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-09-27T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Vereinsstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-20T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.vereinswettschiessen.2026-03-20",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-03-20T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Vereinswettschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-30T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.vereinswettschiessen.2026-08-30",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-08-30T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Vereinswettschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-06T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.volksschiessen.2026-09-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf",
+      "startDate" : "2026-09-06T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Volksschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

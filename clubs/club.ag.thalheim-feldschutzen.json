@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-thalheim.ch"
   },
-  "contentHash" : "sha256-f7d624d59cb6f7ea13b61f1f3c4fe0a71d2ad5d0324fcfbfa12944cbd079d961",
+  "contentHash" : "sha256-a34781a221fadc7f5a67e72ae31d88a229099e134d271c3cb04edf9af296a8f8",
   "events" : [
     {
       "championshipTags" : "",
@@ -49,13 +49,13 @@
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "15:30",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "15:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-09-05T10:00:00Z",
@@ -74,9 +74,32 @@
         }
       ],
       "title" : "9. Ruine Schenkenberg Schiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-10T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.ag.thalheim-feldschutzen.op.2026-06-10",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.fsg-thalheim.ch\/",
+      "startDate" : "2026-06-10T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

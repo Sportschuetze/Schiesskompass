@@ -13,6 +13,80 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7b80a81c.eroffnungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eröffnungsschiessen",
+        "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7b80a81c.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7b80a81c.jubilaumsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsstich",
+        "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7b80a81c.pulverturmschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Pulverturmschiessen",
+        "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7b80a81c.schnupperschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schnupperschiessen",
+        "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7b80a81c.sturmgewehrschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sturmgewehrschiessen",
+        "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7b80a81c.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7b80a81c.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.7b80a81c.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +99,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsv-dinhard.ch"
   },
-  "contentHash" : "sha256-b78b20a00b50cda392b749358e60a5ee7cda3174f0d466708533a2e59a5b29bf",
+  "contentHash" : "sha256-cc5f51f00d933737ae97049849496c8bf0334e3100697edc488fe4795e112544",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -11,6 +11,184 @@
 
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.berchtoldschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Berchtoldschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.chlausschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chlausschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.eroffnungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eröffnungsschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.fruhlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frühlingsschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.fusionsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fusionsschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.gangfischschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gangfischschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.gruppenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.jubilaumsvolksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsvolksschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.pistolenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Pistolenschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.pouletschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Pouletschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.racletteschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Racletteschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.ruinenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Ruinenschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.schwaderlohschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schwaderlohschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.sommerschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sommerschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.standweihschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Standweihschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.stossschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Stossschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.tg.weinfelden-schutzengesellschaft.winzerschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winzerschiessen",
+        "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,7 +201,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/ps-weinfelden.ch"
   },
-  "contentHash" : "sha256-c889523d2707e47e818e089e10efe0c08f88c5bff82ae9332de7191f86a87de8",
+  "contentHash" : "sha256-ee251a87c51132e375cfbcc6cf6d21bb85e1f6284d298ada69ac4f48301cf89b",
   "events" : [
     {
       "championshipTags" : "",
@@ -67,13 +245,13 @@
         },
         {
           "date" : "2027-09-11T10:00:00Z",
-          "endTime" : "18:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2027-09-11T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "18:00",
+          "startTime" : "13:30"
         }
       ],
       "title" : "Jubiläumsschiessen 475 Jahre SG Weinfelden"
@@ -95,13 +273,13 @@
       "timeBlocks" : [
         {
           "date" : "2026-11-11T11:00:00Z",
-          "endTime" : "",
-          "startTime" : ""
+          "endTime" : "21:30",
+          "startTime" : "17:00"
         },
         {
           "date" : "2026-11-11T11:00:00Z",
-          "endTime" : "21:30",
-          "startTime" : "17:00"
+          "endTime" : "",
+          "startTime" : ""
         },
         {
           "date" : "2026-11-12T11:00:00Z",
@@ -148,13 +326,13 @@
       "timeBlocks" : [
         {
           "date" : "2027-11-10T11:00:00Z",
-          "endTime" : "",
-          "startTime" : ""
+          "endTime" : "21:30",
+          "startTime" : "17:00"
         },
         {
           "date" : "2027-11-10T11:00:00Z",
-          "endTime" : "21:30",
-          "startTime" : "17:00"
+          "endTime" : "",
+          "startTime" : ""
         },
         {
           "date" : "2027-11-11T11:00:00Z",
@@ -188,9 +366,400 @@
         }
       ],
       "title" : "39. Lupi-Meisterschaft Weinfelden"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-12-11T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.bochselnachtschiessen.2026-12-11",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-12-11T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Bochselnachtschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-30T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.efs.2026-05-30",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-05-30T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-31T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.efs.2026-05-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-05-31T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-03T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.freundschaftsschiessen.2026-10-03",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-10-03T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Freundschaftsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.fusionsschiessen.2026-08-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Fusionsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-23T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.fusionsschiessen.2026-08-23",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-08-23T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Fusionsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.gruppenschiessen.2026-08-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-28T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.jubilaumsschiessen.2026-08-28",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-08-28T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Jubiläumsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-29T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.lutzelmurgschiessen.2026-08-29",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-08-29T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Lützelmurgschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-12-11T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.morgartenschiessen.2026-12-11",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-12-11T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Morgartenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-17T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.murgschiessen.2026-08-17",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-08-17T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Murgschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-31T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.niklausschiessen.2026-10-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-10-31T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Niklausschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-04T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.pouletschiessen.2026-09-04",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-09-04T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Pouletschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-11T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.pouletschiessen.2026-09-11",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-09-11T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Pouletschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2027-05-01T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.wettschiessen.2027-05-01",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2027-05-01T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Wettschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-10T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.winzerschiessen.2026-10-10",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-10-10T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Winzerschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-24T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.weinfelden-schutzengesellschaft.winzerschiessen.2026-10-24",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sgweinfelden.ch\/documents\/dynamiccontent\/jahresprogramm-2026-(1).pdf",
+      "startDate" : "2026-10-24T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Winzerschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

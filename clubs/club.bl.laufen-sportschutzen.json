@@ -13,6 +13,24 @@
       "G50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.laufen-sportschutzen.sportschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sportschiessen",
+        "sourceURL" : "https:\/\/www.sportschuetzenlaufen.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.laufen-sportschutzen.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/www.sportschuetzenlaufen.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzenlaufen.ch"
   },
-  "contentHash" : "sha256-d1b657df33f6dfd1cda75e1d3e3a58e54dc7c84f61876519829ea2a56bcc57d6",
+  "contentHash" : "sha256-e28c7e4a0a43479c5c468cd1233434061a8fca5b523f720c3b009e722f43524a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

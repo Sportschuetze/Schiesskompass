@@ -13,6 +13,24 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.alterswil-egg-militarschutzenverein.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.msvaef.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.alterswil-egg-militarschutzenverein.pflichtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Pflichtschiessen",
+        "sourceURL" : "https:\/\/www.msvaef.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "www.msvaef.ch"
   },
-  "contentHash" : "sha256-cb53da98058e583e4edc528fef37bf731a802f132fb239bec4de7e24ccd7620a",
+  "contentHash" : "sha256-1beb6b07097dc5040e721cd915a233d83ab29db10f7ceb6ffceb283bcf849df0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

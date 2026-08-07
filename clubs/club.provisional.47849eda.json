@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c9fc029691894ce3771856fffb3e461c7a3b27001bb96f3ee345a836ff1a0c38",
+  "contentHash" : "sha256-a07fd7c7ad018d70b112f82b4da73ab9fba6a8c105a379891b8b8cdd2fde938a",
   "events" : [
     {
       "championshipTags" : "",
@@ -41,16 +41,11 @@
       "timeBlocks" : [
         {
           "date" : "2026-09-12T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-09-12T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-09-26T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
         },
@@ -58,6 +53,11 @@
           "date" : "2026-09-26T10:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-09-26T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-09-27T10:00:00Z",
@@ -89,13 +89,13 @@
         },
         {
           "date" : "2027-07-10T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-07-10T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2027-07-11T10:00:00Z",
@@ -104,13 +104,13 @@
         },
         {
           "date" : "2027-07-17T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2027-07-17T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-07-18T10:00:00Z",
@@ -121,7 +121,7 @@
       "title" : "6. Steinackerschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

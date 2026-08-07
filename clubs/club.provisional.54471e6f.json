@@ -12,6 +12,48 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.54471e6f.chlausschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chlausschiessen",
+        "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.54471e6f.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.54471e6f.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.54471e6f.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.54471e6f.wyberschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wyberschiessen",
+        "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +66,79 @@
     "trainingWeekday" : "",
     "website" : "www.svboppelsen.com"
   },
-  "contentHash" : "sha256-26d379424d7b850ef54a08fc2c329ac502837bf5689d917c965f73c81e7e0d76",
+  "contentHash" : "sha256-3c6043b2024bf7c6c609ebed006a1f043fcb04675b2fa960e7e62a3f0daa5e1a",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2027-03-05T11:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.provisional.54471e6f.efs.2027-03-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Boppelsen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf",
+      "startDate" : "2027-03-05T11:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2027-03-05T11:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.provisional.54471e6f.op.2027-03-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Boppelsen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf",
+      "startDate" : "2027-03-05T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2027-03-05T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.54471e6f.winterschiessen.2027-03-05",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Boppelsen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf",
+      "startDate" : "2027-03-05T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Winterschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

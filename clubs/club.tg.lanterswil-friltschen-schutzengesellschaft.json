@@ -23,11 +23,33 @@
     "trainingWeekday" : "",
     "website" : "www.sg-lanterswil.ch"
   },
-  "contentHash" : "sha256-53cecb1245362a7fd72ffdf2686807d8dd37d0e93b67c6337bafea2fab97995f",
+  "contentHash" : "sha256-86048040a315cd7e072cac74ae953dd7faf66eb6127d303e774fe0055fe6a208",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-06T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.tg.lanterswil-friltschen-schutzengesellschaft.op.2026-08-06",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-lanterswil.ch\/",
+      "startDate" : "2026-08-06T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Obligatorisches Programm"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

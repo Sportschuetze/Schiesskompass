@@ -21,13 +21,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sgar.ch"
+    "website" : "www.sgar.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-5f95a3314bc0d7cf9e5a88389beb23d9b0c8e7df9034153b035bde291b32a0e8",
+  "contentHash" : "sha256-86eeff5d2735268042278970467c354248adbecf800d7acb96fa551018d05296",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

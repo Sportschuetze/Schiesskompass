@@ -11,6 +11,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.630b076c.nachtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nachtschiessen",
+        "sourceURL" : "https:\/\/www.nachtschiessenoberwil.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +33,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.nachtschiessenoberwil.ch\/"
   },
-  "contentHash" : "sha256-6aa955d3c513cbd9706dd3d17050ffd952e4c2bf77d4d20759055a6b9d49c6ed",
+  "contentHash" : "sha256-ee5b11c965d19bc8d6cbeb0db144fc8e96cc9b745439602493b689aacce94594",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

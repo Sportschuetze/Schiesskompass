@@ -11,6 +11,24 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.leutwil-schutzengesellschaft.wampfleschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wampfleschiessen",
+        "sourceURL" : "https:\/\/www.sg-leutwil.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.leutwil-schutzengesellschaft.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.sg-leutwil.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,7 +41,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-leutwil.ch"
   },
-  "contentHash" : "sha256-f5bd8c2dd9f3974f65558c1d93f7f5b21fc211187d69342283fc6ef1963600fa",
+  "contentHash" : "sha256-8f2bf7ef21da5365aaf2b9236a7aa3eca2bb4bcb30123969c9f705714cbc759b",
   "events" : [
     {
       "championshipTags" : "",
@@ -43,9 +61,32 @@
 
       ],
       "title" : "1. Wampfle-Schiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-16T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.leutwil-schutzengesellschaft.wampfleschiessen.2026-05-16",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-leutwil.ch\/",
+      "startDate" : "2026-05-16T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Wampfleschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

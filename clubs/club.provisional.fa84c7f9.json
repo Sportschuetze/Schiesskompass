@@ -11,6 +11,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.fa84c7f9.bubenbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bubenbergschiessen",
+        "sourceURL" : "https:\/\/www.freischuetzenwabern.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +33,11 @@
     "trainingWeekday" : "",
     "website" : "www.freischuetzenwabern.ch"
   },
-  "contentHash" : "sha256-cff0502b4ca2563257e3b9f47607d431d537afe97c7f3365f17bc796491caf11",
+  "contentHash" : "sha256-37025a57a6e7b2311c92635e30a43a3c62b4163e5500af1d5e3d53f5f588424d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

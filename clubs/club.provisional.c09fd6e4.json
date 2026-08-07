@@ -12,6 +12,24 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.c09fd6e4.eulachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eulachschiessen",
+        "sourceURL" : "https:\/\/www.gsv-zell.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026_Final.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.c09fd6e4.zopfschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Zopfschiessen",
+        "sourceURL" : "https:\/\/www.gsv-zell.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026_Final.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +42,148 @@
     "trainingWeekday" : "",
     "website" : "http:\/\/gsv-zell.ch"
   },
-  "contentHash" : "sha256-257a011bdf8ff5c83cbca9010e76516d753f058795c097660329f077b63fc9ba",
+  "contentHash" : "sha256-05ccdb1f802bb461f9db35945773cb65d51367881e5b0b96829447dcef411dac",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-01T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.c09fd6e4.freundschaftsschiessen.2026-05-01",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.gsv-zell.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026_Final.pdf",
+      "startDate" : "2026-05-01T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Freundschaftsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-29T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.c09fd6e4.hauptschiessen.2026-05-29",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.gsv-zell.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026_Final.pdf",
+      "startDate" : "2026-05-29T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Hauptschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-07-16T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.c09fd6e4.jubilaumsschiessen.2026-07-16",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.gsv-zell.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026_Final.pdf",
+      "startDate" : "2026-07-16T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Jubiläumsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-01T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.c09fd6e4.landstadtlischiessen.2026-05-01",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.gsv-zell.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026_Final.pdf",
+      "startDate" : "2026-05-01T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Landstädtlischiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-31T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.c09fd6e4.schiterbergschiessen.2026-08-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.gsv-zell.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026_Final.pdf",
+      "startDate" : "2026-08-31T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Schiterbergschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-26T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.c09fd6e4.strahleggschiessen.2026-09-26",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.gsv-zell.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026_Final.pdf",
+      "startDate" : "2026-09-26T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Strahleggschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

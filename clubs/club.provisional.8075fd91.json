@@ -13,6 +13,16 @@
       "G50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.8075fd91.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/www.sportschuetzen-spiez.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +35,33 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-spiez.ch"
   },
-  "contentHash" : "sha256-5450a14b7aeacc32117e2ee86f4f92dad0064d8fef7a7799d5412c4aa7b3d0ad",
+  "contentHash" : "sha256-f2dd6fd3f65c6a132ed3f9d88b8e636a80f4a26c2ec85b6ed2633a1a37510ea6",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-27T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.8075fd91.volksschiessen.2026-08-27",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sportschuetzen-spiez.ch\/",
+      "startDate" : "2026-08-27T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Volksschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

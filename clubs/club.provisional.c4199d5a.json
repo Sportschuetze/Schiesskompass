@@ -22,13 +22,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sportschuetzen-wetzikon.ch"
+    "website" : "www.sportschuetzen-wetzikon.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-309eafa968d2f069659d0af0a309423db3ca20036e083b67cde95cb5a88f5520",
+  "contentHash" : "sha256-e51cf624b0b0528e0634fb1168bec7809cc408d50b742f1ba09eccd8ff6ec8a4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

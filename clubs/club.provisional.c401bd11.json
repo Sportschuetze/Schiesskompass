@@ -15,6 +15,56 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.c401bd11.auszahlungsstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Auszahlungsstich",
+        "sourceURL" : "https:\/\/www.sg-zueri9.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.c401bd11.knabenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Knabenschiessen",
+        "sourceURL" : "https:\/\/www.sg-zueri9.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.c401bd11.revolverschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Revolverschiessen",
+        "sourceURL" : "https:\/\/www.sg-zueri9.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.c401bd11.unterhebelrepetiererschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Unterhebelrepetiererschiessen",
+        "sourceURL" : "https:\/\/www.sg-zueri9.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.c401bd11.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/www.sg-zueri9.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.c401bd11.oblifeldschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "oblifeldschiessen",
+        "sourceURL" : "https:\/\/www.sg-zueri9.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -27,11 +77,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-zueri9.ch"
   },
-  "contentHash" : "sha256-5f6afe84907aca4b81a23518b66ff7e9c0a76692288e5eea85bb3358c5d69ad7",
+  "contentHash" : "sha256-227f66f8de1b7c1fa77b56e7bb41032f2dfdf10ada151ece106228f1c090b0d6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

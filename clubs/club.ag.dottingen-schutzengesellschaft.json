@@ -23,13 +23,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sgdoettingen.ch"
+    "website" : "www.sgdoettingen.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-f95d4f6c675629710a5b2ba424d0bcfe6527c642b111eaf828f1708df92c679e",
+  "contentHash" : "sha256-5411fe22689c73441f95965a68766d80ac826bfed082253f1f160836be686acd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

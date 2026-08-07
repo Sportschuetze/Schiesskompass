@@ -13,6 +13,16 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.a0eeb326.nachtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Nachtschiessen",
+        "sourceURL" : "https:\/\/psl.pslyss.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +35,11 @@
     "trainingWeekday" : "",
     "website" : "www.pslyss.ch"
   },
-  "contentHash" : "sha256-70dfec0e01f4d85bbe0d91c8f56876c69eb6c9bb9b0f3e36f0ad0cbd7cf63837",
+  "contentHash" : "sha256-5c0048f64882ecd53d1b179d4166d4d646648121464fc5ee8dcb0ea40ce816cc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

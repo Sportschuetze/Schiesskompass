@@ -12,6 +12,48 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.dittingen-feldschutzengesellschaft.blauenbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Blauenbergschiessen",
+        "sourceURL" : "https:\/\/www.feldschuetzen-dittingen.ch\/index_htm_files\/Jahresprogramm%202026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.dittingen-feldschutzengesellschaft.jungschutzenwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Jungschützenwettschiessen",
+        "sourceURL" : "https:\/\/www.feldschuetzen-dittingen.ch\/index_htm_files\/Jahresprogramm%202026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.dittingen-feldschutzengesellschaft.kahlenstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kählenstich",
+        "sourceURL" : "https:\/\/www.feldschuetzen-dittingen.ch\/index_htm_files\/Jahresprogramm%202026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.dittingen-feldschutzengesellschaft.schwarzbubenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schwarzbubenschiessen",
+        "sourceURL" : "https:\/\/www.feldschuetzen-dittingen.ch\/index_htm_files\/Jahresprogramm%202026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.dittingen-feldschutzengesellschaft.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/www.feldschuetzen-dittingen.ch\/index_htm_files\/Jahresprogramm%202026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +66,11 @@
     "trainingWeekday" : "",
     "website" : "www.feldschuetzen-dittingen.ch"
   },
-  "contentHash" : "sha256-4928f8591138828e927c1fcfbb92a639c1cdfa721a5e691b337d6c84ae20b19e",
+  "contentHash" : "sha256-1cc81eeadabb8592a919980b6d99e3750631d5c56c1b86dc00560e0811609c97",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

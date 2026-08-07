@@ -11,6 +11,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.2c7430cd.kotelettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kotelettschiessen",
+        "sourceURL" : "https:\/\/www.schuetzen-golaten.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -23,11 +33,11 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-golaten.ch"
   },
-  "contentHash" : "sha256-64ca54c1e6d293735c7052a6ddb0526e03edf52d098248fd21a617afa51e9f81",
+  "contentHash" : "sha256-fa9bde1a15b0e4df515f0f819c183ec81ae489aa6c99fbd14745cdedf57724aa",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

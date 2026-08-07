@@ -12,6 +12,224 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.bessersteinschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bessersteinschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.chapfschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chapfschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.chruzlibachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chrüzlibachschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.eroffnungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eröffnungsschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.fasnachtsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fasnachtsschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.festungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Festungsschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.frickbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frickbergschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.friedlistallschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Friedlistallschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.fruhlingsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Frühlingsschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.gheidschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gheidschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.gheischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gheischiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.gladiatorenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gladiatorenschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.grenzschutzschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Grenzschutzschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.grossfelsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Grossfelsschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.gruppenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.limmatschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Limmatschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.lochbachschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Lochbachschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.michaelsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Michaelsschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.murweidschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Murweidschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.rotkornschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Rotkornschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.romerguetschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Römerguetschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.schenkenbergschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schenkenbergschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.schorutischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schorütischiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.sempacherschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sempacherschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.sparbligschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Sparbligschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.stadtschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Stadtschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.lauffohr-schutzengesellschaft.winterschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,11 +242,125 @@
     "trainingWeekday" : "",
     "website" : "www.sg-lauffohr.ch"
   },
-  "contentHash" : "sha256-70e9dd59684826fce427b3780c7b862daa4deb935bfdd657330ad20c81bc2e79",
+  "contentHash" : "sha256-29b48d82bf3e692e28d155e828dc134bc690c091946326f3179ff08cf0d4a4f4",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-07T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.lauffohr-schutzengesellschaft.rotkornschiessen.2026-08-07",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/",
+      "startDate" : "2026-08-07T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Rotkornschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-08T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.lauffohr-schutzengesellschaft.rotkornschiessen.2026-08-08",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/",
+      "startDate" : "2026-08-08T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Rotkornschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-09T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.lauffohr-schutzengesellschaft.rotkornschiessen.2026-08-09",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/",
+      "startDate" : "2026-08-09T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Rotkornschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.lauffohr-schutzengesellschaft.rotkornschiessen.2026-08-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/",
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Rotkornschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-15T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.lauffohr-schutzengesellschaft.rotkornschiessen.2026-08-15",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-lauffohr.ch\/",
+      "startDate" : "2026-08-15T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Rotkornschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

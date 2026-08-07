@@ -21,13 +21,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sgpratteln.ch"
+    "website" : "www.sgpratteln.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-e612ff8a518dab6d66d650f90d0a77f461aa68511693ffc83bc1c51fda4e7878",
+  "contentHash" : "sha256-b3847ead672d1db96b00c4b5ea770a4ee86546aa7b891bf7d3ad7c6ef62edb02",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -11,6 +11,136 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.bernerstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bernerstich",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.bernstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bernstich",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.chutzenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Chutzenschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.einzelwettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.eroffnungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eröffnungsschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Freundschaftsschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.grasburgschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Grasburgschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.kursschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kursschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.landesteilschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Landesteilschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.matchschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Matchschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.murtenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Murtenschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.schulerschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Schülerschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.testschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Testschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.vereinsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Vereinsschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.af03d51c.zvierischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Zvierischiessen",
+        "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -21,13 +151,106 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.schuetzen-schwarzenburg.ch"
+    "website" : "www.schuetzen-schwarzenburg.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-736a74f02b92694a344649b2f96442a0303f34f2c265263d0da3be1232700482",
+  "contentHash" : "sha256-6a51ebb951f3237d3fbc0d17059ce17e7a3a958236acfeff2abcaad505d27ec0",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-31T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.provisional.af03d51c.efs.2026-05-31",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf",
+      "startDate" : "2026-05-31T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-03T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.provisional.af03d51c.efs.2026-08-03",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf",
+      "startDate" : "2026-08-03T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-11T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.af03d51c.kursschiessen.2026-02-11",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf",
+      "startDate" : "2026-02-11T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Kursschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-02-11T11:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.provisional.af03d51c.op.2026-02-11",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "http:\/\/www.schuetzen-schwarzenburg.ch\/uploads\/media\/Schiessdaten_Schwarzenburg_2026.pdf",
+      "startDate" : "2026-02-11T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

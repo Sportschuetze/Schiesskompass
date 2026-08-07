@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-dd2a715ae488714be95aaa0037beeb6b2feb60436e89c2af2fba409ca534603a",
+  "contentHash" : "sha256-eaf25db431ba645eeb4bc38db629af0adbfa24e79d643ff004578dabac84950d",
   "events" : [
     {
       "championshipTags" : "",
@@ -56,13 +56,13 @@
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "20:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "20:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-23T10:00:00Z",
@@ -73,7 +73,7 @@
       "title" : "25 Jahre Schiessanlage Buchschachen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

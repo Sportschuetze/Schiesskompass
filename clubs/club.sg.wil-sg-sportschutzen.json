@@ -14,6 +14,24 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wil-sg-sportschutzen.eroffnungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Eröffnungsschiessen",
+        "sourceURL" : "https:\/\/www.sportschuetzen-wil.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.wil-sg-sportschutzen.kaiserlindenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Kaiserlindenschiessen",
+        "sourceURL" : "https:\/\/www.sportschuetzen-wil.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -26,7 +44,7 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-wil.ch\/"
   },
-  "contentHash" : "sha256-e6f470c2e19967aa1869edef11ee9ecdf8a7e3f4661589eccaf315a4fcd967fb",
+  "contentHash" : "sha256-2cffe7f0b9270589e5b055f7a62d7b7acdd2d3109b4b06ee0d4ad5cddffbaa0b",
   "events" : [
     {
       "championshipTags" : "",
@@ -87,7 +105,7 @@
       "title" : "48. Aebtestadt LP Meisterschaft"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-77283dd89fc1ae4dd59b51b0a1df0d4d4573fd4ef21b09bd7d967ef1c5fb1845",
+  "contentHash" : "sha256-1a2b0927324e677cfd5ef72f46354143a3692acd90d3a5d2acaef557a3db7db7",
   "events" : [
     {
       "championshipTags" : "",
@@ -47,16 +47,11 @@
         },
         {
           "date" : "2026-09-19T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "14:00"
         },
         {
           "date" : "2026-09-19T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "14:00"
-        },
-        {
-          "date" : "2026-09-26T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
         },
@@ -64,12 +59,17 @@
           "date" : "2026-09-26T10:00:00Z",
           "endTime" : "16:00",
           "startTime" : "14:00"
+        },
+        {
+          "date" : "2026-09-26T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         }
       ],
       "title" : "15. Albisschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

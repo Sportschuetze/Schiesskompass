@@ -13,6 +13,56 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-pistolensektion.bareggschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Bareggschiessen",
+        "sourceURL" : "https:\/\/ps-obersiggenthal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-pistolensektion.erinnerungsschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Erinnerungsschiessen",
+        "sourceURL" : "https:\/\/ps-obersiggenthal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-pistolensektion.fuchshaldenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fuchshaldenschiessen",
+        "sourceURL" : "https:\/\/ps-obersiggenthal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-pistolensektion.gruppenstich",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Gruppenstich",
+        "sourceURL" : "https:\/\/ps-obersiggenthal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-pistolensektion.luftpistolenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Luftpistolenschiessen",
+        "sourceURL" : "https:\/\/ps-obersiggenthal.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.obersiggenthal-pistolensektion.wettschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Wettschiessen",
+        "sourceURL" : "https:\/\/ps-obersiggenthal.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +75,33 @@
     "trainingWeekday" : "",
     "website" : "www.ps-obersiggenthal.ch"
   },
-  "contentHash" : "sha256-40cb344ca10036637b52073a61c25bc3c0f079f3a62dcc8171ad306c5f89cb29",
+  "contentHash" : "sha256-7f56bf0186ea60b098fa4e5194d033715e67dda1e5f9b0926d8ca36402b857af",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-26T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.ag.obersiggenthal-pistolensektion.efs.2026-06-26",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/ps-obersiggenthal.ch\/",
+      "startDate" : "2026-06-26T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Eidg. Feldschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -13,6 +13,24 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.sennwald-pistolenschutzen.forsteggschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Forsteggschiessen",
+        "sourceURL" : "https:\/\/www.pistolen-sennwald.ch\/wp-content\/uploads\/2026\/05\/Wichtige-Termine-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.sennwald-pistolenschutzen.teggschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "teggschiessen",
+        "sourceURL" : "https:\/\/www.pistolen-sennwald.ch\/wp-content\/uploads\/2026\/05\/Wichtige-Termine-2026.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "pistolen-sennwald.ch"
   },
-  "contentHash" : "sha256-9fee31f07cbb5b7cc6c753d3b49487e9e59e23f58f116b2c39b2f13912cdc261",
+  "contentHash" : "sha256-1f01c68af473050aac73ea2a8a68f2269d638cd204b1ffbe62e1d277f648916a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

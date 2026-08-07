@@ -13,6 +13,24 @@
       "P50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.allschwil-pistolen-club.morgartenschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Morgartenschiessen",
+        "sourceURL" : "https:\/\/www.pcallschwil.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bl.allschwil-pistolen-club.ruttlischiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Rüttlischiessen",
+        "sourceURL" : "https:\/\/www.pcallschwil.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +43,79 @@
     "trainingWeekday" : "",
     "website" : "www.pcallschwil.ch"
   },
-  "contentHash" : "sha256-75c6d7803ae19dad78ab4c5a3c4fe859deccc509355ddd47497e4a707a353b5a",
+  "contentHash" : "sha256-205a342acee896d6aaa3dee09292c93f598c3536b0facf55d1f7752cc19dce37",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-18T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.bl.allschwil-pistolen-club.fruhlingsschiessen.2026-04-18",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.pcallschwil.ch\/",
+      "startDate" : "2026-04-18T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Frühlingsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2027-03-12T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.bl.allschwil-pistolen-club.niggischiessen.2027-03-12",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.pcallschwil.ch\/",
+      "startDate" : "2027-03-12T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Niggischiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.bl.allschwil-pistolen-club.ruttlischiessen.2026-04-14",
+      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.pcallschwil.ch\/",
+      "startDate" : "2026-04-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Rüttlischiessen"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

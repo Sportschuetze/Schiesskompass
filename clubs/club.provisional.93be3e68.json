@@ -13,6 +13,16 @@
       "G50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.93be3e68.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/sps-wila-turbenthal.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -25,11 +35,11 @@
     "trainingWeekday" : "",
     "website" : "www.sps-wila-turbenthal.ch"
   },
-  "contentHash" : "sha256-07bdba66024c0fe8ac4b0faabe1e4f55bd77c4d8837c2f9508272633e5f70e88",
+  "contentHash" : "sha256-6436645e7c03476d987d7565d9a46e8a9e03cbc42738e372c1bb46b72a2cbe50",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

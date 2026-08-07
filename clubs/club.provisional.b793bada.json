@@ -12,6 +12,16 @@
       "G300"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.b793bada.fahnenweihschiessen",
+        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "isUnverified" : true,
+        "name" : "Fahnenweihschiessen",
+        "sourceURL" : "https:\/\/www.msvtruttikon.ch\/"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -24,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "msvtruttikon.ch"
   },
-  "contentHash" : "sha256-1b0d51622eb288630db2e4e127d93223fc3d67e9be6e382881a5309002ab6175",
+  "contentHash" : "sha256-6344dc185079d16ed90831ca25124c1448270865f39148ca496b4124d1e518fc",
   "events" : [
     {
       "championshipTags" : "",
@@ -85,7 +95,7 @@
       "title" : "Fahnenweihschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

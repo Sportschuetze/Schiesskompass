@@ -25,13 +25,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "svpfungen.ch"
+    "website" : "svpfungen.ch",
+    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-ab4e55e1a3915839dc85860c634c4535bf6ac57c36b968ced96fdf2a13edb53c",
+  "contentHash" : "sha256-e1a1e110095176c7841e752509c37a1dfcd5a157bf4058e1354e1b1af4be76db",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

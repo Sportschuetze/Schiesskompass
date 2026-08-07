@@ -1967,13 +1967,13 @@
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "10:00"
+          "endTime" : "16:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "10:00"
         }
       ],
       "title" : "Bezirksschiessen 300m BSV Meilen"
@@ -2259,16 +2259,6 @@
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
-        },
-        {
-          "date" : "2026-08-29T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
         },
@@ -2276,6 +2266,16 @@
           "date" : "2026-08-29T10:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         }
       ],
       "title" : "Bezirksschiessen 50m"
@@ -2390,18 +2390,18 @@
       "timeBlocks" : [
         {
           "date" : "2027-03-20T11:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "14:00"
-        },
-        {
-          "date" : "2027-03-20T11:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "14:00"
-        },
-        {
-          "date" : "2027-03-20T11:00:00Z",
           "endTime" : "12:00",
           "startTime" : "10:00"
+        },
+        {
+          "date" : "2027-03-20T11:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "14:00"
+        },
+        {
+          "date" : "2027-03-20T11:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "14:00"
         },
         {
           "date" : "2027-03-20T11:00:00Z",
@@ -2444,8 +2444,8 @@
         },
         {
           "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "13:00",
-          "startTime" : "07:30"
+          "endTime" : "18:00",
+          "startTime" : "07:45"
         },
         {
           "date" : "2026-08-15T10:00:00Z",
@@ -2454,8 +2454,8 @@
         },
         {
           "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "18:00",
-          "startTime" : "07:45"
+          "endTime" : "13:00",
+          "startTime" : "07:30"
         },
         {
           "date" : "2026-08-16T10:00:00Z",
@@ -2488,13 +2488,13 @@
         },
         {
           "date" : "2026-08-08T10:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "14:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-08-08T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:30",
+          "startTime" : "14:00"
         },
         {
           "date" : "2026-08-12T10:00:00Z",
@@ -2522,13 +2522,13 @@
       "timeBlocks" : [
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "11:30",
-          "startTime" : "09:00"
+          "endTime" : "11:55",
+          "startTime" : "07:30"
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "11:55",
-          "startTime" : "07:30"
+          "endTime" : "11:30",
+          "startTime" : "09:00"
         }
       ],
       "title" : "OJGM\/OGWJJ-Final 2026"
@@ -2610,12 +2610,12 @@
         {
           "date" : "2026-08-08T10:00:00Z",
           "endTime" : "16:30",
-          "startTime" : "13:00"
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-08-08T10:00:00Z",
           "endTime" : "16:30",
-          "startTime" : "13:30"
+          "startTime" : "13:00"
         }
       ],
       "title" : "Kantonaler JJ-\/JS-GM-Final 2026"
@@ -2674,6 +2674,6 @@
       "title" : "Schweizerische Vereinswettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T18:50:34Z",
+  "generatedAt" : "2026-08-07T18:35:34Z",
   "schemaVersion" : 1
 }
