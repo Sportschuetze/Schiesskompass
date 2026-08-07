@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.nuglar-st-pantaleon-pistolenklub.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/pistolenklub.info\/wp-content\/uploads\/2026\/03\/Verhalten-im-Stand-2026.pdf"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.nuglar-st-pantaleon-pistolenklub.hauptschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Hauptschiessen",
         "sourceURL" : "https:\/\/pistolenklub.info\/wp-content\/uploads\/2026\/03\/Verhalten-im-Stand-2026.pdf"
@@ -34,7 +34,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.nuglar-st-pantaleon-pistolenklub.klausenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Klausenschiessen",
         "sourceURL" : "https:\/\/pistolenklub.info\/wp-content\/uploads\/2026\/03\/Verhalten-im-Stand-2026.pdf"
@@ -52,7 +52,7 @@
     "trainingWeekday" : "",
     "website" : "www.pistolenklub.info"
   },
-  "contentHash" : "sha256-ba8895fb00b041a39657a61e8456e7a4fe38c3571e23dd3e677933b287464cb2",
+  "contentHash" : "sha256-5fbd5b18a798f19da8bb37a42af7a5f734a5930d4af699ed5fbcd08fb6815202",
   "events" : [
     {
       "championshipTags" : "",
@@ -62,7 +62,7 @@
       "endDate" : "2026-05-06T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.so.nuglar-st-pantaleon-pistolenklub.efs.2026-05-06",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -85,7 +85,7 @@
       "endDate" : "2026-05-20T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.so.nuglar-st-pantaleon-pistolenklub.efs.2026-05-20",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -108,7 +108,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.so.nuglar-st-pantaleon-pistolenklub.efs.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -131,7 +131,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.so.nuglar-st-pantaleon-pistolenklub.op.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -147,7 +147,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

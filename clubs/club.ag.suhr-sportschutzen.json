@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.suhr-sportschutzen.firmenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Firmenschiessen",
         "sourceURL" : "https:\/\/xn--sportschtzensuhr-qzb.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.suhr-sportschutzen.volksschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
         "sourceURL" : "https:\/\/xn--sportschtzensuhr-qzb.ch\/"
@@ -42,11 +42,11 @@
     "trainingWeekday" : "",
     "website" : "www.sportschützensuhr.ch"
   },
-  "contentHash" : "sha256-f61f1e68f6d860ebae114153380fe41d0294ebc201db20ce6288993d2bf5ea4a",
+  "contentHash" : "sha256-87e1e931b652df98a74624bfc24d5aa5df6f6738b8b6522a63a164e08f544c52",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

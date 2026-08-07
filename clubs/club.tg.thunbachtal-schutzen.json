@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.tg.thunbachtal-schutzen.berchtoldschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Berchtoldschiessen",
         "sourceURL" : "https:\/\/www.schuetzen-thunbachtal.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.tg.thunbachtal-schutzen.gruppenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Gruppenschiessen",
         "sourceURL" : "https:\/\/www.schuetzen-thunbachtal.ch\/"
@@ -42,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-thunbachtal.ch"
   },
-  "contentHash" : "sha256-81c9e4fc4744e69035382fe69ccd4cd00774cbaff1a7cf16634c3022303af177",
+  "contentHash" : "sha256-b78d440284b450ac8643febfc1a5e0d8fb24350dcf9e2c44ba23970b4560c44b",
   "events" : [
     {
       "championshipTags" : "",
@@ -95,7 +95,7 @@
       "endDate" : "2026-07-03T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.tg.thunbachtal-schutzen.berchtoldschiessen.2026-07-03",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -118,7 +118,7 @@
       "endDate" : "2026-07-03T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.tg.thunbachtal-schutzen.efs.2026-07-03",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -134,7 +134,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.kks-gipf-oberfrick.ch"
   },
-  "contentHash" : "sha256-40b72ba716e40e467cb8bf15003800d247a866f90d87ba602d816ae2007f104e",
+  "contentHash" : "sha256-afac0f78bfd3409ce10d96146a9554b75788303e8e1801a1612495f66a157ab2",
   "events" : [
     {
       "championshipTags" : "",
@@ -35,7 +35,7 @@
       "endDate" : "2026-05-11T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.gipf-oberfrick-kleinkaliberschutzen.kornbergschiessen.2026-05-11",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -58,7 +58,7 @@
       "endDate" : "2026-07-20T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.gipf-oberfrick-kleinkaliberschutzen.volksschiessen.2026-07-20",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -81,7 +81,7 @@
       "endDate" : "2026-08-14T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.gipf-oberfrick-kleinkaliberschutzen.volksschiessen.2026-08-14",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -104,7 +104,7 @@
       "endDate" : "2026-08-15T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.gipf-oberfrick-kleinkaliberschutzen.volksschiessen.2026-08-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -127,7 +127,7 @@
       "endDate" : "2026-08-16T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.gipf-oberfrick-kleinkaliberschutzen.volksschiessen.2026-08-16",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -150,7 +150,7 @@
       "endDate" : "2026-08-18T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.gipf-oberfrick-kleinkaliberschutzen.volksschiessen.2026-08-18",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -166,7 +166,7 @@
       "title" : "Volksschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

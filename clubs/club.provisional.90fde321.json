@@ -23,14 +23,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.kleinkalieberschuetzen-merligen.ch",
-    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-02cc0166110c2e69fa0ccc162c9767a76621803b21cb8f003449dafb7e2a3a83",
+  "contentHash" : "sha256-adb29a6dd9b61b87c73ebd6ff463dd3c529a746acddafeaa2d6b4220faaf991c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

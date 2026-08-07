@@ -20,7 +20,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.dornach-freischutzen.banzenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Bänzenschiessen",
         "sourceURL" : "https:\/\/www.freischuetzen.ch\/"
@@ -28,7 +28,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.dornach-freischutzen.jugendschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Jugendschiessen",
         "sourceURL" : "https:\/\/www.freischuetzen.ch\/"
@@ -46,11 +46,11 @@
     "trainingWeekday" : "",
     "website" : "www.freischuetzen.ch"
   },
-  "contentHash" : "sha256-5fea9be0280973ce4eb01e9751a0e03b9a5e2a28510de5356d75696822dc8675",
+  "contentHash" : "sha256-9bead27badcf05fc5e46ce3c5ee88392bc48885b6743f43332eaa6779df1fb8b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

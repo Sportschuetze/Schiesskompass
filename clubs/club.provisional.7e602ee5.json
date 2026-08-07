@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7e602ee5.fruhlingsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Frühlingsschiessen",
         "sourceURL" : "https:\/\/www.unterbachschuetzen.ch\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7e602ee5.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/www.unterbachschuetzen.ch\/"
@@ -41,7 +41,7 @@
     "trainingWeekday" : "",
     "website" : "www.unterbachschuetzen.ch"
   },
-  "contentHash" : "sha256-72638762d744a3f4f965e1307c39e103d985ecb9df003a5940a1c8b00ef7444e",
+  "contentHash" : "sha256-ec8faa43cd6b477d961c59b12d5dda4f927a6ce8b8d7659ec00320581bc4dfac",
   "events" : [
     {
       "championshipTags" : "",
@@ -51,7 +51,7 @@
       "endDate" : "2027-08-29T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.7e602ee5.jubilaumsschiessen.2027-08-29",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -67,7 +67,7 @@
       "title" : "Jubiläumsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

@@ -25,14 +25,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.tregants-sent.ch",
-    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-41376a5f63b41d557f7b89c60e6d2bfd47838f874dc1e3bfde2668f4ed135c63",
+  "contentHash" : "sha256-f7ef78ca53ec22e0ee646f63e9a0ee30d71d890d9ab26d3d1056ac6547ed2761",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

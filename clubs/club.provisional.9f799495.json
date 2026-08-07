@@ -27,7 +27,7 @@
     "trainingWeekday" : "",
     "website" : "www.ps-steffisburg.ch"
   },
-  "contentHash" : "sha256-758911d89ab8eb4e68e32ffb4e508b3db9ac109c15e350d6aa8a66bfd9a49965",
+  "contentHash" : "sha256-a31e0af78a1356ce537bcaee697f8554df0b91de082af49ec3c13a95e3af039a",
   "events" : [
     {
       "championshipTags" : "",
@@ -37,7 +37,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.9f799495.efs.2026-05-30",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -60,7 +60,7 @@
       "endDate" : "2026-07-29T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.9f799495.freundschaftsschiessen.2026-07-29",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -76,7 +76,7 @@
       "title" : "Freundschaftsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

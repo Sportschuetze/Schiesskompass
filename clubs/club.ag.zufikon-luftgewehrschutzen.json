@@ -32,14 +32,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.lg-zufikon.ch",
-    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
-    "websiteStatus" : "rootFallback"
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-c933cee19e9811cf1ee53a7931fef9da555c0b4143196079309793060c163023",
+  "contentHash" : "sha256-37a9ab63513768b5e8218f6aadf81a1ff2b65dde0b4a8ecaf153fdf5a7e21de3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

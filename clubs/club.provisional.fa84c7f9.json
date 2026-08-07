@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.fa84c7f9.bubenbergschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Bubenbergschiessen",
         "sourceURL" : "https:\/\/www.freischuetzenwabern.ch\/"
@@ -33,11 +33,11 @@
     "trainingWeekday" : "",
     "website" : "www.freischuetzenwabern.ch"
   },
-  "contentHash" : "sha256-37025a57a6e7b2311c92635e30a43a3c62b4163e5500af1d5e3d53f5f588424d",
+  "contentHash" : "sha256-c4a127282a1970babdff17c67ea2489781833146912a444f9a844666c3e78d8f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

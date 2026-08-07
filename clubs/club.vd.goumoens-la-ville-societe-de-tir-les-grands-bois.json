@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.tirgoumoens.ch"
   },
-  "contentHash" : "sha256-31c3174920f4847596867d8b8549a61cbc8a4150f2c74e48e0c1e673076d10ca",
+  "contentHash" : "sha256-9de9f6f6bc18861c5c08b8d239218d381816356f95be6ac0fe920f83172a85a3",
   "events" : [
     {
       "championshipTags" : "",
@@ -34,7 +34,7 @@
       "endDate" : "2026-10-03T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.vd.goumoens-la-ville-societe-de-tir-les-grands-bois.efs.2026-10-03",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -50,7 +50,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.niedererlinsbach-schutzenbund.leibrunnelischiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Leibrünnelischiessen",
         "sourceURL" : "https:\/\/www.sb-ne.com\/"
@@ -34,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.sb-ne.com"
   },
-  "contentHash" : "sha256-e49c908da75eabb5fdca172f3b4e50a5dead6fc616a0e1e01b8aeaadf4bb958a",
+  "contentHash" : "sha256-5800f25728e92f977bfc762c06812265cd93de2d1ce9b3c03747ae77175cda22",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

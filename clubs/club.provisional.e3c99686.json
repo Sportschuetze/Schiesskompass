@@ -34,14 +34,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.pistolenschuetzen-bremgarten-kirchlindach.clubdesk.com\/willkommen",
-    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
-    "websiteStatus" : "rootFallback"
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-1f61454c21a04dd46c84ccd996ed6d632e0bc1263bd31991f74c9754af928b6f",
+  "contentHash" : "sha256-0cef901475838b2dd9a1b5be17be0c6144e9988a684c36ee26d0f71bb3d1b09d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

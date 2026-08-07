@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.54471e6f.chlausschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Chlausschiessen",
         "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.54471e6f.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.54471e6f.volksschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
         "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf"
@@ -40,7 +40,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.54471e6f.winterschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf"
@@ -48,7 +48,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.54471e6f.wyberschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Wyberschiessen",
         "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf"
@@ -66,7 +66,7 @@
     "trainingWeekday" : "",
     "website" : "www.svboppelsen.com"
   },
-  "contentHash" : "sha256-3c6043b2024bf7c6c609ebed006a1f043fcb04675b2fa960e7e62a3f0daa5e1a",
+  "contentHash" : "sha256-adae3e38502626e5e7a972278b06c80f0b47242846b184f0b5bf69824b2028b2",
   "events" : [
     {
       "championshipTags" : "",
@@ -76,7 +76,7 @@
       "endDate" : "2027-03-05T11:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.54471e6f.efs.2027-03-05",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -99,7 +99,7 @@
       "endDate" : "2027-03-05T11:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.54471e6f.op.2027-03-05",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -122,7 +122,7 @@
       "endDate" : "2027-03-05T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.54471e6f.winterschiessen.2027-03-05",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -138,7 +138,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

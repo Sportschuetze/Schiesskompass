@@ -41,14 +41,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.spsw.clubdesk.com",
-    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
-    "websiteStatus" : "rootFallback"
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-438dab5d3882a5ab444aec8b59964eeca2024eec205c2ed1637b5a3affe7fea1",
+  "contentHash" : "sha256-584ae170c1453d55e56f9c1934db35b5eb3c50d47a501b7b7f6dcc3ea2fd914e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

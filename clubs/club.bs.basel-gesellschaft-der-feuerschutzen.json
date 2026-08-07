@@ -20,7 +20,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bs.basel-gesellschaft-der-feuerschutzen.wildbretschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Wildbretschiessen",
         "sourceURL" : "https:\/\/www.feuerschuetzen.ch\/"
@@ -38,7 +38,7 @@
     "trainingWeekday" : "",
     "website" : "www.feuerschuetzen.ch"
   },
-  "contentHash" : "sha256-5e4d372e7ebf6eef3beee6a19b638e4f9de15eaaffbd9f2f294a435d499be4d9",
+  "contentHash" : "sha256-94a96247386b73085447f28c17e75a27f0ca92149b1e8c83211a5118ae660ce6",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,7 +48,7 @@
       "endDate" : "2026-08-08T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bs.basel-gesellschaft-der-feuerschutzen.forellenschiessen.2026-08-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -64,7 +64,7 @@
       "title" : "Forellenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

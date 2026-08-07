@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.strengelbach-schutzengesellschaft.jungschutzenwettschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Jungschützenwettschiessen",
         "sourceURL" : "https:\/\/www.sg-strengelbach.ch\/media\/files\/jahresprogramm-2022-veteranen-01.pdf"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.strengelbach-schutzengesellschaft.wettschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/www.sg-strengelbach.ch\/media\/files\/jahresprogramm-2022-veteranen-01.pdf"
@@ -42,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-strengelbach.ch"
   },
-  "contentHash" : "sha256-f23dcd9ba9aacc6c0a961112ac0ff2ee2b1ca56e4cec921ab64f30a53232e54f",
+  "contentHash" : "sha256-107a894ced3650ea5ea912a8e64ed9cd9542b7f12d0500f4cd4b0971214e36cf",
   "events" : [
     {
       "championshipTags" : "",
@@ -52,7 +52,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.strengelbach-schutzengesellschaft.efs.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -75,7 +75,7 @@
       "endDate" : "2026-05-08T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.strengelbach-schutzengesellschaft.jubilaumsschiessen.2026-05-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -98,7 +98,7 @@
       "endDate" : "2026-05-17T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.strengelbach-schutzengesellschaft.schorutischiessen.2026-05-17",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -121,7 +121,7 @@
       "endDate" : "2026-04-16T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.strengelbach-schutzengesellschaft.sodhubelschiessen.2026-04-16",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -144,7 +144,7 @@
       "endDate" : "2026-05-17T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.strengelbach-schutzengesellschaft.stadtschiessen.2026-05-17",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -167,7 +167,7 @@
       "endDate" : "2026-07-06T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.strengelbach-schutzengesellschaft.wettschiessen.2026-07-06",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -183,7 +183,7 @@
       "title" : "WETTSCHIESSEN"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

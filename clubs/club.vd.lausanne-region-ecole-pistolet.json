@@ -24,14 +24,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.ecole-pistolet-lausanne.ch",
-    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
-    "websiteStatus" : "rootFallback"
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-6b5a1b3a9dd766c748d398728fd4d07a59a8a193135e1f6c644a1c1b0257fc51",
+  "contentHash" : "sha256-44c17f04dec72b373d7336579915fba10a350325750bd24380405f03da704e82",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

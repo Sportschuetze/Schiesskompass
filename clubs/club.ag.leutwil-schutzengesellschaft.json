@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.leutwil-schutzengesellschaft.wampfleschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Wampfleschiessen",
         "sourceURL" : "https:\/\/www.sg-leutwil.ch\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.leutwil-schutzengesellschaft.winterschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/www.sg-leutwil.ch\/"
@@ -41,7 +41,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-leutwil.ch"
   },
-  "contentHash" : "sha256-8f2bf7ef21da5365aaf2b9236a7aa3eca2bb4bcb30123969c9f705714cbc759b",
+  "contentHash" : "sha256-1365a06fe5a98f73ae85dcbf84403cd9957cce63c5f8599b4235983a87084652",
   "events" : [
     {
       "championshipTags" : "",
@@ -70,7 +70,7 @@
       "endDate" : "2026-05-16T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.leutwil-schutzengesellschaft.wampfleschiessen.2026-05-16",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -86,7 +86,7 @@
       "title" : "Wampfleschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.muhen-sportschutzen-sportschutzen.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/www.sportschuetzen-muhen.ch\/"
@@ -34,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.sportschuetzen-muhen.ch"
   },
-  "contentHash" : "sha256-d634b2e5bff15b1ffb829900ca60ce74852c31c7cd0e776fe5ea44937f7dcb33",
+  "contentHash" : "sha256-99ef59b816618b3591add19b84c4fbf81bca9e9ceb482ad3e7886033ae7c8f7c",
   "events" : [
     {
       "championshipTags" : "",
@@ -44,7 +44,7 @@
       "endDate" : "2027-03-10T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.muhen-sportschutzen-sportschutzen.freundschaftsschiessen.2027-03-10",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -60,7 +60,7 @@
       "title" : "Freundschaftsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

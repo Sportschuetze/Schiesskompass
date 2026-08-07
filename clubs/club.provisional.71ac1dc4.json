@@ -90,9 +90,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "https:\/\/prssu.ch"
+    "website" : "https:\/\/prssu.ch",
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-89c1a0ef076e616728093531d099a9320143b4e7273fa2ba1b5cb01ecf6a0f38",
+  "contentHash" : "sha256-bbad5d1300d0277416f59f4f4dd00017cdbbf54a391aee0349dfa4710cfa4c3e",
   "events" : [
     {
       "championshipTags" : "",
@@ -463,7 +465,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

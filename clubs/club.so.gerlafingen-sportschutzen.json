@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.gerlafingen-sportschutzen.auflageschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Auflageschiessen",
         "sourceURL" : "https:\/\/www.sps-gerlafingen.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.gerlafingen-sportschutzen.bruckwachtschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Brückwachtschiessen",
         "sourceURL" : "https:\/\/www.sps-gerlafingen.ch\/"
@@ -43,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "www.sps-gerlafingen.ch"
   },
-  "contentHash" : "sha256-997f6d117f8f51e7cf38595fbb4bc4db7f5c7f757c4de79702446a944d642e43",
+  "contentHash" : "sha256-0d12c98cb4309b729c53836b01565003d9aadfe49c00229a8242bcf6480c0477",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.kolliken-militarschiessverein.pistolenfeldschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Pistolenfeldschiessen",
         "sourceURL" : "https:\/\/www.msv-koelliken.ch\/wp-content\/uploads\/2024\/07\/Terminkalender-2024.pdf"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.kolliken-militarschiessverein.wettschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/www.msv-koelliken.ch\/wp-content\/uploads\/2024\/07\/Terminkalender-2024.pdf"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.kolliken-militarschiessverein.winterschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/www.msv-koelliken.ch\/wp-content\/uploads\/2024\/07\/Terminkalender-2024.pdf"
@@ -49,7 +49,7 @@
     "trainingWeekday" : "",
     "website" : "www.msv-koelliken.ch"
   },
-  "contentHash" : "sha256-42856c2a5839e073f443862fa3b8800386e50c4e7183d6f599b00630f1f5a523",
+  "contentHash" : "sha256-2af6965931f8251b270a456f3080c1b75e69bba8ca440c6957cbb75c3a07abe2",
   "events" : [
     {
       "championshipTags" : "",
@@ -59,7 +59,7 @@
       "endDate" : "2026-04-03T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.kolliken-militarschiessverein.efs.2026-04-03",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -82,7 +82,7 @@
       "endDate" : "2026-06-01T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.kolliken-militarschiessverein.efs.2026-06-01",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -105,7 +105,7 @@
       "endDate" : "2026-07-04T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.kolliken-militarschiessverein.jungschutzenwettschiessen.2026-07-04",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -128,7 +128,7 @@
       "endDate" : "2026-08-01T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.kolliken-militarschiessverein.jungschutzenwettschiessen.2026-08-01",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -151,7 +151,7 @@
       "endDate" : "2026-03-12T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.kolliken-militarschiessverein.wadlischiessen.2026-03-12",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -167,7 +167,7 @@
       "title" : "Wädlischiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

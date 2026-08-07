@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.tirhautesarine.ch\/"
   },
-  "contentHash" : "sha256-de5e656e01cc60041866740400a674ebe18294bc88c44628bfdce70e27ca30da",
+  "contentHash" : "sha256-ef4bb76815b06101051c1b119200e324319fb66b1480b856737f87ffeb8994e2",
   "events" : [
     {
       "championshipTags" : "",
@@ -33,7 +33,7 @@
       "endDate" : "2026-04-24T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.fr.haute-sarine-societe-de-tir.efs.2026-04-24",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -56,7 +56,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.fr.haute-sarine-societe-de-tir.efs.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -79,7 +79,7 @@
       "endDate" : "2027-03-27T11:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.fr.haute-sarine-societe-de-tir.efs.2027-03-27",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -95,7 +95,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

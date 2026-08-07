@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.fs-steinhof.ch"
   },
-  "contentHash" : "sha256-88a976fa20fe03f3c96e259876e5cab4fceb1349e4efd8bbbbbdaea52696b5d6",
+  "contentHash" : "sha256-6dcb02c605051e707054101a60a0993d800ef3122eb24d92082c7c48790d06bf",
   "events" : [
     {
       "championshipTags" : "",
@@ -33,7 +33,7 @@
       "endDate" : "2026-06-03T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.so.steinhof-feldschutzen.efs.2026-06-03",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -56,7 +56,7 @@
       "endDate" : "2026-06-28T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.so.steinhof-feldschutzen.efs.2026-06-28",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -79,7 +79,7 @@
       "endDate" : "2026-08-07T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.steinhof-feldschutzen.silberhelmschiessen.2026-08-07",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -95,7 +95,7 @@
       "title" : "Silberhelmschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

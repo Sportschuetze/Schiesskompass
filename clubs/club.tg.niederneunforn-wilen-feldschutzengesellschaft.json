@@ -22,14 +22,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.fsgniederneunforn.ch",
-    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-2514f460f1024be385e36ac7ce169953d4aafdffc111aad9e2cb1fd17a68b72b",
+  "contentHash" : "sha256-51b746b95d7120b4810c0266aa80542090b415e51431bfe7448aeb83a47b493e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

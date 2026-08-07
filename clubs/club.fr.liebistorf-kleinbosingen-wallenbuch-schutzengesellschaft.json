@@ -129,10 +129,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sgliebistorf.ch",
-    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
-    "websiteStatus" : "rootFallback"
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-7d2d42d8248a15b3e899d3266de3847705b5fba812acf941c3c6a8687e1e1e9f",
+  "contentHash" : "sha256-c4c6d9bff7955c6e5851cc3c91046632763d4c200c401f3a623caf0072a38d54",
   "events" : [
     {
       "championshipTags" : "",
@@ -181,7 +181,7 @@
       "title" : "Morgartenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.90c9127d.chlousenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Chlousenschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-kerzers.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.90c9127d.sektionsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Sektionsschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-kerzers.ch\/"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.90c9127d.testschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Testschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-kerzers.ch\/"
@@ -40,7 +40,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.90c9127d.volksschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-kerzers.ch\/"
@@ -58,11 +58,11 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-kerzers.ch"
   },
-  "contentHash" : "sha256-9fde6c72c0a69f34290bd449ee1b04b19e966c44bb1a7bf31e0ca06b7fe0bdd1",
+  "contentHash" : "sha256-dcebf0f4ffd186cff8c3e85a4443376d3c4631e0c5a473d38a42e039d3aba583",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

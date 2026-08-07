@@ -32,10 +32,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sg-boenigen.ch",
-    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
-    "websiteStatus" : "rootFallback"
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-c53ce5660c625c081957f7cd57a9b7a51afe6102821a6f8c12d7a80a73c99c06",
+  "contentHash" : "sha256-78f9643b82f4ecf9668249b662fccce325fbf5a680448a8da52f9b9ab0c043a6",
   "events" : [
     {
       "championshipTags" : "",
@@ -84,7 +84,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

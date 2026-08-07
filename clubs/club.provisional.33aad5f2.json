@@ -27,7 +27,7 @@
     "trainingWeekday" : "",
     "website" : "www.sv-zollikon.ch"
   },
-  "contentHash" : "sha256-7bfd6fa4cbcf2ea0a93d8a114ebb93a1fc10e4a4ab321dab469515b280ffb8c0",
+  "contentHash" : "sha256-250eace382a9084872124698a61e873108ff514fbe20f7158421abc3c4a026ae",
   "events" : [
     {
       "championshipTags" : "",
@@ -37,7 +37,7 @@
       "endDate" : "2026-06-12T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.33aad5f2.efs.2026-06-12",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -60,7 +60,7 @@
       "endDate" : "2026-06-12T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.33aad5f2.op.2026-06-12",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -76,7 +76,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

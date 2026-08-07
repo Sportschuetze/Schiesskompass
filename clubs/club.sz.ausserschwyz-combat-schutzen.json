@@ -27,7 +27,7 @@
     "trainingWeekday" : "",
     "website" : "www.c-s-a.ch"
   },
-  "contentHash" : "sha256-baf222fd707e7ac01b51143e961c54986981b18a260b6f56eb843721c66010ce",
+  "contentHash" : "sha256-bce28977562d5050218dfc85cc692acb415a471591a7865cfd479e7ebf83acb2",
   "events" : [
     {
       "championshipTags" : "",
@@ -37,7 +37,7 @@
       "endDate" : "2026-08-07T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.sz.ausserschwyz-combat-schutzen.op.2026-08-07",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -53,7 +53,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

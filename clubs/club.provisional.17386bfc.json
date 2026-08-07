@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.17386bfc.barzelistagschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Bärzelistagschiessen",
         "sourceURL" : "https:\/\/www.psursenbach.ch\/schiessdaten_2026.pdf"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.17386bfc.glucksstich",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Glücksstich",
         "sourceURL" : "https:\/\/www.psursenbach.ch\/schiessdaten_2026.pdf"
@@ -34,7 +34,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.17386bfc.salvisbergschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Salvisbergschiessen",
         "sourceURL" : "https:\/\/www.psursenbach.ch\/schiessdaten_2026.pdf"
@@ -42,7 +42,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.17386bfc.vorstandeschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Vorständeschiessen",
         "sourceURL" : "https:\/\/www.psursenbach.ch\/schiessdaten_2026.pdf"
@@ -60,11 +60,11 @@
     "trainingWeekday" : "",
     "website" : "www.psursenbach.ch"
   },
-  "contentHash" : "sha256-9fe89b3afc7d25d7b467bef80d9c9bef9f3aca42c7a0c6e8a272dee33044060f",
+  "contentHash" : "sha256-e78ee6ff40a4a7cf34c0e05981750ce3d6dd9d1691beff8ee67b46e9a1960dac",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

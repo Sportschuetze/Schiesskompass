@@ -20,7 +20,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bs.basel-feldschutzenverein.schnupperschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Schnupperschiessen",
         "sourceURL" : "https:\/\/www.fsv-basel.ch\/"
@@ -38,7 +38,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsv-basel.ch"
   },
-  "contentHash" : "sha256-691fd20571ecbfde7f490509fc8403d780501bd82dcb42541ef38de9f439cd9a",
+  "contentHash" : "sha256-02f1c02dc0366d9bb82872d4239035f6acf8900b7e76b72b4bfcfba84e79eca6",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,7 +48,7 @@
       "endDate" : "2026-08-07T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.edletenschiessen.2026-08-07",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -71,7 +71,7 @@
       "endDate" : "2026-08-15T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.edletenschiessen.2026-08-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -94,7 +94,7 @@
       "endDate" : "2026-08-07T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.efs.2026-08-07",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -117,7 +117,7 @@
       "endDate" : "2026-08-08T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.interneschiessen.2026-08-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -140,7 +140,7 @@
       "endDate" : "2026-08-09T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.rotkornschiessen.2026-08-09",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -163,7 +163,7 @@
       "endDate" : "2026-08-08T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.schnupperschiessen.2026-08-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -186,7 +186,7 @@
       "endDate" : "2026-08-12T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.schnupperschiessen.2026-08-12",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -202,7 +202,7 @@
       "title" : "Schnupperschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

@@ -21,7 +21,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.cb754cad.gewehrschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Gewehrschiessen",
         "sourceURL" : "https:\/\/www.svwuelflingen.ch\/dokumente\/resultate\/2026_Kombi_Rali.pdf"
@@ -29,7 +29,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.cb754cad.schlossschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Schlossschiessen",
         "sourceURL" : "https:\/\/www.svwuelflingen.ch\/dokumente\/resultate\/2026_Kombi_Rali.pdf"
@@ -37,7 +37,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.cb754cad.sportschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Sportschiessen",
         "sourceURL" : "https:\/\/www.svwuelflingen.ch\/dokumente\/resultate\/2026_Kombi_Rali.pdf"
@@ -45,7 +45,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.cb754cad.ustertagschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Ustertagschiessen",
         "sourceURL" : "https:\/\/www.svwuelflingen.ch\/dokumente\/resultate\/2026_Kombi_Rali.pdf"
@@ -53,7 +53,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.cb754cad.volksschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
         "sourceURL" : "https:\/\/www.svwuelflingen.ch\/dokumente\/resultate\/2026_Kombi_Rali.pdf"
@@ -71,7 +71,7 @@
     "trainingWeekday" : "",
     "website" : "www.svwuelflingen.ch"
   },
-  "contentHash" : "sha256-4b50a4317ef36ef4d12f2e8be87fb076f0587f0541050d1c0a33be876f842a11",
+  "contentHash" : "sha256-d107e2b18e82d5737544368a734641b4dd6ae631e72c9ed418afd854ec3ae024",
   "events" : [
     {
       "championshipTags" : "",
@@ -152,7 +152,7 @@
       "title" : "Wülflinger Schlossschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

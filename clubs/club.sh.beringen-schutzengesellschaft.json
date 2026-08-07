@@ -19,7 +19,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.beringen-schutzengesellschaft.auflageschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Auflageschiessen",
         "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
@@ -27,7 +27,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.beringen-schutzengesellschaft.blauburgunderlandschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Blauburgunderlandschiessen",
         "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
@@ -35,7 +35,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.beringen-schutzengesellschaft.erinnerungsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Erinnerungsschiessen",
         "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
@@ -43,7 +43,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.beringen-schutzengesellschaft.fruhlingsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Frühlingsschiessen",
         "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
@@ -51,7 +51,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.beringen-schutzengesellschaft.hauptschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Hauptschiessen",
         "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
@@ -59,7 +59,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.beringen-schutzengesellschaft.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
@@ -67,7 +67,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.beringen-schutzengesellschaft.nachtschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Nachtschiessen",
         "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
@@ -75,7 +75,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.beringen-schutzengesellschaft.wettschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/www.sg-beringen.ch\/wp-content\/uploads\/2026\/04\/SG-Jahresprogramm-intern-2026-V2.pdf"
@@ -93,7 +93,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-beringen.ch"
   },
-  "contentHash" : "sha256-7070198d4ade4ece8976fd10896702a2f018f385193d2ca3e26490ce82c0ef10",
+  "contentHash" : "sha256-b13c93235b0325dda2f15f24373e28787789dcecc9b7892002bb727c1f143832",
   "events" : [
     {
       "championshipTags" : "",
@@ -222,7 +222,7 @@
       "endDate" : "2026-03-31T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sh.beringen-schutzengesellschaft.chlausschiessen.2026-03-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -245,7 +245,7 @@
       "endDate" : "2026-04-08T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sh.beringen-schutzengesellschaft.chlausschiessen.2026-04-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -268,7 +268,7 @@
       "endDate" : "2026-04-08T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.sh.beringen-schutzengesellschaft.efs.2026-04-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -291,7 +291,7 @@
       "endDate" : "2026-04-08T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sh.beringen-schutzengesellschaft.winterschiessen.2026-04-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -307,7 +307,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

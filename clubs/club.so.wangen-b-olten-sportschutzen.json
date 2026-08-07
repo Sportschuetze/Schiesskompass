@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.wangen-b-olten-sportschutzen.bornschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Bornschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-wangenbo.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm-2026.pdf"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.wangen-b-olten-sportschutzen.forderstich",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Förderstich",
         "sourceURL" : "https:\/\/sportschuetzen-wangenbo.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm-2026.pdf"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.wangen-b-olten-sportschutzen.hauptschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Hauptschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-wangenbo.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm-2026.pdf"
@@ -41,7 +41,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.wangen-b-olten-sportschutzen.nachtschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Nachtschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-wangenbo.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm-2026.pdf"
@@ -49,7 +49,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.wangen-b-olten-sportschutzen.osterhasenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Osterhasenschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-wangenbo.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm-2026.pdf"
@@ -57,7 +57,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.wangen-b-olten-sportschutzen.schutzenkonigsausstich",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Schützenkönigsausstich",
         "sourceURL" : "https:\/\/sportschuetzen-wangenbo.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm-2026.pdf"
@@ -65,7 +65,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.wangen-b-olten-sportschutzen.vereinswettschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Vereinswettschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-wangenbo.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm-2026.pdf"
@@ -73,7 +73,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.wangen-b-olten-sportschutzen.volkschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Volkschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-wangenbo.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm-2026.pdf"
@@ -81,7 +81,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.wangen-b-olten-sportschutzen.volksschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-wangenbo.ch\/wp-content\/uploads\/2026\/05\/Jahresprogramm-2026.pdf"
@@ -99,7 +99,7 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-wangenbo.ch"
   },
-  "contentHash" : "sha256-4070c5316e8ce4249b3065d6a72231a559c728693d823abcb3044069106e0eed",
+  "contentHash" : "sha256-4b091fe6ae22de4370dc1f52a46b0ec0683b8a2e2146eb56b3d6aaa24be02ddc",
   "events" : [
     {
       "championshipTags" : "",
@@ -109,7 +109,7 @@
       "endDate" : "2026-06-25T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.wangen-b-olten-sportschutzen.vereinswettschiessen.2026-06-25",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -125,7 +125,7 @@
       "title" : "Vereinswettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

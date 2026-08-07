@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.fr.zollhaus-plaffeien-pistolenklub.fruhjahresschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Frühjahresschiessen",
         "sourceURL" : "https:\/\/www.pk-zollhaus-plaffeien.ch\/"
@@ -36,7 +36,7 @@
     "trainingWeekday" : "",
     "website" : "www.pk-zollhaus-plaffeien.ch"
   },
-  "contentHash" : "sha256-481d4ec21c27dad6a9fa2b3a26eef092b0727ad9a0a20742dff8755b17633d01",
+  "contentHash" : "sha256-4aa5896760286f619ce3ce62071d27286ed7cb2f6f3430e3cf884d1b5ec8c0de",
   "events" : [
     {
       "championshipTags" : "",
@@ -46,7 +46,7 @@
       "endDate" : "2026-05-04T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.fr.zollhaus-plaffeien-pistolenklub.fruhjahresschiessen.2026-05-04",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -62,7 +62,7 @@
       "title" : "Frühjahresschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

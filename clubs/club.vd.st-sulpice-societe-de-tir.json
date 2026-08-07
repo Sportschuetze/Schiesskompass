@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.tir-st-sulpice.ch"
   },
-  "contentHash" : "sha256-50ac9816ead64e035b09f4184b1a227aaeb381a14fcddc0f35d5893fe41da912",
+  "contentHash" : "sha256-07bb862ffceb6845da182b71e5aeed0fd4d3d683f3c0818c2e80d960962f7c1e",
   "events" : [
     {
       "championshipTags" : "",
@@ -33,7 +33,7 @@
       "endDate" : "2026-05-28T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.vd.st-sulpice-societe-de-tir.efs.2026-05-28",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -56,7 +56,7 @@
       "endDate" : "2026-05-29T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.vd.st-sulpice-societe-de-tir.efs.2026-05-29",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -79,7 +79,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.vd.st-sulpice-societe-de-tir.efs.2026-05-30",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -102,7 +102,7 @@
       "endDate" : "2026-05-21T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.vd.st-sulpice-societe-de-tir.op.2026-05-21",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -125,7 +125,7 @@
       "endDate" : "2026-06-18T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.vd.st-sulpice-societe-de-tir.op.2026-06-18",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -148,7 +148,7 @@
       "endDate" : "2026-09-02T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.vd.st-sulpice-societe-de-tir.op.2026-09-02",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -164,7 +164,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

@@ -26,13 +26,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "http:\/\/www.stv-versoix.com\/"
+    "website" : "http:\/\/www.stv-versoix.com\/",
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-7d2d21cdb3c99fe120ea1747552fc62ed0a529340601421b22840b263d103d37",
+  "contentHash" : "sha256-e96c54052c5b808e631f14cf31d4f6a4d0b38d3b19c0111428de7cb23e792152",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

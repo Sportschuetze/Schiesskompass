@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.fr.dudingen-pistolenschiessverein.fruhjahresschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Frühjahresschiessen",
         "sourceURL" : "https:\/\/www.psv-duedingen.ch\/wa_files\/jahreskalender%202026-27.pdf"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.fr.dudingen-pistolenschiessverein.martinschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Martinschiessen",
         "sourceURL" : "https:\/\/www.psv-duedingen.ch\/wa_files\/jahreskalender%202026-27.pdf"
@@ -34,7 +34,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.fr.dudingen-pistolenschiessverein.martinsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Martinsschiessen",
         "sourceURL" : "https:\/\/www.psv-duedingen.ch\/wa_files\/jahreskalender%202026-27.pdf"
@@ -42,7 +42,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.fr.dudingen-pistolenschiessverein.pistolengruppenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Pistolengruppenschiessen",
         "sourceURL" : "https:\/\/www.psv-duedingen.ch\/wa_files\/jahreskalender%202026-27.pdf"
@@ -50,7 +50,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.fr.dudingen-pistolenschiessverein.roschtigrabenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Röschtigrabenschiessen",
         "sourceURL" : "https:\/\/www.psv-duedingen.ch\/wa_files\/jahreskalender%202026-27.pdf"
@@ -58,7 +58,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.fr.dudingen-pistolenschiessverein.rostigrabenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Röstigrabenschiessen",
         "sourceURL" : "https:\/\/www.psv-duedingen.ch\/wa_files\/jahreskalender%202026-27.pdf"
@@ -66,7 +66,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.fr.dudingen-pistolenschiessverein.winterschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/www.psv-duedingen.ch\/wa_files\/jahreskalender%202026-27.pdf"
@@ -84,11 +84,11 @@
     "trainingWeekday" : "",
     "website" : "www.psv-duedingen.ch"
   },
-  "contentHash" : "sha256-f225e7a0e6fabf07fe8c70e47f3a64831b5ec9d23baff1d6a7bda32ae64f322e",
+  "contentHash" : "sha256-4d20f354e3a2138a49024ca499e362a4dfc87acb53eb95c17dfe18ac4ddb6b7c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

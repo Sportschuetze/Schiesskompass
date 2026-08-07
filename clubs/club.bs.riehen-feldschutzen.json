@@ -19,7 +19,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bs.riehen-feldschutzen.herbstschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Herbstschiessen",
         "sourceURL" : "https:\/\/www.fs-riehen.ch\/"
@@ -37,7 +37,7 @@
     "trainingWeekday" : "",
     "website" : "www.fs-riehen.ch"
   },
-  "contentHash" : "sha256-fa699ede365c68ba9ed011e443b1b6bdfbee757137efe448803cfeae41cc0cb9",
+  "contentHash" : "sha256-8e12148f30c233198b3680b33be944a9cf082baa42bd23b73f2eafe0be55108f",
   "events" : [
     {
       "championshipTags" : "",
@@ -47,7 +47,7 @@
       "endDate" : "2026-06-02T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.bs.riehen-feldschutzen.efs.2026-06-02",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -70,7 +70,7 @@
       "endDate" : "2026-08-08T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.bs.riehen-feldschutzen.op.2026-08-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -93,7 +93,7 @@
       "endDate" : "2026-08-19T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.bs.riehen-feldschutzen.op.2026-08-19",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -116,7 +116,7 @@
       "endDate" : "2026-02-15T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bs.riehen-feldschutzen.winterschiessen.2026-02-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -132,7 +132,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

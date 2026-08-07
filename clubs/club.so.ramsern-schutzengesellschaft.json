@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.ramsern-schutzengesellschaft.kirchgemeindeschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Kirchgemeindeschiessen",
         "sourceURL" : "https:\/\/www.sgramsern.ch\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.ramsern-schutzengesellschaft.limpachtalschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Limpachtalschiessen",
         "sourceURL" : "https:\/\/www.sgramsern.ch\/"
@@ -41,7 +41,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.sgramsern.ch\/"
   },
-  "contentHash" : "sha256-379d7cf05eb39067f8de1fd303c54552b45ca9a10aaaf64f16f98259ff976217",
+  "contentHash" : "sha256-718055d5b6ae2ce49fa9bcfd3df2691515b814cd43380e17d5e45f4f979e8aca",
   "events" : [
     {
       "championshipTags" : "",
@@ -51,7 +51,7 @@
       "endDate" : "2026-08-27T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.so.ramsern-schutzengesellschaft.efs.2026-08-27",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -74,7 +74,7 @@
       "endDate" : "2026-08-27T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.ramsern-schutzengesellschaft.konigsausstich.2026-08-27",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -90,7 +90,7 @@
       "title" : "Königsausstich"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

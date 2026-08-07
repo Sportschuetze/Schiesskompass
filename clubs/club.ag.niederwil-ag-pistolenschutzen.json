@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.niederwil-ag-pistolenschutzen.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/psniederwil.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.niederwil-ag-pistolenschutzen.fruhlingsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Frühlingsschiessen",
         "sourceURL" : "https:\/\/psniederwil.ch\/"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.niederwil-ag-pistolenschutzen.fuchshaldenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Fuchshaldenschiessen",
         "sourceURL" : "https:\/\/psniederwil.ch\/"
@@ -41,7 +41,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.niederwil-ag-pistolenschutzen.homrigschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Homrigschiessen",
         "sourceURL" : "https:\/\/psniederwil.ch\/"
@@ -49,7 +49,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.niederwil-ag-pistolenschutzen.stiefeliryterschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Stiefeliryterschiessen",
         "sourceURL" : "https:\/\/psniederwil.ch\/"
@@ -67,7 +67,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.psniederwil.ch\/"
   },
-  "contentHash" : "sha256-5965afd3e8d1986604545eaeb0b9af8f7f055bfc2965676fad8cace09417b4fb",
+  "contentHash" : "sha256-95d8140443d387b69326f9be1574785ce6e086413772d2565ce9d2c3e2777021",
   "events" : [
     {
       "championshipTags" : "",
@@ -77,7 +77,7 @@
       "endDate" : "2026-04-15T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.niederwil-ag-pistolenschutzen.efs.2026-04-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -100,7 +100,7 @@
       "endDate" : "2026-04-15T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.niederwil-ag-pistolenschutzen.freundschaftsschiessen.2026-04-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -123,7 +123,7 @@
       "endDate" : "2026-04-15T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.niederwil-ag-pistolenschutzen.fruhlingsschiessen.2026-04-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -146,7 +146,7 @@
       "endDate" : "2026-04-15T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.niederwil-ag-pistolenschutzen.fuchshaldenschiessen.2026-04-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -169,7 +169,7 @@
       "endDate" : "2026-04-15T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.niederwil-ag-pistolenschutzen.homrigschiessen.2026-04-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -192,7 +192,7 @@
       "endDate" : "2026-04-15T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ag.niederwil-ag-pistolenschutzen.op.2026-04-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -215,7 +215,7 @@
       "endDate" : "2026-04-15T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.niederwil-ag-pistolenschutzen.stiefeliryterschiessen.2026-04-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -231,7 +231,7 @@
       "title" : "Stiefeliryterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

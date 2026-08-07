@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.80dd0740.einzelwettschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Einzelwettschiessen",
         "sourceURL" : "https:\/\/schuetzen-grosshoechstetten.ch\/wp-content\/uploads\/2026\/02\/Jahresprogramm_2026.pdf"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.80dd0740.erinnerungsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Erinnerungsschiessen",
         "sourceURL" : "https:\/\/schuetzen-grosshoechstetten.ch\/wp-content\/uploads\/2026\/02\/Jahresprogramm_2026.pdf"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.80dd0740.jahresschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Jahresschiessen",
         "sourceURL" : "https:\/\/schuetzen-grosshoechstetten.ch\/wp-content\/uploads\/2026\/02\/Jahresprogramm_2026.pdf"
@@ -39,7 +39,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.80dd0740.kirchgemeindeschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Kirchgemeindeschiessen",
         "sourceURL" : "https:\/\/schuetzen-grosshoechstetten.ch\/wp-content\/uploads\/2026\/02\/Jahresprogramm_2026.pdf"
@@ -47,7 +47,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.80dd0740.spezialstich",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Spezialstich",
         "sourceURL" : "https:\/\/schuetzen-grosshoechstetten.ch\/wp-content\/uploads\/2026\/02\/Jahresprogramm_2026.pdf"
@@ -55,7 +55,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.80dd0740.stafelalpschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Stafelalpschiessen",
         "sourceURL" : "https:\/\/schuetzen-grosshoechstetten.ch\/wp-content\/uploads\/2026\/02\/Jahresprogramm_2026.pdf"
@@ -63,7 +63,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.80dd0740.testschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Testschiessen",
         "sourceURL" : "https:\/\/schuetzen-grosshoechstetten.ch\/wp-content\/uploads\/2026\/02\/Jahresprogramm_2026.pdf"
@@ -71,7 +71,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.80dd0740.wettschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/schuetzen-grosshoechstetten.ch\/wp-content\/uploads\/2026\/02\/Jahresprogramm_2026.pdf"
@@ -79,7 +79,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.80dd0740.winterschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/schuetzen-grosshoechstetten.ch\/wp-content\/uploads\/2026\/02\/Jahresprogramm_2026.pdf"
@@ -97,11 +97,11 @@
     "trainingWeekday" : "",
     "website" : "schuetzen-grosshoechstetten.ch"
   },
-  "contentHash" : "sha256-633228fe61ee24703e5d6e4b3d46050692bfacd583ace86476cc09412da9fd75",
+  "contentHash" : "sha256-85359ffc9992862f23734986df77fa4e08c868e4c3e0f2209e5f769c1cd67e9f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

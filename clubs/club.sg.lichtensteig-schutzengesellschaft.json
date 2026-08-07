@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.lichtensteig-schutzengesellschaft.landschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Landschiessen",
         "sourceURL" : "https:\/\/landschiessen.ch\/"
@@ -36,7 +36,7 @@
     "trainingWeekday" : "",
     "website" : "www.landschiessen.ch"
   },
-  "contentHash" : "sha256-cff2d260fd5ede805ff41de0d03056849ecdde9364d15869c18cafd914103faa",
+  "contentHash" : "sha256-3d71ee56b69fbf878cf280b4aa57cf5fafe29b777e94d2149a70c4b9edeb7a6d",
   "events" : [
     {
       "championshipTags" : "",
@@ -155,7 +155,7 @@
       "title" : "375. Toggenburgisches Landschiessen Lichtensteig"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

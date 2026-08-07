@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.4120ee8f.fernschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Fernschiessen",
         "sourceURL" : "https:\/\/www.ps-meggen.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.4120ee8f.pistolenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Pistolenschiessen",
         "sourceURL" : "https:\/\/www.ps-meggen.ch\/"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.4120ee8f.schnupperschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Schnupperschiessen",
         "sourceURL" : "https:\/\/www.ps-meggen.ch\/"
@@ -51,7 +51,7 @@
     "trainingWeekday" : "",
     "website" : "www.ps-meggen.ch"
   },
-  "contentHash" : "sha256-7291daedd90a4ff3fba8e84eb5be367971afe588ecdb5c65269dfa9302e5f691",
+  "contentHash" : "sha256-b5cf4a96b3529b619046eb8e53e0fdfb13b192c10190f308004d43a52dbd6491",
   "events" : [
     {
       "championshipTags" : "",
@@ -61,7 +61,7 @@
       "endDate" : "2026-09-04T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.4120ee8f.freundschaftsschiessen.2026-09-04",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -84,7 +84,7 @@
       "endDate" : "2026-10-10T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.4120ee8f.gotthardschiessen.2026-10-10",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -107,7 +107,7 @@
       "endDate" : "2026-10-03T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.4120ee8f.herbstschiessen.2026-10-03",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -130,7 +130,7 @@
       "endDate" : "2026-11-15T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.4120ee8f.morgartenschiessen.2026-11-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -153,7 +153,7 @@
       "endDate" : "2026-10-18T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.4120ee8f.rutlischiessen.2026-10-18",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -176,7 +176,7 @@
       "endDate" : "2026-08-31T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.4120ee8f.ubungsschiessen.2026-08-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -199,7 +199,7 @@
       "endDate" : "2026-09-07T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.4120ee8f.ubungsschiessen.2026-09-07",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -222,7 +222,7 @@
       "endDate" : "2026-09-14T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.4120ee8f.ubungsschiessen.2026-09-14",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -238,7 +238,7 @@
       "title" : "Übungsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

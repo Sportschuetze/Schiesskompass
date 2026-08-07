@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.tir-dezaley.ch"
   },
-  "contentHash" : "sha256-ab75b19befffc70ed1011253f5600ee6c066e812e8f81535c83adbfae250e92c",
+  "contentHash" : "sha256-d723e672e736bd46f9cb7baf1c0956471775aed78b2219d3a819ea43884109b6",
   "events" : [
     {
       "championshipTags" : "",
@@ -33,7 +33,7 @@
       "endDate" : "2026-08-29T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.vd.chexbres-puidoux-ste-tir-sportif-du-dezaley.op.2026-08-29",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -49,7 +49,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.dittingen-feldschutzengesellschaft.blauenbergschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Blauenbergschiessen",
         "sourceURL" : "https:\/\/www.feldschuetzen-dittingen.ch\/index_htm_files\/Jahresprogramm%202026.pdf"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.dittingen-feldschutzengesellschaft.jungschutzenwettschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Jungschützenwettschiessen",
         "sourceURL" : "https:\/\/www.feldschuetzen-dittingen.ch\/index_htm_files\/Jahresprogramm%202026.pdf"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.dittingen-feldschutzengesellschaft.kahlenstich",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Kählenstich",
         "sourceURL" : "https:\/\/www.feldschuetzen-dittingen.ch\/index_htm_files\/Jahresprogramm%202026.pdf"
@@ -40,7 +40,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.dittingen-feldschutzengesellschaft.schwarzbubenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Schwarzbubenschiessen",
         "sourceURL" : "https:\/\/www.feldschuetzen-dittingen.ch\/index_htm_files\/Jahresprogramm%202026.pdf"
@@ -48,7 +48,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.dittingen-feldschutzengesellschaft.wettschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/www.feldschuetzen-dittingen.ch\/index_htm_files\/Jahresprogramm%202026.pdf"
@@ -66,11 +66,11 @@
     "trainingWeekday" : "",
     "website" : "www.feldschuetzen-dittingen.ch"
   },
-  "contentHash" : "sha256-1cc81eeadabb8592a919980b6d99e3750631d5c56c1b86dc00560e0811609c97",
+  "contentHash" : "sha256-5791bd7c32008a9e43c9f5edc4ee8b4d5acea5e6d0b44488aeb92fdff9b11123",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

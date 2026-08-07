@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7134cd45.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/www.sps8192.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7134cd45.schulerschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Schülerschiessen",
         "sourceURL" : "https:\/\/www.sps8192.ch\/"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7134cd45.sportschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Sportschiessen",
         "sourceURL" : "https:\/\/www.sps8192.ch\/"
@@ -41,7 +41,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7134cd45.volksschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
         "sourceURL" : "https:\/\/www.sps8192.ch\/"
@@ -59,7 +59,7 @@
     "trainingWeekday" : "",
     "website" : "www.sps8192.ch"
   },
-  "contentHash" : "sha256-1538893fb9b78ca12e6482637278e5d8315f9c7fce9ea84d9bf649397459b7e1",
+  "contentHash" : "sha256-63cc511da5c325ad254c49975acfa6100bbb6758a6b17f3b57549ce2821c51c4",
   "events" : [
     {
       "championshipTags" : "",
@@ -127,7 +127,7 @@
       "endDate" : "2026-03-24T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.7134cd45.kursabschlussschiessen.2026-03-24",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -150,7 +150,7 @@
       "endDate" : "2026-08-29T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.7134cd45.kursabschlussschiessen.2026-08-29",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -173,7 +173,7 @@
       "endDate" : "2026-04-20T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.7134cd45.schulerschiessen.2026-04-20",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -196,7 +196,7 @@
       "endDate" : "2026-04-27T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.7134cd45.schulerschiessen.2026-04-27",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -219,7 +219,7 @@
       "endDate" : "2026-07-02T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.7134cd45.schulerschiessen.2026-07-02",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -242,7 +242,7 @@
       "endDate" : "2026-04-27T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.7134cd45.sportschiessen.2026-04-27",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -265,7 +265,7 @@
       "endDate" : "2026-04-27T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.7134cd45.volksschiessen.2026-04-27",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -288,7 +288,7 @@
       "endDate" : "2026-06-20T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.7134cd45.volksschiessen.2026-06-20",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -304,7 +304,7 @@
       "title" : "Volksschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

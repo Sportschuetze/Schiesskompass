@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.fs-allmendingen.ch"
   },
-  "contentHash" : "sha256-9d1f3be6430ac8f35c0f22d8f7c1465e09e71a2b0a22a4dd13e9e4a492243143",
+  "contentHash" : "sha256-b7c262304e252d8dbc9a4447dab63f56f721441d59076b77e1b278c95292be9a",
   "events" : [
     {
       "championshipTags" : "",
@@ -33,7 +33,7 @@
       "endDate" : "2026-08-13T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.c2e7885a.efs.2026-08-13",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -56,7 +56,7 @@
       "endDate" : "2026-10-11T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.c2e7885a.freundschaftsschiessen.2026-10-11",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -79,7 +79,7 @@
       "endDate" : "2026-09-19T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.c2e7885a.meisterausstich.2026-09-19",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -102,7 +102,7 @@
       "endDate" : "2026-09-20T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.c2e7885a.meisterausstich.2026-09-20",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -125,7 +125,7 @@
       "endDate" : "2026-08-13T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.c2e7885a.op.2026-08-13",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -148,7 +148,7 @@
       "endDate" : "2026-08-20T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.c2e7885a.op.2026-08-20",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -171,7 +171,7 @@
       "endDate" : "2026-08-29T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.c2e7885a.op.2026-08-29",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -187,7 +187,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

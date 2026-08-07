@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.b793bada.fahnenweihschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Fahnenweihschiessen",
         "sourceURL" : "https:\/\/www.msvtruttikon.ch\/"
@@ -34,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "msvtruttikon.ch"
   },
-  "contentHash" : "sha256-6344dc185079d16ed90831ca25124c1448270865f39148ca496b4124d1e518fc",
+  "contentHash" : "sha256-56f4a98d25fa0061d938c7612f95f66837685249bf8a80ff95c3b1bdd70c1405",
   "events" : [
     {
       "championshipTags" : "",
@@ -95,7 +95,7 @@
       "title" : "Fahnenweihschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

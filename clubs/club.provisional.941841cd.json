@@ -67,9 +67,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.polizei-bergschuetzen-biel-bienne.ch"
+    "website" : "www.polizei-bergschuetzen-biel-bienne.ch",
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-2879a8cba35c9e46daf5d1eac65e85c599a4a745319f3c969fee5b9034532cb4",
+  "contentHash" : "sha256-e02de38ee6b474c96c82ecee402a30bb401af248f409d250a3625d34634c790c",
   "events" : [
     {
       "championshipTags" : "",
@@ -164,7 +166,7 @@
       "title" : "Jahresschlussschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

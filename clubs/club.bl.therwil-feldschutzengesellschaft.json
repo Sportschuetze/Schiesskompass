@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-therwil.ch"
   },
-  "contentHash" : "sha256-af1429f2459f6d77643f93d41b96ee14919e7524346ccf65d03f6b2763b9e956",
+  "contentHash" : "sha256-c21990119046e5040e9b33d3e3f9d61361299f4c566620e34acc448562e8b57e",
   "events" : [
     {
       "championshipTags" : "",
@@ -33,7 +33,7 @@
       "endDate" : "2026-08-11T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.bl.therwil-feldschutzengesellschaft.efs.2026-08-11",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -56,7 +56,7 @@
       "endDate" : "2026-08-11T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.bl.therwil-feldschutzengesellschaft.op.2026-08-11",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -72,7 +72,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

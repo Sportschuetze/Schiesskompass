@@ -17,34 +17,34 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c3ae3649.firmenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Firmenschiessen",
-        "sourceURL" : "http:\/\/www.sps-hegnau.ch\/"
+        "sourceURL" : "https:\/\/www.sps-hegnau.ch\/"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c3ae3649.gottischiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Göttischiessen",
-        "sourceURL" : "http:\/\/www.sps-hegnau.ch\/"
+        "sourceURL" : "https:\/\/www.sps-hegnau.ch\/"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c3ae3649.jugendschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Jugendschiessen",
-        "sourceURL" : "http:\/\/www.sps-hegnau.ch\/"
+        "sourceURL" : "https:\/\/www.sps-hegnau.ch\/"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c3ae3649.wettschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
-        "sourceURL" : "http:\/\/www.sps-hegnau.ch\/"
+        "sourceURL" : "https:\/\/www.sps-hegnau.ch\/"
       }
     ],
     "seasonEndDay" : 31,
@@ -57,9 +57,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "http:\/\/www.sps-hegnau.ch"
+    "website" : "http:\/\/www.sps-hegnau.ch",
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-d978c557258a2f5aa85ce9ba6f3e82c585f9d3e57fd60250e0764f90cdec9ce0",
+  "contentHash" : "sha256-e7a9a3bb7ae7eaf37c3d179a0a311b81ca9660af334f149305579f982501ba83",
   "events" : [
     {
       "championshipTags" : "",
@@ -69,7 +71,7 @@
       "endDate" : "2026-04-26T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.c3ae3649.freundschaftsschiessen.2026-04-26",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -77,7 +79,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "http:\/\/www.sps-hegnau.ch\/",
+      "sourceURL" : "https:\/\/www.sps-hegnau.ch\/",
       "startDate" : "2026-04-26T10:00:00Z",
       "timeBlocks" : [
 
@@ -92,7 +94,7 @@
       "endDate" : "2026-04-26T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.c3ae3649.gottischiessen.2026-04-26",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -100,7 +102,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "http:\/\/www.sps-hegnau.ch\/",
+      "sourceURL" : "https:\/\/www.sps-hegnau.ch\/",
       "startDate" : "2026-04-26T10:00:00Z",
       "timeBlocks" : [
 
@@ -115,7 +117,7 @@
       "endDate" : "2026-03-29T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.c3ae3649.jugendschiessen.2026-03-29",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -123,7 +125,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "http:\/\/www.sps-hegnau.ch\/",
+      "sourceURL" : "https:\/\/www.sps-hegnau.ch\/",
       "startDate" : "2026-03-29T10:00:00Z",
       "timeBlocks" : [
 
@@ -138,7 +140,7 @@
       "endDate" : "2026-03-29T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.c3ae3649.wettschiessen.2026-03-29",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -146,7 +148,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "http:\/\/www.sps-hegnau.ch\/",
+      "sourceURL" : "https:\/\/www.sps-hegnau.ch\/",
       "startDate" : "2026-03-29T10:00:00Z",
       "timeBlocks" : [
 
@@ -154,7 +156,7 @@
       "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

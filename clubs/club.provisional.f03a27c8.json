@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.f03a27c8.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/www.kk-riedli.ch\/"
@@ -34,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.kk-riedli.ch"
   },
-  "contentHash" : "sha256-a91ea8d1a469484e21d7fddd2392a0971df9674e31ad38e2a06fdeb13cbd10b3",
+  "contentHash" : "sha256-8c0478497a5cec988c2b28d8ba285edc5037831aed3ef07f2cfec07c3709be37",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

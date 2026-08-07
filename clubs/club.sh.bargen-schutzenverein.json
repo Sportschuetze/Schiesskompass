@@ -16,50 +16,50 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.bargen-schutzenverein.chlausschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Chlausschiessen",
-        "sourceURL" : "http:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf"
+        "sourceURL" : "https:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.bargen-schutzenverein.einzelwettschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Einzelwettschiessen",
-        "sourceURL" : "http:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf"
+        "sourceURL" : "https:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.bargen-schutzenverein.goldsiegelschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Goldsiegelschiessen",
-        "sourceURL" : "http:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf"
+        "sourceURL" : "https:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.bargen-schutzenverein.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
-        "sourceURL" : "http:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf"
+        "sourceURL" : "https:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.bargen-schutzenverein.nachtschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Nachtschiessen",
-        "sourceURL" : "http:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf"
+        "sourceURL" : "https:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.bargen-schutzenverein.wanderbecherschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Wanderbecherschiessen",
-        "sourceURL" : "http:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf"
+        "sourceURL" : "https:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf"
       }
     ],
     "seasonEndDay" : 31,
@@ -74,7 +74,7 @@
     "trainingWeekday" : "",
     "website" : "www.svbargen.ch"
   },
-  "contentHash" : "sha256-b08bfaf4c019c25460603a08fd012bed17b5f604787b23e43fd93b5522d8bfe1",
+  "contentHash" : "sha256-f028326929167a0f691c8d494cb54d56f19adf2e748c5ae74b8b8695706dd96d",
   "events" : [
     {
       "championshipTags" : "",
@@ -84,7 +84,7 @@
       "endDate" : "2026-04-12T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sh.bargen-schutzenverein.blauburgunderschiessen.2026-04-12",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -92,7 +92,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "http:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf",
+      "sourceURL" : "https:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf",
       "startDate" : "2026-04-12T10:00:00Z",
       "timeBlocks" : [
 
@@ -107,7 +107,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.sh.bargen-schutzenverein.efs.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -115,7 +115,7 @@
       "location" : "Einladung",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "http:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf",
+      "sourceURL" : "https:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf",
       "startDate" : "2026-05-31T10:00:00Z",
       "timeBlocks" : [
 
@@ -130,7 +130,7 @@
       "endDate" : "2026-03-08T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sh.bargen-schutzenverein.fruhlingsschiessen.2026-03-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -138,7 +138,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "http:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf",
+      "sourceURL" : "https:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf",
       "startDate" : "2026-03-08T11:00:00Z",
       "timeBlocks" : [
 
@@ -153,7 +153,7 @@
       "endDate" : "2026-06-28T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.sh.bargen-schutzenverein.op.2026-06-28",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -161,7 +161,7 @@
       "location" : "Einladung",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "http:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf",
+      "sourceURL" : "https:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf",
       "startDate" : "2026-06-28T10:00:00Z",
       "timeBlocks" : [
 
@@ -176,7 +176,7 @@
       "endDate" : "2027-02-19T11:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.sh.bargen-schutzenverein.op.2027-02-19",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -184,7 +184,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "http:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf",
+      "sourceURL" : "https:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf",
       "startDate" : "2027-02-19T11:00:00Z",
       "timeBlocks" : [
 
@@ -199,7 +199,7 @@
       "endDate" : "2026-04-12T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sh.bargen-schutzenverein.schwabenkriegschiessen.2026-04-12",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -207,7 +207,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "http:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf",
+      "sourceURL" : "https:\/\/www.svbargen.ch\/svb\/images\/pdf\/SVBargen_Jahresprogramm_2026.pdf",
       "startDate" : "2026-04-12T10:00:00Z",
       "timeBlocks" : [
 
@@ -215,7 +215,7 @@
       "title" : "Schwabenkriegschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

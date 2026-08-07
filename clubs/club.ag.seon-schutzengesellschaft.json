@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.seon-schutzengesellschaft.haebnischiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Haebnischiessen",
         "sourceURL" : "https:\/\/www.sgseon.ch\/"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.seon-schutzengesellschaft.habnischiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Häbnischiessen",
         "sourceURL" : "https:\/\/www.sgseon.ch\/"
@@ -34,7 +34,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.seon-schutzengesellschaft.sportschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Sportschiessen",
         "sourceURL" : "https:\/\/www.sgseon.ch\/"
@@ -52,7 +52,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgseon.ch"
   },
-  "contentHash" : "sha256-41eda2421957f15d275b381177c36cf9d5e29f7e00c28c4afe88e36fff7cabc8",
+  "contentHash" : "sha256-4e4a9e34ea34332fbb500a3920704098da9243f1e4fb71ade2e005db9a9fd60b",
   "events" : [
     {
       "championshipTags" : "",
@@ -105,7 +105,7 @@
       "endDate" : "2026-02-15T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.seon-schutzengesellschaft.sportschiessen.2026-02-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -121,7 +121,7 @@
       "title" : "Sportschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sz.gersau-schutzengesellschaft.auszahlungsstich",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Auszahlungsstich",
         "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sz.gersau-schutzengesellschaft.kilbischiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Kilbischiessen",
         "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sz.gersau-schutzengesellschaft.vereinsstich",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Vereinsstich",
         "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf"
@@ -39,7 +39,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sz.gersau-schutzengesellschaft.wolfenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Wolfenschiessen",
         "sourceURL" : "https:\/\/www.xn--schtzengersau-yob.ch\/aktuell\/Seeschiessen_2026.pdf"
@@ -57,7 +57,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.schützengersau.ch\/"
   },
-  "contentHash" : "sha256-63740f00bc163eec19b6db221b6b71f99b2e6b29f1139e9bd01bcaba1b438a9f",
+  "contentHash" : "sha256-62731fe7a390d4c27d9c10b6db07244515961aba899cbf4a3d5b8cba32476900",
   "events" : [
     {
       "championshipTags" : "",
@@ -67,7 +67,7 @@
       "endDate" : "2026-08-07T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.auszahlungsstich.2026-08-07",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -90,7 +90,7 @@
       "endDate" : "2026-11-04T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.banzenschiessen.2026-11-04",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -113,7 +113,7 @@
       "endDate" : "2026-05-29T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.efs.2026-05-29",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -136,7 +136,7 @@
       "endDate" : "2026-10-31T11:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.efs.2026-10-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -159,7 +159,7 @@
       "endDate" : "2026-04-18T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.einzelwettschiessen.2026-04-18",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -182,7 +182,7 @@
       "endDate" : "2026-08-05T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.einzelwettschiessen.2026-08-05",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -205,7 +205,7 @@
       "endDate" : "2026-10-31T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.kilbischiessen.2026-10-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -228,7 +228,7 @@
       "endDate" : "2026-10-03T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.kniendschiessen.2026-10-03",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -251,7 +251,7 @@
       "endDate" : "2026-10-31T11:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.op.2026-10-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -274,7 +274,7 @@
       "endDate" : "2026-11-04T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.rutlischiessen.2026-11-04",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -297,7 +297,7 @@
       "endDate" : "2026-06-06T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.schutzenbundschiessen.2026-06-06",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -320,7 +320,7 @@
       "endDate" : "2026-10-31T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sz.gersau-schutzengesellschaft.winterschiessen.2026-10-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -336,7 +336,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

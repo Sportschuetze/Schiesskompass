@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.sv-chestenberg.ch"
   },
-  "contentHash" : "sha256-4b63a43056f695c4c4be084014e44905dbd9b00ce7a0d5c07d95a62e48a94d30",
+  "contentHash" : "sha256-067e1d2d2dad231b03f963f3519307f47d090d4c9c08a693f3b4d79c20433c5c",
   "events" : [
     {
       "championshipTags" : "",
@@ -35,7 +35,7 @@
       "endDate" : "2026-06-13T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.chestenberg-schutzenverein.efs.2026-06-13",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -51,7 +51,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

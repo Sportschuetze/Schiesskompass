@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.pcfraubrunnen.ch"
   },
-  "contentHash" : "sha256-b32692af469804d2586a9fee2f926ebb178b49b6986de9007db551984ae19424",
+  "contentHash" : "sha256-56775bda911fcb0aff475a2a5c2764753e2c907d58b20f26f00d0fc3019ce8fd",
   "events" : [
     {
       "championshipTags" : "",
@@ -35,7 +35,7 @@
       "endDate" : "2026-06-09T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.11990570.efs.2026-06-09",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -58,7 +58,7 @@
       "endDate" : "2026-11-07T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.11990570.freundschaftsschiessen.2026-11-07",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -81,7 +81,7 @@
       "endDate" : "2026-08-14T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.11990570.gemeinderratsschiessen.2026-08-14",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -104,7 +104,7 @@
       "endDate" : "2026-08-20T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.11990570.op.2026-08-20",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -127,7 +127,7 @@
       "endDate" : "2026-08-27T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.11990570.op.2026-08-27",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -143,7 +143,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

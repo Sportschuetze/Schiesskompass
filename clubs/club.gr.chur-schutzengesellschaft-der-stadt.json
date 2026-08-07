@@ -22,7 +22,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gr.chur-schutzengesellschaft-der-stadt.auflageschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Auflageschiessen",
         "sourceURL" : "https:\/\/sg-chur.ch\/wp-content\/uploads\/2026\/06\/Schiessprogramm-2026-v2-0.pdf"
@@ -30,7 +30,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gr.chur-schutzengesellschaft-der-stadt.auszahlungsstich",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Auszahlungsstich",
         "sourceURL" : "https:\/\/sg-chur.ch\/wp-content\/uploads\/2026\/06\/Schiessprogramm-2026-v2-0.pdf"
@@ -38,7 +38,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gr.chur-schutzengesellschaft-der-stadt.calvenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Calvenschiessen",
         "sourceURL" : "https:\/\/sg-chur.ch\/wp-content\/uploads\/2026\/06\/Schiessprogramm-2026-v2-0.pdf"
@@ -46,7 +46,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gr.chur-schutzengesellschaft-der-stadt.einzelwettschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Einzelwettschiessen",
         "sourceURL" : "https:\/\/sg-chur.ch\/wp-content\/uploads\/2026\/06\/Schiessprogramm-2026-v2-0.pdf"
@@ -54,7 +54,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gr.chur-schutzengesellschaft-der-stadt.endvorschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Endvorschiessen",
         "sourceURL" : "https:\/\/sg-chur.ch\/wp-content\/uploads\/2026\/06\/Schiessprogramm-2026-v2-0.pdf"
@@ -62,7 +62,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gr.chur-schutzengesellschaft-der-stadt.knabenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Knabenschiessen",
         "sourceURL" : "https:\/\/sg-chur.ch\/wp-content\/uploads\/2026\/06\/Schiessprogramm-2026-v2-0.pdf"
@@ -70,7 +70,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gr.chur-schutzengesellschaft-der-stadt.morgartenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Morgartenschiessen",
         "sourceURL" : "https:\/\/sg-chur.ch\/wp-content\/uploads\/2026\/06\/Schiessprogramm-2026-v2-0.pdf"
@@ -78,7 +78,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gr.chur-schutzengesellschaft-der-stadt.pistolenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Pistolenschiessen",
         "sourceURL" : "https:\/\/sg-chur.ch\/wp-content\/uploads\/2026\/06\/Schiessprogramm-2026-v2-0.pdf"
@@ -86,7 +86,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gr.chur-schutzengesellschaft-der-stadt.rutlischiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Rütlischiessen",
         "sourceURL" : "https:\/\/sg-chur.ch\/wp-content\/uploads\/2026\/06\/Schiessprogramm-2026-v2-0.pdf"
@@ -104,7 +104,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-chur.ch"
   },
-  "contentHash" : "sha256-4cc7ed01ac81131fb5ea138008b0ff693569eb3f1a95c6a86210bcd85725cd1b",
+  "contentHash" : "sha256-41ab12ba0addb0d1a34a2230b6b697bd21bf77bbaf4e43ebe89aebf896f852f1",
   "events" : [
     {
       "championshipTags" : "",
@@ -142,7 +142,7 @@
       "endDate" : "2026-05-29T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.gr.chur-schutzengesellschaft-der-stadt.calvenschiessen.2026-05-29",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -165,7 +165,7 @@
       "endDate" : "2026-03-02T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.gr.chur-schutzengesellschaft-der-stadt.feldvorschiessen.2026-03-02",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -181,7 +181,7 @@
       "title" : "Feldvorschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

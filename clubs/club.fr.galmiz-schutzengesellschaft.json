@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-galmiz.ch"
   },
-  "contentHash" : "sha256-541c4d8e617ebd3acc31b3cbbf2ae59a3f2dd707f0640a585f114788bf20f181",
+  "contentHash" : "sha256-3e1fd94f13e3335fa45a9b5cc2f746234b39ac0b0654f44e116b1229b3bad8d1",
   "events" : [
     {
       "championshipTags" : "",
@@ -33,7 +33,7 @@
       "endDate" : "2026-08-12T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.fr.galmiz-schutzengesellschaft.op.2026-08-12",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -56,7 +56,7 @@
       "endDate" : "2026-08-19T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.fr.galmiz-schutzengesellschaft.op.2026-08-19",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -72,7 +72,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

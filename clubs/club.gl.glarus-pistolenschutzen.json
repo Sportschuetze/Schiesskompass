@@ -19,7 +19,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gl.glarus-pistolenschutzen.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/schuetzen-glarus.ch\/wordpress\/"
@@ -37,11 +37,11 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-glarus.ch"
   },
-  "contentHash" : "sha256-c73fea61bdc3317e43e597ecf35b46d07a2e2b5ed842b629ac0a41b2fd7ef55c",
+  "contentHash" : "sha256-2f9afb727de80f5e72a19562c08381b604f96e371f94dd67e51d3602507cb665",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

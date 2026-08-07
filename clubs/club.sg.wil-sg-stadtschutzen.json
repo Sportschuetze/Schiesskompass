@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.wil-sg-stadtschutzen.damenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Damenschiessen",
         "sourceURL" : "https:\/\/stadtschuetzen-wil.ch\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.wil-sg-stadtschutzen.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/stadtschuetzen-wil.ch\/"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.wil-sg-stadtschutzen.gangfischschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Gangfischschiessen",
         "sourceURL" : "https:\/\/stadtschuetzen-wil.ch\/"
@@ -39,7 +39,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.wil-sg-stadtschutzen.revolverschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Revolverschiessen",
         "sourceURL" : "https:\/\/stadtschuetzen-wil.ch\/"
@@ -47,7 +47,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.wil-sg-stadtschutzen.sturmnachtschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Sturmnachtschiessen",
         "sourceURL" : "https:\/\/stadtschuetzen-wil.ch\/"
@@ -55,7 +55,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.wil-sg-stadtschutzen.wettschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/stadtschuetzen-wil.ch\/"
@@ -63,7 +63,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.wil-sg-stadtschutzen.winterschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/stadtschuetzen-wil.ch\/"
@@ -79,9 +79,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "http:\/\/www.stadtschuetzen-wil.ch"
+    "website" : "http:\/\/www.stadtschuetzen-wil.ch",
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-0a4586afe8392c13d86d39f4a1b3d022e29f36e3052ac5164075e6c441efd081",
+  "contentHash" : "sha256-c529741675b398c07782ffe8e736b8dadd438403f35d3267cd0ea5892228564c",
   "events" : [
     {
       "championshipTags" : "",
@@ -149,7 +151,7 @@
       "endDate" : "2026-09-11T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sg.wil-sg-stadtschutzen.damenschiessen.2026-09-11",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -172,7 +174,7 @@
       "endDate" : "2026-01-09T11:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.sg.wil-sg-stadtschutzen.efs.2026-01-09",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -195,7 +197,7 @@
       "endDate" : "2026-02-14T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sg.wil-sg-stadtschutzen.revolverschiessen.2026-02-14",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -218,7 +220,7 @@
       "endDate" : "2026-02-21T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sg.wil-sg-stadtschutzen.winterschiessen.2026-02-21",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -234,7 +236,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

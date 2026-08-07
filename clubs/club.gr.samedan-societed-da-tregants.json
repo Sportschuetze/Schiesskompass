@@ -79,7 +79,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-samedan.ch"
   },
-  "contentHash" : "sha256-ee1629bec1896d9e5949f6f673c93d8356eddfdb477fcd688cac194a9e124887",
+  "contentHash" : "sha256-42ab2767aa9c7cdeafbdef418c5e08b1d0a573709f0c762cdaf016b856ec30ff",
   "events" : [
     {
       "championshipTags" : "",
@@ -89,7 +89,7 @@
       "endDate" : "2026-08-08T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.gr.samedan-societed-da-tregants.op.2026-08-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -97,7 +97,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "http:\/\/www.schuetzen-samedan.ch\/wp-content\/uploads\/2026\/05\/Schiessprogramm-300-m-2026.pdf",
+      "sourceURL" : "https:\/\/www.schuetzen-samedan.ch\/",
       "startDate" : "2026-08-08T10:00:00Z",
       "timeBlocks" : [
 
@@ -105,7 +105,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

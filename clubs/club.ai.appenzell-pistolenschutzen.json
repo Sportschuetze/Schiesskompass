@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ai.appenzell-pistolenschutzen.bachtelianerschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Bachtelianerschiessen",
         "sourceURL" : "https:\/\/www.ps-appenzell.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm_2026.pdf"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ai.appenzell-pistolenschutzen.hauptschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Hauptschiessen",
         "sourceURL" : "https:\/\/www.ps-appenzell.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm_2026.pdf"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ai.appenzell-pistolenschutzen.lutzelmurgschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Lützelmurgschiessen",
         "sourceURL" : "https:\/\/www.ps-appenzell.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm_2026.pdf"
@@ -51,11 +51,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.ps-appenzell.ch"
   },
-  "contentHash" : "sha256-e7dfa08a32fa486834ed59d464329d83c31544ac995ba10d705caf9fc1ce9897",
+  "contentHash" : "sha256-f8f98ebecd974f8ae89060e6e04195650b058a905defdba17aec7ee647073a2d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

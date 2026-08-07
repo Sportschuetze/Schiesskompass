@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.zullwil-schutzengesellschaft.gilgenbergschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Gilgenbergschiessen",
         "sourceURL" : "https:\/\/www.sgzullwil.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.zullwil-schutzengesellschaft.hauptschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Hauptschiessen",
         "sourceURL" : "https:\/\/www.sgzullwil.ch\/"
@@ -42,11 +42,11 @@
     "trainingWeekday" : "",
     "website" : "www.sgzullwil.ch"
   },
-  "contentHash" : "sha256-986cf8e98040bf808e23f5993a9323a97cb6720ca417640a120e808a04533429",
+  "contentHash" : "sha256-42fc21d318ba904f42919ad44731f9e91ab956a2c04ee5c3d8559d08fd362f12",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

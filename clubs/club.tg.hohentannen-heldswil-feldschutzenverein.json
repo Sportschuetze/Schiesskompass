@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.tg.hohentannen-heldswil-feldschutzenverein.behordenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Behördenschiessen",
         "sourceURL" : "https:\/\/www.fsv-hohentannen-heldswil.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.tg.hohentannen-heldswil-feldschutzenverein.bischofbergschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Bischofbergschiessen",
         "sourceURL" : "https:\/\/www.fsv-hohentannen-heldswil.ch\/"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.tg.hohentannen-heldswil-feldschutzenverein.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/www.fsv-hohentannen-heldswil.ch\/"
@@ -40,7 +40,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.tg.hohentannen-heldswil-feldschutzenverein.firmenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Firmenschiessen",
         "sourceURL" : "https:\/\/www.fsv-hohentannen-heldswil.ch\/"
@@ -48,7 +48,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.tg.hohentannen-heldswil-feldschutzenverein.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/www.fsv-hohentannen-heldswil.ch\/"
@@ -66,7 +66,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsv-hohentannen-heldswil.ch"
   },
-  "contentHash" : "sha256-883f8ee7508793dd0a6a4039aa52e1bc5c9dab02817c246b2baedd5844dab0f0",
+  "contentHash" : "sha256-45831ddeb36c94c152ea47522f399acd7630c98040b2bf12cf57c86e67db6d70",
   "events" : [
     {
       "championshipTags" : "",
@@ -107,7 +107,7 @@
       "title" : "Bischofbergschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

@@ -19,7 +19,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.rupperswil-pistolenclub.adventschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Adventschiessen",
         "sourceURL" : "https:\/\/www.pc-rupperswil.ch\/"
@@ -37,11 +37,11 @@
     "trainingWeekday" : "",
     "website" : "www.pc-rupperswil.ch"
   },
-  "contentHash" : "sha256-ae6a71dd08090483c2cd006988850ce3b5ad584174e02e98cc02f82472f5bdbe",
+  "contentHash" : "sha256-b34afe63e5a7e5742039b17c5cb5b36f935a7f81df64fafe2104dc4dce9f3b6f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

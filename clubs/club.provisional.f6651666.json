@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.f6651666.nostalgieschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Nostalgieschiessen",
         "sourceURL" : "https:\/\/www.svdachsen.ch\/"
@@ -35,7 +35,7 @@
     "trainingWeekday" : "",
     "website" : "www.svdachsen.ch"
   },
-  "contentHash" : "sha256-7bed0be4bc48795aa7862376e4a52f7528846ae104fa97b50e8304d6e100bf2b",
+  "contentHash" : "sha256-7d2e6c6babfb9f1ca3ceb18bfa1ef5ab84c761aac9713b673f2fa8f50cbad208",
   "events" : [
     {
       "championshipTags" : "",
@@ -45,7 +45,7 @@
       "endDate" : "2026-05-02T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.f6651666.nostalgieschiessen.2026-05-02",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -68,7 +68,7 @@
       "endDate" : "2026-07-20T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.f6651666.nostalgieschiessen.2026-07-20",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -91,7 +91,7 @@
       "endDate" : "2026-08-28T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.f6651666.op.2026-08-28",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -107,7 +107,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

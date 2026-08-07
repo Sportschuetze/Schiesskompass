@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.riedholz-feldbrunnen-sportschutzen.kleinkaliberschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Kleinkaliberschiessen",
         "sourceURL" : "https:\/\/www.sps-riedholz-feldbrunnen.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.riedholz-feldbrunnen-sportschutzen.luftgewehrschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Luftgewehrschiessen",
         "sourceURL" : "https:\/\/www.sps-riedholz-feldbrunnen.ch\/"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.riedholz-feldbrunnen-sportschutzen.volksschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
         "sourceURL" : "https:\/\/www.sps-riedholz-feldbrunnen.ch\/"
@@ -50,11 +50,11 @@
     "trainingWeekday" : "",
     "website" : "www.sps-riedholz-feldbrunnen.ch"
   },
-  "contentHash" : "sha256-5e76ad975b6dce3587541ec7daaa158721bfee86ce7cc63587116bebf722a649",
+  "contentHash" : "sha256-698310b25f72a29533abdb9d7489e2d9bca8a57543bba2a5d17c6601fd5bb347",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

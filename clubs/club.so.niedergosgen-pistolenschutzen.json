@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.niedergosgen-pistolenschutzen.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/ps-niedergoesgen.ch\/"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.niedergosgen-pistolenschutzen.osterschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Osterschiessen",
         "sourceURL" : "https:\/\/ps-niedergoesgen.ch\/"
@@ -34,7 +34,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.niedergosgen-pistolenschutzen.winterschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/ps-niedergoesgen.ch\/"
@@ -52,11 +52,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/ps-niedergoesgen.ch\/"
   },
-  "contentHash" : "sha256-b5c47bc5a8d88fd791c6fe708901c0e28df7348a8f05f407b3da338d2b131caf",
+  "contentHash" : "sha256-101c5dac185df3e3820d52387cf3fc7bcb55acb25444c90a0310f7e08a8b9a14",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

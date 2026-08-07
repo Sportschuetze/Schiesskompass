@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.fs-winznau.ch"
   },
-  "contentHash" : "sha256-4fc8f39781a5e6d33123bfb88150744e44dc0d232470b759aa4d82a37487dd9c",
+  "contentHash" : "sha256-b19c24f40c3551db5e099b4d0368b06156bc8b6fc79f5daef996f0746752292c",
   "events" : [
     {
       "championshipTags" : "",
@@ -34,7 +34,7 @@
       "endDate" : "2026-08-07T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.so.winznau-feldschutzengesellschaft.efs.2026-08-07",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -57,7 +57,7 @@
       "endDate" : "2026-08-07T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.winznau-feldschutzengesellschaft.kranzschiessen.2026-08-07",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -80,7 +80,7 @@
       "endDate" : "2026-08-08T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.winznau-feldschutzengesellschaft.kranzschiessen.2026-08-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -103,7 +103,7 @@
       "endDate" : "2026-08-14T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.winznau-feldschutzengesellschaft.kranzschiessen.2026-08-14",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -126,7 +126,7 @@
       "endDate" : "2026-08-15T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.winznau-feldschutzengesellschaft.kranzschiessen.2026-08-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -149,7 +149,7 @@
       "endDate" : "2026-09-04T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.winznau-feldschutzengesellschaft.kranzschiessen.2026-09-04",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -172,7 +172,7 @@
       "endDate" : "2026-08-07T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.so.winznau-feldschutzengesellschaft.op.2026-08-07",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -188,7 +188,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

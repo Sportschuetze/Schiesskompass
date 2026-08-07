@@ -24,9 +24,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "http:\/\/www.unionetiratorilocarno.ch"
+    "website" : "http:\/\/www.unionetiratorilocarno.ch",
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-dd81d52ea3504b86c18770294a41d383346427fa74e358e7eead5242d473f460",
+  "contentHash" : "sha256-6ed0476e22f260c60905edc72c1c87436e50ca72346e65fb0af63b84d6d4440a",
   "events" : [
     {
       "championshipTags" : "",
@@ -36,7 +38,7 @@
       "endDate" : "2026-02-16T11:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ti.locarno-unione-tiratori.op.2026-02-16",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -44,7 +46,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "http:\/\/www.unionetiratorilocarno.ch\/files\/calendario-UTL2026-solo-calendario.pdf",
+      "sourceURL" : "https:\/\/www.unionetiratorilocarno.ch\/files\/calendario-UTL2026-solo-calendario.pdf",
       "startDate" : "2026-02-16T11:00:00Z",
       "timeBlocks" : [
 
@@ -52,7 +54,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

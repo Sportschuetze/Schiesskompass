@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.tg.sulgen-schutzengesellschaft.berchtoldschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Berchtoldschiessen",
         "sourceURL" : "https:\/\/www.sgsulgen.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.tg.sulgen-schutzengesellschaft.gangfischschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Gangfischschiessen",
         "sourceURL" : "https:\/\/www.sgsulgen.ch\/"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.tg.sulgen-schutzengesellschaft.speckschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Speckschiessen",
         "sourceURL" : "https:\/\/www.sgsulgen.ch\/"
@@ -40,7 +40,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.tg.sulgen-schutzengesellschaft.winzerschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Winzerschiessen",
         "sourceURL" : "https:\/\/www.sgsulgen.ch\/"
@@ -58,7 +58,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgsulgen.ch"
   },
-  "contentHash" : "sha256-2571b3162999b5d44800e0b0a3665075851d032178cba97f26c47ccd182ea30a",
+  "contentHash" : "sha256-5bcaccb7c2a07b02b57e597519b184a8836126f08586e4d79ae3e8b55447e48b",
   "events" : [
     {
       "championshipTags" : "",
@@ -106,7 +106,7 @@
       "endDate" : "2026-07-27T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.tg.sulgen-schutzengesellschaft.efs.2026-07-27",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -129,7 +129,7 @@
       "endDate" : "2026-07-27T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.tg.sulgen-schutzengesellschaft.ramschwagschiessen.2026-07-27",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -152,7 +152,7 @@
       "endDate" : "2026-07-27T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.tg.sulgen-schutzengesellschaft.ruinenschiessen.2026-07-27",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -175,7 +175,7 @@
       "endDate" : "2026-07-27T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.tg.sulgen-schutzengesellschaft.speckschiessen.2026-07-27",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -198,7 +198,7 @@
       "endDate" : "2026-07-27T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.tg.sulgen-schutzengesellschaft.winzerschiessen.2026-07-27",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -214,7 +214,7 @@
       "title" : "Winzerschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

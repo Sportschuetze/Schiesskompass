@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ar.herisau-schutzenverein.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/www.sv-herisau.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ar.herisau-schutzenverein.winterschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/www.sv-herisau.ch\/"
@@ -43,7 +43,7 @@
     "trainingWeekday" : "",
     "website" : "www.sv-herisau.ch\/"
   },
-  "contentHash" : "sha256-8bbbb06ada614da6e7ad9fb9f638653cc13f665e2d246d21e9be0bcf31331024",
+  "contentHash" : "sha256-2999b41428d5a7bc889c64c240acea39ae3995b14833f003ed0e30967512ebda",
   "events" : [
     {
       "championshipTags" : "",
@@ -53,7 +53,7 @@
       "endDate" : "2026-08-14T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ar.herisau-schutzenverein.eroffnungsschiessen.2026-08-14",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -76,7 +76,7 @@
       "endDate" : "2026-09-05T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ar.herisau-schutzenverein.ochsenweidschiessen.2026-09-05",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -99,7 +99,7 @@
       "endDate" : "2026-09-06T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ar.herisau-schutzenverein.ochsenweidschiessen.2026-09-06",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -122,7 +122,7 @@
       "endDate" : "2026-09-11T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ar.herisau-schutzenverein.ochsenweidschiessen.2026-09-11",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -145,7 +145,7 @@
       "endDate" : "2026-09-12T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ar.herisau-schutzenverein.ochsenweidschiessen.2026-09-12",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -168,7 +168,7 @@
       "endDate" : "2026-08-29T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ar.herisau-schutzenverein.stossschiessen.2026-08-29",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -191,7 +191,7 @@
       "endDate" : "2026-08-30T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ar.herisau-schutzenverein.stossschiessen.2026-08-30",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -207,7 +207,7 @@
       "title" : "Stossschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

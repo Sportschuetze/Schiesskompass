@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.st-sebastian-schutzenverein.freiamterschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Freiämterschiessen",
         "sourceURL" : "https:\/\/www.svmerenschwand.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.st-sebastian-schutzenverein.testschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Testschiessen",
         "sourceURL" : "https:\/\/www.svmerenschwand.ch\/"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.st-sebastian-schutzenverein.zwoschedoreschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Zwöschedoreschiessen",
         "sourceURL" : "https:\/\/www.svmerenschwand.ch\/"
@@ -50,7 +50,7 @@
     "trainingWeekday" : "",
     "website" : "www.svmerenschwand.ch"
   },
-  "contentHash" : "sha256-da6d24d844c28e27725ac93ba9512a683ef5399f79498035a13bb78a1fbcbcf6",
+  "contentHash" : "sha256-fe3dec87d19fa78defae0c6fd6f2c80ae98a6eb3454b5d05c08451324690896f",
   "events" : [
     {
       "championshipTags" : "",
@@ -60,7 +60,7 @@
       "endDate" : "2026-04-26T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.st-sebastian-schutzenverein.fondueschiessen.2026-04-26",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -83,7 +83,7 @@
       "endDate" : "2026-04-26T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.st-sebastian-schutzenverein.fonduschiessen.2026-04-26",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -99,7 +99,7 @@
       "title" : "Fonduschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

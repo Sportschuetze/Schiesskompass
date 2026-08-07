@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.271ffda7.chlausschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Chlausschiessen",
         "sourceURL" : "https:\/\/www.psvlindau.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.271ffda7.landschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Landschiessen",
         "sourceURL" : "https:\/\/www.psvlindau.ch\/"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.271ffda7.revolverschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Revolverschiessen",
         "sourceURL" : "https:\/\/www.psvlindau.ch\/"
@@ -51,11 +51,11 @@
     "trainingWeekday" : "",
     "website" : "www.psvlindau.ch"
   },
-  "contentHash" : "sha256-a95063c579c91fbc1448c5ca85dd0f152a9639cc9238ece7b55687fac93a01bb",
+  "contentHash" : "sha256-878e76d67d1a20283ba28b60da1c9c482caeac67214321aad722d842c9970cfb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

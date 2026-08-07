@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.st-pantaleon-feldschutzen.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/www.fs-stpantaleon.ch\/"
@@ -35,11 +35,11 @@
     "trainingWeekday" : "",
     "website" : "www.fs-stpantaleon.ch"
   },
-  "contentHash" : "sha256-3fe280dc406d84fc697b8b9b38ce7580c2bfcf0ebaf13ba5fe13eb2bf2e60682",
+  "contentHash" : "sha256-09c5f57a6cf49afa3c50d8fcb131f07698a99b4ce7ea30ee69e0549c38a00ca5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

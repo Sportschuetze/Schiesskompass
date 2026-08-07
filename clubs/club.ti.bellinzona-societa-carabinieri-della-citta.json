@@ -30,7 +30,7 @@
     "trainingWeekday" : "",
     "website" : "www.carabinieri-bellinzona.ch"
   },
-  "contentHash" : "sha256-c892f0236c40a6c9b32a1d7f18abd27bce415d49f87bc8d401dd5b5895eb9edf",
+  "contentHash" : "sha256-e6b747f87823d75d7396001113d4d47fc312a9931fe3439e067a090cf0f54857",
   "events" : [
     {
       "championshipTags" : "",
@@ -40,7 +40,7 @@
       "endDate" : "2026-08-20T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ti.bellinzona-societa-carabinieri-della-citta.op.2026-08-20",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -63,7 +63,7 @@
       "endDate" : "2026-08-22T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ti.bellinzona-societa-carabinieri-della-citta.op.2026-08-22",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -79,7 +79,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

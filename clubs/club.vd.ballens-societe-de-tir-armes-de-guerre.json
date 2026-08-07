@@ -22,14 +22,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.tirballens.ch",
-    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
     "websiteStatus" : "skippedRobots"
   },
-  "contentHash" : "sha256-8517d7d0f0831951320695a0c93ffe70767b97838b67eeebfa37839ab4f1a105",
+  "contentHash" : "sha256-24749f66d8533523deb461f19c6a1578efa0ea37bfeb42240957e2ddeb0d6291",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

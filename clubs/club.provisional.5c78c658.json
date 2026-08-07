@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.5c78c658.konigsausstich",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Königsausstich",
         "sourceURL" : "https:\/\/sfh.news\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.5c78c658.sportschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Sportschiessen",
         "sourceURL" : "https:\/\/sfh.news\/"
@@ -43,7 +43,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/sfh.news\/"
   },
-  "contentHash" : "sha256-673647276f445cdaf668290abba71e9947e82f91cd17b52589c14db3b875c143",
+  "contentHash" : "sha256-aee295eb4ad4415ea9cc9fcb73ba67b0033c0de00df56ea96b458e4b184c3e02",
   "events" : [
     {
       "championshipTags" : "",
@@ -74,7 +74,7 @@
       "title" : "OASSV Match Meisterschaft 2026"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

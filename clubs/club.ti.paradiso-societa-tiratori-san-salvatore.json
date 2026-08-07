@@ -20,7 +20,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ti.paradiso-societa-tiratori-san-salvatore.alplischiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Alplischiessen",
         "sourceURL" : "https:\/\/tiratoriparadiso.ch\/files\/Calendario-2026.pdf"
@@ -28,7 +28,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ti.paradiso-societa-tiratori-san-salvatore.calvenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Calvenschiessen",
         "sourceURL" : "https:\/\/tiratoriparadiso.ch\/files\/Calendario-2026.pdf"
@@ -36,7 +36,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ti.paradiso-societa-tiratori-san-salvatore.erinnerungsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Erinnerungsschiessen",
         "sourceURL" : "https:\/\/tiratoriparadiso.ch\/files\/Calendario-2026.pdf"
@@ -44,7 +44,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ti.paradiso-societa-tiratori-san-salvatore.fahrtschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Fahrtschiessen",
         "sourceURL" : "https:\/\/tiratoriparadiso.ch\/files\/Calendario-2026.pdf"
@@ -52,7 +52,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ti.paradiso-societa-tiratori-san-salvatore.gedenkschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Gedenkschiessen",
         "sourceURL" : "https:\/\/tiratoriparadiso.ch\/files\/Calendario-2026.pdf"
@@ -60,7 +60,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ti.paradiso-societa-tiratori-san-salvatore.grauholzschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Grauholzschiessen",
         "sourceURL" : "https:\/\/tiratoriparadiso.ch\/files\/Calendario-2026.pdf"
@@ -68,7 +68,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ti.paradiso-societa-tiratori-san-salvatore.grimselschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Grimselschiessen",
         "sourceURL" : "https:\/\/tiratoriparadiso.ch\/files\/Calendario-2026.pdf"
@@ -76,7 +76,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ti.paradiso-societa-tiratori-san-salvatore.morgartenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Morgartenschiessen",
         "sourceURL" : "https:\/\/tiratoriparadiso.ch\/files\/Calendario-2026.pdf"
@@ -84,7 +84,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ti.paradiso-societa-tiratori-san-salvatore.murtenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Murtenschiessen",
         "sourceURL" : "https:\/\/tiratoriparadiso.ch\/files\/Calendario-2026.pdf"
@@ -92,7 +92,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ti.paradiso-societa-tiratori-san-salvatore.rutlischiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Rütlischiessen",
         "sourceURL" : "https:\/\/tiratoriparadiso.ch\/files\/Calendario-2026.pdf"
@@ -100,7 +100,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ti.paradiso-societa-tiratori-san-salvatore.uberfallschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Überfallschiessen",
         "sourceURL" : "https:\/\/tiratoriparadiso.ch\/files\/Calendario-2026.pdf"
@@ -118,7 +118,7 @@
     "trainingWeekday" : "",
     "website" : "www.tiratoriparadiso.ch"
   },
-  "contentHash" : "sha256-439a7349d727da255446f9709132588c8c63d294726685de05c8e2a278e15e1b",
+  "contentHash" : "sha256-9841369cd5f42c6384370f2658c070d27ec758430793f5a279417cce25a40eae",
   "events" : [
     {
       "championshipTags" : "",
@@ -128,7 +128,7 @@
       "endDate" : "2026-03-28T11:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ti.paradiso-societa-tiratori-san-salvatore.op.2026-03-28",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -144,7 +144,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

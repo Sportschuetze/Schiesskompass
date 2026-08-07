@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.obersiggenthal-pistolensektion.bareggschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Bareggschiessen",
         "sourceURL" : "https:\/\/ps-obersiggenthal.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.obersiggenthal-pistolensektion.erinnerungsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Erinnerungsschiessen",
         "sourceURL" : "https:\/\/ps-obersiggenthal.ch\/"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.obersiggenthal-pistolensektion.fuchshaldenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Fuchshaldenschiessen",
         "sourceURL" : "https:\/\/ps-obersiggenthal.ch\/"
@@ -41,7 +41,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.obersiggenthal-pistolensektion.gruppenstich",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Gruppenstich",
         "sourceURL" : "https:\/\/ps-obersiggenthal.ch\/"
@@ -49,7 +49,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.obersiggenthal-pistolensektion.luftpistolenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Luftpistolenschiessen",
         "sourceURL" : "https:\/\/ps-obersiggenthal.ch\/"
@@ -57,7 +57,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.obersiggenthal-pistolensektion.wettschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/ps-obersiggenthal.ch\/"
@@ -75,7 +75,7 @@
     "trainingWeekday" : "",
     "website" : "www.ps-obersiggenthal.ch"
   },
-  "contentHash" : "sha256-7f56bf0186ea60b098fa4e5194d033715e67dda1e5f9b0926d8ca36402b857af",
+  "contentHash" : "sha256-b2b24ff550f110692f494351c45b654ed11ac9b3f16b9c02560f7896bb5073d2",
   "events" : [
     {
       "championshipTags" : "",
@@ -85,7 +85,7 @@
       "endDate" : "2026-06-26T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.obersiggenthal-pistolensektion.efs.2026-06-26",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -101,7 +101,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

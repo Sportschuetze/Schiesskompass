@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.sargans-schutzenverein.knappenschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Knappenschiessen",
         "sourceURL" : "https:\/\/www.sv-sargans.ch\/"
@@ -31,9 +31,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "http:\/\/www.sv-sargans.ch"
+    "website" : "http:\/\/www.sv-sargans.ch",
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-7671e8c0b11c146274bf9c950873a2dc465643be0027ccefe5ae522e32b42450",
+  "contentHash" : "sha256-97c23ce78c1517fe257b4c61005aa2e99f5b469a74ccebc1e3ea9e9a9ad427f9",
   "events" : [
     {
       "championshipTags" : "",
@@ -101,7 +103,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.sg.sargans-schutzenverein.efs.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -124,7 +126,7 @@
       "endDate" : "2026-06-12T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sg.sargans-schutzenverein.knappenschiessen.2026-06-12",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -140,7 +142,7 @@
       "title" : "Knappenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

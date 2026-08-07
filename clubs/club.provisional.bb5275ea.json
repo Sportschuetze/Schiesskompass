@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.bb5275ea.dorfschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Dorfschiessen",
         "sourceURL" : "https:\/\/test.xn--sv-brtten-u9a.ch\/"
@@ -34,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.sv-brütten.ch"
   },
-  "contentHash" : "sha256-b5e868596699c1816d621fced8e2560d2930b123eaa42eee74fb168e1eea7eee",
+  "contentHash" : "sha256-ba5d5b56de42005325e669a18d4ceee8fb4afc3eb3349879a0aad18be4371aef",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

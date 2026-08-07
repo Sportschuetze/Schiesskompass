@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.oberwil-lieli-schutzengesellschaft.auswartsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Auswärtsschiessen",
         "sourceURL" : "https:\/\/www.sgol.ch\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.oberwil-lieli-schutzengesellschaft.michaelsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Michaelsschiessen",
         "sourceURL" : "https:\/\/www.sgol.ch\/"
@@ -41,7 +41,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgol.ch"
   },
-  "contentHash" : "sha256-8c4ef9cf0297915c62e9f3f73e83b3279c74cf89934c0c113a1dc6cb5a57985c",
+  "contentHash" : "sha256-0ff5e94402b75d1090b07d1ad2b6cb5ebdc5d0efc84fcbc632da6f602ea7c550",
   "events" : [
     {
       "championshipTags" : "",
@@ -51,7 +51,7 @@
       "endDate" : "2026-05-28T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.oberwil-lieli-schutzengesellschaft.efs.2026-05-28",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -74,7 +74,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.oberwil-lieli-schutzengesellschaft.efs.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -97,7 +97,7 @@
       "endDate" : "2026-08-07T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.oberwil-lieli-schutzengesellschaft.gegenrechtschiessen.2026-08-07",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -120,7 +120,7 @@
       "endDate" : "2026-03-25T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.oberwil-lieli-schutzengesellschaft.michaelsschiessen.2026-03-25",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -143,7 +143,7 @@
       "endDate" : "2026-04-12T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.oberwil-lieli-schutzengesellschaft.michaelsschiessen.2026-04-12",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -166,7 +166,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.oberwil-lieli-schutzengesellschaft.michaelsschiessen.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -189,7 +189,7 @@
       "endDate" : "2026-08-07T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.oberwil-lieli-schutzengesellschaft.rotkornschiessen.2026-08-07",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -205,7 +205,7 @@
       "title" : "Rotkornschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

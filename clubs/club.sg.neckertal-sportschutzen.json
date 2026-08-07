@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.neckertal-sportschutzen.plauschschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Plauschschiessen",
         "sourceURL" : "https:\/\/www.sportschuetzen-neckertal.ch\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.neckertal-sportschutzen.standendschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Standendschiessen",
         "sourceURL" : "https:\/\/www.sportschuetzen-neckertal.ch\/"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.neckertal-sportschutzen.standweihschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Standweihschiessen",
         "sourceURL" : "https:\/\/www.sportschuetzen-neckertal.ch\/"
@@ -47,9 +47,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "http:\/\/www.sportschuetzen-neckertal.ch"
+    "website" : "http:\/\/www.sportschuetzen-neckertal.ch",
+    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-ddf211ecbea1d1022e126d27b8e0cf86b89b4587d42aa4e2b429a4106d74b9f1",
+  "contentHash" : "sha256-a21af62b1b0fb8514690dc3e586f826b8e9955cf89dc9556f9b854d59f85a7c0",
   "events" : [
     {
       "championshipTags" : "",
@@ -102,7 +104,7 @@
       "endDate" : "2026-07-08T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sg.neckertal-sportschutzen.sportschiessen.2026-07-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -125,7 +127,7 @@
       "endDate" : "2026-03-08T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sg.neckertal-sportschutzen.standweihschiessen.2026-03-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -148,7 +150,7 @@
       "endDate" : "2026-07-08T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sg.neckertal-sportschutzen.standweihschiessen.2026-07-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -164,7 +166,7 @@
       "title" : "Standweihschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

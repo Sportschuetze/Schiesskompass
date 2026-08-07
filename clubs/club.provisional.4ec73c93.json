@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.4ec73c93.stadtschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Stadtschiessen",
         "sourceURL" : "https:\/\/www.ssgw.ch\/"
@@ -36,7 +36,7 @@
     "trainingWeekday" : "",
     "website" : "www.ssgw.ch"
   },
-  "contentHash" : "sha256-72e2171956c15301f95ca2f6bee657d490aa49b9e649c05815ad8e2ed2b7a951",
+  "contentHash" : "sha256-efb191711c34db9ad03c055fd776cf2ca78cef56b57d75957fc9a3edc272b652",
   "events" : [
     {
       "championshipTags" : "",
@@ -104,7 +104,7 @@
       "endDate" : "2026-06-28T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.4ec73c93.sportschiessen.2026-06-28",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -127,7 +127,7 @@
       "endDate" : "2026-03-10T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.4ec73c93.stadtschiessen.2026-03-10",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -150,7 +150,7 @@
       "endDate" : "2026-03-15T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.4ec73c93.stadtschiessen.2026-03-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -166,7 +166,7 @@
       "title" : "Stadtschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

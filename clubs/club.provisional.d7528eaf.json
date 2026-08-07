@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.d7528eaf.gasteschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Gästeschiessen",
         "sourceURL" : "https:\/\/psch.clubdesk.com\/home"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.d7528eaf.rutlistich",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Rütlistich",
         "sourceURL" : "https:\/\/psch.clubdesk.com\/home"
@@ -44,7 +44,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/psch.clubdesk.com\/home"
   },
-  "contentHash" : "sha256-ae504cfa781e088b14d61948d9efd4ac19b77cec3220e84d508558f152950bce",
+  "contentHash" : "sha256-e5d8fedad984033cb13ac9ffb93022eb2cf84b75e8325e10b99e2677710f479d",
   "events" : [
     {
       "championshipTags" : "",
@@ -54,7 +54,7 @@
       "endDate" : "2026-06-14T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.d7528eaf.efs.2026-06-14",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -77,7 +77,7 @@
       "endDate" : "2026-04-11T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.d7528eaf.eroffnungsschiessen.2026-04-11",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -100,7 +100,7 @@
       "endDate" : "2026-06-27T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.d7528eaf.gasteschiessen.2026-06-27",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -123,7 +123,7 @@
       "endDate" : "2026-08-07T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.d7528eaf.pistolenplauschschiessen.2026-08-07",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -146,7 +146,7 @@
       "endDate" : "2026-08-07T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.d7528eaf.plauschschiessen.2026-08-07",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -162,7 +162,7 @@
       "title" : "Plauschschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

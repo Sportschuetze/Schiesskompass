@@ -303,7 +303,7 @@
       "parentExternalId" : "assoc.ssv"
     }
   ],
-  "catalogLabel" : "2026v15",
+  "catalogLabel" : "2026v16",
   "clubCount" : 2196,
   "clubs" : [
     {
@@ -4536,7 +4536,7 @@
         "assoc.kv.svrb"
       ],
       "canton" : "BS",
-      "eventCount" : 8,
+      "eventCount" : 11,
       "externalId" : "club.bs.basel-scharfschutzen-gesellschaft",
       "hasCalendar" : true,
       "hasProgram" : true,
@@ -11894,7 +11894,7 @@
 
       ],
       "canton" : "BE",
-      "eventCount" : 2,
+      "eventCount" : 3,
       "externalId" : "club.provisional.439c3911",
       "hasCalendar" : true,
       "hasProgram" : true,
@@ -17172,10 +17172,10 @@
 
       ],
       "canton" : "ZH",
-      "eventCount" : 0,
+      "eventCount" : 9,
       "externalId" : "club.provisional.c4199d5a",
-      "hasCalendar" : false,
-      "hasProgram" : false,
+      "hasCalendar" : true,
+      "hasProgram" : true,
       "location" : "",
       "name" : "Wetzikon Sportschützengesellschaft",
       "shortName" : "Wetzikon Sport"
@@ -24362,7 +24362,7 @@
         "assoc.kv.tksv"
       ],
       "canton" : "TG",
-      "eventCount" : 1,
+      "eventCount" : 2,
       "externalId" : "club.tg.lanterswil-friltschen-schutzengesellschaft",
       "hasCalendar" : true,
       "hasProgram" : false,
@@ -28856,8 +28856,8 @@
       "shortName" : "Zug UOV"
     }
   ],
-  "eventCount" : 2146,
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "eventCount" : 2160,
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "programCount" : 9,
   "schemaVersion" : 1,
   "targetCount" : 16,

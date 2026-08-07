@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.grossfelsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Grossfelsschiessen",
         "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.jubilaumsstich",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Jubiläumsstich",
         "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/"
@@ -39,7 +39,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.luftgewehrschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Luftgewehrschiessen",
         "sourceURL" : "https:\/\/fsgscherzschinznachbad.ch\/"
@@ -57,7 +57,7 @@
     "trainingWeekday" : "",
     "website" : "fsgscherzschinznachbad.ch"
   },
-  "contentHash" : "sha256-2bbdd4fa935a1d9b127900d55205e7619b090f3915a0d61efd452c6be478e920",
+  "contentHash" : "sha256-dbcefa01384382dac6a07dfe576efdd47c9607cc209b268187ae0b6ff68c7483",
   "events" : [
     {
       "championshipTags" : "",
@@ -67,7 +67,7 @@
       "endDate" : "2026-09-05T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.bareggschiessen.2026-09-05",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -90,7 +90,7 @@
       "endDate" : "2026-09-06T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.bareggschiessen.2026-09-06",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -113,7 +113,7 @@
       "endDate" : "2026-09-11T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.bareggschiessen.2026-09-11",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -136,7 +136,7 @@
       "endDate" : "2026-09-12T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.bareggschiessen.2026-09-12",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -159,7 +159,7 @@
       "endDate" : "2026-03-15T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.gladiatorenschiessen.2026-03-15",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -182,7 +182,7 @@
       "endDate" : "2026-08-21T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.gladiatorenschiessen.2026-08-21",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -205,7 +205,7 @@
       "endDate" : "2026-08-22T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.gladiatorenschiessen.2026-08-22",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -228,7 +228,7 @@
       "endDate" : "2026-08-29T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.gladiatorenschiessen.2026-08-29",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -251,7 +251,7 @@
       "endDate" : "2026-08-30T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.gladiatorenschiessen.2026-08-30",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -274,7 +274,7 @@
       "endDate" : "2026-08-23T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.op.2026-08-23",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -297,7 +297,7 @@
       "endDate" : "2026-10-24T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.sagemuhleschiessen.2026-10-24",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -320,7 +320,7 @@
       "endDate" : "2026-10-25T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.sagemuhleschiessen.2026-10-25",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -343,7 +343,7 @@
       "endDate" : "2026-10-31T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.scherz-schinznach-bad-feldschutzengesellschaft.sagemuhleschiessen.2026-10-31",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -359,7 +359,7 @@
       "title" : "Sagemühleschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

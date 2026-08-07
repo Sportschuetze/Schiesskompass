@@ -20,7 +20,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.muttenz-schutzengesellschaft.wartenbergschiessen",
-        "fetchedAt" : "2026-08-07T18:34:51Z",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
         "name" : "Wartenbergschiessen",
         "sourceURL" : "https:\/\/www.sgmuttenz.ch\/"
@@ -38,7 +38,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgmuttenz.ch"
   },
-  "contentHash" : "sha256-5c2b132ff3b72623566c9503cf2ec7476aaaf452a9d0cabad4136171f15c7b50",
+  "contentHash" : "sha256-28f9aca0fb46183f8981fa69c36e5eaf9cc76c40f5b31e8bcdccec948904081c",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,7 +48,7 @@
       "endDate" : "2026-08-08T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.bl.muttenz-schutzengesellschaft.op.2026-08-08",
-      "fetchedAt" : "2026-08-07T18:34:51Z",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -64,7 +64,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

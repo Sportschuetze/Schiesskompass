@@ -12,6 +12,16 @@
       "G50"
     ],
     "postalCode" : "",
+    "programOfferings" : [
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.c4199d5a.volksschiessen",
+        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "isUnverified" : true,
+        "name" : "Volksschiessen",
+        "sourceURL" : "https:\/\/www.sportschuetzen-wetzikon.ch\/files\/schiessanlaesse%20aufgebote\/2026_1_Aufgebot.pdf"
+      }
+    ],
     "seasonEndDay" : 31,
     "seasonEndMonth" : 10,
     "seasonStartDay" : 1,
@@ -22,15 +32,219 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sportschuetzen-wetzikon.ch",
-    "websiteCheckedAt" : "2026-08-07T18:34:51Z",
-    "websiteStatus" : "dead"
+    "website" : "www.sportschuetzen-wetzikon.ch"
   },
-  "contentHash" : "sha256-e51cf624b0b0528e0634fb1168bec7809cc408d50b742f1ba09eccd8ff6ec8a4",
+  "contentHash" : "sha256-a23861b7d8197a92bfde6a0394e7e4e49945f4fbb2ba95c0f814e9e30c5ba9ac",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-04-12T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.c4199d5a.gruppenstich.2026-04-12",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sportschuetzen-wetzikon.ch\/files\/schiessanlaesse%20aufgebote\/2026_1_Aufgebot.pdf",
+      "startDate" : "2026-04-12T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Gruppenstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-28T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.c4199d5a.hofnerlandlischiessen.2026-03-28",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sportschuetzen-wetzikon.ch\/files\/schiessanlaesse%20aufgebote\/2026_1_Aufgebot.pdf",
+      "startDate" : "2026-03-28T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Höfnerländlischiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-28T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.c4199d5a.kniendstich.2026-03-28",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sportschuetzen-wetzikon.ch\/files\/schiessanlaesse%20aufgebote\/2026_1_Aufgebot.pdf",
+      "startDate" : "2026-03-28T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Kniendstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-25T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.provisional.c4199d5a.op.2026-05-25",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sportschuetzen-wetzikon.ch\/files\/schiessanlaesse%20aufgebote\/2026_1_Aufgebot.pdf",
+      "startDate" : "2026-05-25T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-07-11T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.provisional.c4199d5a.op.2026-07-11",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sportschuetzen-wetzikon.ch\/files\/schiessanlaesse%20aufgebote\/2026_1_Aufgebot.pdf",
+      "startDate" : "2026-07-11T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-06T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.c4199d5a.vereinsstich.2026-06-06",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sportschuetzen-wetzikon.ch\/files\/schiessanlaesse%20aufgebote\/2026_1_Aufgebot.pdf",
+      "startDate" : "2026-06-06T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Vereinsstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-07-11T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.c4199d5a.vereinsstich.2026-07-11",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sportschuetzen-wetzikon.ch\/files\/schiessanlaesse%20aufgebote\/2026_1_Aufgebot.pdf",
+      "startDate" : "2026-07-11T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Vereinsstich"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-05-25T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.c4199d5a.vereinswettschiessen.2026-05-25",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sportschuetzen-wetzikon.ch\/files\/schiessanlaesse%20aufgebote\/2026_1_Aufgebot.pdf",
+      "startDate" : "2026-05-25T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Vereinswettschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-03-28T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.c4199d5a.volksschiessen.2026-03-28",
+      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sportschuetzen-wetzikon.ch\/files\/schiessanlaesse%20aufgebote\/2026_1_Aufgebot.pdf",
+      "startDate" : "2026-03-28T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Volksschiessen"
+    }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-07T18:57:01Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }
