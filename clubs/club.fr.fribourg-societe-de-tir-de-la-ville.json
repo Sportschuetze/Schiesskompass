@@ -27,14 +27,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/www.tir-fribourg.ch\/",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-76785c46dc1a5191575481c8e3b6d7cc5a826b0b31605793ab764d9dbf11f8d2",
+  "contentHash" : "sha256-1e5a77a815437abaa1054a66010189ef296932e044698bebc7ac85ea7e39466b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

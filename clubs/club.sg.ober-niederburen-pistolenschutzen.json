@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.ober-niederburen-pistolenschutzen.jubilaumschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Jubiläumschiessen",
         "sourceURL" : "https:\/\/www.pson.ch\/"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.ober-niederburen-pistolenschutzen.murgschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Murgschiessen",
         "sourceURL" : "https:\/\/www.pson.ch\/"
@@ -34,7 +34,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.ober-niederburen-pistolenschutzen.schwaderlohschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Schwaderlohschiessen",
         "sourceURL" : "https:\/\/www.pson.ch\/"
@@ -52,7 +52,7 @@
     "trainingWeekday" : "",
     "website" : "www.pson.ch"
   },
-  "contentHash" : "sha256-601328c418105ad26a26d16c3ff3a6f727e481f5ee0105261bae707ea76cd213",
+  "contentHash" : "sha256-55416b0b5b5bfb2c895dcf701a089706d323c6114114e421d8478212b6097a3e",
   "events" : [
     {
       "championshipTags" : "",
@@ -62,7 +62,7 @@
       "endDate" : "2026-07-11T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sg.ober-niederburen-pistolenschutzen.auflagestich.2026-07-11",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -85,7 +85,7 @@
       "endDate" : "2026-07-11T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sg.ober-niederburen-pistolenschutzen.jubilaumsschiessen.2026-07-11",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -101,7 +101,7 @@
       "title" : "Jubiläumsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

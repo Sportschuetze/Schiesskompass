@@ -23,14 +23,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/www.wehrverein.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-956735262f274c0f60ff5de7046fe3c4c03d22c0975b4e27804b5b898aeb8cac",
+  "contentHash" : "sha256-d750d32278b2a9cc72952aacfe5776c82172caad3d37ebea10ec4d36119bb58d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

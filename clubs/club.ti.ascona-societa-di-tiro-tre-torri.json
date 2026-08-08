@@ -23,14 +23,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/tiro.bazzi.name\/Benvenuto.html",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-42b3dc30e262e014d39215a111996a68a3f6bbedd1d0b39108e4462f7b4ed0b0",
+  "contentHash" : "sha256-b84684412097bbb541aa3902ebef00aacfde586db7e277d15d6e1f085c0b29aa",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

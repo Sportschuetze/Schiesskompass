@@ -51,10 +51,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sgseon.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-15743b40d830a98d67a72d49dac1c2c51ada6276604b44a4bb43d0e00621eada",
+  "contentHash" : "sha256-16b036648125e7c962d4e9c2d59b89ded54b4227d85b1a9de88b3dc304d28ce6",
   "events" : [
     {
       "championshipTags" : "",
@@ -123,7 +123,7 @@
       "title" : "Sportschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

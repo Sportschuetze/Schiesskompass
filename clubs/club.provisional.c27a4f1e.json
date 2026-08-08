@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c27a4f1e.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/www.fslauenenthun.ch\/"
@@ -33,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : "www.fslauenenthun.ch"
   },
-  "contentHash" : "sha256-196c8620fe30ae552e0efc4ca23df498273ed1bffb66f5dddc1abf1bafcc585f",
+  "contentHash" : "sha256-45b1286b30e303c11f1fccdbcd2c1c38caab980f85e3615dfc31b0feea1dbf0f",
   "events" : [
     {
       "championshipTags" : "",
@@ -43,7 +43,7 @@
       "endDate" : "2026-05-07T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.c27a4f1e.efs.2026-05-07",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -66,7 +66,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.c27a4f1e.efs.2026-05-31",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -82,7 +82,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

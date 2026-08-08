@@ -26,14 +26,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.polizei.so.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-c07080e710be5a37f91906ad723878528129e0e194fd4dd33d209c1a391d0513",
+  "contentHash" : "sha256-bd3b89cd4d672805a71db3e16f08185ab331f6c8c2b61907f5a5ad4b3576647d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

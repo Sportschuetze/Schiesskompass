@@ -50,14 +50,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.psvlindau.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-2d37fdad0c63725707b1f2d26cd9759c8e5888fd473be6bec9d7099d7bcd3312",
+  "contentHash" : "sha256-980ef16418323f611f49e5da6ef4d81713219cd047b36d622b4442500abc50c3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

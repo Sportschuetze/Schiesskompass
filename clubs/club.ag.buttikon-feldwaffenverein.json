@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.buttikon-feldwaffenverein.trainingsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "TRAININGSSCHIESSEN",
         "sourceURL" : "https:\/\/fwv-buettikon.jimdofree.com\/"
@@ -34,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/fwv-buettikon.jimdofree.com\/"
   },
-  "contentHash" : "sha256-1e7eca98bc165225030b48c8719f55983e22e13d102d5f2cb8898ee8ffc6a653",
+  "contentHash" : "sha256-cd06afa5fc10e3a7edce4c2f8f74bc88195b9fc3614cfce25c8f5d97905cfc38",
   "events" : [
     {
       "championshipTags" : "",
@@ -44,7 +44,7 @@
       "endDate" : "2026-08-30T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ag.buttikon-feldwaffenverein.op.2026-08-30",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -67,7 +67,7 @@
       "endDate" : "2026-07-31T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.buttikon-feldwaffenverein.trainingsschiessen.2026-07-31",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -83,7 +83,7 @@
       "title" : "TRAININGSSCHIESSEN"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

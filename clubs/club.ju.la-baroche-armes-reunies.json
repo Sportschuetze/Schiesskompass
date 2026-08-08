@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.arbaroche.ch"
   },
-  "contentHash" : "sha256-3ace121c1ab237733987e09123aaabf09a6aa77395bda729661aa2728f12afa6",
+  "contentHash" : "sha256-67a935dc340055320dcf53379d8393bccfb3b91514ff1acfb5356d0038a83a9d",
   "events" : [
     {
       "championshipTags" : "",
@@ -34,7 +34,7 @@
       "endDate" : "2026-10-04T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ju.la-baroche-armes-reunies.feldstich.2026-10-04",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -50,7 +50,7 @@
       "title" : "Feldstich"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

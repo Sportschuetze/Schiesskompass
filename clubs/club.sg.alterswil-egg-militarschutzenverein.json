@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.alterswil-egg-militarschutzenverein.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/www.msvaef.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.alterswil-egg-militarschutzenverein.pflichtschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Pflichtschiessen",
         "sourceURL" : "https:\/\/www.msvaef.ch\/"
@@ -43,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "www.msvaef.ch"
   },
-  "contentHash" : "sha256-dddf3b8b0b12733a0c202cc34e836d97f1a3cb0415e08d9f32e8007081766887",
+  "contentHash" : "sha256-35e0f447434b3838228c3373b77ea8d3e5224398e9f35733597455e3aadfe43e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

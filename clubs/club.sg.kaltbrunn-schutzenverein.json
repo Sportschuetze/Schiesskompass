@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.kaltbrunn-schutzenverein.sportschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Sportschiessen",
         "sourceURL" : "https:\/\/www.svkaltbrunn.ch\/"
@@ -33,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : "www.svkaltbrunn.ch"
   },
-  "contentHash" : "sha256-5319c2f4ec9e452a081685ee3e1b38706cd92bfb59d54bec8f71b541f82f5b57",
+  "contentHash" : "sha256-ebc8b8e1cc004ce2a81a4915b839f8258ff2524cd881c3457d925d223127af80",
   "events" : [
     {
       "championshipTags" : "",
@@ -43,7 +43,7 @@
       "endDate" : "2026-08-06T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.sg.kaltbrunn-schutzenverein.op.2026-08-06",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -59,7 +59,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

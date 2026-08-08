@@ -19,7 +19,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.a2829fb8.hilarischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Hilarischiessen",
         "sourceURL" : "https:\/\/www.pcflurlingen.ch\/"
@@ -27,7 +27,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.a2829fb8.pistolenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Pistolenschiessen",
         "sourceURL" : "https:\/\/www.pcflurlingen.ch\/"
@@ -45,11 +45,11 @@
     "trainingWeekday" : "",
     "website" : "www.pcflurlingen.ch\/"
   },
-  "contentHash" : "sha256-0c5dc9b639f8cf56aef0e558a846ff30eda8dcb1fe17da0bbb64d416f7f80952",
+  "contentHash" : "sha256-63560f2308033d890d97f2dd4b4664e58d2eb12d302370c1fec94b546d2a7a89",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

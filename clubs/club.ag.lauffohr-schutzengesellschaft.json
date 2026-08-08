@@ -241,10 +241,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sg-lauffohr.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-0e275e14588b200413062a75b593ed4ac91e65c926cc1d878b86ed2a9b26dec0",
+  "contentHash" : "sha256-4f1ac1eb6bd3fbf169a1a4bd77177a683a059ce2fdda19afd9ef439ab7468c08",
   "events" : [
     {
       "championshipTags" : "",
@@ -362,7 +362,7 @@
       "title" : "Rotkornschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

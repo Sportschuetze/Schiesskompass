@@ -19,7 +19,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8b28fb0c.ehrengabenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Ehrengabenschiessen",
         "sourceURL" : "https:\/\/www.sgstaefa.ch\/"
@@ -27,7 +27,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8b28fb0c.herbstschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Herbstschiessen",
         "sourceURL" : "https:\/\/www.sgstaefa.ch\/"
@@ -35,7 +35,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8b28fb0c.kaseschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Käseschiessen",
         "sourceURL" : "https:\/\/www.sgstaefa.ch\/"
@@ -53,7 +53,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgstaefa.ch"
   },
-  "contentHash" : "sha256-c036f9f5e5386473cfb88801c5c8112cbabdc87a539848ce10b14899057df126",
+  "contentHash" : "sha256-4e3436b0b0ffed604069e0b75d9fa6f1ae88e844132e1de9e15d819a8f7aedee",
   "events" : [
     {
       "championshipTags" : "",
@@ -106,7 +106,7 @@
       "endDate" : "2026-06-16T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.8b28fb0c.efs.2026-06-16",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -122,7 +122,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

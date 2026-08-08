@@ -152,10 +152,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.schuetzen-schwarzenburg.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-abf3054ec78155ba70f82cdf9579b60c47df79ac360d6a305014cfdb89922f4b",
+  "contentHash" : "sha256-0e526b46a5bdf4b8f978cdb650783cb6c33baa2224d2d4b6a4d9e0377306fbd1",
   "events" : [
     {
       "championshipTags" : "",
@@ -250,7 +250,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

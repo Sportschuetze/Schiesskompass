@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-arboldswil.ch"
   },
-  "contentHash" : "sha256-b2a71b3af41fef600e7e1daf4c5984235b408ee1f0c64e49a2dc5e041f8b313c",
+  "contentHash" : "sha256-89d6e53296246d611de54f9ec56243482518d6ca84d2eb98fb4bbc5d8a959cdc",
   "events" : [
     {
       "championshipTags" : "",
@@ -34,7 +34,7 @@
       "endDate" : "2026-07-18T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bl.arboldswil-feldschutzengesellschaft.birseckschiessen.2026-07-18",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -57,7 +57,7 @@
       "endDate" : "2026-07-18T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bl.arboldswil-feldschutzengesellschaft.monchsschiessen.2026-07-18",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -73,7 +73,7 @@
       "title" : "Mönchsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

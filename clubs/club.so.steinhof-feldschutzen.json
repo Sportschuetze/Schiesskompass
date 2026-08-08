@@ -22,10 +22,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.fs-steinhof.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-b394f16511dd973c9b3976245f56caa7f8023cd6470fff7877dd02064e218e23",
+  "contentHash" : "sha256-6758e8da2f27dbd966a3d7785440f1cab65707da105da32d26cbc335726b314a",
   "events" : [
     {
       "championshipTags" : "",
@@ -97,7 +97,7 @@
       "title" : "Silberhelmschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

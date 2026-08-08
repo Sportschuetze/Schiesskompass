@@ -22,14 +22,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "https:\/\/www.tirlesignal.ch\/",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "skippedRobots"
   },
-  "contentHash" : "sha256-c8b3aecbbed9eda51cbabb12aeb62144d815175108ada53eabdcde60490f10db",
+  "contentHash" : "sha256-58c0abc8605e19312fc8be620fb2ace1aa9da6836f680f32c2f7b60f3490a5f7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

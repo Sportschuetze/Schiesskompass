@@ -42,10 +42,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sv-herisau.ch\/",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-2b533c96f2412d6f36e769f25cce81f231564a5b81e1dbcf29748d60f866ca79",
+  "contentHash" : "sha256-cf34e4e8677e83f11ac8b572fd304b428684b6a16633ff936c9c35c5d63aa6eb",
   "events" : [
     {
       "championshipTags" : "",
@@ -209,7 +209,7 @@
       "title" : "Stossschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

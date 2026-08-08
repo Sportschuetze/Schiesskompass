@@ -25,14 +25,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "https:\/\/www.schiessverein-wollishofen.ch\/",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-3cfae120d54315b37f546a0bd3572846d3ab13cbe4b22b3d2117d42f8d9bff9c",
+  "contentHash" : "sha256-2a7018a8be7c8fe70a8b4ccd0f434580db7cf3d3256b46d289fcaa6a100bda7d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

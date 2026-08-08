@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.gachlingen-schutzenverein.goldsiegelschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Goldsiegelschiessen",
         "sourceURL" : "https:\/\/www.sv-gaechlingen.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.gachlingen-schutzenverein.gruppenstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Gruppenstich",
         "sourceURL" : "https:\/\/www.sv-gaechlingen.ch\/"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.gachlingen-schutzenverein.mumpfelstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Mumpfelstich",
         "sourceURL" : "https:\/\/www.sv-gaechlingen.ch\/"
@@ -50,7 +50,7 @@
     "trainingWeekday" : "",
     "website" : "www.sv-gaechlingen.ch"
   },
-  "contentHash" : "sha256-03a98ab1d6254d1f40c53d197b32674b10724abcf4e6e84ed627e7e2ca287d4a",
+  "contentHash" : "sha256-5dea5ff81e97238a1f1e126d162a2c3a2d68a02d0768c9168cd8b1af1a9b478f",
   "events" : [
     {
       "championshipTags" : "",
@@ -60,7 +60,7 @@
       "endDate" : "2026-02-24T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sh.gachlingen-schutzenverein.goldsiegelschiessen.2026-02-24",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -76,7 +76,7 @@
       "title" : "Goldsiegelschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

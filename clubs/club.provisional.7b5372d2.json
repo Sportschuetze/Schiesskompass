@@ -66,10 +66,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "https:\/\/asbduebi.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-e886ee2e50b978a57e4db38619f65787ef9663c2c763d26211476e46417c616d",
+  "contentHash" : "sha256-8a2f68c04ba93a916f615a7af24d0694d756a26fde921bfc35a1207a43ca14a4",
   "events" : [
     {
       "championshipTags" : "",
@@ -95,7 +95,7 @@
       "title" : "Bergschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

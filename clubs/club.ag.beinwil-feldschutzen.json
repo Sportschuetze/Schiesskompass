@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.beinwil-feldschutzen.vereinsstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Vereinsstich",
         "sourceURL" : "https:\/\/www.fsg-beinwil.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.beinwil-feldschutzen.winterschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/www.fsg-beinwil.ch\/"
@@ -42,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-beinwil.ch"
   },
-  "contentHash" : "sha256-0ba0852ca23f7431c01dae7af0096f497c89b46493a9672d3bc891c4a4c344d7",
+  "contentHash" : "sha256-c4860d9a7b4997a2f1bd61a6baf2de25cd3d0108d312950c2086ede63bc43063",
   "events" : [
     {
       "championshipTags" : "",
@@ -52,7 +52,7 @@
       "endDate" : "2026-08-12T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.beinwil-feldschutzen.winterschiessen.2026-08-12",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -68,7 +68,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

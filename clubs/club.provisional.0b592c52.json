@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.0b592c52.aenzischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Aenzischiessen",
         "sourceURL" : "https:\/\/www.sg-wynigen.ch\/images\/Dokumente\/Betrieb\/Programm\/JSK-Programm-2026.pdf"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.0b592c52.einzelwettschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Einzelwettschiessen",
         "sourceURL" : "https:\/\/www.sg-wynigen.ch\/images\/Dokumente\/Betrieb\/Programm\/JSK-Programm-2026.pdf"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.0b592c52.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/www.sg-wynigen.ch\/images\/Dokumente\/Betrieb\/Programm\/JSK-Programm-2026.pdf"
@@ -41,7 +41,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.0b592c52.landesteilschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Landesteilschiessen",
         "sourceURL" : "https:\/\/www.sg-wynigen.ch\/images\/Dokumente\/Betrieb\/Programm\/JSK-Programm-2026.pdf"
@@ -49,7 +49,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.0b592c52.silvesterschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Silvesterschiessen",
         "sourceURL" : "https:\/\/www.sg-wynigen.ch\/images\/Dokumente\/Betrieb\/Programm\/JSK-Programm-2026.pdf"
@@ -67,7 +67,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-wynigen.ch"
   },
-  "contentHash" : "sha256-d1c171a28af8244975428e03c65579b7859ece0ce0ae28f9bbdb4805ed91f4ed",
+  "contentHash" : "sha256-3be18c1097762ad181d07ca8d1e98c7f8b6629aabee1cb55766368ead8165e5a",
   "events" : [
     {
       "championshipTags" : "",
@@ -100,7 +100,7 @@
       "endDate" : "2026-09-05T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.0b592c52.barenschiessen.2026-09-05",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -123,7 +123,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.0b592c52.efs.2026-05-30",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -169,7 +169,7 @@
       "endDate" : "2026-07-04T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.0b592c52.wettschiessen.2026-07-04",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -185,7 +185,7 @@
       "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

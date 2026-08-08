@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.ssv-mellingen.ch"
   },
-  "contentHash" : "sha256-e2662b9e9d96703dd670e25f15ddbecaba63973dc07a7f4b8b8ef6a352028b21",
+  "contentHash" : "sha256-f15bddcb317f353cd3b64a0e237f79c4ec5f3296862c868c6f8aecac13da10ea",
   "events" : [
     {
       "championshipTags" : "",
@@ -35,7 +35,7 @@
       "endDate" : "2026-06-01T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.mellingen-schiesssportverein.efs.2026-06-01",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -58,7 +58,7 @@
       "endDate" : "2026-06-04T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.mellingen-schiesssportverein.eroffnungsschiessen.2026-06-04",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -81,7 +81,7 @@
       "endDate" : "2026-08-01T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ag.mellingen-schiesssportverein.op.2026-08-01",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -97,7 +97,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

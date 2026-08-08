@@ -90,10 +90,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.msvdorf.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-dbb20ceb81df51bb5a8bdbd304681b1d487478519bd8db911df93e53727c9015",
+  "contentHash" : "sha256-d003ea222810b6b313d26afad45c34c628ddb9376b1ead6d141cea72095944bf",
   "events" : [
     {
       "championshipTags" : "",
@@ -211,7 +211,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

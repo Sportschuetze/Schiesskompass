@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.kaisten-feldschutzen.frickbergschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Frickbergschiessen",
         "sourceURL" : "https:\/\/fsgkaisten.ch\/wp\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.kaisten-feldschutzen.jahresschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Jahresschiessen",
         "sourceURL" : "https:\/\/fsgkaisten.ch\/wp\/"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.kaisten-feldschutzen.nachtschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Nachtschiessen",
         "sourceURL" : "https:\/\/fsgkaisten.ch\/wp\/"
@@ -39,7 +39,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.kaisten-feldschutzen.sagemuhleschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Sagemühleschiessen",
         "sourceURL" : "https:\/\/fsgkaisten.ch\/wp\/"
@@ -47,7 +47,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.kaisten-feldschutzen.sparbligschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Sparbligschiessen",
         "sourceURL" : "https:\/\/fsgkaisten.ch\/wp\/"
@@ -65,7 +65,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsgkaisten.ch"
   },
-  "contentHash" : "sha256-323895e26f0f85a42730b35bf387314fab8b4e97aeb03f4db09412cce1560b31",
+  "contentHash" : "sha256-855d2267229ec3033a4069c5b78801da206bfba3f3afb351a690e7323dbfaa3b",
   "events" : [
     {
       "championshipTags" : "",
@@ -75,7 +75,7 @@
       "endDate" : "2026-10-30T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.kaisten-feldschutzen.sparbligschiessen.2026-10-30",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -91,7 +91,7 @@
       "title" : "Sparbligschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

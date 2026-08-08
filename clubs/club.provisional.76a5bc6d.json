@@ -51,10 +51,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.kksgrindelwald.clubdesk.com",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-b45bb36b63a5a63d37081ca917d3cee0c8db668fc831c0b38177690db9a3f242",
+  "contentHash" : "sha256-1e0f866d4f4776674366f1bd73c8032c9ae7dee1b16e47ecc6a9d3872e919fdb",
   "events" : [
     {
       "championshipTags" : "",
@@ -241,7 +241,7 @@
       "title" : "Nachtschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ti.leventina-societa-tiro-sportivo-leventina.herbstschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Herbstschiessen",
         "sourceURL" : "https:\/\/www.tirosportivoleventina.ch\/wp-content\/uploads\/2026\/04\/20260311-Programma2026PCBodio-3.pdf"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ti.leventina-societa-tiro-sportivo-leventina.landeschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Landeschiessen",
         "sourceURL" : "https:\/\/www.tirosportivoleventina.ch\/wp-content\/uploads\/2026\/04\/20260311-Programma2026PCBodio-3.pdf"
@@ -43,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "www.tirosportivoleventina.ch"
   },
-  "contentHash" : "sha256-b24d233f76b7d65fe020c40420d1d249dc1666b527420330335f137ea661d057",
+  "contentHash" : "sha256-e4d3e8a70475d0f8ea353724d1908f79869e4004324510214f35bb0161e426f9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

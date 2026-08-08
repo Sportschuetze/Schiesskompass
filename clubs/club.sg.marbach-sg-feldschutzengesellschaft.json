@@ -23,14 +23,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.fsg-marbach.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-8104357e224f60c31776043bba0002ae8c1dc77077ab39b3ff9d2832d5a743e3",
+  "contentHash" : "sha256-cf4ad0de8f0d05981e511bae46badd70bd43cbedaae9d0f6c014472da5e698e4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

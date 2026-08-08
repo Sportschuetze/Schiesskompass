@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.15712982.fahnenweihschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Fahnenweihschiessen",
         "sourceURL" : "https:\/\/schuetzen-innereriz.ch\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.15712982.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/schuetzen-innereriz.ch\/"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.15712982.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/schuetzen-innereriz.ch\/"
@@ -49,11 +49,11 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-innereriz.ch"
   },
-  "contentHash" : "sha256-c5a0c4d8bedda81550c1ed4e689f42e83e41c965fb211591192375a552ef7604",
+  "contentHash" : "sha256-f4014b0bdaf51b45a0393ae4eca14a09cd53ebee742ffdc1fcfae62f910aaf9f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

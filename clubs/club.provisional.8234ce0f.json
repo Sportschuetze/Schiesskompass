@@ -19,7 +19,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8234ce0f.augustschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Augustschiessen",
         "sourceURL" : "https:\/\/www.bettensee-schuetzen.ch\/downloads\/2026-schiessplan-bettensee-schuetzen-kloten-di.pdf"
@@ -27,7 +27,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8234ce0f.auszahlungsstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Auszahlungsstich",
         "sourceURL" : "https:\/\/www.bettensee-schuetzen.ch\/downloads\/2026-schiessplan-bettensee-schuetzen-kloten-di.pdf"
@@ -35,7 +35,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8234ce0f.bettenseestich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Bettenseestich",
         "sourceURL" : "https:\/\/www.bettensee-schuetzen.ch\/downloads\/2026-schiessplan-bettensee-schuetzen-kloten-di.pdf"
@@ -43,7 +43,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8234ce0f.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/www.bettensee-schuetzen.ch\/downloads\/2026-schiessplan-bettensee-schuetzen-kloten-di.pdf"
@@ -51,7 +51,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8234ce0f.eroffnungssschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Eröffnungssschiessen",
         "sourceURL" : "https:\/\/www.bettensee-schuetzen.ch\/downloads\/2026-schiessplan-bettensee-schuetzen-kloten-di.pdf"
@@ -59,7 +59,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8234ce0f.kleinkaliberschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Kleinkaliberschiessen",
         "sourceURL" : "https:\/\/www.bettensee-schuetzen.ch\/downloads\/2026-schiessplan-bettensee-schuetzen-kloten-di.pdf"
@@ -67,7 +67,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8234ce0f.luftgewehrschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Luftgewehrschiessen",
         "sourceURL" : "https:\/\/www.bettensee-schuetzen.ch\/downloads\/2026-schiessplan-bettensee-schuetzen-kloten-di.pdf"
@@ -75,7 +75,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8234ce0f.gruppenstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "gruppenstich",
         "sourceURL" : "https:\/\/www.bettensee-schuetzen.ch\/downloads\/2026-schiessplan-bettensee-schuetzen-kloten-di.pdf"
@@ -83,7 +83,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8234ce0f.thunerstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "thunerstich",
         "sourceURL" : "https:\/\/www.bettensee-schuetzen.ch\/downloads\/2026-schiessplan-bettensee-schuetzen-kloten-di.pdf"
@@ -101,7 +101,7 @@
     "trainingWeekday" : "",
     "website" : "www.bettensee-schuetzen.ch"
   },
-  "contentHash" : "sha256-a48acc8e77da8c30f40bd3f15fe03d6b8cb74f0763eef9dce737bfb4643e36c7",
+  "contentHash" : "sha256-ac92647c87a9654757a49de6724736ee903fd4531930db72819fdd31b1c66232",
   "events" : [
     {
       "championshipTags" : "",
@@ -154,7 +154,7 @@
       "endDate" : "2026-01-25T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.8234ce0f.augustschiessen.2026-01-25",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -177,7 +177,7 @@
       "endDate" : "2026-04-26T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.8234ce0f.fruhlingsschiessen.2026-04-26",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -200,7 +200,7 @@
       "endDate" : "2026-05-10T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.8234ce0f.vereinswettschiessen.2026-05-10",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -223,7 +223,7 @@
       "endDate" : "2026-08-28T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.8234ce0f.vereinswettschiessen.2026-08-28",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -239,7 +239,7 @@
       "title" : "Vereinswettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

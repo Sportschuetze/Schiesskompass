@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.bubendorf-feldschutzengesellschaft.foiflibertalschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Foiflibertalschiessen",
         "sourceURL" : "https:\/\/www.fsgb.ch\/"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.bubendorf-feldschutzengesellschaft.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/www.fsgb.ch\/"
@@ -34,7 +34,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.bubendorf-feldschutzengesellschaft.riedbachschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Riedbachschiessen",
         "sourceURL" : "https:\/\/www.fsgb.ch\/"
@@ -42,7 +42,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.bubendorf-feldschutzengesellschaft.wasserfallenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Wasserfallenschiessen",
         "sourceURL" : "https:\/\/www.fsgb.ch\/"
@@ -60,7 +60,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsgb.ch"
   },
-  "contentHash" : "sha256-7744ea06aa5a0999a39a872e94f255f6e1263bad3937b0c2a7cabedf65a79107",
+  "contentHash" : "sha256-7a038c4c22dff829662f137295859251e7b4e2c6f6384bb93e11944a38eaf1ec",
   "events" : [
     {
       "championshipTags" : "",
@@ -70,7 +70,7 @@
       "endDate" : "2026-05-29T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.bl.bubendorf-feldschutzengesellschaft.efs.2026-05-29",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -93,7 +93,7 @@
       "endDate" : "2026-09-10T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.bl.bubendorf-feldschutzengesellschaft.efs.2026-09-10",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -116,7 +116,7 @@
       "endDate" : "2026-09-10T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bl.bubendorf-feldschutzengesellschaft.riedbachschiessen.2026-09-10",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -139,7 +139,7 @@
       "endDate" : "2026-09-19T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bl.bubendorf-feldschutzengesellschaft.riedbachschiessen.2026-09-19",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -155,7 +155,7 @@
       "title" : "Riedbachschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

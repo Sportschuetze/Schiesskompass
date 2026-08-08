@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.zg.steinhausen-schutzengesellschaft.prazisionsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Präzisionsschiessen",
         "sourceURL" : "https:\/\/www.sgsteinhausen.ch\/"
@@ -36,11 +36,11 @@
     "trainingWeekday" : "",
     "website" : "www.sgsteinhausen.ch"
   },
-  "contentHash" : "sha256-3e3da8439bfa028e6af152565f947c8e1b8894d7098cb91c2a52b54fd6ea5477",
+  "contentHash" : "sha256-e14735f3efdc9abd22e46ada1313dbe5a7f6602f87996954a848d8db9715e624",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

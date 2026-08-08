@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.65ca04f6.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/sv-hochfelden.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.65ca04f6.fyraabigschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Fyraabigschiessen",
         "sourceURL" : "https:\/\/sv-hochfelden.ch\/"
@@ -43,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "sv-hochfelden.ch"
   },
-  "contentHash" : "sha256-15f2569c91622b8c99fb28ee860d676e2c6b19c212598190194c596099cfb72d",
+  "contentHash" : "sha256-11e4a8c8b423d4cc9c275fa044ef8c2849c953d97d98aeafeab034393b607795",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

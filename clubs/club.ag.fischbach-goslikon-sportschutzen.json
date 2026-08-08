@@ -33,14 +33,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "https:\/\/www.sportschuetzen-figoe.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-51b4e5da63d69b344d8ac29401dd3bc0041e5f1da64ffa94749362ff499a9f8d",
+  "contentHash" : "sha256-ee0df16ea596c4dd24309453f3a534fe57fb4d1e70e06176a0eacfb2e17b8cc5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

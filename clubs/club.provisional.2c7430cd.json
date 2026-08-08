@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.2c7430cd.kotelettschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Kotelettschiessen",
         "sourceURL" : "https:\/\/www.schuetzen-golaten.ch\/"
@@ -33,11 +33,11 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-golaten.ch"
   },
-  "contentHash" : "sha256-e1ffe0e25f00d529017398fd73fd039484b9313364cee8f7478b7f80defce942",
+  "contentHash" : "sha256-676a75a4196466259f253b85240414dfd79a81fa0eba11ac79282a1dfb87d05c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.pistolet-glane.ch"
   },
-  "contentHash" : "sha256-2fb88a5256e501eef22ecab31ca0c89a1ac3bed42d9bfa8f974757d67a65d986",
+  "contentHash" : "sha256-0249a9b19e9464c64602b7c1d6fc4aeefcd07cf4a66011d7b716aa622c16edd3",
   "events" : [
     {
       "championshipTags" : "",
@@ -35,7 +35,7 @@
       "endDate" : "2026-06-18T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.fr.romont-societe-de-tir-au-pistolet-de-la-glane.op.2026-06-18",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -51,7 +51,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

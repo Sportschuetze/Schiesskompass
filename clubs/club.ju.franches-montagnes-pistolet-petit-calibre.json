@@ -28,7 +28,7 @@
     "trainingWeekday" : "",
     "website" : "tirfm.ch"
   },
-  "contentHash" : "sha256-9c328eb217003f0b387b46747320e51bd0aa82ab2f6756453420dcadc93d3ba0",
+  "contentHash" : "sha256-a56dfabca1d37fdbf02b661c8430672f6502f1fa4c6d16e2e1f59313ed771404",
   "events" : [
     {
       "championshipTags" : "",
@@ -38,7 +38,7 @@
       "endDate" : "2026-05-28T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ju.franches-montagnes-pistolet-petit-calibre.efs.2026-05-28",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -61,7 +61,7 @@
       "endDate" : "2026-06-25T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ju.franches-montagnes-pistolet-petit-calibre.op.2026-06-25",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -84,7 +84,7 @@
       "endDate" : "2026-08-24T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ju.franches-montagnes-pistolet-petit-calibre.op.2026-08-24",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -100,7 +100,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

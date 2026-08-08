@@ -26,10 +26,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sv-zollikon.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-040f3fde4cc5b61fb8d18ecb5c4a84827cf9891dece306dbe70f18af0342a965",
+  "contentHash" : "sha256-bf7aa0980a5d746a42fadd0a28d4e7f6a3c25c91e89be9fcf9ecd57c186f8306",
   "events" : [
     {
       "championshipTags" : "",
@@ -78,7 +78,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

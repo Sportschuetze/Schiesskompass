@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.09c70b70.amtsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Amtsschiessen",
         "sourceURL" : "https:\/\/www.sg-oberkirch.ch\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.09c70b70.herbstschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Herbstschiessen",
         "sourceURL" : "https:\/\/www.sg-oberkirch.ch\/"
@@ -41,11 +41,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-oberkirch.ch"
   },
-  "contentHash" : "sha256-5bcb9c4a4d98867a87235b312dbedee73e25d93068027869984b04a1de6af95b",
+  "contentHash" : "sha256-e3901d3867a0fa2896fcb3f96da9bdda2b409182d61675f82035bc13b1b24314",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.sennwald-pistolenschutzen.forsteggschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Forsteggschiessen",
         "sourceURL" : "https:\/\/www.pistolen-sennwald.ch\/wp-content\/uploads\/2026\/05\/Wichtige-Termine-2026.pdf"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.sennwald-pistolenschutzen.teggschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "teggschiessen",
         "sourceURL" : "https:\/\/www.pistolen-sennwald.ch\/wp-content\/uploads\/2026\/05\/Wichtige-Termine-2026.pdf"
@@ -43,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "pistolen-sennwald.ch"
   },
-  "contentHash" : "sha256-d30a4d659e32b609c4aa913c5870ce500d86b8f02b176c0c792c0d596d54e33d",
+  "contentHash" : "sha256-28cd40a21286244887fc6219f5a094fa7ad4e9d78a069b07fc53ca1e7678d844",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

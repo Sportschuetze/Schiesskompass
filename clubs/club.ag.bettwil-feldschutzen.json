@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.bettwil-feldschutzen.freiamterschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Freiämterschiessen",
         "sourceURL" : "https:\/\/www.fsg-bettwil.ch\/"
@@ -34,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-bettwil.ch"
   },
-  "contentHash" : "sha256-831f1736b385e4d29d43e7429b2e0edc556eac48d67c8862dfa736b2c1a99157",
+  "contentHash" : "sha256-0307c3637b084a613cebf504e49cd677c54607fb4137812cac46fe344baf74a5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

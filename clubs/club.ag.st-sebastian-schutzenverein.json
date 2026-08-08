@@ -49,10 +49,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.svmerenschwand.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-487ba06f12d35785e7cc2d595dfe914dfd681605af86c564b225d25c2272a8fa",
+  "contentHash" : "sha256-3aabaac6e05ac3d126de63da953ce79b53d880a310f923f9becad4084b6b397e",
   "events" : [
     {
       "championshipTags" : "",
@@ -101,7 +101,7 @@
       "title" : "Fonduschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

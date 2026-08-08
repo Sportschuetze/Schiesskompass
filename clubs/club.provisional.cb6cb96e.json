@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.cb6cb96e.einzelwettschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Einzelwettschiessen",
         "sourceURL" : "https:\/\/www.esvbe.ch\/wp-content\/uploads\/20250126_2_2025_Termine_GM_ESV.pdf"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.cb6cb96e.turmschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Turmschiessen",
         "sourceURL" : "https:\/\/www.esvbe.ch\/wp-content\/uploads\/20250126_2_2025_Termine_GM_ESV.pdf"
@@ -42,11 +42,11 @@
     "trainingWeekday" : "",
     "website" : "www.fs-roethenbach.ch"
   },
-  "contentHash" : "sha256-4b38ee2b217f15abaadb438014dead04563bd8d01f1bf3890ac35dd197f4c868",
+  "contentHash" : "sha256-fc82e793bd66d4383f6ab3c7d2ebc903c921c1382bdc2cec8b2f66e7d198a091",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

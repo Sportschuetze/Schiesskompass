@@ -25,14 +25,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.pkniederbipp.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-194f43d8b49a94c0e29cf6ecf189ff8495c19d83da66958d6747614472d91f5a",
+  "contentHash" : "sha256-8af4433511ca91088d61ab91ca9b678f1d7a10a9d0b9981fd56917ecf6530428",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

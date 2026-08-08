@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.3e73a581.grauholzschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Grauholzschiessen",
         "sourceURL" : "https:\/\/tir-saint-imier.ch\/wp-content\/uploads\/2026\/03\/Programme-2026-1.pdf"
@@ -33,11 +33,11 @@
     "trainingWeekday" : "",
     "website" : "www.tir-saint-imier.ch"
   },
-  "contentHash" : "sha256-39d647d4ce7793445546fe05116931773d601bf861b43d47bdf603bc5d874ad1",
+  "contentHash" : "sha256-c6e94976a3f776e7c523b043cd7ba7f9352ef52743c0379cb005ad333d2c4626",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

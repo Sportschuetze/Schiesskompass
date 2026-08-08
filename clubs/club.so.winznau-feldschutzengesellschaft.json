@@ -23,10 +23,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.fs-winznau.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-89e8c04299a6a52eb8c4b74ca126fdb32c662e7940f03469e3554f14684dc31b",
+  "contentHash" : "sha256-a9d8038bfdab2a5c567003b060c26968d0a36d02ac55b7ddcbfb0e538f0ad19e",
   "events" : [
     {
       "championshipTags" : "",
@@ -190,7 +190,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

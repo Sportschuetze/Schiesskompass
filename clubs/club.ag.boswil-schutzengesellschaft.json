@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.boswil-schutzengesellschaft.chilbischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Chilbischiessen",
         "sourceURL" : "https:\/\/sgboswil.ch\/wp-content\/uploads\/2026\/03\/jahresprogramm-2026.pdf"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.boswil-schutzengesellschaft.emmetfeldschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Emmetfeldschiessen",
         "sourceURL" : "https:\/\/sgboswil.ch\/wp-content\/uploads\/2026\/03\/jahresprogramm-2026.pdf"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.boswil-schutzengesellschaft.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/sgboswil.ch\/wp-content\/uploads\/2026\/03\/jahresprogramm-2026.pdf"
@@ -39,7 +39,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.boswil-schutzengesellschaft.gruppenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Gruppenschiessen",
         "sourceURL" : "https:\/\/sgboswil.ch\/wp-content\/uploads\/2026\/03\/jahresprogramm-2026.pdf"
@@ -47,7 +47,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.boswil-schutzengesellschaft.gruppenwettschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Gruppenwettschiessen",
         "sourceURL" : "https:\/\/sgboswil.ch\/wp-content\/uploads\/2026\/03\/jahresprogramm-2026.pdf"
@@ -55,7 +55,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.boswil-schutzengesellschaft.jungschutzenwettschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Jungschützenwettschiessen",
         "sourceURL" : "https:\/\/sgboswil.ch\/wp-content\/uploads\/2026\/03\/jahresprogramm-2026.pdf"
@@ -63,7 +63,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.boswil-schutzengesellschaft.maiengrunschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Maiengrünschiessen",
         "sourceURL" : "https:\/\/sgboswil.ch\/wp-content\/uploads\/2026\/03\/jahresprogramm-2026.pdf"
@@ -71,7 +71,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.boswil-schutzengesellschaft.michaelsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Michaelsschiessen",
         "sourceURL" : "https:\/\/sgboswil.ch\/wp-content\/uploads\/2026\/03\/jahresprogramm-2026.pdf"
@@ -79,7 +79,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.boswil-schutzengesellschaft.murweidschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Murweidschiessen",
         "sourceURL" : "https:\/\/sgboswil.ch\/wp-content\/uploads\/2026\/03\/jahresprogramm-2026.pdf"
@@ -87,7 +87,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.boswil-schutzengesellschaft.nueschwaldschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Nüeschwaldschiessen",
         "sourceURL" : "https:\/\/sgboswil.ch\/wp-content\/uploads\/2026\/03\/jahresprogramm-2026.pdf"
@@ -105,7 +105,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgboswil.ch"
   },
-  "contentHash" : "sha256-c0127ddb09484b3d7ffbaed0cd414f95ea677748497face04c9757f82695772e",
+  "contentHash" : "sha256-593c0b291b49c2092e7e87fd48b954e9e6f0fdf31e0f12770c3a2888d4121a3c",
   "events" : [
     {
       "championshipTags" : "",
@@ -115,7 +115,7 @@
       "endDate" : "2027-02-13T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.boswil-schutzengesellschaft.morgartenschiessen.2027-02-13",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -138,7 +138,7 @@
       "endDate" : "2027-02-13T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.boswil-schutzengesellschaft.vorstandeschiessen.2027-02-13",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -154,7 +154,7 @@
       "title" : "Vorständeschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

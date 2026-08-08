@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.wolfwil-feldschutzen.waldeggschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Waldeggschiessen",
         "sourceURL" : "https:\/\/www.feldschuetzen-wolfwil.ch\/"
@@ -35,7 +35,7 @@
     "trainingWeekday" : "",
     "website" : "www.feldschuetzen-wolfwil.ch"
   },
-  "contentHash" : "sha256-bf307f9ae11f8b7a4aea877813c6ca7e4917d8e7e5827ce671ef2a637093c68d",
+  "contentHash" : "sha256-c493bd5351a2f64661ae04e653fceb73fe28598f8ae3d89142fdefb35f7ab9cd",
   "events" : [
     {
       "championshipTags" : "",
@@ -76,7 +76,7 @@
       "title" : "19. Waldeggschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.erlinsbach-schutzengesellschaft.auszahlungsstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Auszahlungsstich",
         "sourceURL" : "https:\/\/www.sg-erlinsbach.ch\/gallery\/Brosch%C3%BCre_Schiessplan_2026.pdf"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.erlinsbach-schutzengesellschaft.beguttenalpschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Beguttenalpschiessen",
         "sourceURL" : "https:\/\/www.sg-erlinsbach.ch\/gallery\/Brosch%C3%BCre_Schiessplan_2026.pdf"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.erlinsbach-schutzengesellschaft.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/www.sg-erlinsbach.ch\/gallery\/Brosch%C3%BCre_Schiessplan_2026.pdf"
@@ -41,7 +41,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.erlinsbach-schutzengesellschaft.gruppenstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Gruppenstich",
         "sourceURL" : "https:\/\/www.sg-erlinsbach.ch\/gallery\/Brosch%C3%BCre_Schiessplan_2026.pdf"
@@ -49,7 +49,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.erlinsbach-schutzengesellschaft.habnischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Häbnischiessen",
         "sourceURL" : "https:\/\/www.sg-erlinsbach.ch\/gallery\/Brosch%C3%BCre_Schiessplan_2026.pdf"
@@ -57,7 +57,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.erlinsbach-schutzengesellschaft.notlistich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Nötlistich",
         "sourceURL" : "https:\/\/www.sg-erlinsbach.ch\/gallery\/Brosch%C3%BCre_Schiessplan_2026.pdf"
@@ -65,7 +65,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.erlinsbach-schutzengesellschaft.sagemuhlischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Sagemühlischiessen",
         "sourceURL" : "https:\/\/www.sg-erlinsbach.ch\/gallery\/Brosch%C3%BCre_Schiessplan_2026.pdf"
@@ -73,7 +73,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.erlinsbach-schutzengesellschaft.standstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Standstich",
         "sourceURL" : "https:\/\/www.sg-erlinsbach.ch\/gallery\/Brosch%C3%BCre_Schiessplan_2026.pdf"
@@ -81,7 +81,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.erlinsbach-schutzengesellschaft.lungsstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "lungsstich",
         "sourceURL" : "https:\/\/www.sg-erlinsbach.ch\/gallery\/Brosch%C3%BCre_Schiessplan_2026.pdf"
@@ -99,7 +99,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-erlinsbach.ch"
   },
-  "contentHash" : "sha256-3e0d68f8a4bbcb937afc65022c816380f2a11c87b28f4a6a642afadd5fd2c956",
+  "contentHash" : "sha256-f58b5dcd7543a7d60608ba9117ddae9b4df2575e27b39074528987be8a6528c2",
   "events" : [
     {
       "championshipTags" : "",
@@ -109,7 +109,7 @@
       "endDate" : "2026-10-24T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.erlinsbach-schutzengesellschaft.auszahlungsstich.2026-10-24",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -132,7 +132,7 @@
       "endDate" : "2026-05-09T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.erlinsbach-schutzengesellschaft.efs.2026-05-09",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -155,7 +155,7 @@
       "endDate" : "2026-02-22T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.erlinsbach-schutzengesellschaft.kirchbergschiessen.2026-02-22",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -178,7 +178,7 @@
       "endDate" : "2026-01-26T11:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ag.erlinsbach-schutzengesellschaft.op.2026-01-26",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -194,7 +194,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

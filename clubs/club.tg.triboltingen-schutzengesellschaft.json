@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgtriboltingen.ch"
   },
-  "contentHash" : "sha256-ebb0f8c5f4ad21873af45de57dbab44567071162860acce0190417540e0cabca",
+  "contentHash" : "sha256-7be378134be22bc20b7994f8aea4c22e8dda0f445e4806130ad50b665db3d350",
   "events" : [
     {
       "championshipTags" : "",
@@ -35,7 +35,7 @@
       "endDate" : "2026-04-25T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.tg.triboltingen-schutzengesellschaft.jubilaumsschiessen.2026-04-25",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -58,7 +58,7 @@
       "endDate" : "2026-03-20T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.tg.triboltingen-schutzengesellschaft.osterhasenschiessen.2026-03-20",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -81,7 +81,7 @@
       "endDate" : "2026-04-17T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.tg.triboltingen-schutzengesellschaft.osterhasenschiessen.2026-04-17",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -97,7 +97,7 @@
       "title" : "Osterhasenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

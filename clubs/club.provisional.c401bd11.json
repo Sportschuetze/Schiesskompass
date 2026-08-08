@@ -19,7 +19,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c401bd11.auszahlungsstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Auszahlungsstich",
         "sourceURL" : "https:\/\/www.sg-zueri9.ch\/"
@@ -27,7 +27,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c401bd11.knabenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Knabenschiessen",
         "sourceURL" : "https:\/\/www.sg-zueri9.ch\/"
@@ -35,7 +35,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c401bd11.revolverschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Revolverschiessen",
         "sourceURL" : "https:\/\/www.sg-zueri9.ch\/"
@@ -43,7 +43,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c401bd11.unterhebelrepetiererschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Unterhebelrepetiererschiessen",
         "sourceURL" : "https:\/\/www.sg-zueri9.ch\/"
@@ -51,7 +51,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c401bd11.wettschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/www.sg-zueri9.ch\/"
@@ -59,7 +59,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c401bd11.oblifeldschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "oblifeldschiessen",
         "sourceURL" : "https:\/\/www.sg-zueri9.ch\/"
@@ -77,11 +77,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-zueri9.ch"
   },
-  "contentHash" : "sha256-13f6684d8514ea047a23ed597c9940dce776c096e9b8121864143e62ee6a45d6",
+  "contentHash" : "sha256-b34017133f756ac4e36f8457a0755ab2ab5ae852ff11a026e29cbffbed4d2496",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -40,10 +40,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "https:\/\/www.sgramsern.ch\/",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-6151484e147924352c4a21988bc3127d3321ba2a16e905514a9557e9b7a396ea",
+  "contentHash" : "sha256-1afcca72ccbc4274c16d5741323cfba329ee25c3fad8ed33d66269e55b386151",
   "events" : [
     {
       "championshipTags" : "",
@@ -92,7 +92,7 @@
       "title" : "Königsausstich"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

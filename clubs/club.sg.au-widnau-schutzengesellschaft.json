@@ -22,10 +22,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/www.sgaw.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-d4562c6ad0f9c2974614ceaa6673e2544fffd34246c2da988bb79182170528ad",
+  "contentHash" : "sha256-3152da15276df0b75b44e225136e8e28ff0c13c724d58b0282929ddd02f009bb",
   "events" : [
     {
       "championshipTags" : "",
@@ -56,7 +56,7 @@
       "title" : "4. Widnauer Lupi-Meisterschaft"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

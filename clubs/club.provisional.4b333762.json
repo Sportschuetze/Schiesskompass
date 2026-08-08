@@ -23,10 +23,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "https:\/\/sgseedorfur.clubdesk.com\/home\/Willkommen",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-6df8015a2cd03d1bc9abc49f3e173d9432a86c55f58e9a2434828be4f6e88381",
+  "contentHash" : "sha256-b7039bb9df4a309a18c4f753fcb6ddebbfe679407ec3aaf672c8ac282ce3d739",
   "events" : [
     {
       "championshipTags" : "",
@@ -52,7 +52,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

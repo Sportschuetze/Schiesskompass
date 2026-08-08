@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c3ae3649.firmenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Firmenschiessen",
         "sourceURL" : "https:\/\/www.sps-hegnau.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c3ae3649.gottischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Göttischiessen",
         "sourceURL" : "https:\/\/www.sps-hegnau.ch\/"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c3ae3649.jugendschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Jugendschiessen",
         "sourceURL" : "https:\/\/www.sps-hegnau.ch\/"
@@ -41,7 +41,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c3ae3649.wettschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/www.sps-hegnau.ch\/"
@@ -58,10 +58,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/www.sps-hegnau.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-e2ae940d78b7782278cdd1f112bad53ffd6504f1c3440e9810d216982b8f3915",
+  "contentHash" : "sha256-d61a080502d28781c14aa258f12cb641cd8c8e5f34dcd767bc21164d16f5f772",
   "events" : [
     {
       "championshipTags" : "",
@@ -71,7 +71,7 @@
       "endDate" : "2026-04-26T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.c3ae3649.freundschaftsschiessen.2026-04-26",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -94,7 +94,7 @@
       "endDate" : "2026-04-26T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.c3ae3649.gottischiessen.2026-04-26",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -117,7 +117,7 @@
       "endDate" : "2026-03-29T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.c3ae3649.jugendschiessen.2026-03-29",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -140,7 +140,7 @@
       "endDate" : "2026-03-29T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.c3ae3649.wettschiessen.2026-03-29",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -156,7 +156,7 @@
       "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

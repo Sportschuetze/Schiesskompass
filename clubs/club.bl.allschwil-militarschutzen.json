@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.allschwil-militarschutzen.spanferkelschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Spanferkelschiessen",
         "sourceURL" : "https:\/\/www.msallschwil.ch\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.allschwil-militarschutzen.winterschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/www.msallschwil.ch\/"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.allschwil-militarschutzen.winterstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Winterstich",
         "sourceURL" : "https:\/\/www.msallschwil.ch\/"
@@ -39,7 +39,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.allschwil-militarschutzen.plauschschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "plauschschiessen",
         "sourceURL" : "https:\/\/www.msallschwil.ch\/"
@@ -57,7 +57,7 @@
     "trainingWeekday" : "",
     "website" : "www.msallschwil.ch"
   },
-  "contentHash" : "sha256-be4d301c4b6e16248786dce8a59a11ea7e0099b20f0cfb76034d4aa76efde159",
+  "contentHash" : "sha256-edd46a65a21be457c3dbca5239a9bb07370fac712a84b173b4d3a52707b7ff2c",
   "events" : [
     {
       "championshipTags" : "",
@@ -67,7 +67,7 @@
       "endDate" : "2027-03-19T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bl.allschwil-militarschutzen.spanferkelschiessen.2027-03-19",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -83,7 +83,7 @@
       "title" : "Spanferkelschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

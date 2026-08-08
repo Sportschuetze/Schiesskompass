@@ -50,10 +50,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "https:\/\/www.pistolenbuchs.ch\/startseite",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-4c9600fe46cdcb839037fbeb9e9e284f372fe76da51ed20177b6d50432cd7570",
+  "contentHash" : "sha256-e3710ad9d749926c9acd52ca48b429acf427598909a1416b89ea22d03a7704ca",
   "events" : [
     {
       "championshipTags" : "",
@@ -171,7 +171,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

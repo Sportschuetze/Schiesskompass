@@ -36,10 +36,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "https:\/\/www.psuetendorf.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-a9a4be058c4e4dce97afcd1a9a168bd113d5ff99d08dbb2f7c97d2e1bf7101e8",
+  "contentHash" : "sha256-41b4c326b115096f49e148c97918353d8e92088efc1ee1b622c4e8562069fb32",
   "events" : [
     {
       "championshipTags" : "",
@@ -203,7 +203,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

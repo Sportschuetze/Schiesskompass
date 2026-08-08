@@ -26,7 +26,7 @@
     "trainingWeekday" : "",
     "website" : "pistolet-treyvaux.ch\/"
   },
-  "contentHash" : "sha256-ea75465fb44c78b83490b7fe95538295794fb52799784f5f70344b94f36aa0e8",
+  "contentHash" : "sha256-15bef134cece794c9269572f8947099287c093941a0b27d4704b72369d92588b",
   "events" : [
     {
       "championshipTags" : "",
@@ -36,7 +36,7 @@
       "endDate" : "2026-05-23T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.fr.treyvaux-ste-de-tir-au-pist-l-echo-de-la-combert.efs.2026-05-23",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -52,7 +52,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

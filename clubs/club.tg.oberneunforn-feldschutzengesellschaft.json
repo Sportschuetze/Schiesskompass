@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.tg.oberneunforn-feldschutzengesellschaft.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/www.fsg-oberneunforn.ch\/"
@@ -34,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-oberneunforn.ch"
   },
-  "contentHash" : "sha256-4fa252c85cee91501d6de46dc7e6279664a4b8c00f36b056514a2bbe34a131a0",
+  "contentHash" : "sha256-798d290d1c0efc2a83d871b32fa6ba44002344fc0a7717017c8c733c2d630f13",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

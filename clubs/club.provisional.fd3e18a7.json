@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.fd3e18a7.augustschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Augustschiessen",
         "sourceURL" : "https:\/\/sgdielsdorf.ch\/wp-content\/uploads\/Jahresprogramm_2026_Final.pdf"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.fd3e18a7.fyraabigschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Fyraabigschiessen",
         "sourceURL" : "https:\/\/sgdielsdorf.ch\/wp-content\/uploads\/Jahresprogramm_2026_Final.pdf"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.fd3e18a7.herbstschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Herbstschiessen",
         "sourceURL" : "https:\/\/sgdielsdorf.ch\/wp-content\/uploads\/Jahresprogramm_2026_Final.pdf"
@@ -40,7 +40,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.fd3e18a7.jahresschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Jahresschiessen",
         "sourceURL" : "https:\/\/sgdielsdorf.ch\/wp-content\/uploads\/Jahresprogramm_2026_Final.pdf"
@@ -48,7 +48,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.fd3e18a7.lagernschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Lägernschiessen",
         "sourceURL" : "https:\/\/sgdielsdorf.ch\/wp-content\/uploads\/Jahresprogramm_2026_Final.pdf"
@@ -56,7 +56,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.fd3e18a7.sodhubelschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Sodhubelschiessen",
         "sourceURL" : "https:\/\/sgdielsdorf.ch\/wp-content\/uploads\/Jahresprogramm_2026_Final.pdf"
@@ -64,7 +64,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.fd3e18a7.volksschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
         "sourceURL" : "https:\/\/sgdielsdorf.ch\/wp-content\/uploads\/Jahresprogramm_2026_Final.pdf"
@@ -72,7 +72,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.fd3e18a7.warpelschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Warpelschiessen",
         "sourceURL" : "https:\/\/sgdielsdorf.ch\/wp-content\/uploads\/Jahresprogramm_2026_Final.pdf"
@@ -80,7 +80,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.fd3e18a7.wyberschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Wyberschiessen",
         "sourceURL" : "https:\/\/sgdielsdorf.ch\/wp-content\/uploads\/Jahresprogramm_2026_Final.pdf"
@@ -98,7 +98,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgdielsdorf.ch"
   },
-  "contentHash" : "sha256-0fb32fc8dd7cf3471b1dbb5f9a024402a91a1b51231e3ff960010b74d7ddc827",
+  "contentHash" : "sha256-49817587a1b81dcaa3b46673d3a4b583b2c5b7f43809481967303477e1fc4569",
   "events" : [
     {
       "championshipTags" : "",
@@ -108,7 +108,7 @@
       "endDate" : "2026-05-13T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.fd3e18a7.efs.2026-05-13",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -131,7 +131,7 @@
       "endDate" : "2026-03-14T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.fd3e18a7.hauptschiessen.2026-03-14",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -154,7 +154,7 @@
       "endDate" : "2026-03-15T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.fd3e18a7.hauptschiessen.2026-03-15",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -177,7 +177,7 @@
       "endDate" : "2026-05-29T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.fd3e18a7.hauptschiessen.2026-05-29",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -200,7 +200,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.fd3e18a7.hauptschiessen.2026-05-30",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -223,7 +223,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.fd3e18a7.hauptschiessen.2026-05-31",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -246,7 +246,7 @@
       "endDate" : "2026-08-22T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.fd3e18a7.hauptschiessen.2026-08-22",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -269,7 +269,7 @@
       "endDate" : "2026-08-23T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.fd3e18a7.hauptschiessen.2026-08-23",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -292,7 +292,7 @@
       "endDate" : "2026-03-15T11:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.fd3e18a7.op.2026-03-15",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -315,7 +315,7 @@
       "endDate" : "2026-04-23T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.fd3e18a7.op.2026-04-23",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -338,7 +338,7 @@
       "endDate" : "2027-02-05T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.fd3e18a7.schiterbergschiessen.2027-02-05",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -361,7 +361,7 @@
       "endDate" : "2026-02-28T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.fd3e18a7.winterschiessen.2026-02-28",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -377,7 +377,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

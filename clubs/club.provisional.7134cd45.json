@@ -58,10 +58,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sps8192.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-6d403e49a594fcb123e4baac9a8362fbfee70e88345459249990388231a9a9bf",
+  "contentHash" : "sha256-089932bace685227751601f5f44cac0f9abe0dc926ac4a35f38fae729956fb7e",
   "events" : [
     {
       "championshipTags" : "",
@@ -306,7 +306,7 @@
       "title" : "Volksschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

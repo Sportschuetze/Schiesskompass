@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-thalheim.ch"
   },
-  "contentHash" : "sha256-92aa055889f98b87840d99f45c32956771f621db9128deb06bb10bf7bda0ada3",
+  "contentHash" : "sha256-c69a434462836e261eb9c5b086ebfedd10c07c06d2cd7a8220b7ed3677894868",
   "events" : [
     {
       "championshipTags" : "",
@@ -83,7 +83,7 @@
       "endDate" : "2026-06-10T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ag.thalheim-feldschutzen.op.2026-06-10",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -99,7 +99,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

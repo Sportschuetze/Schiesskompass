@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.erschwil-schutzengesellschaft.erzgraberschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Erzgraberschiessen",
         "sourceURL" : "https:\/\/www.sg-erschwil.ch\/"
@@ -33,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-erschwil.ch"
   },
-  "contentHash" : "sha256-46dd93f3ae7a1e84e0e6cb210669bd560ee49a509066a0315eb2dbc0f270cd9c",
+  "contentHash" : "sha256-10d778fdcd83822635c8fcb6c2cab8503395422835e33076234028682a3edb64",
   "events" : [
     {
       "championshipTags" : "",
@@ -43,7 +43,7 @@
       "endDate" : "2026-05-24T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.so.erschwil-schutzengesellschaft.op.2026-05-24",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -59,7 +59,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

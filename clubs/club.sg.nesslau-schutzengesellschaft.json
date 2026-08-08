@@ -48,7 +48,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.nesslau-schutzengesellschaft.jagdschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Jagdschiessen",
         "sourceURL" : "https:\/\/www.sg-nesslau.ch\/"
@@ -90,7 +90,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-nesslau.ch"
   },
-  "contentHash" : "sha256-d6af72e40fa9620b866c27b59042a35e4d23a65b5eaff03b9e69e8b41e1e5802",
+  "contentHash" : "sha256-cbde3f6b09e3a8db45645e6c3c5fc6379334a903fac7fa2f6329f6d9204aa8f3",
   "events" : [
     {
       "championshipTags" : "",
@@ -185,7 +185,7 @@
       "title" : "Gruppenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8089336f.bratwurstschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Bratwurstschiessen",
         "sourceURL" : "https:\/\/ps-zweisimmen.ch\/jahresprogramm\/Schiesstage_2026.pdf"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8089336f.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/ps-zweisimmen.ch\/jahresprogramm\/Schiesstage_2026.pdf"
@@ -34,7 +34,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8089336f.fruhjahrsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Frühjahrsschiessen",
         "sourceURL" : "https:\/\/ps-zweisimmen.ch\/jahresprogramm\/Schiesstage_2026.pdf"
@@ -42,7 +42,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8089336f.morgartenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Morgartenschiessen",
         "sourceURL" : "https:\/\/ps-zweisimmen.ch\/jahresprogramm\/Schiesstage_2026.pdf"
@@ -50,7 +50,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8089336f.pistolenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Pistolenschiessen",
         "sourceURL" : "https:\/\/ps-zweisimmen.ch\/jahresprogramm\/Schiesstage_2026.pdf"
@@ -58,7 +58,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8089336f.ryfflischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Ryfflischiessen",
         "sourceURL" : "https:\/\/ps-zweisimmen.ch\/jahresprogramm\/Schiesstage_2026.pdf"
@@ -66,7 +66,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8089336f.schlussschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Schlussschiessen",
         "sourceURL" : "https:\/\/ps-zweisimmen.ch\/jahresprogramm\/Schiesstage_2026.pdf"
@@ -74,7 +74,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.8089336f.winterschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/ps-zweisimmen.ch\/jahresprogramm\/Schiesstage_2026.pdf"
@@ -92,11 +92,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/ps-zweisimmen.ch\/"
   },
-  "contentHash" : "sha256-450d439cf22654a82074938bb949f1f555dbf839622dd8670edcc357e8b91b67",
+  "contentHash" : "sha256-df2949e3340656be2ba327f14dc7a5913f37974fcd260fff859833738e0fa832",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

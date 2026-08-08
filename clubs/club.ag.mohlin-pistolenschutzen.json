@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.mohlin-pistolenschutzen.grattimaschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Grättimaschiessen",
         "sourceURL" : "https:\/\/ps-moehlin.ch\/"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.mohlin-pistolenschutzen.herbstschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Herbstschiessen",
         "sourceURL" : "https:\/\/ps-moehlin.ch\/"
@@ -34,7 +34,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.mohlin-pistolenschutzen.nachtschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Nachtschiessen",
         "sourceURL" : "https:\/\/ps-moehlin.ch\/"
@@ -42,7 +42,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.mohlin-pistolenschutzen.rotischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Rötischiessen",
         "sourceURL" : "https:\/\/ps-moehlin.ch\/"
@@ -50,7 +50,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.mohlin-pistolenschutzen.winterschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/ps-moehlin.ch\/"
@@ -68,7 +68,7 @@
     "trainingWeekday" : "",
     "website" : "www.ps-moehlin.ch"
   },
-  "contentHash" : "sha256-bc44e484287c0c08ba1a18cf7eff7c981a65b352843e12823b5597b63eebdafa",
+  "contentHash" : "sha256-acacbdaf17ec89b4aa59b34c1385eb67ca1917c0507d4e6c69307be30969a641",
   "events" : [
     {
       "championshipTags" : "",
@@ -78,7 +78,7 @@
       "endDate" : "2026-05-22T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.mohlin-pistolenschutzen.efs.2026-05-22",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -101,7 +101,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.mohlin-pistolenschutzen.efs.2026-05-30",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -124,7 +124,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.mohlin-pistolenschutzen.efs.2026-05-31",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -147,7 +147,7 @@
       "endDate" : "2026-06-10T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.mohlin-pistolenschutzen.efs.2026-06-10",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -170,7 +170,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.mohlin-pistolenschutzen.feldvorschiessen.2026-05-30",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -193,7 +193,7 @@
       "endDate" : "2026-05-22T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ag.mohlin-pistolenschutzen.op.2026-05-22",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -209,7 +209,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

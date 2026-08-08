@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.bolchenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Bölchenschiessen",
         "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.einzelwettschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Einzelwettschiessen",
         "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.foiflibertalschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Föiflibertalschiessen",
         "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
@@ -39,7 +39,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
@@ -47,7 +47,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.nachtschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Nachtschiessen",
         "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
@@ -55,7 +55,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.riedbachschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Riedbachschiessen",
         "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
@@ -63,7 +63,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.wasserfallenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Wasserfallenschiessen",
         "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
@@ -71,7 +71,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.wettschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
@@ -79,7 +79,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.oberdorf-bl-freischutzen.winterschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/www.bsv-waldenburg.ch\/index_htm_files\/Terminkalender%202026.pdf"
@@ -97,11 +97,11 @@
     "trainingWeekday" : "",
     "website" : "www.fs-oberdorf.ch"
   },
-  "contentHash" : "sha256-61e09427f4721859e2b2142a6cba92187cb9ff6d4c6d2d693c58ccab12be2fb7",
+  "contentHash" : "sha256-a856907e41e581803b81e39ccb2ce4842c1fa4db7390c21ece8fce9d547f22c5",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

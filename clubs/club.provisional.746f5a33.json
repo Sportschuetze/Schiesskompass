@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.746f5a33.fasnachtsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Fasnachtsschiessen",
         "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.746f5a33.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.746f5a33.freunschaftsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Freunschaftsschiessen",
         "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
@@ -41,7 +41,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.746f5a33.grunenbergschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Grünenbergschiessen",
         "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
@@ -49,7 +49,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.746f5a33.herbstschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Herbstschiessen",
         "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
@@ -57,7 +57,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.746f5a33.murtenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Murtenschiessen",
         "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
@@ -65,7 +65,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.746f5a33.standartenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Standartenschiessen",
         "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
@@ -73,7 +73,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.746f5a33.standerneuerungsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Standerneuerungsschiessen",
         "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
@@ -81,7 +81,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.746f5a33.wettschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/www.sg-melchnau.ch\/images\/JPG2026_SGM_JSneu.pdf"
@@ -99,7 +99,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-melchnau.ch\/"
   },
-  "contentHash" : "sha256-3126a66a98083bef068a1ab433d8dcd34823a0d9e751255f01118f978e955b21",
+  "contentHash" : "sha256-73ce3ca2dcd32dc820536e85dfa7b5c83c0482db3aa84b0f820b42938df3b671",
   "events" : [
     {
       "championshipTags" : "",
@@ -109,7 +109,7 @@
       "endDate" : "2026-02-19T11:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.746f5a33.op.2026-02-19",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -132,7 +132,7 @@
       "endDate" : "2026-02-19T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.746f5a33.schnupperschiessen.2026-02-19",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -148,7 +148,7 @@
       "title" : "Schnupperschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

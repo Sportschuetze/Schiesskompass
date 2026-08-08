@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.d1a7e4e5.herbstschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Herbstschiessen",
         "sourceURL" : "https:\/\/www.sg-erlenbach-wimmis.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.d1a7e4e5.kastlanschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Kastlanschiessen",
         "sourceURL" : "https:\/\/www.sg-erlenbach-wimmis.ch\/"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.d1a7e4e5.sektionsstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Sektionsstich",
         "sourceURL" : "https:\/\/www.sg-erlenbach-wimmis.ch\/"
@@ -51,7 +51,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-erlenbach-wimmis.ch"
   },
-  "contentHash" : "sha256-e8f1dc220e770c1cc9ff62c3f62226bea5f3ff894e7448a23fc4557143d8ac7f",
+  "contentHash" : "sha256-d53c4ace0c59930e8acc9a8157b1f14384df8e128d2f3e5c88d7ce2e40bfafb9",
   "events" : [
     {
       "championshipTags" : "",
@@ -61,7 +61,7 @@
       "endDate" : "2026-05-15T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.d1a7e4e5.efs.2026-05-15",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -84,7 +84,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.d1a7e4e5.efs.2026-05-30",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -107,7 +107,7 @@
       "endDate" : "2027-09-18T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.d1a7e4e5.herbstschiessen.2027-09-18",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -130,7 +130,7 @@
       "endDate" : "2026-04-11T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.d1a7e4e5.op.2026-04-11",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -146,7 +146,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

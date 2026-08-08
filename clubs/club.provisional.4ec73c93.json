@@ -35,10 +35,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.ssgw.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-dee99507390764747558b9b7c79981bd76f7b19d7bf268680a4b87ca5da20962",
+  "contentHash" : "sha256-1679027213b369d47480fe616e34339a0303a22c73019937042a52c06001cc41",
   "events" : [
     {
       "championshipTags" : "",
@@ -168,7 +168,7 @@
       "title" : "Stadtschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -32,14 +32,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.freischuetzenwabern.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-ab2d4984a976737378006bbfb6bd1479e8cb7412639e4e16690bca7faf54f284",
+  "contentHash" : "sha256-572f12c99eb803999488ba8dd739fe5a2fdc79f446375c654fe59ce3016da280",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

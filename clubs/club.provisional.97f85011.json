@@ -16,66 +16,66 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.97f85011.chabisschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:46:47Z",
         "isUnverified" : true,
         "name" : "Chabisschiessen",
-        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/03\/Termin-2026.pdf"
+        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/08\/Vorstand_2026.pdf"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.97f85011.chabissschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:46:47Z",
         "isUnverified" : true,
         "name" : "Chabissschiessen",
-        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/03\/Termin-2026.pdf"
+        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/08\/Vorstand_2026.pdf"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.97f85011.chaslischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:46:47Z",
         "isUnverified" : true,
         "name" : "Chäslischiessen",
-        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/03\/Termin-2026.pdf"
+        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/08\/Vorstand_2026.pdf"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.97f85011.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:46:47Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
-        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/03\/Termin-2026.pdf"
+        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/08\/Vorstand_2026.pdf"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.97f85011.gnagischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:46:47Z",
         "isUnverified" : true,
         "name" : "Gnagischiessen",
-        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/03\/Termin-2026.pdf"
+        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/08\/Vorstand_2026.pdf"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.97f85011.jahresschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:46:47Z",
         "isUnverified" : true,
         "name" : "Jahresschiessen",
-        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/03\/Termin-2026.pdf"
+        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/08\/Vorstand_2026.pdf"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.97f85011.neueneggschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:46:47Z",
         "isUnverified" : true,
         "name" : "Neueneggschiessen",
-        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/03\/Termin-2026.pdf"
+        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/08\/Vorstand_2026.pdf"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.97f85011.stafelalpschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:46:47Z",
         "isUnverified" : true,
         "name" : "Stafelalpschiessen",
-        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/03\/Termin-2026.pdf"
+        "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/08\/Vorstand_2026.pdf"
       }
     ],
     "seasonEndDay" : 31,
@@ -90,7 +90,7 @@
     "trainingWeekday" : "",
     "website" : "www.sggelterfingen.ch"
   },
-  "contentHash" : "sha256-286fc0eb0dac7fb04f38e8ab5d9e8f83be44a6018e9dbadbe88edcc6b5350179",
+  "contentHash" : "sha256-96cdbea5d7c37d47f9f5927f24214e34a92dab795fc375e348861d614ed36cc8",
   "events" : [
     {
       "championshipTags" : "",
@@ -100,7 +100,7 @@
       "endDate" : "2026-08-15T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.97f85011.altjahrsschiessen.2026-08-15",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:46:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -108,7 +108,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/03\/Termin-2026.pdf",
+      "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/08\/Vorstand_2026.pdf",
       "startDate" : "2026-08-15T10:00:00Z",
       "timeBlocks" : [
 
@@ -123,7 +123,7 @@
       "endDate" : "2026-08-15T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.97f85011.op.2026-08-15",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:46:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -131,7 +131,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/03\/Termin-2026.pdf",
+      "sourceURL" : "https:\/\/sggelterfingen.ch\/wp-content\/uploads\/2026\/08\/Vorstand_2026.pdf",
       "startDate" : "2026-08-15T10:00:00Z",
       "timeBlocks" : [
 
@@ -139,7 +139,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

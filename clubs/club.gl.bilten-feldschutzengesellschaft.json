@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gl.bilten-feldschutzengesellschaft.chilbischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Chilbischiessen",
         "sourceURL" : "https:\/\/www.fsgbilten.ch\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gl.bilten-feldschutzengesellschaft.zigerstocklischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Zigerstöcklischiessen",
         "sourceURL" : "https:\/\/www.fsgbilten.ch\/"
@@ -41,11 +41,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsgbilten.ch"
   },
-  "contentHash" : "sha256-6ebb87bbacdfd00c667cf374952c11f8eb2fc288a496485de8157c33918cd0f6",
+  "contentHash" : "sha256-4f481f1bc1a488a0c17632cf0c420e095b103d6cb505674d654f2033f9d4c414",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

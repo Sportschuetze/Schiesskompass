@@ -26,10 +26,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.stadtschuetzen-olten.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-b0ed458305fbcacbe7013309cbda7a51d16be0d85e5fe2b1ea679c6360b0ab0c",
+  "contentHash" : "sha256-cf4acff8852db845807b817ea4797a25c7b9993b947ae0a0f44ecc9184738d2a",
   "events" : [
     {
       "championshipTags" : "",
@@ -377,7 +377,7 @@
       "title" : "Tiefmattschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

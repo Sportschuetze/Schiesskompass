@@ -56,10 +56,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "sg-ueberstorf.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-07b21b3051a5423633dcff10bf530e3c00fc9efb4ca98f7feeab8e5dacd91361",
+  "contentHash" : "sha256-ce575e6eb17ba3447862aca1a5815a956b5c1630ba493f50f4e0f17362c770c8",
   "events" : [
     {
       "championshipTags" : "",
@@ -108,7 +108,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

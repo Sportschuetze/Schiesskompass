@@ -41,10 +41,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.fsg-adligenswil.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-fd2c97cdf1075049e9207f2cfb5502b170059368596ec493b7346a89cec12568",
+  "contentHash" : "sha256-919d0279bd641c1133c8ace1db663dbc5ca97ecbe5539bd75255998a9bf5eddf",
   "events" : [
     {
       "championshipTags" : "",
@@ -208,7 +208,7 @@
       "title" : "Übungsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

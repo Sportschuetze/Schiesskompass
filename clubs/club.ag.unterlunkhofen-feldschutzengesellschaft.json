@@ -57,10 +57,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.fsgul.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-ff4028be623ca4da6fce2d2fe0cdb790c3837ecf6a15682f39c290786b44a5df",
+  "contentHash" : "sha256-500a7603e47bd2738372f58c6c2fc207fd69f94ffcbb20cb65bdaf9f11a6e5f0",
   "events" : [
     {
       "championshipTags" : "",
@@ -109,7 +109,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

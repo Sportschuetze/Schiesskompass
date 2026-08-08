@@ -28,7 +28,7 @@
     "trainingWeekday" : "",
     "website" : "www.pleureur.ch"
   },
-  "contentHash" : "sha256-f23b556b71fa946ec8f0e430460a4ad5bfbec3dad2a3541eb675317548c57bac",
+  "contentHash" : "sha256-263c95a66d957a9a7bad5ff94ab71caf3a750a6de8cd3181847c651428af71b5",
   "events" : [
     {
       "championshipTags" : "",
@@ -38,7 +38,7 @@
       "endDate" : "2026-01-01T11:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.vs.bagnes-societe-de-tir-le-pleureur.op.2026-01-01",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -61,7 +61,7 @@
       "endDate" : "2026-08-29T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.vs.bagnes-societe-de-tir-le-pleureur.op.2026-08-29",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -77,7 +77,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.a20d49b6.amtsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Amtsschiessen",
         "sourceURL" : "https:\/\/sgreichenbach.ch\/wp-content\/uploads\/2026\/03\/Schiesstage_2026_V3.pdf"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.a20d49b6.einzelwettschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Einzelwettschiessen",
         "sourceURL" : "https:\/\/sgreichenbach.ch\/wp-content\/uploads\/2026\/03\/Schiesstage_2026_V3.pdf"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.a20d49b6.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/sgreichenbach.ch\/wp-content\/uploads\/2026\/03\/Schiesstage_2026_V3.pdf"
@@ -41,7 +41,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.a20d49b6.suldschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Suldschiessen",
         "sourceURL" : "https:\/\/sgreichenbach.ch\/wp-content\/uploads\/2026\/03\/Schiesstage_2026_V3.pdf"
@@ -59,7 +59,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgreichenbach.ch"
   },
-  "contentHash" : "sha256-5e6415e5e8ed85e4a2d1d859fda0dbc9b0721cbb12405b38698bba9811c3a6ac",
+  "contentHash" : "sha256-d6a31a958c92322f369f3217b0e4b67d561fcbafa269977566043cb12d02f46c",
   "events" : [
     {
       "championshipTags" : "",
@@ -69,7 +69,7 @@
       "endDate" : "2026-05-29T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.a20d49b6.efs.2026-05-29",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -92,7 +92,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.a20d49b6.efs.2026-05-30",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -115,7 +115,7 @@
       "endDate" : "2026-06-20T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.a20d49b6.jahresschiessen.2026-06-20",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -138,7 +138,7 @@
       "endDate" : "2026-04-25T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.a20d49b6.op.2026-04-25",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -161,7 +161,7 @@
       "endDate" : "2026-09-06T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.a20d49b6.suldschiessen.2026-09-06",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -177,7 +177,7 @@
       "title" : "Suldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.lengnau-ag-schutzengesellschaft.chruzlibachschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Chrüzlibachschiessen",
         "sourceURL" : "https:\/\/www.chruezlibach.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.lengnau-ag-schutzengesellschaft.nachtschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Nachtschiessen",
         "sourceURL" : "https:\/\/www.chruezlibach.ch\/"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.lengnau-ag-schutzengesellschaft.chruezlibachschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "chruezlibachschiessen",
         "sourceURL" : "https:\/\/www.chruezlibach.ch\/"
@@ -49,10 +49,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "https:\/\/www.chruezlibach.ch\/index.php?id=2",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-675592458a41fd32e16d3b38056ca072e88a032d0dde310b8bd7fdd1406a193e",
+  "contentHash" : "sha256-54396fa70310653a9d121242ad5f256f7dbb9221aa19be0b7697e17f8afca0ac",
   "events" : [
     {
       "championshipTags" : "",
@@ -95,7 +95,7 @@
       "endDate" : "2027-03-02T11:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ag.lengnau-ag-schutzengesellschaft.op.2027-03-02",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -111,7 +111,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

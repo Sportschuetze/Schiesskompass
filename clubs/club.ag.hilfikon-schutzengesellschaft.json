@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.hilfikon-schutzengesellschaft.freiamterschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Freiämterschiessen",
         "sourceURL" : "https:\/\/sghilfikon.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.hilfikon-schutzengesellschaft.herbstschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Herbstschiessen",
         "sourceURL" : "https:\/\/sghilfikon.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.hilfikon-schutzengesellschaft.habnischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Häbnischiessen",
         "sourceURL" : "https:\/\/sghilfikon.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -41,7 +41,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.hilfikon-schutzengesellschaft.lizenzschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Lizenzschiessen",
         "sourceURL" : "https:\/\/sghilfikon.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -49,7 +49,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.hilfikon-schutzengesellschaft.maiengrunschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Maiengrünschiessen",
         "sourceURL" : "https:\/\/sghilfikon.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -57,7 +57,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.hilfikon-schutzengesellschaft.michelsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Michelsschiessen",
         "sourceURL" : "https:\/\/sghilfikon.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -65,7 +65,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.hilfikon-schutzengesellschaft.nachtschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Nachtschiessen",
         "sourceURL" : "https:\/\/sghilfikon.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -73,7 +73,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.hilfikon-schutzengesellschaft.nueschwaldschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Nüeschwaldschiessen",
         "sourceURL" : "https:\/\/sghilfikon.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -81,7 +81,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.hilfikon-schutzengesellschaft.vorstandschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Vorstandschiessen",
         "sourceURL" : "https:\/\/sghilfikon.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -89,7 +89,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.hilfikon-schutzengesellschaft.wettschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/sghilfikon.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -97,7 +97,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.hilfikon-schutzengesellschaft.winterschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/sghilfikon.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -115,11 +115,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/sghilfikon.ch"
   },
-  "contentHash" : "sha256-4ec4dabe6414459575c38d958565bfdb6f1992fc01d28d539b3bd60b23cd14f3",
+  "contentHash" : "sha256-68bbdb733fe5896cc32c3e9299b0acf0cbf3745aed5d4f8909f6047b8003fc6b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

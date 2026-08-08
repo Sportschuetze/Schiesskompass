@@ -24,10 +24,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.kks-gipf-oberfrick.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-d6b0c066ff72c686e2037456164f29b51efb7488ad21467d0e5d1fe1095e2da8",
+  "contentHash" : "sha256-e7d1e2588eabc650334697b7521aaad23fdee6d5677af3c3de77c2ba96213522",
   "events" : [
     {
       "championshipTags" : "",
@@ -168,7 +168,7 @@
       "title" : "Volksschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

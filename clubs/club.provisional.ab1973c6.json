@@ -19,7 +19,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.ab1973c6.chlausschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Chlausschiessen",
         "sourceURL" : "https:\/\/www.fsvr.ch\/wp-content\/files\/general\/reglemente\/pistolensektion\/Weisungen%20zum%20Schiessbetrieb%202026.pdf"
@@ -27,7 +27,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.ab1973c6.nachtschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Nachtschiessen",
         "sourceURL" : "https:\/\/www.fsvr.ch\/wp-content\/files\/general\/reglemente\/pistolensektion\/Weisungen%20zum%20Schiessbetrieb%202026.pdf"
@@ -45,7 +45,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsvr.ch"
   },
-  "contentHash" : "sha256-a9d3b395d2281798e4b596b9813bc09631b12352c7d3a687f357cee3e5148bd8",
+  "contentHash" : "sha256-fc786b1d13364ce27ee761a75a3a8040ef7441e66de5d49cadfd2496bb1bca9e",
   "events" : [
     {
       "championshipTags" : "",
@@ -55,7 +55,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.ab1973c6.efs.2026-05-30",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -78,7 +78,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.ab1973c6.gemeindeschiessen.2026-05-30",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -94,7 +94,7 @@
       "title" : "Gemeindeschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -49,14 +49,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sps-riedholz-feldbrunnen.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-6c337552cd0cd1e0cd3281377a4f43be93092a9f080455f59a9a27844dca211d",
+  "contentHash" : "sha256-c190403c11af84b04285425b9877bfc1850efc30aebe307ff2c1b34137461a65",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

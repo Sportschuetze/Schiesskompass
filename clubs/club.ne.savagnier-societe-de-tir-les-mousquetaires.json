@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/mousquetaires-savagnier.ch\/"
   },
-  "contentHash" : "sha256-c4bfc295ca7e2b48a466814c4255f7d1b5329a11524d5fc63a49e11e09e8a493",
+  "contentHash" : "sha256-afa1b0d473a9dff5ab32ff39c9d2817c7d18800e60daf59d50904cdf88d22757",
   "events" : [
     {
       "championshipTags" : "",
@@ -33,7 +33,7 @@
       "endDate" : "2026-05-21T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ne.savagnier-societe-de-tir-les-mousquetaires.efs.2026-05-21",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -56,7 +56,7 @@
       "endDate" : "2026-06-03T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ne.savagnier-societe-de-tir-les-mousquetaires.efs.2026-06-03",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -72,7 +72,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -35,10 +35,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.pk-zollhaus-plaffeien.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-248320af4248b01daea74ae4f922f390a1f80321bd711fab9e7fc7c8bf6197cb",
+  "contentHash" : "sha256-1aa5de67c43c3409b90645d28dea676e0d8946344c951b9f7aa5c9e4a1b046e3",
   "events" : [
     {
       "championshipTags" : "",
@@ -64,7 +64,7 @@
       "title" : "Frühjahresschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

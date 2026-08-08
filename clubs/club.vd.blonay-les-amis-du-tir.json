@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.amisdutir.ch\/"
   },
-  "contentHash" : "sha256-1e0731b436541570a7f8ce40fcbcbf6f96f10afc552682e56cd240f78640aa19",
+  "contentHash" : "sha256-2fbaabe3e76ce6cf66674307336172ebcf912723b38ddcaa771668e5354bc4ce",
   "events" : [
     {
       "championshipTags" : "",
@@ -33,7 +33,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.vd.blonay-les-amis-du-tir.efs.2026-05-30",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -56,7 +56,7 @@
       "endDate" : "2026-06-18T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.vd.blonay-les-amis-du-tir.efs.2026-06-18",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -72,7 +72,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.hemmiken-schutzengesellschaft.bischofsteinschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Bischofsteinschiessen",
         "sourceURL" : "https:\/\/www.sghemmiken.ch\/view\/data\/11072\/2026_Veranstaltungskalender%20Hemmiken.pdf"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.hemmiken-schutzengesellschaft.banzaschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Bänzäschiessen",
         "sourceURL" : "https:\/\/www.sghemmiken.ch\/view\/data\/11072\/2026_Veranstaltungskalender%20Hemmiken.pdf"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.hemmiken-schutzengesellschaft.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/www.sghemmiken.ch\/view\/data\/11072\/2026_Veranstaltungskalender%20Hemmiken.pdf"
@@ -40,7 +40,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.hemmiken-schutzengesellschaft.farnsburgkreisschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Farnsburgkreisschiessen",
         "sourceURL" : "https:\/\/www.sghemmiken.ch\/view\/data\/11072\/2026_Veranstaltungskalender%20Hemmiken.pdf"
@@ -48,7 +48,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.hemmiken-schutzengesellschaft.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/www.sghemmiken.ch\/view\/data\/11072\/2026_Veranstaltungskalender%20Hemmiken.pdf"
@@ -56,7 +56,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.hemmiken-schutzengesellschaft.jungschutzenwettschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Jungschützenwettschiessen",
         "sourceURL" : "https:\/\/www.sghemmiken.ch\/view\/data\/11072\/2026_Veranstaltungskalender%20Hemmiken.pdf"
@@ -64,7 +64,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.hemmiken-schutzengesellschaft.luftgewehrschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Luftgewehrschiessen",
         "sourceURL" : "https:\/\/www.sghemmiken.ch\/view\/data\/11072\/2026_Veranstaltungskalender%20Hemmiken.pdf"
@@ -72,7 +72,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.hemmiken-schutzengesellschaft.martinischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Martinischiessen",
         "sourceURL" : "https:\/\/www.sghemmiken.ch\/view\/data\/11072\/2026_Veranstaltungskalender%20Hemmiken.pdf"
@@ -80,7 +80,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.hemmiken-schutzengesellschaft.rutlistich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Rütlistich",
         "sourceURL" : "https:\/\/www.sghemmiken.ch\/view\/data\/11072\/2026_Veranstaltungskalender%20Hemmiken.pdf"
@@ -88,7 +88,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.hemmiken-schutzengesellschaft.vereinsstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Vereinsstich",
         "sourceURL" : "https:\/\/www.sghemmiken.ch\/view\/data\/11072\/2026_Veranstaltungskalender%20Hemmiken.pdf"
@@ -106,7 +106,7 @@
     "trainingWeekday" : "",
     "website" : "www.sghemmiken.ch"
   },
-  "contentHash" : "sha256-0f4f8226acc90b2a71d0e0180426be5f9a19a1e0c913ef5e6cb6d1f0a83bf53f",
+  "contentHash" : "sha256-5c8ca1445b9b730a239ac862f8e4583edf84e8adb2cf79bd91e120026f4779ee",
   "events" : [
     {
       "championshipTags" : "",
@@ -116,7 +116,7 @@
       "endDate" : "2027-02-03T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bl.hemmiken-schutzengesellschaft.bischofsteinschiessen.2027-02-03",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -132,7 +132,7 @@
       "title" : "Bischofsteinschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

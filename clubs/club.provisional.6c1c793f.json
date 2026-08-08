@@ -44,10 +44,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "pskloten.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-819b14ea48ce047e7e6cd9e10fb264a4185c5290a2f54919542e170006ad7727",
+  "contentHash" : "sha256-b1727f136778e0ac84da9ac88b5ceb542751335e97b0de84040a4ec33a654069",
   "events" : [
     {
       "championshipTags" : "",
@@ -177,7 +177,7 @@
       "title" : "Flughafenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -37,10 +37,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.feuerschuetzen.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-6c7945bfc29cd04e0a61a4ead54b6a4f1d1717207c628d1ebdd27c13a8323e20",
+  "contentHash" : "sha256-ea36d0eae9398e453cff1897750d99a6a527d67cc1e440dbb6f5cecbcf23b764",
   "events" : [
     {
       "championshipTags" : "",
@@ -66,7 +66,7 @@
       "title" : "Forellenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

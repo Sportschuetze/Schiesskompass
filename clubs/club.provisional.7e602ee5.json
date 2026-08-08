@@ -40,10 +40,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.unterbachschuetzen.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-28acd5e56f97f8d6e2f9731a8bf8f927c7e5d262444f71666c935d750a070076",
+  "contentHash" : "sha256-ad263df0aee6afcc608bffbb01cf3c944fbcf44f632c62150bb5d0b430afc4f7",
   "events" : [
     {
       "championshipTags" : "",
@@ -69,7 +69,7 @@
       "title" : "Jubiläumsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

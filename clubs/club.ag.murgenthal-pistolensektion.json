@@ -58,10 +58,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.ps-murgenthal.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-ae3bddc757ef5bbbbb724fd995f33e9d74887c8c635ce8ef537b800c2fb7fc82",
+  "contentHash" : "sha256-551a37504eea957de8b079b5c0767170a557a2c72dc3d672e547413cf2c45b69",
   "events" : [
     {
       "championshipTags" : "",
@@ -110,7 +110,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

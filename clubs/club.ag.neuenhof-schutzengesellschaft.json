@@ -20,7 +20,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.neuenhof-schutzengesellschaft.bareggschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Bareggschiessen",
         "sourceURL" : "https:\/\/www.sgneuenhof.ch\/userfiles\/downloads\/intern_diverse\/20_JP_Standbelegung2026.pdf"
@@ -28,7 +28,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.neuenhof-schutzengesellschaft.endsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Endsschiessen",
         "sourceURL" : "https:\/\/www.sgneuenhof.ch\/userfiles\/downloads\/intern_diverse\/20_JP_Standbelegung2026.pdf"
@@ -36,7 +36,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.neuenhof-schutzengesellschaft.revolverschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Revolverschiessen",
         "sourceURL" : "https:\/\/www.sgneuenhof.ch\/userfiles\/downloads\/intern_diverse\/20_JP_Standbelegung2026.pdf"
@@ -44,7 +44,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.neuenhof-schutzengesellschaft.rutlischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Rütlischiessen",
         "sourceURL" : "https:\/\/www.sgneuenhof.ch\/userfiles\/downloads\/intern_diverse\/20_JP_Standbelegung2026.pdf"
@@ -52,7 +52,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.neuenhof-schutzengesellschaft.schlussschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Schlussschiessen",
         "sourceURL" : "https:\/\/www.sgneuenhof.ch\/userfiles\/downloads\/intern_diverse\/20_JP_Standbelegung2026.pdf"
@@ -60,7 +60,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.neuenhof-schutzengesellschaft.wettschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/www.sgneuenhof.ch\/userfiles\/downloads\/intern_diverse\/20_JP_Standbelegung2026.pdf"
@@ -78,7 +78,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgneuenhof.ch"
   },
-  "contentHash" : "sha256-0133e41b7b7825389b8a0d06de89d42535657c3139baed1b754c467bcf7ea85e",
+  "contentHash" : "sha256-f2c1dbf9c6c85948c1f27816d7dec6b6811652c504990c8317c036621dde063f",
   "events" : [
     {
       "championshipTags" : "",
@@ -156,7 +156,7 @@
       "endDate" : "2026-09-03T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.neuenhof-schutzengesellschaft.bareggschiessen.2026-09-03",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -179,7 +179,7 @@
       "endDate" : "2026-08-01T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ag.neuenhof-schutzengesellschaft.efs.2026-08-01",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -202,7 +202,7 @@
       "endDate" : "2026-05-17T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.neuenhof-schutzengesellschaft.freundschaftsschiessen.2026-05-17",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -225,7 +225,7 @@
       "endDate" : "2026-08-25T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.neuenhof-schutzengesellschaft.freundschaftsschiessen.2026-08-25",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -248,7 +248,7 @@
       "endDate" : "2026-03-08T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.neuenhof-schutzengesellschaft.revolverschiessen.2026-03-08",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -264,7 +264,7 @@
       "title" : "Revolverschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

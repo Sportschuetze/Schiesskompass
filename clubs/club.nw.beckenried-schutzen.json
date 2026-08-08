@@ -26,10 +26,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "https:\/\/www.schuetzen-beckenried.ch\/",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-5f2035210931a99d19358919d08e5fd76e65a6ff93a90928fe8fcc6396e65c45",
+  "contentHash" : "sha256-35bac76790b657221f702210441a88b6e35494175179f9cc84b4db711b2a5d82",
   "events" : [
     {
       "championshipTags" : "",
@@ -147,7 +147,7 @@
       "title" : "Überfallschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -21,7 +21,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ju.porrentruy-societe-de-tir-la-campagne.buchelschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Büchelschiessen",
         "sourceURL" : "https:\/\/porrentruycampagne.ch\/wp-content\/uploads\/2026\/02\/Calendrier-2026.pdf"
@@ -29,7 +29,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ju.porrentruy-societe-de-tir-la-campagne.felsplattenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Felsplattenschiessen",
         "sourceURL" : "https:\/\/porrentruycampagne.ch\/wp-content\/uploads\/2026\/02\/Calendrier-2026.pdf"
@@ -47,7 +47,7 @@
     "trainingWeekday" : "",
     "website" : "www.porrentruycampagne.ch"
   },
-  "contentHash" : "sha256-09c087ee1ade159ab72c5368ec5a941ea60760158a1c99f8d7a98a615d675628",
+  "contentHash" : "sha256-e5d44397568dc10055e1eae862592c1b208341ba92cd75ca11cfbafecb84d2ca",
   "events" : [
     {
       "championshipTags" : "",
@@ -57,7 +57,7 @@
       "endDate" : "2026-06-03T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ju.porrentruy-societe-de-tir-la-campagne.efs.2026-06-03",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -73,7 +73,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

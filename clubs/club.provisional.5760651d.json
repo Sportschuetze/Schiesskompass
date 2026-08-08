@@ -19,7 +19,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.5760651d.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/www.xn--militrschtzen-thun-ptb89b.ch\/"
@@ -27,7 +27,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.5760651d.gabenstich",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Gabenstich",
         "sourceURL" : "https:\/\/www.xn--militrschtzen-thun-ptb89b.ch\/"
@@ -45,7 +45,7 @@
     "trainingWeekday" : "",
     "website" : "www.militärschützen-thun.ch"
   },
-  "contentHash" : "sha256-52bb4d5955cf5cb5c5cd72a1c8cb774bd10333f898a7dee298e7b8c8a61cd4cb",
+  "contentHash" : "sha256-8032e65b739af699f3995187f4d0eb35f74a189ae6359fe67cbb50e2e9e3fec9",
   "events" : [
     {
       "championshipTags" : "",
@@ -55,7 +55,7 @@
       "endDate" : "2026-07-25T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.5760651d.op.2026-07-25",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -71,7 +71,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -32,14 +32,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sglüterswil-biezwil.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-3f4ae8a324524aa75adb8a78dba3a1bdc80c914a26dfd112129882adcea92dda",
+  "contentHash" : "sha256-2ae481ddb414100bcb5d745fa707f7f8d2b34ed26b044ee227b34dabe5ef851f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

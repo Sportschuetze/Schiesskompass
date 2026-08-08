@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-kroeschenbrunnen.ch"
   },
-  "contentHash" : "sha256-7b418fe6b4d1b79cac7d4c3318bdcae90516b5ad4b92ac82c9d9d9f5427eb98e",
+  "contentHash" : "sha256-ed4bd7d240efdc05a51ba65c541447474446d6ce9986075de360d72deb4f1525",
   "events" : [
     {
       "championshipTags" : "",
@@ -34,7 +34,7 @@
       "endDate" : "2026-12-26T11:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.89c396d9.op.2026-12-26",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -50,7 +50,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

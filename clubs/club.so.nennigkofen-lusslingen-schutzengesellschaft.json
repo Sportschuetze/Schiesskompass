@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.nennigkofen-lusslingen-schutzengesellschaft.eymattschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Eymattschiessen",
         "sourceURL" : "https:\/\/www.sgnl.ch\/"
@@ -35,11 +35,11 @@
     "trainingWeekday" : "",
     "website" : "sgnl.ch"
   },
-  "contentHash" : "sha256-165d2b871ee2737100559612f502e1d40727c95995cb8eb6e1ff9e6fcf202a67",
+  "contentHash" : "sha256-0789f7cb321ce34aa2b494414dfa1600090e392d018ed9675ba2d4beae1555d4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

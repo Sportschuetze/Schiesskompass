@@ -35,10 +35,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.psvn.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-605a70e6f8b3085eb73bae6cb86c31516f7c8e129c16ebd575885d3e499b8035",
+  "contentHash" : "sha256-bbe07e4b0f5f0ca1337ea7150baa2ddd563ee3494a5aecfd17979323c0648aca",
   "events" : [
     {
       "championshipTags" : "",
@@ -64,7 +64,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

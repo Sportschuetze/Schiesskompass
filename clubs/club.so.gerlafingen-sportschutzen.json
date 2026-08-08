@@ -42,14 +42,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sps-gerlafingen.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-47c128066b9b60c4238d558c9d64380c740cf39d7a5dcebcb2cf88b25e452177",
+  "contentHash" : "sha256-dd43b634156a74173a49af372f2127f1dbe6efd163c6efefeda9493b41a9d063",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

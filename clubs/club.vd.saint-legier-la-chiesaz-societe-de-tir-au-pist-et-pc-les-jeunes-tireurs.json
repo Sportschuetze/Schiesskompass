@@ -26,14 +26,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/web.jeunes-tireurs-st-legier.ch\/",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-ae37f4b9489c44cf9b7f74e617408b9c66a0677fcc676329991a5c9802f35ce8",
+  "contentHash" : "sha256-ed865fff9704f2f20e438cfc50c3b0235979007b83060c6badfdfd568402981d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

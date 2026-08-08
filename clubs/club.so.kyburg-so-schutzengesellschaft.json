@@ -33,10 +33,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sgkyburg.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-995fca5ac693d857de68a05956b4af8d268afb1e63438c3032158ac60f427e9c",
+  "contentHash" : "sha256-ece170d6ffd9f86657d8e945864722eacaa24ab9bc3e241346ec6fb2fff3aa25",
   "events" : [
     {
       "championshipTags" : "",
@@ -131,7 +131,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

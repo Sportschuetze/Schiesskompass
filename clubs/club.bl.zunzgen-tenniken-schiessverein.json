@@ -21,7 +21,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.zunzgen-tenniken-schiessverein.buchelschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Büchelschiessen",
         "sourceURL" : "https:\/\/www.svzunzgentenniken.ch\/wp-content\/uploads\/Schiessplan-300m.pdf"
@@ -29,7 +29,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.zunzgen-tenniken-schiessverein.calvenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Calvenschiessen",
         "sourceURL" : "https:\/\/www.svzunzgentenniken.ch\/wp-content\/uploads\/Schiessplan-300m.pdf"
@@ -37,7 +37,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.zunzgen-tenniken-schiessverein.morgartenschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Morgartenschiessen",
         "sourceURL" : "https:\/\/www.svzunzgentenniken.ch\/wp-content\/uploads\/Schiessplan-300m.pdf"
@@ -45,7 +45,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.zunzgen-tenniken-schiessverein.rutlischiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Rütlischiessen",
         "sourceURL" : "https:\/\/www.svzunzgentenniken.ch\/wp-content\/uploads\/Schiessplan-300m.pdf"
@@ -53,7 +53,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.zunzgen-tenniken-schiessverein.winterschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/www.svzunzgentenniken.ch\/wp-content\/uploads\/Schiessplan-300m.pdf"
@@ -71,11 +71,11 @@
     "trainingWeekday" : "",
     "website" : "www.svzunzgentenniken.ch"
   },
-  "contentHash" : "sha256-6a69eb8049d99e3fae2ed01b8a2ba402c4c616f16e179212e35ebc9073441b5e",
+  "contentHash" : "sha256-ce0630da21591ad137c8485737f1248d8882d66e5d8579caea9f91f843ce05b2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

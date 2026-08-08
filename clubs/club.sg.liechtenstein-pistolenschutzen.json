@@ -25,10 +25,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.pistolenschuetzen.li",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-2447b95ca5512c44a44c0f7fc8dab41c201792c43f51a5cda1d83a21e7604247",
+  "contentHash" : "sha256-ddf5c87b754faef2a06d6216e16db21cc220431e36db0549af2ef94338f93ad0",
   "events" : [
     {
       "championshipTags" : "",
@@ -79,7 +79,7 @@
       "title" : "39. Josefi - Gruppenschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgsb.ch"
   },
-  "contentHash" : "sha256-f408c433be8311d7a52a7c76c8d5623582632e747a728e059495536845aaf89c",
+  "contentHash" : "sha256-4c0afc687bdf703182e15f20a81b801b8764f8bd9ec3be9539265284b4ba5198",
   "events" : [
     {
       "championshipTags" : "",
@@ -34,7 +34,7 @@
       "endDate" : "2026-05-20T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.tg.sirnach-busswil-schutzengesellschaft.efs.2026-05-20",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -57,7 +57,7 @@
       "endDate" : "2026-05-20T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.tg.sirnach-busswil-schutzengesellschaft.hauptschiessen.2026-05-20",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -80,7 +80,7 @@
       "endDate" : "2026-04-24T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.tg.sirnach-busswil-schutzengesellschaft.op.2026-04-24",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -96,7 +96,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

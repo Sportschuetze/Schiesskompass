@@ -41,10 +41,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sgbuchs.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-07bb35d56076d5369d3e9f7f8b49f129e54a2bb00ef224884344fcb41b456859",
+  "contentHash" : "sha256-574f0804171d5e469d4064c719687e5e9cc3158ef4b8285dccad4a6b91692b60",
   "events" : [
     {
       "championshipTags" : "",
@@ -139,7 +139,7 @@
       "title" : "Übungsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -34,14 +34,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.pslyss.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-651e1baca2150df0fac6c5684d635b735903064f66ca1d89493e9c990f147362",
+  "contentHash" : "sha256-f50e098551c48103c523d82ec802165f185f74b8e2dbb1c7a9f3d77ef613a462",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

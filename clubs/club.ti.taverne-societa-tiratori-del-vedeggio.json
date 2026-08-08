@@ -37,7 +37,7 @@
     "trainingWeekday" : "",
     "website" : "www.stvedeggio.ch"
   },
-  "contentHash" : "sha256-f828282cdff3416412190f8c95bfc365fb14bd8a3df6ff54245bdc55d7edb10d",
+  "contentHash" : "sha256-b50790bc71feb56fe271e82c7cc3b0f7a3e1871c390815233cebb88e83ecfca9",
   "events" : [
     {
       "championshipTags" : "",
@@ -47,7 +47,7 @@
       "endDate" : "2026-07-19T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.ti.taverne-societa-tiratori-del-vedeggio.efs.2026-07-19",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -63,7 +63,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

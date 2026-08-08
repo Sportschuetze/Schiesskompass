@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.ba7061cc.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/fsgoerlingen.jimdofree.com\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.ba7061cc.kreisschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Kreisschiessen",
         "sourceURL" : "https:\/\/fsgoerlingen.jimdofree.com\/"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.ba7061cc.nostalgieschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Nostalgieschiessen",
         "sourceURL" : "https:\/\/fsgoerlingen.jimdofree.com\/"
@@ -40,7 +40,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.ba7061cc.vintageschiessen",
-        "fetchedAt" : "2026-08-08T06:12:56Z",
+        "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Vintageschiessen",
         "sourceURL" : "https:\/\/fsgoerlingen.jimdofree.com\/"
@@ -58,7 +58,7 @@
     "trainingWeekday" : "",
     "website" : "fsgoerlingen.jimdofree.com"
   },
-  "contentHash" : "sha256-9dbcafc4462adb00d9a72af8dcd32017970724199c55d7e129b1ea753be87499",
+  "contentHash" : "sha256-b9ec509984083bde5dff5ab3b50fc98e916bc902533f6d1afbaa6bc8f87c0152",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +68,7 @@
       "endDate" : "2027-05-01T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.ba7061cc.efs.2027-05-01",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -91,7 +91,7 @@
       "endDate" : "2027-06-06T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.ba7061cc.efs.2027-06-06",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -114,7 +114,7 @@
       "endDate" : "2026-04-12T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.ba7061cc.op.2026-04-12",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -130,7 +130,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

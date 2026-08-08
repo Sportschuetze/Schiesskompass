@@ -36,10 +36,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.fs-riehen.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-6c0675397a120870958deedb0dcd429ac449709ac9231a2b4e7a5003e2ed5809",
+  "contentHash" : "sha256-f0b9a321149ca4bd1ecec58ea51b36e7794c6a5e463aac6cd4a012a062653b21",
   "events" : [
     {
       "championshipTags" : "",
@@ -134,7 +134,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

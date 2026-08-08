@@ -24,14 +24,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.pistolet-nyon.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "skippedRobots"
   },
-  "contentHash" : "sha256-6c6bec62595f0f95985f67084eae583399492426ab74da003399811c397d9049",
+  "contentHash" : "sha256-fbe17d5f2f8a4a2d40288e50763f62665adc3608f2af91d926045644b4309397",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

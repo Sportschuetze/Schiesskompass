@@ -25,10 +25,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/www.unionetiratorilocarno.ch",
-    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-50a8efb532440c77a6570ea6777c4127c2e12fd53f47b1d0fd93f3f8fefa56ac",
+  "contentHash" : "sha256-2ffe9eae7282537936d7513c472ec2aa428a6d036e1ce8165af8e1bcb92b4150",
   "events" : [
     {
       "championshipTags" : "",
@@ -38,7 +38,7 @@
       "endDate" : "2026-02-16T11:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ti.locarno-unione-tiratori.op.2026-02-16",
-      "fetchedAt" : "2026-08-08T06:12:56Z",
+      "fetchedAt" : "2026-08-08T06:17:47Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -54,7 +54,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-08T06:47:18Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }
