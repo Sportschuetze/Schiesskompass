@@ -33,9 +33,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.ssbt.ch"
+    "website" : "www.ssbt.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-e7b4163b777020d5c79dc1b43feaf222bc3623283d358cbfd5629dab03249603",
+  "contentHash" : "sha256-b85abfa39f683ed999bf59172c1cc704c001078f13a4281fb8c9c18c62fa2ed9",
   "events" : [
     {
       "championshipTags" : "",
@@ -107,13 +109,13 @@
         },
         {
           "date" : "2027-09-04T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "17:30",
+          "startTime" : "13:30"
         },
         {
           "date" : "2027-09-04T10:00:00Z",
-          "endTime" : "17:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         }
       ],
       "title" : "Fusionsschiessen 2027"
@@ -165,7 +167,7 @@
       "title" : "Fusionsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

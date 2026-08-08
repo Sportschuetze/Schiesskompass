@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.oberwil-bl-sportschutzen.auflageschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Auflageschiessen",
         "sourceURL" : "https:\/\/www.sportschuetzen-oberwil.ch\/data\/2025\/Terminkalender_10m_2025_2026_20250926.pdf"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.oberwil-bl-sportschutzen.kleinkaliberschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Kleinkaliberschiessen",
         "sourceURL" : "https:\/\/www.sportschuetzen-oberwil.ch\/data\/2025\/Terminkalender_10m_2025_2026_20250926.pdf"
@@ -34,7 +34,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.oberwil-bl-sportschutzen.vereinswettschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Vereinswettschiessen",
         "sourceURL" : "https:\/\/www.sportschuetzen-oberwil.ch\/data\/2025\/Terminkalender_10m_2025_2026_20250926.pdf"
@@ -42,7 +42,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.oberwil-bl-sportschutzen.volksschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
         "sourceURL" : "https:\/\/www.sportschuetzen-oberwil.ch\/data\/2025\/Terminkalender_10m_2025_2026_20250926.pdf"
@@ -60,7 +60,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.sportschuetzen-oberwil.ch\/"
   },
-  "contentHash" : "sha256-d78f5955331ad7176f2656436065e23767e98f921e8710ac645f5deb1d2e0c1d",
+  "contentHash" : "sha256-7d9123ca9bb19679a76bb078f18bf02b830a39d439f9795b093bf28978212085",
   "events" : [
     {
       "championshipTags" : "",
@@ -70,7 +70,7 @@
       "endDate" : "2026-08-28T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bl.oberwil-bl-sportschutzen.nachschiessen.2026-08-28",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -93,7 +93,7 @@
       "endDate" : "2026-08-21T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bl.oberwil-bl-sportschutzen.volksschiessen.2026-08-21",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -109,7 +109,7 @@
       "title" : "Volksschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

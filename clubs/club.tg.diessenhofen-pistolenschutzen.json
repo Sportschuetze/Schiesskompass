@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6563a44fea85854f841ed6b1125d3a71def70256e5121ca59bf1ddfc98fd9e6c",
+  "contentHash" : "sha256-456a4ab16ba3f94b3729b951051a60ce3d1f891bc305ddb422053bdaec9fcc06",
   "events" : [
     {
       "championshipTags" : "",
@@ -43,16 +43,6 @@
       "timeBlocks" : [
         {
           "date" : "2026-10-24T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-10-24T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-10-24T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
         },
@@ -75,6 +65,16 @@
           "date" : "2026-10-24T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-10-24T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-10-24T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-10-24T10:00:00Z",
@@ -113,8 +113,13 @@
         },
         {
           "date" : "2026-10-31T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-10-31T11:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-10-31T11:00:00Z",
@@ -133,19 +138,14 @@
         },
         {
           "date" : "2026-10-31T11:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-10-31T11:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         }
       ],
       "title" : "49. St. Niklaus-Pistolenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

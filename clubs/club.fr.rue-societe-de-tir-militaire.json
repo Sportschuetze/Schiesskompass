@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.societe-tir-rue.ch"
   },
-  "contentHash" : "sha256-e4198ef93720a0153306fae2e61bda52e7f553e0aa6ca77b267b071fcaa80fa0",
+  "contentHash" : "sha256-f32105d22aeb2c2f61be49773823cf6a73e95119fdcd808b9c2e071fa7490046",
   "events" : [
     {
       "championshipTags" : "",
@@ -33,7 +33,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.fr.rue-societe-de-tir-militaire.efs.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -56,7 +56,7 @@
       "endDate" : "2026-04-26T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.fr.rue-societe-de-tir-militaire.op.2026-04-26",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -79,7 +79,7 @@
       "endDate" : "2026-06-20T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.fr.rue-societe-de-tir-militaire.op.2026-06-20",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -95,7 +95,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

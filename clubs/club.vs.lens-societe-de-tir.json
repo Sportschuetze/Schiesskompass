@@ -28,7 +28,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.tir-lens.ch\/"
   },
-  "contentHash" : "sha256-72f0a12d67c48c9a5fd759a8bd0108616b9bd143afcbd0127a55b69afd2d0412",
+  "contentHash" : "sha256-172404cf1bc797adba0c03410e5930fed507f25407b16c0457394cb58b94fed5",
   "events" : [
     {
       "championshipTags" : "",
@@ -38,7 +38,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.vs.lens-societe-de-tir.efs.2026-05-30",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -61,7 +61,7 @@
       "endDate" : "2026-08-29T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.vs.lens-societe-de-tir.op.2026-08-29",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -77,7 +77,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

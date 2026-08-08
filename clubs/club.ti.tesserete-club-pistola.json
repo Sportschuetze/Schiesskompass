@@ -19,7 +19,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ti.tesserete-club-pistola.ruetlischiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "ruetlischiessen",
         "sourceURL" : "https:\/\/www.cptesserete.ch\/"
@@ -37,11 +37,11 @@
     "trainingWeekday" : "",
     "website" : "www.cptesserete.ch"
   },
-  "contentHash" : "sha256-515d6f8c8e23e4207d64989c038f49806978316afb7216e2da8a7540d1913edb",
+  "contentHash" : "sha256-3f97d1052e38308b9a84b2898cb431a0942c9e15bc9d31672dd10e851430aa77",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

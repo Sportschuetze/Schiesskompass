@@ -25,9 +25,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.ps-steffisburg.ch"
+    "website" : "www.ps-steffisburg.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-a31e0af78a1356ce537bcaee697f8554df0b91de082af49ec3c13a95e3af039a",
+  "contentHash" : "sha256-957079cab8d7487b2a05efe31cddf14463f1376af8716b470169497f0a5eabec",
   "events" : [
     {
       "championshipTags" : "",
@@ -76,7 +78,7 @@
       "title" : "Freundschaftsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.025b4227.fondueschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Fondueschiessen",
         "sourceURL" : "https:\/\/www.sg-muelchi.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.025b4227.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/www.sg-muelchi.ch\/"
@@ -43,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-muelchi.ch"
   },
-  "contentHash" : "sha256-f80f316499685969b3c513bf55c9a6b868bc9fd76fc5c03d2e4eeb91b41a5f83",
+  "contentHash" : "sha256-cf4246325806f558c036791da10fbace5f9e77829964561d290d75dc90270f60",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.fs-stettlen-deisswil.ch\/"
   },
-  "contentHash" : "sha256-63fd3dfcd417269893fa4484e39281af1aef21ccc0009a8d729ead672f15fc6c",
+  "contentHash" : "sha256-e0ce1ba7b9e9a1af5a0e18fbfa6c5cccd16520418c35c9508d4c7e0bd74b8667",
   "events" : [
     {
       "championshipTags" : "",
@@ -35,7 +35,7 @@
       "endDate" : "2026-05-27T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.c7541a79.efs.2026-05-27",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -58,7 +58,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.c7541a79.efs.2026-05-30",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -81,7 +81,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.c7541a79.efs.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -104,7 +104,7 @@
       "endDate" : "2026-08-29T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.c7541a79.efs.2026-08-29",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -127,7 +127,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.c7541a79.nfeldschiessen.2026-05-30",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -150,7 +150,7 @@
       "endDate" : "2026-08-29T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.c7541a79.nfeldschiessen.2026-08-29",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -166,7 +166,7 @@
       "title" : "nFeldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

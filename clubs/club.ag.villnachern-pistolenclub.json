@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.villnachern-pistolenclub.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/pistolenclub-villnachern.ch\/wp\/wp-content\/uploads\/2026\/07\/Jahresprogramm-2026-V3b.pdf"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.villnachern-pistolenclub.luftpistolenschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Luftpistolenschiessen",
         "sourceURL" : "https:\/\/pistolenclub-villnachern.ch\/wp\/wp-content\/uploads\/2026\/07\/Jahresprogramm-2026-V3b.pdf"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.villnachern-pistolenclub.vancouverstich",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Vancouverstich",
         "sourceURL" : "https:\/\/pistolenclub-villnachern.ch\/wp\/wp-content\/uploads\/2026\/07\/Jahresprogramm-2026-V3b.pdf"
@@ -51,7 +51,7 @@
     "trainingWeekday" : "",
     "website" : "www.pistolenclub-villnachern.ch"
   },
-  "contentHash" : "sha256-65fc0e6df798b6661f05e9852118072acb7b7c0033c825e68bb62bef900d206b",
+  "contentHash" : "sha256-c49ab0614039afc528907ee331c68b68a98b7453b62aa1ac6aa1b2a15018fb0d",
   "events" : [
     {
       "championshipTags" : "",
@@ -61,7 +61,7 @@
       "endDate" : "2026-06-20T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.villnachern-pistolenclub.fuchshaldenschiessen.2026-06-20",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -84,7 +84,7 @@
       "endDate" : "2026-10-15T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.villnachern-pistolenclub.luftpistolenschiessen.2026-10-15",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -107,7 +107,7 @@
       "endDate" : "2026-10-11T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.villnachern-pistolenclub.pistolengruppenschiessen.2026-10-11",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -130,7 +130,7 @@
       "endDate" : "2026-05-14T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.villnachern-pistolenclub.pistolenschiessen.2026-05-14",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -153,7 +153,7 @@
       "endDate" : "2026-04-25T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.villnachern-pistolenclub.romerturmschiessen.2026-04-25",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -176,7 +176,7 @@
       "endDate" : "2026-03-28T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.villnachern-pistolenclub.turggenschiessen.2026-03-28",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -192,7 +192,7 @@
       "title" : "Türggenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

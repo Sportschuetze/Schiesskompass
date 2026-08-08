@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.6bab4569.feldsektionswettschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Feldsektionswettschiessen",
         "sourceURL" : "https:\/\/www.fsg-fluehli-soerenberg.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.6bab4569.standartenweihschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Standartenweihschiessen",
         "sourceURL" : "https:\/\/www.fsg-fluehli-soerenberg.ch\/"
@@ -43,7 +43,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-fluehli-soerenberg.ch"
   },
-  "contentHash" : "sha256-4db93e0a469181065eb3cb7d9977e9478ed5ad65d03ab809f4f1bbb76c75d8ee",
+  "contentHash" : "sha256-96188915b9fe1adf402e20ea07be59cd64e14d36f5a67f33687e5595f9ef1890",
   "events" : [
     {
       "championshipTags" : "",
@@ -53,7 +53,7 @@
       "endDate" : "2026-05-13T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.6bab4569.efs.2026-05-13",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -76,7 +76,7 @@
       "endDate" : "2026-05-29T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.6bab4569.efs.2026-05-29",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -99,7 +99,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.6bab4569.efs.2026-05-30",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -122,7 +122,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.6bab4569.efs.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -145,7 +145,7 @@
       "endDate" : "2026-04-04T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.6bab4569.op.2026-04-04",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -168,7 +168,7 @@
       "endDate" : "2026-06-06T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.6bab4569.op.2026-06-06",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -191,7 +191,7 @@
       "endDate" : "2026-08-29T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.6bab4569.op.2026-08-29",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -207,7 +207,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

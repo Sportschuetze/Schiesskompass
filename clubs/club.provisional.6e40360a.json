@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.fs-leissigen.ch"
   },
-  "contentHash" : "sha256-760e8b42121b512a20445fe06a6a0fa72161da063df886ea9dc30172c16e0599",
+  "contentHash" : "sha256-904308d93189bffbfdc49f84742c6d871facb3325e6cdf87089c46b27d35eef1",
   "events" : [
     {
       "championshipTags" : "",
@@ -34,7 +34,7 @@
       "endDate" : "2026-05-29T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.6e40360a.efs.2026-05-29",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -57,7 +57,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.6e40360a.efs.2026-05-30",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -80,7 +80,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.6e40360a.efs.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -103,7 +103,7 @@
       "endDate" : "2026-10-31T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.6e40360a.kreisleitungscupschiessen.2026-10-31",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -126,7 +126,7 @@
       "endDate" : "2026-08-22T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.6e40360a.schulerschiessen.2026-08-22",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -149,7 +149,7 @@
       "endDate" : "2026-06-06T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.6e40360a.wettschiessen.2026-06-06",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -172,7 +172,7 @@
       "endDate" : "2026-06-13T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.6e40360a.wettschiessen.2026-06-13",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -188,7 +188,7 @@
       "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

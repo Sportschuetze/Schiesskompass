@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.tegerfelden-schutzengesellschaft.jugendschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Jugendschiessen",
         "sourceURL" : "https:\/\/www.sgtegerfelden.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.tegerfelden-schutzengesellschaft.rebbergschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Rebbergschiessen",
         "sourceURL" : "https:\/\/www.sgtegerfelden.ch\/"
@@ -42,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgtegerfelden.ch"
   },
-  "contentHash" : "sha256-8ac4e1501c348ef99cb27aa9037b1d01c7a5aebf74729f46b7aadd178c47c9a5",
+  "contentHash" : "sha256-cd553e600469d6227fa0a9ab860b83e9cd9a7ef6c53c37196aa8c676901a661d",
   "events" : [
     {
       "championshipTags" : "",
@@ -52,7 +52,7 @@
       "endDate" : "2026-04-30T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ag.tegerfelden-schutzengesellschaft.op.2026-04-30",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -75,7 +75,7 @@
       "endDate" : "2026-05-11T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.tegerfelden-schutzengesellschaft.rebbergschiessen.2026-05-11",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -91,7 +91,7 @@
       "title" : "Rebbergschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

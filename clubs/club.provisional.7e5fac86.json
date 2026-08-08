@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7e5fac86.strahleggschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Strahleggschiessen",
         "sourceURL" : "https:\/\/www.strahlegg.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7e5fac86.volksschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
         "sourceURL" : "https:\/\/www.strahlegg.ch\/"
@@ -43,7 +43,7 @@
     "trainingWeekday" : "",
     "website" : "www.strahlegg.ch"
   },
-  "contentHash" : "sha256-a81f2a3084e1d92a1754ca0fe74cccb70a251fb3bef9c3da888a62c3c88bd924",
+  "contentHash" : "sha256-6de26c7b254b254ba558472720bcaa3274ad2c9b66c92cdb3a7ca15f3eb13b28",
   "events" : [
     {
       "championshipTags" : "",
@@ -94,7 +94,7 @@
       "title" : "40. Strahleggschiessen MSV Strahlegg"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

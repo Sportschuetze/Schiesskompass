@@ -23,9 +23,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.pcfraubrunnen.ch"
+    "website" : "www.pcfraubrunnen.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-56775bda911fcb0aff475a2a5c2764753e2c907d58b20f26f00d0fc3019ce8fd",
+  "contentHash" : "sha256-062e8873603c6d3317c2cbef5283605ebe5a928360d6e62b640656dab52a39f6",
   "events" : [
     {
       "championshipTags" : "",
@@ -143,7 +145,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

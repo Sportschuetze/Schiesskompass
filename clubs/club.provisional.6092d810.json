@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.6092d810.mittefastenschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Mittefastenschiessen",
         "sourceURL" : "https:\/\/www.sgue.ch\/"
@@ -33,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgue.ch"
   },
-  "contentHash" : "sha256-7c8c06283db01ece80e74073c63c84d31abe4d15773d0608593c3daed7f4211b",
+  "contentHash" : "sha256-775defea858849b9f9126e34a03bd5afaecd4a529ed9a5ef1b1a102b217507f8",
   "events" : [
     {
       "championshipTags" : "",
@@ -43,7 +43,7 @@
       "endDate" : "2026-02-08T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.6092d810.mittefastenschiessen.2026-02-08",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -66,7 +66,7 @@
       "endDate" : "2026-03-09T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.6092d810.mittefastenschiessen.2026-03-09",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -89,7 +89,7 @@
       "endDate" : "2026-03-15T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.6092d810.mittefastenschiessen.2026-03-15",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -105,7 +105,7 @@
       "title" : "Mittefastenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

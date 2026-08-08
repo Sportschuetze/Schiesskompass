@@ -48,9 +48,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "svraetikon.ch"
+    "website" : "svraetikon.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-cababc41c06aa37dca82d9d811cd42474513f41d240f829bdae1a31eee5a997d",
+  "contentHash" : "sha256-399513bd29027e96981173d6e1ae3c0a6916989c1ba21a065521514c733fc564",
   "events" : [
     {
       "championshipTags" : "",
@@ -191,7 +193,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

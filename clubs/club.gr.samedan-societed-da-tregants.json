@@ -79,7 +79,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-samedan.ch"
   },
-  "contentHash" : "sha256-42ab2767aa9c7cdeafbdef418c5e08b1d0a573709f0c762cdaf016b856ec30ff",
+  "contentHash" : "sha256-3b15e630f260b8005db2c2ca1ad911e8590caf104a323aa33b7f21eb5e121e33",
   "events" : [
     {
       "championshipTags" : "",
@@ -89,7 +89,7 @@
       "endDate" : "2026-08-08T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.gr.samedan-societed-da-tregants.op.2026-08-08",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -105,7 +105,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

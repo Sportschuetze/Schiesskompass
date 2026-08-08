@@ -27,7 +27,7 @@
     "trainingWeekday" : "",
     "website" : "sportschuetzen-muehleberg.ch"
   },
-  "contentHash" : "sha256-e57471e67cf469891596614b9e667bff438225864d20c24fda3b987ebac530b4",
+  "contentHash" : "sha256-ad9a47071a1d6e8bdf2d686b1f3d6d902e395f78335435ca1ac210fdad039ed9",
   "events" : [
     {
       "championshipTags" : "",
@@ -37,7 +37,7 @@
       "endDate" : "2026-07-06T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.3d139a4c.efs.2026-07-06",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -60,7 +60,7 @@
       "endDate" : "2026-07-06T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.3d139a4c.schlossbeindeckelischiessen.2026-07-06",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -76,7 +76,7 @@
       "title" : "Schlossbeindeckelischiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

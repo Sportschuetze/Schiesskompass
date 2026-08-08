@@ -135,9 +135,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.stsglauerz.ch"
+    "website" : "www.stsglauerz.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-a42d0cde33e045040664e9659ab4a41f15efed28af804beb10746327221c81d0",
+  "contentHash" : "sha256-b91d5aed54374e85806bb24eda764b31769760095c64e648502b45c1e65a199d",
   "events" : [
     {
       "championshipTags" : "",
@@ -232,7 +234,7 @@
       "title" : "Rossbergschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.nw.stans-pistolenschutzen.pistolenschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Pistolenschiessen",
         "sourceURL" : "https:\/\/www.psstans.ch\/wp-content\/uploads\/2026\/03\/Saisonprogramm_2026.pdf"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.nw.stans-pistolenschutzen.rutlischiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Rütlischiessen",
         "sourceURL" : "https:\/\/www.psstans.ch\/wp-content\/uploads\/2026\/03\/Saisonprogramm_2026.pdf"
@@ -34,7 +34,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.nw.stans-pistolenschutzen.sommerschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Sommerschiessen",
         "sourceURL" : "https:\/\/www.psstans.ch\/wp-content\/uploads\/2026\/03\/Saisonprogramm_2026.pdf"
@@ -42,7 +42,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.nw.stans-pistolenschutzen.ruetlischiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "ruetlischiessen",
         "sourceURL" : "https:\/\/www.psstans.ch\/wp-content\/uploads\/2026\/03\/Saisonprogramm_2026.pdf"
@@ -50,7 +50,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.nw.stans-pistolenschutzen.uberfallschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Überfallschiessen",
         "sourceURL" : "https:\/\/www.psstans.ch\/wp-content\/uploads\/2026\/03\/Saisonprogramm_2026.pdf"
@@ -68,7 +68,7 @@
     "trainingWeekday" : "",
     "website" : "www.psstans.ch"
   },
-  "contentHash" : "sha256-540d8c86551a96712fb9af116583f629c2d8aa6eef078d83f457f219111f80d4",
+  "contentHash" : "sha256-c3a49ee69922d0aa17681ebce3a1d7d231b7134a591644fcaca0069716fe82a2",
   "events" : [
     {
       "championshipTags" : "",
@@ -78,7 +78,7 @@
       "endDate" : "2026-03-10T11:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.nw.stans-pistolenschutzen.efs.2026-03-10",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -101,7 +101,7 @@
       "endDate" : "2026-03-22T11:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.nw.stans-pistolenschutzen.efs.2026-03-22",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -124,7 +124,7 @@
       "endDate" : "2026-05-08T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.nw.stans-pistolenschutzen.efs.2026-05-08",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -147,7 +147,7 @@
       "endDate" : "2026-05-21T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.nw.stans-pistolenschutzen.efs.2026-05-21",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -170,7 +170,7 @@
       "endDate" : "2026-05-30T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.nw.stans-pistolenschutzen.efs.2026-05-30",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -193,7 +193,7 @@
       "endDate" : "2026-06-02T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.nw.stans-pistolenschutzen.efs.2026-06-02",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -216,7 +216,7 @@
       "endDate" : "2026-07-01T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.nw.stans-pistolenschutzen.efs.2026-07-01",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -239,7 +239,7 @@
       "endDate" : "2026-07-25T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.nw.stans-pistolenschutzen.efs.2026-07-25",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -262,7 +262,7 @@
       "endDate" : "2026-03-22T11:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.nw.stans-pistolenschutzen.op.2026-03-22",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -285,7 +285,7 @@
       "endDate" : "2026-03-22T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.nw.stans-pistolenschutzen.uberfallschiessen.2026-03-22",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -301,7 +301,7 @@
       "title" : "Überfallschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

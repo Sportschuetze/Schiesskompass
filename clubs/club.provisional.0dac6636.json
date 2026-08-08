@@ -24,9 +24,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.psv-fehraltorf.ch\/home"
+    "website" : "www.psv-fehraltorf.ch\/home",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-ef12f497203c6258cd9016a9aadda9e22111e5398b4fe907426be5fe94386ef6",
+  "contentHash" : "sha256-f1062c29e76e09b24709d01c9051295fa3a0b6b2afb710c61f363acca2c8c95e",
   "events" : [
     {
       "championshipTags" : "",
@@ -52,7 +54,7 @@
       "title" : "Morgartenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

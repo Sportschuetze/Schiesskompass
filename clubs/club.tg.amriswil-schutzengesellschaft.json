@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7b204153723dc20fe8570c2a0a367761354fbccf1523515fb028840d91988af9",
+  "contentHash" : "sha256-ddadeb93fff77dfbe5b8d06bd5a47b853b89b33ecbc0fcaa5ee9e2ad7f8b0295",
   "events" : [
     {
       "championshipTags" : "",
@@ -75,13 +75,13 @@
       "timeBlocks" : [
         {
           "date" : "2027-11-27T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:30",
+          "startTime" : "13:30"
         },
         {
           "date" : "2027-11-27T11:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2027-11-28T11:00:00Z",
@@ -92,7 +92,7 @@
       "title" : "3. Oberthurgauer Adventsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

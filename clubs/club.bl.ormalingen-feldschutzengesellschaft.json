@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.ormalingen-feldschutzengesellschaft.sportschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Sportschiessen",
         "sourceURL" : "https:\/\/fsg-ormalingen.ch\/"
@@ -34,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-ormalingen.ch"
   },
-  "contentHash" : "sha256-72158cef37ad5645d665e4d48f9bb545b63f3e237ff427b4431f2ea40f0e9dd7",
+  "contentHash" : "sha256-912414126c87ce9a744aeb07581540b51792aa37f3e5f8824d567654a44ab365",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

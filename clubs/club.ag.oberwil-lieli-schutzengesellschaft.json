@@ -39,9 +39,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sgol.ch"
+    "website" : "www.sgol.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-0ff5e94402b75d1090b07d1ad2b6cb5ebdc5d0efc84fcbc632da6f602ea7c550",
+  "contentHash" : "sha256-aa6698eef891e2d1219337b884010419831e0e1ad4bfd03c51a3f1bb7eaa18c0",
   "events" : [
     {
       "championshipTags" : "",
@@ -205,7 +207,7 @@
       "title" : "Rotkornschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

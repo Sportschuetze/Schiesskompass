@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ecd87248dfa9bdce93df0e158885bc233b84487bf51a0a8a1c83232d64d4a002",
+  "contentHash" : "sha256-7e5a57e6eee06a21d4cea4ebd5eb466794ab9f91305b976382eb2311c9e57015",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,13 +48,13 @@
         },
         {
           "date" : "2026-10-17T10:00:00Z",
-          "endTime" : "18:30",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-10-17T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "18:30",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-10-18T10:00:00Z",
@@ -103,7 +103,7 @@
       "title" : "24. Racletteschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

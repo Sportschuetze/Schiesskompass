@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.msboningen.ch"
   },
-  "contentHash" : "sha256-b4b446e1b5bc1cfbb453db76aaed91f0d6b34ea29cc996787d49bab3fc156308",
+  "contentHash" : "sha256-892f543d4affb0425f10ba583d703c91d832f1763d5a800fb78712d2376a0177",
   "events" : [
     {
       "championshipTags" : "",
@@ -35,7 +35,7 @@
       "endDate" : "2026-08-29T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.so.boningen-militarschutzen.op.2026-08-29",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -51,7 +51,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

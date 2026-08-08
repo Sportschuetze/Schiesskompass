@@ -138,10 +138,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sg-schongau.ch",
-    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-97b4159c09b4a87c3aa115bb954e72fc0df0a90ba1e8830fd9144c6ee33bd5c0",
+  "contentHash" : "sha256-2e10ce1eaa5ecda293b6e4190bd0dd5283283ad146b74a583277b5982bf6fa16",
   "events" : [
     {
       "championshipTags" : "",
@@ -305,7 +305,7 @@
       "title" : "Steiacherschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

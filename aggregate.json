@@ -303,7 +303,7 @@
       "parentExternalId" : "assoc.ssv"
     }
   ],
-  "catalogLabel" : "2026v16",
+  "catalogLabel" : "2026v17",
   "clubCount" : 2196,
   "clubs" : [
     {
@@ -21449,7 +21449,7 @@
         "assoc.kv.shksv"
       ],
       "canton" : "SH",
-      "eventCount" : 7,
+      "eventCount" : 10,
       "externalId" : "club.sh.wilchingen-osterfingen-schutzenverein",
       "hasCalendar" : true,
       "hasProgram" : true,
@@ -28856,8 +28856,8 @@
       "shortName" : "Zug UOV"
     }
   ],
-  "eventCount" : 2160,
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "eventCount" : 2163,
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "programCount" : 9,
   "schemaVersion" : 1,
   "targetCount" : 16,

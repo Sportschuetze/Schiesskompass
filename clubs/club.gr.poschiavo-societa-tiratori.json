@@ -29,14 +29,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/www.tiratoriposchiavo.ch\/",
-    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-e0176b176aaabf179b98fe192d94716dd966a6f6c4e6d01c8a293b4ffc65b814",
+  "contentHash" : "sha256-68b9abd325c09c148303891de46b05ed103e505f0f0ee198865da92b8e67d166",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

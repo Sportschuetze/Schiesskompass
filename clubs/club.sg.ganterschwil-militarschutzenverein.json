@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-76a8f7a5523a37ba2bdd0ea88929ec5203ed32a0270dad56b5e590dbd72ae9e7",
+  "contentHash" : "sha256-9c96d4a44f4624828d05e39f2c7a2c64711110aad11351be4719cb0df5a42f12",
   "events" : [
     {
       "championshipTags" : "",
@@ -47,16 +47,11 @@
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
-        },
-        {
-          "date" : "2026-08-29T10:00:00Z",
           "endTime" : "17:00",
           "startTime" : "13:30"
         },
@@ -64,6 +59,11 @@
           "date" : "2026-08-29T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:30"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-08-30T10:00:00Z",
@@ -74,7 +74,7 @@
       "title" : "30. Toggenburger Herbstschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

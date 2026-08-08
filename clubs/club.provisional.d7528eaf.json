@@ -42,9 +42,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "https:\/\/psch.clubdesk.com\/home"
+    "website" : "https:\/\/psch.clubdesk.com\/home",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-e5d8fedad984033cb13ac9ffb93022eb2cf84b75e8325e10b99e2677710f479d",
+  "contentHash" : "sha256-e70e7b34997ac9a1abc250dbb4a8587ef7fb22f3f75ec20322be207eb8162d50",
   "events" : [
     {
       "championshipTags" : "",
@@ -162,7 +164,7 @@
       "title" : "Plauschschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

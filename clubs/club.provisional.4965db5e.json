@@ -35,9 +35,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "ps-hasle-rueegsau.ch\/"
+    "website" : "ps-hasle-rueegsau.ch\/",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-4ab09bdd8f14abc8b1b483803b36ae6f65e4a267ccb17d91d45b919d9cd02f47",
+  "contentHash" : "sha256-dbd824a3953bed5755b6638e1c1978c808c258102aa5f8e8bcb072f3e14a0590",
   "events" : [
     {
       "championshipTags" : "",
@@ -86,7 +88,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

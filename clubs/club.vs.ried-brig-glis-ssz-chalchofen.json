@@ -19,7 +19,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.vs.ried-brig-glis-ssz-chalchofen.ehrenkompanieschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Ehrenkompanieschiessen",
         "sourceURL" : "https:\/\/www.kgemmet.ch\/chalchofen\/dokumente\/programm\/terminplan_2026_v6.pdf"
@@ -27,7 +27,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.vs.ried-brig-glis-ssz-chalchofen.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/www.kgemmet.ch\/chalchofen\/dokumente\/programm\/terminplan_2026_v6.pdf"
@@ -35,7 +35,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.vs.ried-brig-glis-ssz-chalchofen.freischiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Freischiessen",
         "sourceURL" : "https:\/\/www.kgemmet.ch\/chalchofen\/dokumente\/programm\/terminplan_2026_v6.pdf"
@@ -43,7 +43,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.vs.ried-brig-glis-ssz-chalchofen.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/www.kgemmet.ch\/chalchofen\/dokumente\/programm\/terminplan_2026_v6.pdf"
@@ -51,7 +51,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.vs.ried-brig-glis-ssz-chalchofen.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/www.kgemmet.ch\/chalchofen\/dokumente\/programm\/terminplan_2026_v6.pdf"
@@ -59,7 +59,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.vs.ried-brig-glis-ssz-chalchofen.karabinerschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Karabinerschiessen",
         "sourceURL" : "https:\/\/www.kgemmet.ch\/chalchofen\/dokumente\/programm\/terminplan_2026_v6.pdf"
@@ -67,7 +67,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.vs.ried-brig-glis-ssz-chalchofen.kaseschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Käseschiessen",
         "sourceURL" : "https:\/\/www.kgemmet.ch\/chalchofen\/dokumente\/programm\/terminplan_2026_v6.pdf"
@@ -75,7 +75,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.vs.ried-brig-glis-ssz-chalchofen.racletteschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Racletteschiessen",
         "sourceURL" : "https:\/\/www.kgemmet.ch\/chalchofen\/dokumente\/programm\/terminplan_2026_v6.pdf"
@@ -93,11 +93,11 @@
     "trainingWeekday" : "",
     "website" : "www.ssz-chalchofen.ch"
   },
-  "contentHash" : "sha256-ba9ba847f462145e15a112afbaa1e7fed152b3a54ee6bd7d46e31f4ced328d67",
+  "contentHash" : "sha256-f748a545c4d453d731fd62fb755b4acb631ca5608ae1ba948470d8138296224a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

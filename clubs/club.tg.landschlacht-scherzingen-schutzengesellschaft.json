@@ -41,9 +41,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "sg-landschlacht-scherzingen.ch"
+    "website" : "sg-landschlacht-scherzingen.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-88af27a5bbaf123423716732d147f70904e44dd5d8363548554b6aa9ff426a2f",
+  "contentHash" : "sha256-e1c2a2d512f6c4e14dd5dea18d5c3410940ad79fb31767b6b218d9fbfa43eeda",
   "events" : [
     {
       "championshipTags" : "",
@@ -480,7 +482,7 @@
       "title" : "Standartenweihschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

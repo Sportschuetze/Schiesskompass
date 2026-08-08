@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.armes-reunies-courtelary.ch"
   },
-  "contentHash" : "sha256-060ed38a61c89331e8c2f768197edd09e2aaf0057e5ae4ababed231bf06a26c7",
+  "contentHash" : "sha256-88356212e3af34ad74c3e18f71d6f5c5de9a525328c37c63a8f05133a06a80f9",
   "events" : [
     {
       "championshipTags" : "",
@@ -34,7 +34,7 @@
       "endDate" : "2026-04-18T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.70db6a91.op.2026-04-18",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -57,7 +57,7 @@
       "endDate" : "2026-08-27T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.70db6a91.op.2026-08-27",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -80,7 +80,7 @@
       "endDate" : "2026-08-29T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.70db6a91.op.2026-08-29",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -96,7 +96,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.d27cc98d.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/www.sg-emmen.ch\/dokumente\/2026\/Belegungsplan_2026.pdf"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.d27cc98d.gruppenwettschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Gruppenwettschiessen",
         "sourceURL" : "https:\/\/www.sg-emmen.ch\/dokumente\/2026\/Belegungsplan_2026.pdf"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.d27cc98d.hauptschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Hauptschiessen",
         "sourceURL" : "https:\/\/www.sg-emmen.ch\/dokumente\/2026\/Belegungsplan_2026.pdf"
@@ -40,7 +40,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.d27cc98d.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/www.sg-emmen.ch\/dokumente\/2026\/Belegungsplan_2026.pdf"
@@ -48,7 +48,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.d27cc98d.nachtschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Nachtschiessen",
         "sourceURL" : "https:\/\/www.sg-emmen.ch\/dokumente\/2026\/Belegungsplan_2026.pdf"
@@ -56,7 +56,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.d27cc98d.sempacherschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Sempacherschiessen",
         "sourceURL" : "https:\/\/www.sg-emmen.ch\/dokumente\/2026\/Belegungsplan_2026.pdf"
@@ -64,7 +64,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.d27cc98d.wettschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/www.sg-emmen.ch\/dokumente\/2026\/Belegungsplan_2026.pdf"
@@ -72,7 +72,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.d27cc98d.winterschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/www.sg-emmen.ch\/dokumente\/2026\/Belegungsplan_2026.pdf"
@@ -90,7 +90,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.sg-emmen.ch\/"
   },
-  "contentHash" : "sha256-babb44e89c715b247e446fd762f05d0b996b415461ea5febe41385958eead495",
+  "contentHash" : "sha256-48aeece43d2a0d9b3e53935216ca769653aa2d64cddca959a7b94ef91d730eec",
   "events" : [
     {
       "championshipTags" : "",
@@ -100,7 +100,7 @@
       "endDate" : "2026-10-18T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.d27cc98d.anzischiessen.2026-10-18",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -123,7 +123,7 @@
       "endDate" : "2026-03-27T11:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.d27cc98d.efs.2026-03-27",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -146,7 +146,7 @@
       "endDate" : "2026-08-29T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.d27cc98d.efs.2026-08-29",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -169,7 +169,7 @@
       "endDate" : "2026-03-21T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.d27cc98d.eroffnungsschiessen.2026-03-21",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -192,7 +192,7 @@
       "endDate" : "2026-03-24T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.d27cc98d.eroffnungsschiessen.2026-03-24",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -215,7 +215,7 @@
       "endDate" : "2026-04-18T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.d27cc98d.gruppenschiessen.2026-04-18",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -238,7 +238,7 @@
       "endDate" : "2026-04-25T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.d27cc98d.gruppenschiessen.2026-04-25",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -261,7 +261,7 @@
       "endDate" : "2026-09-01T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.d27cc98d.jugendschiessen.2026-09-01",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -284,7 +284,7 @@
       "endDate" : "2026-03-27T11:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.d27cc98d.op.2026-03-27",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -307,7 +307,7 @@
       "endDate" : "2026-11-21T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.d27cc98d.sempacherschiessen.2026-11-21",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -323,7 +323,7 @@
       "title" : "Sempacherschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

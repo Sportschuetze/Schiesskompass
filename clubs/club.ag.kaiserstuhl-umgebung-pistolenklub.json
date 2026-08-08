@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.kaiserstuhl-umgebung-pistolenklub.auflageschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Auflageschiessen",
         "sourceURL" : "https:\/\/www.pistolenclub-kaiserstuhl.ch\/"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.kaiserstuhl-umgebung-pistolenklub.herbstschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Herbstschiessen",
         "sourceURL" : "https:\/\/www.pistolenclub-kaiserstuhl.ch\/"
@@ -34,7 +34,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.kaiserstuhl-umgebung-pistolenklub.prazisionsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Präzisionsschiessen",
         "sourceURL" : "https:\/\/www.pistolenclub-kaiserstuhl.ch\/"
@@ -42,7 +42,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.kaiserstuhl-umgebung-pistolenklub.romerturmschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Römerturmschiessen",
         "sourceURL" : "https:\/\/www.pistolenclub-kaiserstuhl.ch\/"
@@ -50,7 +50,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.kaiserstuhl-umgebung-pistolenklub.sportschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Sportschiessen",
         "sourceURL" : "https:\/\/www.pistolenclub-kaiserstuhl.ch\/"
@@ -68,11 +68,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.pistolenklub-kaiserstuhl.ch"
   },
-  "contentHash" : "sha256-a810a2b692ca19e99289a536813a153d56180ad7e27c3d082f66b006dbb9f581",
+  "contentHash" : "sha256-3a1f851a27f5a46161679c8988fab867b9d722073bc873a9fa4b0535cb730225",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

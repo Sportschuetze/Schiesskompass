@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.zg.zug-schiess-sektion-unteroffiziersverein.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/www.uov-zug.ch\/schiesssektion"
@@ -36,7 +36,7 @@
     "trainingWeekday" : "",
     "website" : "www.uov-zug.ch\/schiesssektion"
   },
-  "contentHash" : "sha256-b29c7b9ec270e799d9e0de8b58f618decc4da158dabc551429cf045783a152c9",
+  "contentHash" : "sha256-0042eabf56aac3ca0ce610672206f8799e26566f48a4d569703138c0af483208",
   "events" : [
     {
       "championshipTags" : "",
@@ -46,7 +46,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.zg.zug-schiess-sektion-unteroffiziersverein.efs.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -69,7 +69,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.zg.zug-schiess-sektion-unteroffiziersverein.op.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -85,7 +85,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

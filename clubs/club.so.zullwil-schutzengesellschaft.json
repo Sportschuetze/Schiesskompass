@@ -40,13 +40,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sgzullwil.ch"
+    "website" : "www.sgzullwil.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-42fc21d318ba904f42919ad44731f9e91ab956a2c04ee5c3d8559d08fd362f12",
+  "contentHash" : "sha256-31447fc18f3f4c21d2b31706679191e68ee3342744c32c3025d87519a725dc7e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.1453234d.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/www.schuetzen-roggwil.ch\/"
@@ -34,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-roggwil.ch"
   },
-  "contentHash" : "sha256-83454263c5995a0006a45aaf4caaeae20c6c7c539009f1cada03d5364d23bdcb",
+  "contentHash" : "sha256-a8f9c6de0396abfc4a6596990c8d06207283d5c96859b35c3cef9e4c4d49f4c1",
   "events" : [
     {
       "championshipTags" : "",
@@ -44,7 +44,7 @@
       "endDate" : "2026-05-06T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.1453234d.brotschiessen.2026-05-06",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -67,7 +67,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.1453234d.efs.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -90,7 +90,7 @@
       "endDate" : "2026-08-22T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.1453234d.freundschaftsschiessen.2026-08-22",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -113,7 +113,7 @@
       "endDate" : "2026-08-05T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.1453234d.op.2026-08-05",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -136,7 +136,7 @@
       "endDate" : "2026-08-28T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.1453234d.op.2026-08-28",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -152,7 +152,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

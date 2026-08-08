@@ -274,10 +274,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sg-fislisbach.ch",
-    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-6ea4a0c4cf44c9a2068680b0d0dcb1a58239974f0a828c77d3cd44d08c0cf16e",
+  "contentHash" : "sha256-c9ab09be86682a66ef56f6f85c39c20d497f6d5ab83e0156b202b4e67a68303a",
   "events" : [
     {
       "championshipTags" : "",
@@ -349,7 +349,7 @@
       "title" : "Vindonissaschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

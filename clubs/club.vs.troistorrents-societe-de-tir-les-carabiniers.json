@@ -26,14 +26,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.carabinierstroistorrents.ch",
-    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-0953b9041585d55ede8b7c09d545adb35d5cbdced981078abed538880634c848",
+  "contentHash" : "sha256-c0ca68c627c71192895bd7e47398773a33e6045deb75ecebd01af78862872322",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

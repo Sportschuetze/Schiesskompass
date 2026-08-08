@@ -27,13 +27,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "carabiniers-lausanne.ch"
+    "website" : "carabiniers-lausanne.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-ea27cc8cab58497064408d594f17f80c48bb01bbd086f1121e471785c4e33909",
+  "contentHash" : "sha256-8250fb05796744f7d15715f8ccea4314301551237fb7ff8f4d9a200caa1f3d1d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

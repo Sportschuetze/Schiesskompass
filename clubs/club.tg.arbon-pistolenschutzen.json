@@ -210,9 +210,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "pistolenschuetzen.ch\/"
+    "website" : "pistolenschuetzen.ch\/",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-036e509284e56e9065dd983bac5178ae93533fcb5e1ac3cb69c63714c0eaeb1d",
+  "contentHash" : "sha256-8d17d4eb607fa5995b07797d79637daca8a70da01597bfbff0e6d8de25ef5de1",
   "events" : [
     {
       "championshipTags" : "",
@@ -261,7 +263,7 @@
       "title" : "Auszahlungsstich"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

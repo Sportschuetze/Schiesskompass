@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.oberburen-niederwil-militarschutzenverein.glattburgschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Glattburgschiessen",
         "sourceURL" : "https:\/\/www.msv-on.ch\/"
@@ -32,10 +32,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/www.msv-on.ch",
-    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
     "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-b9c7c9068fc4da6832c368e0c9ec48f2279ee4661ea00d48d389ce5f1deeb382",
+  "contentHash" : "sha256-7e8ee60256f3248579db390617b1300b3f99786a1202dec9047f4ba8f822563b",
   "events" : [
     {
       "championshipTags" : "",
@@ -76,7 +76,7 @@
       "title" : "19. Oberbürer Liegendmatch"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

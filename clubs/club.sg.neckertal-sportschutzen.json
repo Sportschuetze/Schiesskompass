@@ -48,10 +48,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/www.sportschuetzen-neckertal.ch",
-    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
-    "websiteStatus" : "rootFallback"
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-a21af62b1b0fb8514690dc3e586f826b8e9955cf89dc9556f9b854d59f85a7c0",
+  "contentHash" : "sha256-86962b96ae8662a3a601c639589e055c6a6c8f78e513ac7f14b493782bb82634",
   "events" : [
     {
       "championshipTags" : "",
@@ -166,7 +166,7 @@
       "title" : "Standweihschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

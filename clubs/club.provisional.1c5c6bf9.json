@@ -41,9 +41,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.pskono.ch"
+    "website" : "www.pskono.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-7ce9b66ebe9c0ce48ae75c919694c3acdf278287a7c60b3e7bb86b31b39d0668",
+  "contentHash" : "sha256-6ab1533fc2f156fa3b314b8c73708d0fb673f56bc7fdab377dcfa5ec7cd55220",
   "events" : [
     {
       "championshipTags" : "",
@@ -299,7 +301,7 @@
       "title" : "Pistolenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

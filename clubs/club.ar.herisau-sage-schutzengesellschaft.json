@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ar.herisau-sage-schutzengesellschaft.fruhlingsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Frühlingsschiessen",
         "sourceURL" : "https:\/\/www.sgsaege.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ar.herisau-sage-schutzengesellschaft.winterschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/www.sgsaege.ch\/"
@@ -42,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgsaege.ch\/"
   },
-  "contentHash" : "sha256-08b9e16e96188bd34c770908e0ae0019ff80ae6af85eeedaaae1fb4b43e19e52",
+  "contentHash" : "sha256-54aa9de57e53e504317b68d781eb2a1c8befd0c6392eae85fc0a4e6dde8df31b",
   "events" : [
     {
       "championshipTags" : "",
@@ -52,7 +52,7 @@
       "endDate" : "2026-05-13T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ar.herisau-sage-schutzengesellschaft.eroffnungsschiessen.2026-05-13",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -68,7 +68,7 @@
       "title" : "Eröffnungsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

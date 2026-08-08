@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7529a88f.bareggschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Bareggschiessen",
         "sourceURL" : "https:\/\/fsv-luzern.ch\/"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7529a88f.fruhlingsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Frühlingsschiessen",
         "sourceURL" : "https:\/\/fsv-luzern.ch\/"
@@ -34,7 +34,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7529a88f.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/fsv-luzern.ch\/"
@@ -42,7 +42,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7529a88f.anzischiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Änzischiessen",
         "sourceURL" : "https:\/\/fsv-luzern.ch\/"
@@ -60,11 +60,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsv-luzern.ch"
   },
-  "contentHash" : "sha256-682e6d4806efad1e9e615e3d8a8b0267b13b1a31d76d98fed66d95176d535a1d",
+  "contentHash" : "sha256-03a42842188e6727201a08fb9a686011ea301b0073f8a19fa62d0451858159b6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

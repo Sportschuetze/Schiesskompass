@@ -23,9 +23,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sv-chestenberg.ch"
+    "website" : "www.sv-chestenberg.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-067e1d2d2dad231b03f963f3519307f47d090d4c9c08a693f3b4d79c20433c5c",
+  "contentHash" : "sha256-4ffa4abff054894573cfa1a673a5076aec77e4ee84dde30caeb0a5c276e68a0d",
   "events" : [
     {
       "championshipTags" : "",
@@ -51,7 +53,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

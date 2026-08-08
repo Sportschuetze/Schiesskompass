@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.aeschi-so-sportschutzen.chlausenschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Chlausenschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.aeschi-so-sportschutzen.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.aeschi-so-sportschutzen.freundschaftschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Freundschaftschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -39,7 +39,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.aeschi-so-sportschutzen.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -47,7 +47,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.aeschi-so-sportschutzen.nachtschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Nachtschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -55,7 +55,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.aeschi-so-sportschutzen.schlosswaldschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Schlosswaldschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -63,7 +63,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.aeschi-so-sportschutzen.serieschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Serieschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -71,7 +71,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.aeschi-so-sportschutzen.volksschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
         "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
@@ -89,7 +89,7 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-aeschi.ch"
   },
-  "contentHash" : "sha256-c5c6a1083cb8a38288d59c629f35fafca249e6ca946e2357c41047b7c29b0d43",
+  "contentHash" : "sha256-46d9a9b4047c07c0fcec814fa7aa7c367749fa1bc4946d441fc756672da3c0a3",
   "events" : [
     {
       "championshipTags" : "",
@@ -99,7 +99,7 @@
       "endDate" : "2026-10-31T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.chlausschiessen.2026-10-31",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -122,7 +122,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.efs.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -145,7 +145,7 @@
       "endDate" : "2026-04-10T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.eroffnungsschiessen.2026-04-10",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -168,7 +168,7 @@
       "endDate" : "2026-03-20T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.freundschaftsschiessen.2026-03-20",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -191,7 +191,7 @@
       "endDate" : "2026-08-14T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.freundschaftsschiessen.2026-08-14",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -214,7 +214,7 @@
       "endDate" : "2026-08-21T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.freundschaftsschiessen.2026-08-21",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -237,7 +237,7 @@
       "endDate" : "2026-05-13T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.nachtschiessen.2026-05-13",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -260,7 +260,7 @@
       "endDate" : "2026-10-09T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.nachtschiessen.2026-10-09",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -283,7 +283,7 @@
       "endDate" : "2026-05-14T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.schlosswaldschiessen.2026-05-14",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -306,7 +306,7 @@
       "endDate" : "2026-09-27T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.serieschiessen.2026-09-27",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -329,7 +329,7 @@
       "endDate" : "2026-09-27T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.vereinsstich.2026-09-27",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -352,7 +352,7 @@
       "endDate" : "2026-03-20T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.vereinswettschiessen.2026-03-20",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -375,7 +375,7 @@
       "endDate" : "2026-08-30T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.vereinswettschiessen.2026-08-30",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -398,7 +398,7 @@
       "endDate" : "2026-09-06T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.so.aeschi-so-sportschutzen.volksschiessen.2026-09-06",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -414,7 +414,7 @@
       "title" : "Volksschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

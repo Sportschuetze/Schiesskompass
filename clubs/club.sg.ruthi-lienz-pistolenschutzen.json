@@ -19,7 +19,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.ruthi-lienz-pistolenschutzen.auflageschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Auflageschiessen",
         "sourceURL" : "https:\/\/www.pistolenruethi.ch\/"
@@ -27,7 +27,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.ruthi-lienz-pistolenschutzen.lyonerschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Lyonerschiessen",
         "sourceURL" : "https:\/\/www.pistolenruethi.ch\/"
@@ -35,7 +35,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.ruthi-lienz-pistolenschutzen.zusatzstich",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Zusatzstich",
         "sourceURL" : "https:\/\/www.pistolenruethi.ch\/"
@@ -53,7 +53,7 @@
     "trainingWeekday" : "",
     "website" : "www.pistolenruethi.ch"
   },
-  "contentHash" : "sha256-40d7cdd824b75d51c5621db5367d72ed20d8155d497ea979d18da426bfb8dd03",
+  "contentHash" : "sha256-9098d44aae25ba4523c6474bc6bd60b269286b5d344c2d3e838d20a29a3b61e6",
   "events" : [
     {
       "championshipTags" : "",
@@ -97,13 +97,13 @@
         },
         {
           "date" : "2026-11-15T11:00:00Z",
-          "endTime" : "11:30",
-          "startTime" : "09:00"
+          "endTime" : "16:30",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-11-15T11:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:00"
+          "endTime" : "11:30",
+          "startTime" : "09:00"
         }
       ],
       "title" : "Lyonerschiessen 2026"
@@ -187,7 +187,7 @@
       "title" : "50. Rheintaler-Luftpistolenmeisterschaft mit Auflageschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

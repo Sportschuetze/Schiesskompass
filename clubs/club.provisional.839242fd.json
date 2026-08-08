@@ -19,7 +19,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.839242fd.bundesschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Bundesschiessen",
         "sourceURL" : "https:\/\/ssszh.ch\/"
@@ -37,11 +37,11 @@
     "trainingWeekday" : "",
     "website" : "www.ssszh.ch"
   },
-  "contentHash" : "sha256-a7a0d532ae056078d61a2824dc49a7fc59e86eb8e8bdbfbf05706eb4a417a828",
+  "contentHash" : "sha256-0bba715fb1ac7b49a9391714ad33b1b8f5fb3aef5b9788ea37fd8c655df48516",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

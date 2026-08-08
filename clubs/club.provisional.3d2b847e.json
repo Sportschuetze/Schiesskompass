@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.3d2b847e.auswartsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Auswärtsschiessen",
         "sourceURL" : "https:\/\/www.psv-dielsdorf.ch\/wp-content\/uploads\/2026\/02\/2026_Jahresprogramm.pdf"
@@ -26,7 +26,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.3d2b847e.barenschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Bärenschiessen",
         "sourceURL" : "https:\/\/www.psv-dielsdorf.ch\/wp-content\/uploads\/2026\/02\/2026_Jahresprogramm.pdf"
@@ -34,7 +34,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.3d2b847e.einzelwettschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Einzelwettschiessen",
         "sourceURL" : "https:\/\/www.psv-dielsdorf.ch\/wp-content\/uploads\/2026\/02\/2026_Jahresprogramm.pdf"
@@ -42,7 +42,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.3d2b847e.gedenkschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Gedenkschiessen",
         "sourceURL" : "https:\/\/www.psv-dielsdorf.ch\/wp-content\/uploads\/2026\/02\/2026_Jahresprogramm.pdf"
@@ -50,7 +50,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.3d2b847e.gruppenschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Gruppenschiessen",
         "sourceURL" : "https:\/\/www.psv-dielsdorf.ch\/wp-content\/uploads\/2026\/02\/2026_Jahresprogramm.pdf"
@@ -58,7 +58,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.3d2b847e.herbstschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Herbstschiessen",
         "sourceURL" : "https:\/\/www.psv-dielsdorf.ch\/wp-content\/uploads\/2026\/02\/2026_Jahresprogramm.pdf"
@@ -66,7 +66,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.3d2b847e.revolverschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Revolverschiessen",
         "sourceURL" : "https:\/\/www.psv-dielsdorf.ch\/wp-content\/uploads\/2026\/02\/2026_Jahresprogramm.pdf"
@@ -74,7 +74,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.3d2b847e.winterschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/www.psv-dielsdorf.ch\/wp-content\/uploads\/2026\/02\/2026_Jahresprogramm.pdf"
@@ -92,7 +92,7 @@
     "trainingWeekday" : "",
     "website" : "www.psv-dielsdorf.ch"
   },
-  "contentHash" : "sha256-2ee334102410a7c66a994bcd088c077db821567e4979d2b855212dd0bc4b7e53",
+  "contentHash" : "sha256-f8791fd401898624cd4e7943bc9b19b8685a5aea2278b8b50e6f64ebf54fe0d6",
   "events" : [
     {
       "championshipTags" : "",
@@ -102,7 +102,7 @@
       "endDate" : "2027-03-09T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.3d2b847e.auswartsschiessen.2027-03-09",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -125,7 +125,7 @@
       "endDate" : "2026-11-03T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.3d2b847e.lupischiessen.2026-11-03",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -148,7 +148,7 @@
       "endDate" : "2026-03-24T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.3d2b847e.nachtschiessen.2026-03-24",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -171,7 +171,7 @@
       "endDate" : "2026-06-13T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.3d2b847e.revolverschiessen.2026-06-13",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -187,7 +187,7 @@
       "title" : "Revolverschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

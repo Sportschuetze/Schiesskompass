@@ -23,9 +23,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sg-lommiswil.ch"
+    "website" : "www.sg-lommiswil.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-35842288735722523cb0cf5f4e7d6956eedb9943d1063c42591c945b8c3c012c",
+  "contentHash" : "sha256-0dda4db51689fc99ed5220f659aae6d19acefcc36824ee2f89d65deb64309401",
   "events" : [
     {
       "championshipTags" : "",
@@ -66,7 +68,7 @@
       "title" : "St. German Schiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

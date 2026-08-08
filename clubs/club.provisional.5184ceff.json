@@ -26,7 +26,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2d6020cabe4daa3b7348b9b6af824d5bca37d87cad703342cf78995d01b17776",
+  "contentHash" : "sha256-32bed3e220c81d36daa1d52d7fe494e156b86e903f84b77a3ac5632e63b4b848",
   "events" : [
     {
       "championshipTags" : "",
@@ -55,11 +55,6 @@
         },
         {
           "date" : "2026-10-17T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
-        },
-        {
-          "date" : "2026-10-17T10:00:00Z",
           "endTime" : "16:30",
           "startTime" : "13:00"
         },
@@ -74,19 +69,24 @@
           "startTime" : "08:30"
         },
         {
-          "date" : "2026-10-24T10:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-10-24T10:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:00"
+          "date" : "2026-10-17T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2026-10-24T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:30"
+        },
+        {
+          "date" : "2026-10-24T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-10-24T10:00:00Z",
+          "endTime" : "16:30",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-10-24T10:00:00Z",
@@ -122,7 +122,7 @@
       "title" : "27. Winzerschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

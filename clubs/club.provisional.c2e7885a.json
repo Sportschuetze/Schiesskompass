@@ -21,9 +21,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.fs-allmendingen.ch"
+    "website" : "www.fs-allmendingen.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-b7c262304e252d8dbc9a4447dab63f56f721441d59076b77e1b278c95292be9a",
+  "contentHash" : "sha256-959c7787688e2f6791d116bf0da206b61dd3ef0908e493dab0976c9417dca6c2",
   "events" : [
     {
       "championshipTags" : "",
@@ -187,7 +189,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

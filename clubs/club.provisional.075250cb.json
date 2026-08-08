@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.075250cb.bockenkriegschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Bockenkriegschiessen",
         "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.075250cb.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.075250cb.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf"
@@ -40,7 +40,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.075250cb.fruhlingsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Frühlingsschiessen",
         "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf"
@@ -48,7 +48,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.075250cb.herbstschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Herbstschiessen",
         "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf"
@@ -56,7 +56,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.075250cb.vancouverstich",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Vancouverstich",
         "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf"
@@ -64,7 +64,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.075250cb.winterschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/asv-rueti.ch\/assets\/downloads\/programm-2026\/2026-01-31-programm-jahres-.pdf"
@@ -82,7 +82,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/asv-rueti.ch\/"
   },
-  "contentHash" : "sha256-66604585cb7e30c77bc69de6b43209bd1701e02646cae3a21f89993a8ee8033b",
+  "contentHash" : "sha256-407ef4915e68b5b53a9af3f1f55b00bb2a05e3c9167a1aff72d40f3f594fba61",
   "events" : [
     {
       "championshipTags" : "",
@@ -92,7 +92,7 @@
       "endDate" : "2026-01-26T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.075250cb.eroffnungsschiessen.2026-01-26",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -115,7 +115,7 @@
       "endDate" : "2026-06-22T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.075250cb.freundschaftsschiessen.2026-06-22",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -138,7 +138,7 @@
       "endDate" : "2026-06-22T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.075250cb.jubilaumsschiessen.2026-06-22",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -161,7 +161,7 @@
       "endDate" : "2026-01-26T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.075250cb.nachtschiessen.2026-01-26",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -177,7 +177,7 @@
       "title" : "Nachtschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

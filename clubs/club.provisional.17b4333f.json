@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.17b4333f.chlouseschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Chlouseschiessen",
         "sourceURL" : "https:\/\/schuetzen-schwarzenegg.ch\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.17b4333f.freundschaftschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Freundschaftschiessen",
         "sourceURL" : "https:\/\/schuetzen-schwarzenegg.ch\/"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.17b4333f.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/schuetzen-schwarzenegg.ch\/"
@@ -49,7 +49,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-schwarzenegg.ch"
   },
-  "contentHash" : "sha256-c13e8bec452869c6d4d92cf9524b7d2148ade3876467c8ed22044961d581aa6b",
+  "contentHash" : "sha256-3e8983a2a36536cfdaa6c67aca2798de274ca6756e421ba699cafe15dafea07a",
   "events" : [
     {
       "championshipTags" : "",
@@ -59,7 +59,7 @@
       "endDate" : "2026-05-21T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.17b4333f.efs.2026-05-21",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -82,7 +82,7 @@
       "endDate" : "2026-05-21T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.17b4333f.hauptschiessen.2026-05-21",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -98,7 +98,7 @@
       "title" : "Hauptschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

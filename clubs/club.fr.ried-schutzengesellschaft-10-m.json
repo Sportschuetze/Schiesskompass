@@ -63,13 +63,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sportschuetzen-ried.ch"
+    "website" : "www.sportschuetzen-ried.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-378140a171c0f81664371ff25093a52cd4199ac148cea31ec7bdd81c36e822cd",
+  "contentHash" : "sha256-8141e03239f8920c42e3fbdc5a99aa31ce6088c52621b857945fbf21bd1f2b20",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

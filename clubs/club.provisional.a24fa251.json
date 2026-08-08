@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.a24fa251.bernerstich",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Bernerstich",
         "sourceURL" : "https:\/\/storage.e.jimdo.com\/file\/7f2132b3-47bd-448a-be91-907442d8a0e4\/20260209_Schiesstage%20Standkommission%202026.pdf"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.a24fa251.einzelwettschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Einzelwettschiessen",
         "sourceURL" : "https:\/\/storage.e.jimdo.com\/file\/7f2132b3-47bd-448a-be91-907442d8a0e4\/20260209_Schiesstage%20Standkommission%202026.pdf"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.a24fa251.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
         "sourceURL" : "https:\/\/storage.e.jimdo.com\/file\/7f2132b3-47bd-448a-be91-907442d8a0e4\/20260209_Schiesstage%20Standkommission%202026.pdf"
@@ -40,7 +40,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.a24fa251.gedenkschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Gedenkschiessen",
         "sourceURL" : "https:\/\/storage.e.jimdo.com\/file\/7f2132b3-47bd-448a-be91-907442d8a0e4\/20260209_Schiesstage%20Standkommission%202026.pdf"
@@ -48,7 +48,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.a24fa251.wettschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/storage.e.jimdo.com\/file\/7f2132b3-47bd-448a-be91-907442d8a0e4\/20260209_Schiesstage%20Standkommission%202026.pdf"
@@ -66,7 +66,7 @@
     "trainingWeekday" : "",
     "website" : "www.freischuetzenhabkern.ch"
   },
-  "contentHash" : "sha256-c1f154e6502944a03d6bb006b579df8ccde532c8e938e8afa0fb4048b0a39f76",
+  "contentHash" : "sha256-cfa43b156b3787d4db6c9cfb27b06a58a4314cfe6c643ada90c243e340f6b3c9",
   "events" : [
     {
       "championshipTags" : "",
@@ -76,7 +76,7 @@
       "endDate" : "2026-05-29T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.a24fa251.bernerstich.2026-05-29",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -99,7 +99,7 @@
       "endDate" : "2026-06-10T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.provisional.a24fa251.efs.2026-06-10",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -122,7 +122,7 @@
       "endDate" : "2026-05-02T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.a24fa251.feldstich.2026-05-02",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -145,7 +145,7 @@
       "endDate" : "2026-08-29T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.provisional.a24fa251.op.2026-08-29",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -161,7 +161,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

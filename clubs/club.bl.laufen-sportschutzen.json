@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.laufen-sportschutzen.sportschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Sportschiessen",
         "sourceURL" : "https:\/\/www.sportschuetzenlaufen.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.laufen-sportschutzen.volksschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
         "sourceURL" : "https:\/\/www.sportschuetzenlaufen.ch\/"
@@ -43,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzenlaufen.ch"
   },
-  "contentHash" : "sha256-22d6ac7b78954738c2f35316cd75b22bb2967df05f31147ac98d0f9d974149ae",
+  "contentHash" : "sha256-22aec32f7d23ae1383dbce430c54739d80b7db6e81351ec8cf2eb9e41f021d92",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

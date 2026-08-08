@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sz.feusisberg-feldschutzensektion.etzelbundschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Etzelbundschiessen",
         "sourceURL" : "https:\/\/fssfeusisberg.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sz.feusisberg-feldschutzensektion.jugendschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Jugendschiessen",
         "sourceURL" : "https:\/\/fssfeusisberg.ch\/"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sz.feusisberg-feldschutzensektion.jugenschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Jugenschiessen",
         "sourceURL" : "https:\/\/fssfeusisberg.ch\/"
@@ -50,11 +50,11 @@
     "trainingWeekday" : "",
     "website" : "www.fssfeusisberg.ch"
   },
-  "contentHash" : "sha256-94545637ae0815230b45e09cd00b7b6a75f10638d70bc68ed293b3465d253a5d",
+  "contentHash" : "sha256-272577b376d15960d0a9e6cfb20aaf7c0c097cbfdce3163c1146e6d9d7375464",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

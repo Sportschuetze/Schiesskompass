@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-578692cefad42c544fe8d7cfc6ac298b9717b0f3e42b5dc7e6023d64760a1729",
+  "contentHash" : "sha256-7ffd007f645e56e68fec78b3ef71efadbab16e20104cfc4e04cd8dea4566fa2e",
   "events" : [
     {
       "championshipTags" : "",
@@ -42,13 +42,13 @@
       "timeBlocks" : [
         {
           "date" : "2027-02-20T11:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2027-02-20T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-02-21T11:00:00Z",
@@ -132,7 +132,7 @@
       "title" : "34. Oberthurg. Gewehrschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

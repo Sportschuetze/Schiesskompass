@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-28b89214ce5519500805d958260f99a6e317187399c1a879a64e82c4b9a43e79",
+  "contentHash" : "sha256-099993569ce9c6fd6bf6226bcc92cc04bc0edaa60aaf117eb73762fc7d3455d2",
   "events" : [
     {
       "championshipTags" : "",
@@ -43,13 +43,13 @@
       "timeBlocks" : [
         {
           "date" : "2027-08-21T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "16:30",
+          "startTime" : "13:30"
         },
         {
           "date" : "2027-08-21T10:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2027-09-11T10:00:00Z",
@@ -65,7 +65,7 @@
       "title" : "Chübelschüsse 2027"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

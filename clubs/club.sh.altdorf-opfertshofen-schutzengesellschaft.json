@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.altdorf-opfertshofen-schutzengesellschaft.chlausschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Chlausschiessen",
         "sourceURL" : "https:\/\/www.sgaltdorfopfertshofen.ch\/wp-content\/uploads\/2026\/02\/SGAO-Jahresprogramm-2026-in-Arbeit.pdf"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.altdorf-opfertshofen-schutzengesellschaft.jahresschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Jahresschiessen",
         "sourceURL" : "https:\/\/www.sgaltdorfopfertshofen.ch\/wp-content\/uploads\/2026\/02\/SGAO-Jahresprogramm-2026-in-Arbeit.pdf"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.altdorf-opfertshofen-schutzengesellschaft.nachtschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Nachtschiessen",
         "sourceURL" : "https:\/\/www.sgaltdorfopfertshofen.ch\/wp-content\/uploads\/2026\/02\/SGAO-Jahresprogramm-2026-in-Arbeit.pdf"
@@ -51,7 +51,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgaltdorfopfertshofen.ch\/"
   },
-  "contentHash" : "sha256-5a31ca9589485b1c1e5fa992729e4576c3c54a9cc0829adf32034ef4e7f974a7",
+  "contentHash" : "sha256-df5d6d5eebb4471748d9fb69b90a1e1c0e3f91a249222abb5e0908476a393c56",
   "events" : [
     {
       "championshipTags" : "",
@@ -82,7 +82,7 @@
       "title" : "Nachtschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

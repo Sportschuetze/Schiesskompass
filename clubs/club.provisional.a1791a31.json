@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.a1791a31.jahresabschlussschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Jahresabschlussschiessen",
         "sourceURL" : "https:\/\/www.wv-ebikon.ch\/"
@@ -34,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "www.wv-ebikon.ch"
   },
-  "contentHash" : "sha256-ef93ba17bb992fc5ed5ea1c31ea7bb1377c07460b3688d0e06ab8b815a06104d",
+  "contentHash" : "sha256-d99f2e4fd74f32d9c922e4bdb5d90803adbefcac7efd74c758cc9b427c23bdfd",
   "events" : [
     {
       "championshipTags" : "",
@@ -44,7 +44,7 @@
       "endDate" : "2026-08-07T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.a1791a31.gruppenschiessen.2026-08-07",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -67,7 +67,7 @@
       "endDate" : "2026-08-19T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.a1791a31.jahresabschlussschiessen.2026-08-19",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -83,7 +83,7 @@
       "title" : "Jahresabschlussschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

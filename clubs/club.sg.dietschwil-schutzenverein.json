@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-00dd361049fe38b9c60951fa49bedbde230fee2f89ad5ab497173cbf5d77b3b0",
+  "contentHash" : "sha256-860944ee616c2ff37f1a55b9f34041fdb82dd7747d48e6ad2e3b30c81cf55cc1",
   "events" : [
     {
       "championshipTags" : "",
@@ -57,13 +57,13 @@
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:30",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "17:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-23T10:00:00Z",
@@ -74,7 +74,7 @@
       "title" : "77. Freundschaftsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

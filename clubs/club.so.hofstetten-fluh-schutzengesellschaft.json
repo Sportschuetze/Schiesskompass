@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.hofstetten-fluh-schutzengesellschaft.gewehrschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Gewehrschiessen",
         "sourceURL" : "https:\/\/sghf.ch\/"
@@ -33,11 +33,11 @@
     "trainingWeekday" : "",
     "website" : "www.sghf.ch"
   },
-  "contentHash" : "sha256-a7185a082df5111e49fc276f5ed051ffe382548bb47e0fd7c1b55f69fbed3f84",
+  "contentHash" : "sha256-92b1bfde1123daae7f25680478f000b4cb50a6c6950aa448876d729e1b5fd4c4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

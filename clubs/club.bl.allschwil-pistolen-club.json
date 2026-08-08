@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.allschwil-pistolen-club.morgartenschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Morgartenschiessen",
         "sourceURL" : "https:\/\/www.pcallschwil.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.allschwil-pistolen-club.ruttlischiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Rüttlischiessen",
         "sourceURL" : "https:\/\/www.pcallschwil.ch\/"
@@ -43,7 +43,7 @@
     "trainingWeekday" : "",
     "website" : "www.pcallschwil.ch"
   },
-  "contentHash" : "sha256-8eb63530c1d59631ce2896897a2acb00bdbd0b1d3ef0b30037af4fde0b8cbfb5",
+  "contentHash" : "sha256-a21bcec91abb74526b3388573b5dd6dc178899b6008849f78588ee99425170e1",
   "events" : [
     {
       "championshipTags" : "",
@@ -53,7 +53,7 @@
       "endDate" : "2026-04-18T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bl.allschwil-pistolen-club.fruhlingsschiessen.2026-04-18",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -76,7 +76,7 @@
       "endDate" : "2027-03-12T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bl.allschwil-pistolen-club.niggischiessen.2027-03-12",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -99,7 +99,7 @@
       "endDate" : "2026-04-14T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bl.allschwil-pistolen-club.ruttlischiessen.2026-04-14",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -115,7 +115,7 @@
       "title" : "Rüttlischiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.569faead.fusionschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Fusionschiessen",
         "sourceURL" : "https:\/\/schuetzenverein-rickenbach.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.569faead.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/schuetzenverein-rickenbach.ch\/"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.569faead.pouletschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Pouletschiessen",
         "sourceURL" : "https:\/\/schuetzenverein-rickenbach.ch\/"
@@ -41,7 +41,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.569faead.racletteschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Racletteschiessen",
         "sourceURL" : "https:\/\/schuetzenverein-rickenbach.ch\/"
@@ -49,7 +49,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.569faead.schiterbergschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Schiterbergschiessen",
         "sourceURL" : "https:\/\/schuetzenverein-rickenbach.ch\/"
@@ -57,7 +57,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.569faead.schnupperschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Schnupperschiessen",
         "sourceURL" : "https:\/\/schuetzenverein-rickenbach.ch\/"
@@ -65,7 +65,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.569faead.zellerschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Zellerschiessen",
         "sourceURL" : "https:\/\/schuetzenverein-rickenbach.ch\/"
@@ -73,7 +73,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.569faead.jubilaeumsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "jubilaeumsschiessen",
         "sourceURL" : "https:\/\/schuetzenverein-rickenbach.ch\/"
@@ -91,7 +91,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/schuetzenverein-rickenbach.ch\/"
   },
-  "contentHash" : "sha256-c856827f137d33c3d8da22c72ad12c6f6eef42c50cde50f9348e28173f601a4c",
+  "contentHash" : "sha256-5062dffe37dff48fb83d7fcfa840cd138be5de7d03d6fb56048f5f6dff393a74",
   "events" : [
     {
       "championshipTags" : "",
@@ -101,7 +101,7 @@
       "endDate" : "2026-09-02T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.569faead.schnupperschiessen.2026-09-02",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -117,7 +117,7 @@
       "title" : "Schnupperschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

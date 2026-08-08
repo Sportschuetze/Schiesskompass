@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.25bcc252.einzelwettschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Einzelwettschiessen",
         "sourceURL" : "https:\/\/www.fs-obernau.ch\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.25bcc252.gedenkschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Gedenkschiessen",
         "sourceURL" : "https:\/\/www.fs-obernau.ch\/"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.25bcc252.luzernerstich",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Luzernerstich",
         "sourceURL" : "https:\/\/www.fs-obernau.ch\/"
@@ -39,7 +39,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.25bcc252.neinzelwettschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "nEinzelwettschiessen",
         "sourceURL" : "https:\/\/www.fs-obernau.ch\/"
@@ -57,11 +57,11 @@
     "trainingWeekday" : "",
     "website" : "www.fs-obernau.ch"
   },
-  "contentHash" : "sha256-4ff63005a5b67453f9a5bbb0b42271c6bbc8ce7e899790c92cfb58df2105ec4b",
+  "contentHash" : "sha256-1f207d44e86eeb71af91de2695a1a7ec9cd6bead7252f595b662020421de79af",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

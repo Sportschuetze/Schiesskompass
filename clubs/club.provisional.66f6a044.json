@@ -27,7 +27,7 @@
     "trainingWeekday" : "",
     "website" : "ps-winterthur.ch"
   },
-  "contentHash" : "sha256-a04dd249bd81f7e011eda44293ddf3acc847e284e8c3c309ff2ce13a1195af71",
+  "contentHash" : "sha256-6114bc7d97eb5be775f20559e9c5e5b1f9244187e0d4827134f4c29467e616fa",
   "events" : [
     {
       "championshipTags" : "",
@@ -37,7 +37,7 @@
       "endDate" : "2026-04-17T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.66f6a044.eroffnungsschiessen.2026-04-17",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -60,7 +60,7 @@
       "endDate" : "2026-09-11T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.66f6a044.revolverschiessen.2026-09-11",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -76,7 +76,7 @@
       "title" : "Revolverschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

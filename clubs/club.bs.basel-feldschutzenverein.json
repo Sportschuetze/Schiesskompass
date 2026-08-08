@@ -36,9 +36,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.fsv-basel.ch"
+    "website" : "www.fsv-basel.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-02f1c02dc0366d9bb82872d4239035f6acf8900b7e76b72b4bfcfba84e79eca6",
+  "contentHash" : "sha256-7d6ef14e2e1651e27212675f85e2870dbd9737f02f0440323e84fab7b86243f3",
   "events" : [
     {
       "championshipTags" : "",
@@ -202,7 +204,7 @@
       "title" : "Schnupperschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

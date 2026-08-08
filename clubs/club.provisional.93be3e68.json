@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.93be3e68.volksschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
         "sourceURL" : "https:\/\/sps-wila-turbenthal.ch\/"
@@ -35,11 +35,11 @@
     "trainingWeekday" : "",
     "website" : "www.sps-wila-turbenthal.ch"
   },
-  "contentHash" : "sha256-0de928d05698163b8fdc3d331404e48642753abf74b3ed500509d782d844d1fd",
+  "contentHash" : "sha256-64343ac3c10a2fc69fde6b019d2c06d53069ed0cddc0f8797fe1f41584690b0c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

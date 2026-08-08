@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f3ff5a81b5b03a785d4d4e27f0312ac44cb035f1317f57341549889e2f9eb6b0",
+  "contentHash" : "sha256-82cd1c2e9408fcfdd0ba71fe87c723d8440474270fed1bfc7d797efc2e3a59f3",
   "events" : [
     {
       "championshipTags" : "",
@@ -47,13 +47,13 @@
         },
         {
           "date" : "2027-08-14T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:30",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-08-14T10:00:00Z",
-          "endTime" : "16:30",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2027-08-20T10:00:00Z",
@@ -79,7 +79,7 @@
       "title" : "150 Jahr Jubiläum"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

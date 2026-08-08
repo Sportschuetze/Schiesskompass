@@ -41,9 +41,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "https:\/\/sfh.news\/"
+    "website" : "https:\/\/sfh.news\/",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-aee295eb4ad4415ea9cc9fcb73ba67b0033c0de00df56ea96b458e4b184c3e02",
+  "contentHash" : "sha256-fbd1e21e0dde64c8a84557993ea03c0d0378650eaebc44218de7db3d8b481ffc",
   "events" : [
     {
       "championshipTags" : "",
@@ -74,7 +76,7 @@
       "title" : "OASSV Match Meisterschaft 2026"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

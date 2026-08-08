@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.ciblesportive.ch"
   },
-  "contentHash" : "sha256-1e541f9eb0d53250134c2b7192d9777bb72e03d361e77eb54c68067377a5ddc5",
+  "contentHash" : "sha256-9c88080cc9293ac6723dc26f8baed0cb4407d45a971174dc969911bd91a96479",
   "events" : [
     {
       "championshipTags" : "",
@@ -33,7 +33,7 @@
       "endDate" : "2026-05-20T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.vd.st-legier-la-chiesaz-societe-de-tir-la-cible-sportive.efs.2026-05-20",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -56,7 +56,7 @@
       "endDate" : "2026-08-27T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.vd.st-legier-la-chiesaz-societe-de-tir-la-cible-sportive.efs.2026-08-27",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -72,7 +72,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

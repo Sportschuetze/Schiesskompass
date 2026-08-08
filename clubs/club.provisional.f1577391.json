@@ -24,14 +24,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.pistolenschuetzen-zollikofen.ch",
-    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-b317551c0e4c4e377406d7c01fda842159e9657ab340da440d57a348e973c59d",
+  "contentHash" : "sha256-d30894bf0bd3b79441cb22bf74fa30aa9f760e8425217519f53d158d2dc65011",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

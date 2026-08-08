@@ -55,9 +55,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "fsgscherzschinznachbad.ch"
+    "website" : "fsgscherzschinznachbad.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-dbcefa01384382dac6a07dfe576efdd47c9607cc209b268187ae0b6ff68c7483",
+  "contentHash" : "sha256-016bd9b9ef233365a2f6b95fd36ad8d2695fa5be03eec198064f2ef3ae64213a",
   "events" : [
     {
       "championshipTags" : "",
@@ -359,7 +361,7 @@
       "title" : "Sagemühleschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

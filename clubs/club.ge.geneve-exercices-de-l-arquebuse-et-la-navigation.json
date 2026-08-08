@@ -28,14 +28,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/www.arquebuse.ch\/",
-    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
     "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-b4b5b8d80d5fd91ec8bf2544a875516ca25872325bb6ba1262504943156bdb8d",
+  "contentHash" : "sha256-1c3f44b8464b5544636b3e07c7cf961e87f4dd27435745510841f12945c2140e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

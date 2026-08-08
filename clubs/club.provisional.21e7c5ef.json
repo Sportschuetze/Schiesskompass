@@ -154,10 +154,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.sv-volketswil.ch",
-    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-a98fff6c90d8928eff8386d7f22af0d6de0cc08a9d3bf65cd58cf51cf65680cf",
+  "contentHash" : "sha256-0e6cd0473ba0ffb27a09a7e939480351eaaa063e311efe8a715b02b4a6c36f04",
   "events" : [
     {
       "championshipTags" : "",
@@ -206,7 +206,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

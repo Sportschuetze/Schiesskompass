@@ -123,9 +123,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.pkzwingen.ch"
+    "website" : "www.pkzwingen.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-d5af948cf2e8412f9ed12fb1f32f8b2c380db3e2362bdd71f6f89e5929386e45",
+  "contentHash" : "sha256-6b31cb16093a2b2672595506b67e863912f2fe3e8c897a8d3f697bde58af9026",
   "events" : [
     {
       "championshipTags" : "",
@@ -427,7 +429,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

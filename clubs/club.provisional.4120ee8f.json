@@ -49,9 +49,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.ps-meggen.ch"
+    "website" : "www.ps-meggen.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-b5cf4a96b3529b619046eb8e53e0fdfb13b192c10190f308004d43a52dbd6491",
+  "contentHash" : "sha256-1c277f341c3c67b156f8073d611a277d97ace0065a4d12783f923fe9aa522a15",
   "events" : [
     {
       "championshipTags" : "",
@@ -238,7 +240,7 @@
       "title" : "Übungsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

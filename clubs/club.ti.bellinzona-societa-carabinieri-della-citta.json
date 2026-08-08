@@ -28,9 +28,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.carabinieri-bellinzona.ch"
+    "website" : "www.carabinieri-bellinzona.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-e6b747f87823d75d7396001113d4d47fc312a9931fe3439e067a090cf0f54857",
+  "contentHash" : "sha256-8d026cfa85396f1baf8ff5cccbdc5fe8ba1f1a7c94fdecbd3cbdd2c52ef83a1c",
   "events" : [
     {
       "championshipTags" : "",
@@ -79,7 +81,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

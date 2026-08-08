@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gr.schiers-schutzenverein.calvenschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Calvenschiessen",
         "sourceURL" : "https:\/\/www.sv-schiers.ch\/uploads\/1\/4\/1\/7\/141761353\/jahresprogramm_2026_kurzform.pdf"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gr.schiers-schutzenverein.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/www.sv-schiers.ch\/uploads\/1\/4\/1\/7\/141761353\/jahresprogramm_2026_kurzform.pdf"
@@ -32,7 +32,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gr.schiers-schutzenverein.feldvorschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Feldvorschiessen",
         "sourceURL" : "https:\/\/www.sv-schiers.ch\/uploads\/1\/4\/1\/7\/141761353\/jahresprogramm_2026_kurzform.pdf"
@@ -50,7 +50,7 @@
     "trainingWeekday" : "",
     "website" : "www.sv-schiers.ch"
   },
-  "contentHash" : "sha256-798f5856163e52d840c002e8036d20038fd0fb56c25ad5b370376d12f8258dce",
+  "contentHash" : "sha256-d6c166a8b8d64537b569624dbfcfb2c745b211dfe7abb0ef47869aa2f32776c3",
   "events" : [
     {
       "championshipTags" : "",
@@ -60,7 +60,7 @@
       "endDate" : "2026-10-10T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.gr.schiers-schutzenverein.op.2026-10-10",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -76,7 +76,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

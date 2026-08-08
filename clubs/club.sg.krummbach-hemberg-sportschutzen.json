@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.krummbach-hemberg-sportschutzen.einzelwettschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Einzelwettschiessen",
         "sourceURL" : "https:\/\/www.krummbach-hemberg.ch\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.krummbach-hemberg-sportschutzen.subarustich",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Subarustich",
         "sourceURL" : "https:\/\/www.krummbach-hemberg.ch\/"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.krummbach-hemberg-sportschutzen.sslistich",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "sslistich",
         "sourceURL" : "https:\/\/www.krummbach-hemberg.ch\/"
@@ -50,14 +50,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/www.krummbach-hemberg.ch",
-    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
     "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-755982da28918cbdf036355dfe2f5bc435e570eaa56088b0089008d320e8218c",
+  "contentHash" : "sha256-1145d0cf0df669a62473233acdc3017a8a12c7f951e264488cb957661f1741e6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

@@ -26,7 +26,7 @@
     "trainingWeekday" : "",
     "website" : "armesreunieslacotiere.ch"
   },
-  "contentHash" : "sha256-b963c22975fe47bd81de643b421b6653b165d692c9f529118abb65102b8ea9cd",
+  "contentHash" : "sha256-8daf286dc3d1852aa9e826d0f33a5e8b8dea9e14a137a5d50dc7fc60edebde32",
   "events" : [
     {
       "championshipTags" : "",
@@ -36,7 +36,7 @@
       "endDate" : "2026-10-24T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.ne.la-cotiere-engollon-armes-reunies.op.2026-10-24",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -52,7 +52,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

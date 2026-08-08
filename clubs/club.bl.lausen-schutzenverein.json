@@ -20,7 +20,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.lausen-schutzenverein.edletenschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Edletenschiessen",
         "sourceURL" : "https:\/\/www.schuetzenvereinlausen.ch\/images\/2026\/JP_2026.pdf"
@@ -28,7 +28,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.lausen-schutzenverein.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/www.schuetzenvereinlausen.ch\/images\/2026\/JP_2026.pdf"
@@ -36,7 +36,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.lausen-schutzenverein.grattimaaschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Grättimaaschiessen",
         "sourceURL" : "https:\/\/www.schuetzenvereinlausen.ch\/images\/2026\/JP_2026.pdf"
@@ -44,7 +44,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.lausen-schutzenverein.wettschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/www.schuetzenvereinlausen.ch\/images\/2026\/JP_2026.pdf"
@@ -62,11 +62,11 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzenvereinlausen.ch"
   },
-  "contentHash" : "sha256-910d8a2edc763b7f0a84915e94e3a806cf8f22a31bc502cb1b31f6e8136f73ca",
+  "contentHash" : "sha256-af5f2755162b6bba445cbfcb63fda187292161d06c14ef0493e94515add95409",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

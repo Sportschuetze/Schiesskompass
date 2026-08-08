@@ -34,9 +34,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.ssgw.ch"
+    "website" : "www.ssgw.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-efb191711c34db9ad03c055fd776cf2ca78cef56b57d75957fc9a3edc272b652",
+  "contentHash" : "sha256-dee99507390764747558b9b7c79981bd76f7b19d7bf268680a4b87ca5da20962",
   "events" : [
     {
       "championshipTags" : "",
@@ -60,11 +62,6 @@
         },
         {
           "date" : "2026-09-13T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
-        },
-        {
-          "date" : "2026-09-13T10:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:00"
         },
@@ -74,9 +71,14 @@
           "startTime" : "09:00"
         },
         {
-          "date" : "2026-10-04T10:00:00Z",
+          "date" : "2026-09-13T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-10-04T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-10-04T10:00:00Z",
@@ -90,8 +92,8 @@
         },
         {
           "date" : "2026-10-04T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         }
       ],
       "title" : "Unterland-Tournee 2026"
@@ -166,7 +168,7 @@
       "title" : "Stadtschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

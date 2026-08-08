@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.b793bada.fahnenweihschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Fahnenweihschiessen",
         "sourceURL" : "https:\/\/www.msvtruttikon.ch\/"
@@ -34,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "msvtruttikon.ch"
   },
-  "contentHash" : "sha256-56f4a98d25fa0061d938c7612f95f66837685249bf8a80ff95c3b1bdd70c1405",
+  "contentHash" : "sha256-a7bc65bef70e94299f08ae8e0c2da00cc962d3820628907d87b9be9bf031938a",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,13 +58,13 @@
         },
         {
           "date" : "2027-08-21T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2027-08-21T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-08-22T10:00:00Z",
@@ -78,13 +78,13 @@
         },
         {
           "date" : "2027-08-28T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-08-28T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2027-08-29T10:00:00Z",
@@ -95,7 +95,7 @@
       "title" : "Fahnenweihschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

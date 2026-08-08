@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.asv-muenchenstein.ch"
   },
-  "contentHash" : "sha256-f898f68a4f9d097fcabc9e09b15fbc95ac8461913da462b28fcb1fc1d701abbe",
+  "contentHash" : "sha256-6f26a091a20adffdbfb520d08153e3dd039a4cc2d713d4fb383ba706bbcb2811",
   "events" : [
     {
       "championshipTags" : "",
@@ -34,7 +34,7 @@
       "endDate" : "2026-05-29T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.bl.munchenstein-arbeiterschiessverein.efs.2026-05-29",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -57,7 +57,7 @@
       "endDate" : "2026-05-31T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.bl.munchenstein-arbeiterschiessverein.efs.2026-05-31",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -73,7 +73,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

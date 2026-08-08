@@ -24,14 +24,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/www.lavillageoise.ch\/",
-    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-9bdb18744598c1c032ec22e546c46faaa968174cc3403adcfef80c4ec75c3665",
+  "contentHash" : "sha256-d55234ebcf03d722d81aed5f415e32ba86ddc5e8c55066280d71460e0224cfe7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

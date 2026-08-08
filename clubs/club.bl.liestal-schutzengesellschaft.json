@@ -117,9 +117,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sgliestal.ch"
+    "website" : "www.sgliestal.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-067c6f88e5380b82fc14584aa5677d3130b4fb86e02ced02b5719f601437ef76",
+  "contentHash" : "sha256-57f88578ae0c9ad3cbe3154efffd40a3db5efa38fc5286e9b33922bdb36dc9fa",
   "events" : [
     {
       "championshipTags" : "",
@@ -145,7 +147,7 @@
       "title" : "Freundschaftsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

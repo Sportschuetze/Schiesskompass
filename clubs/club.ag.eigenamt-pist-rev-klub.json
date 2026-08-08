@@ -89,9 +89,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.prkeigenamt.ch"
+    "website" : "www.prkeigenamt.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-57a2b631f4c71eadf2b1e5f2b5397294b3d24ecf9649e9a1549e814d28b5fb97",
+  "contentHash" : "sha256-a2c2a214015112f5daa88fa3a526c8236bbc9154440602d99d7983607bed252d",
   "events" : [
     {
       "championshipTags" : "",
@@ -349,7 +351,7 @@
       "title" : "Revolverschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

@@ -43,9 +43,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "pskloten.ch"
+    "website" : "pskloten.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-9b5ddbbeef091282cc62e84ae276c78f53b8a6678b2753af95548240bce185df",
+  "contentHash" : "sha256-819b14ea48ce047e7e6cd9e10fb264a4185c5290a2f54919542e170006ad7727",
   "events" : [
     {
       "championshipTags" : "",
@@ -69,11 +71,6 @@
         },
         {
           "date" : "2026-08-08T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:30"
-        },
-        {
-          "date" : "2026-08-08T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
         },
@@ -83,6 +80,16 @@
           "startTime" : "09:00"
         },
         {
+          "date" : "2026-08-08T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "09:00"
+        },
+        {
           "date" : "2026-08-15T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
@@ -96,11 +103,6 @@
           "date" : "2026-08-15T10:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:30"
-        },
-        {
-          "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
         }
       ],
       "title" : "54. Flughafenschiessen 2026"
@@ -175,7 +177,7 @@
       "title" : "Flughafenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -33,9 +33,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.svdachsen.ch"
+    "website" : "www.svdachsen.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-7d2e6c6babfb9f1ca3ceb18bfa1ef5ab84c761aac9713b673f2fa8f50cbad208",
+  "contentHash" : "sha256-3b9ed45c1c99ad0ce367951e5904fa05532533f6745cab22ef75d82bfc02c2b1",
   "events" : [
     {
       "championshipTags" : "",
@@ -107,7 +109,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

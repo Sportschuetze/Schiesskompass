@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7b80a81c.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
         "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7b80a81c.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7b80a81c.jubilaumsstich",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Jubiläumsstich",
         "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
@@ -41,7 +41,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7b80a81c.pulverturmschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Pulverturmschiessen",
         "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
@@ -49,7 +49,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7b80a81c.schnupperschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Schnupperschiessen",
         "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
@@ -57,7 +57,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7b80a81c.sturmgewehrschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Sturmgewehrschiessen",
         "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
@@ -65,7 +65,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7b80a81c.volksschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
         "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
@@ -73,7 +73,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7b80a81c.wettschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Wettschiessen",
         "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
@@ -81,7 +81,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.7b80a81c.winterschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
         "sourceURL" : "https:\/\/fsv-dinhard.ch\/wp-content\/uploads\/Allgemein\/JahresprogrammJS.pdf"
@@ -99,11 +99,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsv-dinhard.ch"
   },
-  "contentHash" : "sha256-1aa3db86329b76585a63683973c388fa527b061d4b41e4475e83013804b26161",
+  "contentHash" : "sha256-6ca6f71f9f16b54f02e23f1109dd7d11c3efb2398e7bffb9658f751c8c4b59c4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

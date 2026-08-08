@@ -139,9 +139,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "https:\/\/www.ps-wetzikon.ch"
+    "website" : "https:\/\/www.ps-wetzikon.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-6a689d6fc357595a7904d4d94ebd7405ddaaf3f0a82145847ac5e91fa8f54d1a",
+  "contentHash" : "sha256-ea6c5f266046894312936c88431753962a5df7bc5a40b1a67693c8fb8828c95a",
   "events" : [
     {
       "championshipTags" : "",
@@ -305,7 +307,7 @@
       "title" : "Schnupperschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

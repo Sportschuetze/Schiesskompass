@@ -16,7 +16,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sz.unteriberg-schutzengesellschaft.hirschflueschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Hirschflueschiessen",
         "sourceURL" : "https:\/\/www.sgunteriberg.ch\/"
@@ -24,7 +24,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sz.unteriberg-schutzengesellschaft.hirschfluhschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Hirschfluhschiessen",
         "sourceURL" : "https:\/\/www.sgunteriberg.ch\/"
@@ -42,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgunteriberg.ch"
   },
-  "contentHash" : "sha256-7649d241bf4e8d530a4b0d64b2b8fe6dab88c2c956403049755e86f23081f4a5",
+  "contentHash" : "sha256-1e77764911def417d2044f460d1ac546b69187d95511264d2d2ba2d7ceb8c735",
   "events" : [
     {
       "championshipTags" : "",
@@ -88,7 +88,7 @@
       "title" : "28. Hirschflueschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

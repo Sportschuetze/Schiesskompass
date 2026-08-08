@@ -26,14 +26,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "https:\/\/www.carabiniersvaldilliez.ch\/",
-    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-2336f284fdb6a8d82dbd3565a0688eb516d9882e53c2721b764b5afb1957d8b9",
+  "contentHash" : "sha256-e606abcb84995bb2fa29397dfb25da37daafa90d21fb42a1a8a3d605de8f4f87",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

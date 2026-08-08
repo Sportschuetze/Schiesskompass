@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.zufikon-schutzengesellschaft.einzelwettschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Einzelwettschiessen",
         "sourceURL" : "https:\/\/www.sg-zufikon.com\/"
@@ -25,7 +25,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.zufikon-schutzengesellschaft.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/www.sg-zufikon.com\/"
@@ -33,7 +33,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.zufikon-schutzengesellschaft.nueschwaldschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Nüeschwaldschiessen",
         "sourceURL" : "https:\/\/www.sg-zufikon.com\/"
@@ -41,7 +41,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.zufikon-schutzengesellschaft.nueeschwaldschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "nueeschwaldschiessen",
         "sourceURL" : "https:\/\/www.sg-zufikon.com\/"
@@ -59,11 +59,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-zufikon.com"
   },
-  "contentHash" : "sha256-f5889259ec88db8807200475931ca31aceff746c4dc6c4f1640d8bdf36902b97",
+  "contentHash" : "sha256-9362a93039d8058c1d810043c1d816e4387a75600d1d38f174b10cd5bf294658",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

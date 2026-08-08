@@ -21,9 +21,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.fsg-therwil.ch"
+    "website" : "www.fsg-therwil.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-c21990119046e5040e9b33d3e3f9d61361299f4c566620e34acc448562e8b57e",
+  "contentHash" : "sha256-0f301f5d91657cf2c72539db47872fd0f51e8e600294746164f88916cfb72e97",
   "events" : [
     {
       "championshipTags" : "",
@@ -72,7 +74,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

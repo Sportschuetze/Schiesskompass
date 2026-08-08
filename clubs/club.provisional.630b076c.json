@@ -31,13 +31,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "https:\/\/www.nachtschiessenoberwil.ch\/"
+    "website" : "https:\/\/www.nachtschiessenoberwil.ch\/",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-99f6a966ad2499dc77d713d9f27fabc4f181bf275e07c263e24819f9de8672bc",
+  "contentHash" : "sha256-a499e99216adfa2e3308562a5d358750ecf73655a0bb2db046a4c020a2f85d7d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

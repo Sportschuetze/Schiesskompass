@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-be5905e50717020ac83fb88607ae9ca084e8c534565aaffa3ead0b35b6a7ff67",
+  "contentHash" : "sha256-1bfcc10a1ac882383ca7f445f38ff812944121170e263d0c7a9dfda7588d02e8",
   "events" : [
     {
       "championshipTags" : "",
@@ -43,13 +43,13 @@
       "timeBlocks" : [
         {
           "date" : "2027-04-10T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2027-04-10T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2027-04-11T10:00:00Z",
@@ -75,7 +75,7 @@
       "title" : "Ramschwagschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

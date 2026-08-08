@@ -23,13 +23,15 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.PK-Tafers.ch"
+    "website" : "www.PK-Tafers.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-97023ed8608fe172a6a352f1ab5c2e00e09031d5182b089c5c0ae9ea69342671",
+  "contentHash" : "sha256-e02eaf7817b46fca15b54500853996df2290c31fbc67780411b8b9f9db1d5cb1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

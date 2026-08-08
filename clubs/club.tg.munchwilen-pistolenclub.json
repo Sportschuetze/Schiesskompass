@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-81baba457e8b738aa28162adf48e2a5d07e50c0e1eaa4db6ca6044d7c181af03",
+  "contentHash" : "sha256-0dfaa5ff24e6b780d9e3639901b4966186af2c4e0d1911e680c5eaaa8189bb57",
   "events" : [
     {
       "championshipTags" : "",
@@ -69,24 +69,24 @@
         },
         {
           "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:30"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
-        },
-        {
-          "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:30"
-        },
-        {
-          "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:30"
         }
       ],
       "title" : "6. Murgschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

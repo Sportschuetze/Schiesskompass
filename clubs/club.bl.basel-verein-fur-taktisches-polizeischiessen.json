@@ -37,14 +37,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "www.vtpbs.clubdesk.com",
-    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-8971ac57ebaf6a6e89707453e64c240cdfe260d5d1a0c7353bdfdf0f1b3a9aa4",
+  "contentHash" : "sha256-090f0e769abe10cabb2b6bda7d94f378e34bb10da21154db625387f694d1a001",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b648770923a07dc12f7ee09e9df4af80c0758d7f9d8509e93d57eee8c99d0784",
+  "contentHash" : "sha256-3223635668b43e6d592865c069bcf92c16cd0a6732d238afdbc7e92e7e3687d0",
   "events" : [
     {
       "championshipTags" : "",
@@ -47,23 +47,23 @@
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "17:00",
+          "startTime" : "13:15"
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:15"
-        },
-        {
-          "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:15"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2026-08-29T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:30"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
         },
         {
           "date" : "2026-08-30T10:00:00Z",
@@ -105,13 +105,13 @@
         },
         {
           "date" : "2027-08-28T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "17:00",
+          "startTime" : "13:15"
         },
         {
           "date" : "2027-08-28T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:15"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2027-08-29T10:00:00Z",
@@ -122,7 +122,7 @@
       "title" : "250 Jahre FSG Oberhelfenschwil - Jubiläumsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

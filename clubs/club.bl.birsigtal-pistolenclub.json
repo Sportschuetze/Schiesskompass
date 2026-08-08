@@ -18,7 +18,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bl.birsigtal-pistolenclub.kleinkaliberschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Kleinkaliberschiessen",
         "sourceURL" : "https:\/\/pc-birsigtal.ch\/"
@@ -36,11 +36,11 @@
     "trainingWeekday" : "",
     "website" : "www.pc-birsigtal.ch"
   },
-  "contentHash" : "sha256-eff158abf8bea259f88e4eb03877eed48843b97f2f4761578e923ae36dcb470d",
+  "contentHash" : "sha256-ef35bca1ccc52c6e4f6764d111c7627adc7b55eb77900ec02fc4a87911be1b5f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

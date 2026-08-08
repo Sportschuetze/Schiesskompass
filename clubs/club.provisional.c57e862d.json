@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.c57e862d.silberhelmschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Silberhelmschiessen",
         "sourceURL" : "https:\/\/www.sg-oberoenz.ch\/"
@@ -33,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-oberoenz.ch"
   },
-  "contentHash" : "sha256-05b91ba0d74a06cbb0e16feb27e467d0bc4674f643a64c4d78151316f5605f55",
+  "contentHash" : "sha256-30b70146a3b3d2dd2b9c102f1ca4914771c23c3fb42a77fec783cb1b098d6aea",
   "events" : [
     {
       "championshipTags" : "",
@@ -59,7 +59,7 @@
       "title" : "Silberhelmschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

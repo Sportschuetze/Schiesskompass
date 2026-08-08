@@ -15,7 +15,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.2942b66f.chutzenschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Chutzenschiessen",
         "sourceURL" : "https:\/\/www.loehrschuetzen.ch\/"
@@ -23,7 +23,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.2942b66f.einzelwettschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Einzelwettschiessen",
         "sourceURL" : "https:\/\/www.loehrschuetzen.ch\/"
@@ -31,7 +31,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.2942b66f.gruppenschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Gruppenschiessen",
         "sourceURL" : "https:\/\/www.loehrschuetzen.ch\/"
@@ -39,7 +39,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.2942b66f.rutlischiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Rütlischiessen",
         "sourceURL" : "https:\/\/www.loehrschuetzen.ch\/"
@@ -57,11 +57,11 @@
     "trainingWeekday" : "",
     "website" : "www.loehrschuetzen.ch"
   },
-  "contentHash" : "sha256-7ac72a343fc51af316a1936537c820d6b98902a2b79a4e55d63f19798e01e97c",
+  "contentHash" : "sha256-cdb082fd33a9dd17d25a4e713c4128216b5daf39cb3a2f5cd04299868f795eef",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

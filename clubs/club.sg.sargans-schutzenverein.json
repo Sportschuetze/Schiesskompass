@@ -32,10 +32,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/www.sv-sargans.ch",
-    "websiteCheckedAt" : "2026-08-07T18:56:29Z",
-    "websiteStatus" : "rootFallback"
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-97c23ce78c1517fe257b4c61005aa2e99f5b469a74ccebc1e3ea9e9a9ad427f9",
+  "contentHash" : "sha256-17b987b92e2022c42126a4ccfe80e9ec6868e1a2d670d9c0caa309227026ae6e",
   "events" : [
     {
       "championshipTags" : "",
@@ -142,7 +142,7 @@
       "title" : "Knappenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

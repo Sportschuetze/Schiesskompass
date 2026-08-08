@@ -17,7 +17,7 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.69942c4f.jubilaumsschiessen",
-        "fetchedAt" : "2026-08-07T18:56:29Z",
+        "fetchedAt" : "2026-08-08T06:12:56Z",
         "isUnverified" : true,
         "name" : "Jubiläumsschiessen",
         "sourceURL" : "https:\/\/www.msschwanden.ch\/"
@@ -35,7 +35,7 @@
     "trainingWeekday" : "",
     "website" : "www.msschwanden.ch"
   },
-  "contentHash" : "sha256-7bb8d878c784c47c8da0d507b8a189abc991bed03df2e43881ad8b92972ef745",
+  "contentHash" : "sha256-bb1fe21d6e518c16d9459c02920c246e295c7849d86b48d222f8b819f6cfa834",
   "events" : [
     {
       "championshipTags" : "",
@@ -59,16 +59,11 @@
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
-        },
-        {
-          "date" : "2026-08-22T10:00:00Z",
           "endTime" : "20:00",
           "startTime" : "13:00"
         },
         {
-          "date" : "2026-08-23T10:00:00Z",
+          "date" : "2026-08-22T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:00"
         },
@@ -76,6 +71,11 @@
           "date" : "2026-08-23T10:00:00Z",
           "endTime" : "17:00",
           "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-23T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-28T10:00:00Z",
@@ -94,13 +94,13 @@
         },
         {
           "date" : "2026-08-30T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-08-30T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         }
       ],
       "title" : "150 Jahr Jubiläum Militärschützen Schwanden mit sehr schönem Gabentempel"
@@ -113,7 +113,7 @@
       "endDate" : "2026-07-31T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.69942c4f.jubilaumsschiessen.2026-07-31",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-08T06:12:56Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -129,7 +129,7 @@
       "title" : "Jubiläumsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

@@ -36,9 +36,11 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sgmuttenz.ch"
+    "website" : "www.sgmuttenz.ch",
+    "websiteCheckedAt" : "2026-08-08T06:12:56Z",
+    "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-28f9aca0fb46183f8981fa69c36e5eaf9cc76c40f5b31e8bcdccec948904081c",
+  "contentHash" : "sha256-9a0f9707ced58f0b99d83bd0ae3861b507388c8102f22cd78f82017795728b1b",
   "events" : [
     {
       "championshipTags" : "",
@@ -64,7 +66,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-08T06:13:32Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }
