@@ -257,7 +257,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.tegelbachschuetzen-gachnang.ch\/"
   },
-  "contentHash" : "sha256-04f694a0259d068653183b9d441f88af20c702a3607009bfad4f0d57ed81ce2f",
+  "contentHash" : "sha256-ae6f9ab5f3871d67959b00754768035c268b69b0492db6932a802167a6a68c8a",
   "events" : [
     {
       "championshipTags" : "",
@@ -301,13 +301,13 @@
         },
         {
           "date" : "2027-04-24T10:00:00Z",
-          "endTime" : "17:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2027-04-24T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:30",
+          "startTime" : "13:30"
         }
       ],
       "title" : "25. Gochlinger Liegendmatch 2027"
@@ -1647,7 +1647,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

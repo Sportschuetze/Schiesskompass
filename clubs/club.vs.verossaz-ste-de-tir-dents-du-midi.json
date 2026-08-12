@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.tirverossaz.ch"
   },
-  "contentHash" : "sha256-6d61393bbd5cb574fd0720bfbb15eb5a9bb4e405b3cd0629dbb01fb05dde5a1f",
+  "contentHash" : "sha256-352f03ea67aae412e81e22d0167758373ab20363f6cd498d9a283ded6d9e7add",
   "events" : [
     {
       "championshipTags" : "",
@@ -72,7 +72,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

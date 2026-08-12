@@ -277,7 +277,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-bda2b225e2b929e6fbdf191ffb3b3d3ac3d24191210866cc4da06acbb4de369f",
+  "contentHash" : "sha256-282cfbbc4a1a1812797f27bfdf8511d6ec4cbe214b52c2115e2072ee0ca98f15",
   "events" : [
     {
       "championshipTags" : "",
@@ -349,7 +349,7 @@
       "title" : "Vindonissaschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -46,7 +46,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-3537e88833fd34cc7b9e47db6448488a201343fc94ce453981984c7cf2eb8d8c",
+  "contentHash" : "sha256-84ad48dc25abc316796eb3310894fda38514f5a77d9686b336385a7dc7eca75e",
   "events" : [
     {
       "championshipTags" : "",
@@ -164,7 +164,7 @@
       "title" : "Plauschschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

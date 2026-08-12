@@ -201,7 +201,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/ps-weinfelden.ch"
   },
-  "contentHash" : "sha256-8da6d873d7adceab4cc034df26b8fff78f78731d94465c17dca3c9329b608cce",
+  "contentHash" : "sha256-591c604b63f16f10a7896769d36aea0f89277e0b8327fdd9f78847ad03117743",
   "events" : [
     {
       "championshipTags" : "",
@@ -245,13 +245,13 @@
         },
         {
           "date" : "2027-09-11T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "18:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2027-09-11T10:00:00Z",
-          "endTime" : "18:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         }
       ],
       "title" : "Jubiläumsschiessen 475 Jahre SG Weinfelden"
@@ -326,13 +326,13 @@
       "timeBlocks" : [
         {
           "date" : "2027-11-10T11:00:00Z",
-          "endTime" : "",
-          "startTime" : ""
+          "endTime" : "21:30",
+          "startTime" : "17:00"
         },
         {
           "date" : "2027-11-10T11:00:00Z",
-          "endTime" : "21:30",
-          "startTime" : "17:00"
+          "endTime" : "",
+          "startTime" : ""
         },
         {
           "date" : "2027-11-11T11:00:00Z",
@@ -759,7 +759,7 @@
       "title" : "Winzerschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 7
 }

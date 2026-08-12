@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-69025452569b4c367913c0942323eadf3ec0cd6dd9f6c4bcaa39b8f6d1648ba2",
+  "contentHash" : "sha256-63d6251f68d5c22028c7677e4687229c32fe6808bff8779540068878a36e40ae",
   "events" : [
     {
       "championshipTags" : "",
@@ -53,7 +53,7 @@
       "title" : "Bezirksschiessen Hinwil"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

@@ -28,11 +28,11 @@
     "trainingWeekday" : "",
     "website" : "www.msg-basel.ch"
   },
-  "contentHash" : "sha256-fd2a0f28889fd28fd8a7483c5b3e95c02404baee6ca282e4a98137c1907288fd",
+  "contentHash" : "sha256-fd1f09da32dcf87870cb40d800a4fe967885d3faed83f56f580524020c0b8697",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c4a33ac3648c625942bdeaf554d850f87ca2620113e873602ee043d60a6682ad",
+  "contentHash" : "sha256-59cfc84de1ce4b1f370b89e1da54680d43b97d0536deb90e9946a577c60a0f1c",
   "events" : [
     {
       "championshipTags" : "",
@@ -86,7 +86,7 @@
       "title" : "71. Pistolen-Gangfisch-Schiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 7
 }

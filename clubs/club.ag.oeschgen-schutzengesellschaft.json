@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-oeschgen.ch\/index.html"
   },
-  "contentHash" : "sha256-213f905bf925748e244f03d09b12050c54524c4b81d8013842a0f818e38da9a7",
+  "contentHash" : "sha256-d2ee2a4410a4393138eb4dd14139e6ace3236168c133b172cee52d9bfa3d67c3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

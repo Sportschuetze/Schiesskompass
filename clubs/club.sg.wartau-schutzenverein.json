@@ -162,7 +162,7 @@
     "trainingWeekday" : "",
     "website" : "www.sv-wartau.ch"
   },
-  "contentHash" : "sha256-101f52b656302c6ea3f117357581362c09e48f432e7b00745b1e554d6adca85f",
+  "contentHash" : "sha256-c94d300c373ca82e475d0a9833528117a890fcde9b3ae2cba711bcdcb72fb7e4",
   "events" : [
     {
       "championshipTags" : "",
@@ -671,7 +671,7 @@
       "title" : "Speckschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

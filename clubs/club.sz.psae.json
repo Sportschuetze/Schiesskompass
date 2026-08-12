@@ -33,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-fde7211408d438a0cdde188022ab6656cd769ced681ddddf2886eb43de973e24",
+  "contentHash" : "sha256-f5d49077957daf262684ecd984856b50426030085a170d153b73b85abe6f558e",
   "events" : [
     {
       "championshipTags" : "",
@@ -1798,7 +1798,7 @@
       "title" : "Winterschiessen Pfäffikon"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

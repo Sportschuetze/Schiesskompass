@@ -26,7 +26,7 @@
     "trainingWeekday" : "",
     "website" : "schuetzenklub-dornach.ch"
   },
-  "contentHash" : "sha256-6efb6207f572b88a8e9a3ae8301399877d879f4c58e58b61be0cf2ed65eddd3f",
+  "contentHash" : "sha256-aca66e5bcd64da8ac9688ed1cf66118e62db756619de766cb30139fbf5b69f85",
   "events" : [
     {
       "championshipTags" : "",
@@ -466,7 +466,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

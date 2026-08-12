@@ -43,7 +43,7 @@
     "trainingWeekday" : "",
     "website" : "www.strahlegg.ch"
   },
-  "contentHash" : "sha256-d1b8d405793ed73f75612c8f10f86c41d28afc1976848356261ce878c9ee2a8d",
+  "contentHash" : "sha256-e35bb775f9aaa9ab44cc1a58f70f3da5ddbb180c72e552bc9b0a122600164b95",
   "events" : [
     {
       "championshipTags" : "",
@@ -94,7 +94,7 @@
       "title" : "40. Strahleggschiessen MSV Strahlegg"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 9
 }

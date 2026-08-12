@@ -132,11 +132,11 @@
     "trainingWeekday" : "",
     "website" : "www.ps-riniken.ch"
   },
-  "contentHash" : "sha256-052e328236c15360efb1128ad4bd86b462c42eb2f1387d2594ce7b028d40a2a0",
+  "contentHash" : "sha256-e3ae288e7db9c981b8058f670fe74c40e9b2a04f404e51c5096439f4531c3954",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

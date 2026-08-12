@@ -43,7 +43,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.sg-eschenbach-neuhaus.ch"
   },
-  "contentHash" : "sha256-2ce6fd3b15451b6ad8b15224a215eef50bfeab64937badc77ac54f86ed0f494d",
+  "contentHash" : "sha256-a827b6be4556bf5f673b79fdf705ba2ce6a97443989c2ab01c801f660ae417f7",
   "events" : [
     {
       "championshipTags" : "",
@@ -69,7 +69,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

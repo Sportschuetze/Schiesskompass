@@ -37,11 +37,11 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-glarus.ch"
   },
-  "contentHash" : "sha256-79eea63330e10163846fe13a97fa6688b0d45091f982e60a78d0803d19d72731",
+  "contentHash" : "sha256-673826ad922562d311ceb93882e95fccca7c40398377b35ea2ff51705e7b6934",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

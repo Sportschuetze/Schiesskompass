@@ -43,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "pistolen-sennwald.ch"
   },
-  "contentHash" : "sha256-28cd40a21286244887fc6219f5a094fa7ad4e9d78a069b07fc53ca1e7678d844",
+  "contentHash" : "sha256-681e8e90442132d85548d57c3529f9900cd0684aa121e980d8a4eee5e4673e7e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

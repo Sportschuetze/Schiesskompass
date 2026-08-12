@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.tirlechelles.ch"
   },
-  "contentHash" : "sha256-055dfae3e2184ffbab5f057fdca86f9013ca1d4915ccea3dc853ba695b8ac50a",
+  "contentHash" : "sha256-9ae321e514e50dafa26b75e35411b926bab95b4260a7721d8afdc966b233c8a7",
   "events" : [
     {
       "championshipTags" : "",
@@ -49,7 +49,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

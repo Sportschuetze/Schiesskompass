@@ -30,11 +30,33 @@
     "trainingWeekday" : "",
     "website" : "www.liberitiratori.ch"
   },
-  "contentHash" : "sha256-7a255e136044168ebe86a041d1fbc6f407b4e37f67a52a47a36fb5b40c232f6d",
+  "contentHash" : "sha256-8465bab61bbf9dd0c1dd81fe4049e8a7fece3d6658036c6546480dc6b463aec7",
   "events" : [
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ti.chiasso-societa-liberi-tiratori.feldstich.2026-08-22",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/liberitiratori.ch\/",
+      "startDate" : "2026-08-22T10:00:00Z",
+      "timeBlocks" : [
 
+      ],
+      "title" : "Feldstich"
+    }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

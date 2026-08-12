@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.tsvdt.ch"
   },
-  "contentHash" : "sha256-c524dc39990612914ed60c98ca8b0844e81c6ff233ab21757c33e26ea4edc211",
+  "contentHash" : "sha256-71bb81ca2748758446fc4c91ef21a4210ded3f15787645696f1d74887c36956b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

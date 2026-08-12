@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.fs-lauwil.ch"
   },
-  "contentHash" : "sha256-aea4e581f23202075190ca92c690bf7830c99bc05d072bcabdd91eb4b1b2a3de",
+  "contentHash" : "sha256-201d14650c79bf18a0ca9e53557545bbf10ffe2feada8aaedad2236e5cfb0918",
   "events" : [
     {
       "championshipTags" : "",
@@ -141,7 +141,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

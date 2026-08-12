@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/tirducristallin.ch\/"
   },
-  "contentHash" : "sha256-4cfe8b26ac35f5c6cb8c2ccf4fe60a282e322e1901e093490a3b3e24bcb33973",
+  "contentHash" : "sha256-a99966c2a838231576178bcef1e2da25c03fb11a232bb444a189631435621ffa",
   "events" : [
     {
       "championshipTags" : "",
@@ -49,7 +49,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:57:01Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

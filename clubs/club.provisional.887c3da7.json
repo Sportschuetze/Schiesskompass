@@ -31,11 +31,9 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "https:\/\/www.fsv-bonstetten.ch\/",
-    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
-    "websiteStatus" : "dead"
+    "website" : "https:\/\/www.fsv-bonstetten.ch\/"
   },
-  "contentHash" : "sha256-a34aa527284de2b707b5e6498c31ad5da02bdc0614a42c890d0bf9a03e042e89",
+  "contentHash" : "sha256-dc33b9b9625844862f853a583bb4b8c8ec03808178268aa48aafefeb5967c1cd",
   "events" : [
     {
       "championshipTags" : "",
@@ -229,12 +227,12 @@
       "endDate" : "2026-08-28T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.887c3da7.jubilaumsschiessen.2026-08-28",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
       "licenseRequired" : false,
-      "location" : "Schützenhaus Bonstetten Freitag",
+      "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
       "sourceURL" : "https:\/\/www.fsv-bonstetten.ch\/",
@@ -275,12 +273,12 @@
       "endDate" : "2026-09-04T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.887c3da7.jubilaumsschiessen.2026-09-04",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
       "licenseRequired" : false,
-      "location" : "Schützenhaus Bonstetten Freitag",
+      "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
       "sourceURL" : "https:\/\/www.fsv-bonstetten.ch\/",
@@ -429,7 +427,7 @@
       "title" : "Vereinsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

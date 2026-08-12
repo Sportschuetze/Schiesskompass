@@ -44,7 +44,7 @@
     "trainingWeekday" : "",
     "website" : "www.uov-limmattal.ch"
   },
-  "contentHash" : "sha256-a6ebc66332a1be6e0fd668a34eaa0ccdbcc877683cb2a00e4d1f844cc1c8f146",
+  "contentHash" : "sha256-c3048524ffc3238ccf43040c8c5d41d268cac4122bb8a13865c5411d8e46c15f",
   "events" : [
     {
       "championshipTags" : "",
@@ -415,7 +415,7 @@
       "title" : "Winzerschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

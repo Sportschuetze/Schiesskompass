@@ -34,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/fwv-buettikon.jimdofree.com\/"
   },
-  "contentHash" : "sha256-cd06afa5fc10e3a7edce4c2f8f74bc88195b9fc3614cfce25c8f5d97905cfc38",
+  "contentHash" : "sha256-9c7b24100db07f1c5aaac162bc4534d3e33490e71531c719988b2b8b54703b78",
   "events" : [
     {
       "championshipTags" : "",
@@ -83,7 +83,7 @@
       "title" : "TRAININGSSCHIESSEN"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

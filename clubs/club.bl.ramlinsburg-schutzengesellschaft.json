@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzenhaus-ramlinsburg.ch"
   },
-  "contentHash" : "sha256-b4e6bffb629cc718c76f5bf0aa9958694a0e005717c279009dadb41096642c16",
+  "contentHash" : "sha256-da31f2a004e22f78dca5ae0162cf11e7fda10c862139193b596da824c2ba45a9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

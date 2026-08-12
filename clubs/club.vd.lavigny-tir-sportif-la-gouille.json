@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "tir-lavigny.ch"
   },
-  "contentHash" : "sha256-a2e781a67d32d556c21c516b797e8089433c9859ac831a8b8d8e4ea3c4c450b8",
+  "contentHash" : "sha256-e2f058cb80b6893bb8d1c40d8c1c496be846df4a8fde7e19736f1b7434373014",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

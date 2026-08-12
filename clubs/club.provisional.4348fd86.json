@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0e907f8048907ff2b6952be96c2862d87313ce4b019572ab817d12244aa27f01",
+  "contentHash" : "sha256-871f1c6bfd91aa74a28526f0a7700a66b5c4a56641ff8d03385dd1020584f249",
   "events" : [
     {
       "championshipTags" : "",
@@ -106,7 +106,7 @@
       "title" : "33. Bachtelianerschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -49,11 +49,11 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-innereriz.ch"
   },
-  "contentHash" : "sha256-f4014b0bdaf51b45a0393ae4eca14a09cd53ebee742ffdc1fcfae62f910aaf9f",
+  "contentHash" : "sha256-caadf794bc67df39234883c7721c64f1c73287e36d95eb47bb8ff48699c9c441",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

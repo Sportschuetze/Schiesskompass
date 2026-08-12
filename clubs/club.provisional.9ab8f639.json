@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.sv-weisslingen.ch"
   },
-  "contentHash" : "sha256-73488e64aa903334c2f3f830dadf963f432e8b33f50f1b5683b9bcd4991515ed",
+  "contentHash" : "sha256-904395dda8e24ba5433342dcbc2c19cdbbd84e857dbc7d67dc020cab8efcceec",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

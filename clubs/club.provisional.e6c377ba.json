@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-8869ba548f879eb99cf78beca7b6e74e1e4061025df22873e34e8fc13a229560",
+  "contentHash" : "sha256-fc98d851058828f2dc0e167820ec658ba4fc3bd874bca1e93c1c9027f0a961a2",
   "events" : [
     {
       "championshipTags" : "",
@@ -74,7 +74,7 @@
       "title" : "Fischenthaler Winterschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 7
 }

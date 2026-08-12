@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-eaf25db431ba645eeb4bc38db629af0adbfa24e79d643ff004578dabac84950d",
+  "contentHash" : "sha256-9801eebfcd957be9fe283b184cc7ece53ba3ef258e3ed1e016ba1155925f3f31",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +73,7 @@
       "title" : "25 Jahre Schiessanlage Buchschachen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 6
 }

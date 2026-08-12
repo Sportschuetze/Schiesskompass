@@ -51,7 +51,7 @@
     "trainingWeekday" : "",
     "website" : "www.pistolenclub-villnachern.ch"
   },
-  "contentHash" : "sha256-68f9a96a7c32235acd9efa8142ee0b2809b7341f84f5f143b0f73405e96d21d3",
+  "contentHash" : "sha256-a37383d4e13e928b89bb676c9f0582b81df1733272a3999014d4360233b6621f",
   "events" : [
     {
       "championshipTags" : "",
@@ -192,7 +192,7 @@
       "title" : "Türggenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

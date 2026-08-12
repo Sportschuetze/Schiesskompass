@@ -29,11 +29,11 @@
     "trainingWeekday" : "",
     "website" : "www.tirdurhone.ch"
   },
-  "contentHash" : "sha256-eb51dbf975a58e3462e8d384415f4c81c1353d3f36268e899bf5ebbcb67f9ddb",
+  "contentHash" : "sha256-d1200db491efe53cee14b3695034cc895ab2c4438bd2a6167b9961fb04d3ffc2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

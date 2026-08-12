@@ -43,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "www.msvaef.ch"
   },
-  "contentHash" : "sha256-35e0f447434b3838228c3373b77ea8d3e5224398e9f35733597455e3aadfe43e",
+  "contentHash" : "sha256-e0b36a8547dc100838e250618d21d0642c0958a570c6c2f821d96efc5e7a133f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

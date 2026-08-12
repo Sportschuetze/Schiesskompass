@@ -36,6 +36,22 @@
         "isUnverified" : true,
         "name" : "Jugenschiessen",
         "sourceURL" : "https:\/\/fssfeusisberg.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.feusisberg-feldschutzensektion.muotaschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Muotaschiessen",
+        "sourceURL" : "https:\/\/fssfeusisberg.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sz.feusisberg-feldschutzensektion.rossbergschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Rossbergschiessen",
+        "sourceURL" : "https:\/\/fssfeusisberg.ch\/"
       }
     ],
     "seasonEndDay" : 31,
@@ -50,11 +66,11 @@
     "trainingWeekday" : "",
     "website" : "www.fssfeusisberg.ch"
   },
-  "contentHash" : "sha256-e85f459d933985bcfcd086c2b7e7a061abb3912b673aada686cf4abfa3cb7046",
+  "contentHash" : "sha256-7078fd1d2e37ec1113e768efaba28d2023df9720934c04327544392fbfb5ed4b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

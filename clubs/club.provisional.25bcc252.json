@@ -57,11 +57,11 @@
     "trainingWeekday" : "",
     "website" : "www.fs-obernau.ch"
   },
-  "contentHash" : "sha256-8acabb1b4b42ee8c1fa6542e5d0ded795496dbcdf677b95d1bebb083db99b1af",
+  "contentHash" : "sha256-4a66b9b73c92ed50422a2e9767090b30ac3b0ce1f7116c53eac59b16903babf8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

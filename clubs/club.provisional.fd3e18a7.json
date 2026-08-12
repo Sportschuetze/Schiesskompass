@@ -98,7 +98,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgdielsdorf.ch"
   },
-  "contentHash" : "sha256-49817587a1b81dcaa3b46673d3a4b583b2c5b7f43809481967303477e1fc4569",
+  "contentHash" : "sha256-12809fa7f7421c263ade878fb9d1981f418c22988c753357c3e5aea10781fa52",
   "events" : [
     {
       "championshipTags" : "",
@@ -377,7 +377,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

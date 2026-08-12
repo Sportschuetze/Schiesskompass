@@ -42,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgsaege.ch\/"
   },
-  "contentHash" : "sha256-16c5b6b740a92adc3627f73da2c0807d4cff62fba50ac1151857e6f05bc8014a",
+  "contentHash" : "sha256-2d9a9b846339758a8f37aa030a14787d831484ddb82b24fa9f4f32a570fc8664",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +68,7 @@
       "title" : "Eröffnungsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

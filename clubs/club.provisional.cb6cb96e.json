@@ -42,11 +42,11 @@
     "trainingWeekday" : "",
     "website" : "www.fs-roethenbach.ch"
   },
-  "contentHash" : "sha256-fc82e793bd66d4383f6ab3c7d2ebc903c921c1382bdc2cec8b2f66e7d198a091",
+  "contentHash" : "sha256-bec41dd1fd79765ab31a1dc231b792ed0f7a4838115d27d6498157b3da899c52",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

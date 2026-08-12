@@ -16,26 +16,26 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.54471e6f.chlausschiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
         "isUnverified" : true,
         "name" : "Chlausschiessen",
-        "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf"
+        "sourceURL" : "https:\/\/www.svboppelsen.com\/"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.54471e6f.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
-        "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf"
+        "sourceURL" : "https:\/\/www.svboppelsen.com\/"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.54471e6f.volksschiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
-        "sourceURL" : "https:\/\/bea676751c.cbaul-cdnwnd.com\/06ab8b4b41f981eb028e0f9750244772\/200001146-5b3fc5b3fd\/SVB_JahrProg_2026.pdf"
+        "sourceURL" : "https:\/\/www.svboppelsen.com\/"
       },
       {
         "dataSource" : "clubWebsite",
@@ -66,7 +66,7 @@
     "trainingWeekday" : "",
     "website" : "www.svboppelsen.com"
   },
-  "contentHash" : "sha256-7c05f48059433afcde66613c75ea84fa36a73de48375af4fb5c05a32a20aad77",
+  "contentHash" : "sha256-130f58a0e05505bbd6aa88060ef1d6d9f20853a591c5baec5d63921fa86abefb",
   "events" : [
     {
       "championshipTags" : "",
@@ -138,7 +138,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -24,11 +24,9 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.pk-aeschi.ch",
-    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
-    "websiteStatus" : "dead"
+    "website" : "www.pk-aeschi.ch"
   },
-  "contentHash" : "sha256-81993936b343a2acf66d667a3eff3ba643c64ecd7ebc4c2ab172eea662d472b0",
+  "contentHash" : "sha256-8bbb62efa0fbbb18fb0a7a846a7e10a83e74dca14641e596799b765fa3c4fba8",
   "events" : [
     {
       "championshipTags" : "",
@@ -54,7 +52,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

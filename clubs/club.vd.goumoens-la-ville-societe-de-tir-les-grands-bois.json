@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.tirgoumoens.ch"
   },
-  "contentHash" : "sha256-984f970306cbbe42c7415bedf0cc4eb7265b3240121f359f7d9c34d698b311c9",
+  "contentHash" : "sha256-51a03d951b51e7772cf9408ffc4d7126d82183b59cb7b1e614054857a13b475f",
   "events" : [
     {
       "championshipTags" : "",
@@ -50,7 +50,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

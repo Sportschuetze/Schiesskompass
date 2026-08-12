@@ -26,11 +26,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.smg-ge.ch\/societe\/section-de-tir\/"
   },
-  "contentHash" : "sha256-9d1985f6f813cc4f537f3d8a63eb6d10d6b6419393020448a972cb6de71f35ba",
+  "contentHash" : "sha256-963318c61dd710d71bf887768c6145b065f0e7c74b9e7d54760af16b6e661221",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

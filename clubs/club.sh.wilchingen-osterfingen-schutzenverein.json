@@ -212,7 +212,7 @@
     "trainingWeekday" : "",
     "website" : "www.sv-wilchingen-osterfingen.ch"
   },
-  "contentHash" : "sha256-3712c47e624bdf3c7634e49929d7c287d00e0bf153cd6aed0c52223679fdec5f",
+  "contentHash" : "sha256-225a6b3e3bb65cbd3af7e8bc66c6e1a3be796b5562463ed747d05de38858b425",
   "events" : [
     {
       "championshipTags" : "",
@@ -445,7 +445,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

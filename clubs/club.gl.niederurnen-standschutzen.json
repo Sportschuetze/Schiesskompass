@@ -28,7 +28,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-0314efb48d03d140b1b73cbff0000cf2ad86f43eeecf363f58e98c2c0dda2450",
+  "contentHash" : "sha256-ca8547bfc2b5a552a1c91d85ee95a90089688cfff7a07b92efebb29df4083102",
   "events" : [
     {
       "championshipTags" : "",
@@ -52,11 +52,16 @@
         },
         {
           "date" : "2026-09-05T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-09-05T10:00:00Z",
           "endTime" : "17:30",
           "startTime" : "13:30"
         },
         {
-          "date" : "2026-09-05T10:00:00Z",
+          "date" : "2026-09-12T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:00"
         },
@@ -64,17 +69,12 @@
           "date" : "2026-09-12T10:00:00Z",
           "endTime" : "16:30",
           "startTime" : "13:30"
-        },
-        {
-          "date" : "2026-09-12T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
         }
       ],
       "title" : "46. Linth-Escher-Schiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 8
 }

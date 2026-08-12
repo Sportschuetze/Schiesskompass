@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-82cd1c2e9408fcfdd0ba71fe87c723d8440474270fed1bfc7d797efc2e3a59f3",
+  "contentHash" : "sha256-7b1563b30e6b6951aad40af65e0e3a691ad75b716df68c6d5674d7df69f7f569",
   "events" : [
     {
       "championshipTags" : "",
@@ -79,7 +79,7 @@
       "title" : "150 Jahr Jubiläum"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 7
 }

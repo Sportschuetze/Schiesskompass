@@ -92,11 +92,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/ps-zweisimmen.ch\/"
   },
-  "contentHash" : "sha256-df2949e3340656be2ba327f14dc7a5913f37974fcd260fff859833738e0fa832",
+  "contentHash" : "sha256-d0041a67833c486398bec443d381906facdbc6db54fa3f1cb243437c0c55d5c1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

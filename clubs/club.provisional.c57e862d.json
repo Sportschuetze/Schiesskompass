@@ -33,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-oberoenz.ch"
   },
-  "contentHash" : "sha256-7e8d4749b7b4ca810e73ae3694cdbfa415b8a565709d49ce1cd45594ee6bc8b9",
+  "contentHash" : "sha256-4b695c90398003544b569e675481cad554017da1ff3f1c0f154be05ddb6150f6",
   "events" : [
     {
       "championshipTags" : "",
@@ -59,7 +59,7 @@
       "title" : "Silberhelmschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

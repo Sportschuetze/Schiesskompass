@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.sgschnottwil.ch"
   },
-  "contentHash" : "sha256-afea2574cbbfbbd5e8bfdc50c7716907ab0064b388b0135d8338c5a8b71a9189",
+  "contentHash" : "sha256-a5cffc4e878f07e1c44da7611bc095b8181924c49852f3678aefcb28432ec578",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

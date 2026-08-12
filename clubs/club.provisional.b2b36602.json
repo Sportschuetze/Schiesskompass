@@ -42,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-dagmersellen.ch"
   },
-  "contentHash" : "sha256-1a17c7fda4caea0cf2d8978e73b0cbbbf136a85bb4edb1a92a603c135ddb06a3",
+  "contentHash" : "sha256-e45e1d43555cd648820ceffda8ae2d617b059ddd85ca30de48a837df2f9acf3f",
   "events" : [
     {
       "championshipTags" : "",
@@ -344,7 +344,7 @@
       "title" : "Standerneuerungsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

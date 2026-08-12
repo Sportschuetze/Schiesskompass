@@ -99,11 +99,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsv-dinhard.ch"
   },
-  "contentHash" : "sha256-303e79bb4c2018d0df64ca3278bd774b789f69a9dd9bd8920d492c3cbe275eaf",
+  "contentHash" : "sha256-3d8ae4d93188d19dd4629bf1134ad8aaba6387ad6c0fd54dc4aba6f65b015a98",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -123,11 +123,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-buus-maisprach.ch"
   },
-  "contentHash" : "sha256-ded4914a9c691d384be01e41018dc91a0eced60c82904df097f1b941eb2c13ca",
+  "contentHash" : "sha256-d0c6f3010c96ded8281a8e8bd15fb3c0e60eb7d584f79a280d09f49462c62920",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -174,7 +174,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-sursee.ch"
   },
-  "contentHash" : "sha256-99f7c3f6dc3968cd0121ce98d68ee0c1ea1b34f2449c46d9f25d534d1e2b025e",
+  "contentHash" : "sha256-25720e3a5b3e1d8cf07d95caa789bf1122dbc6afb6924c2d646586c9576c146e",
   "events" : [
     {
       "championshipTags" : "",
@@ -200,7 +200,7 @@
       "title" : "Gruppenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

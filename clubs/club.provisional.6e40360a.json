@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.fs-leissigen.ch"
   },
-  "contentHash" : "sha256-84af92dff882c2558206a240374edb5d3a03cddb97a54cdcb189994074330773",
+  "contentHash" : "sha256-44b796c353630a11da50ae1ba4bccff57d2cfb5c3137c428777ce76376649d3b",
   "events" : [
     {
       "championshipTags" : "",
@@ -188,7 +188,7 @@
       "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

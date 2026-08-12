@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-06cdf4bda58ccf7eec51ea5a66cea342db9b1407ee781dfeeb54955aa00a9837",
+  "contentHash" : "sha256-d8807ef370ca6087805d8909a6f3d52c1c9022edd5e22d8819d1b660abd654c4",
   "events" : [
     {
       "championshipTags" : "",
@@ -74,7 +74,7 @@
       "title" : "Kellerämterschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 7
 }

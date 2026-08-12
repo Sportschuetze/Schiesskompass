@@ -43,7 +43,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-fluehli-soerenberg.ch"
   },
-  "contentHash" : "sha256-9a1a46c662925526af9b877b272979f57359827b3d49a66c19b876a7e3949b3c",
+  "contentHash" : "sha256-cbf62d1073c860f029bdff3c87ca78813310f5badc1359de89c381b8cd03f45e",
   "events" : [
     {
       "championshipTags" : "",
@@ -207,7 +207,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

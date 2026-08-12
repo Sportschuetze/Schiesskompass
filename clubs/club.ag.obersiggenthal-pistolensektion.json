@@ -75,7 +75,7 @@
     "trainingWeekday" : "",
     "website" : "www.ps-obersiggenthal.ch"
   },
-  "contentHash" : "sha256-6e9735e4d1602eb746af1ddb69c1b18a00210764af7834aee9a6d3ae3802c268",
+  "contentHash" : "sha256-2dc24df2b0d96d4f198963c70714cb4cf276174d04628895100c1649f373d56e",
   "events" : [
     {
       "championshipTags" : "",
@@ -101,7 +101,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

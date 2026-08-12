@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9dd7ccbc2a28f98623c4c8074d1f40fc4055c9cc7087bb712bf7721d99258cb0",
+  "contentHash" : "sha256-be1b4d359ed6c787dc21a23c3942afe3ac9f149f9f780d85eb293b26c18e738c",
   "events" : [
     {
       "championshipTags" : "",
@@ -54,7 +54,7 @@
       "title" : "Irchelschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

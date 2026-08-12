@@ -57,11 +57,11 @@
     "trainingWeekday" : "",
     "website" : "www.loehrschuetzen.ch"
   },
-  "contentHash" : "sha256-054093ff83635a2f2ee856864c21baf467812777ac6c8e613dbd9d7fc2f65b55",
+  "contentHash" : "sha256-69d1b691c829a30852c825ec5e8423fb736be66f55c2c6129ff89415455bfb17",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

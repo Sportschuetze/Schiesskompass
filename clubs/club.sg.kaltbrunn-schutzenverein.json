@@ -33,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : "www.svkaltbrunn.ch"
   },
-  "contentHash" : "sha256-ebc8b8e1cc004ce2a81a4915b839f8258ff2524cd881c3457d925d223127af80",
+  "contentHash" : "sha256-a81d877ed01160d61885d5bee0afb99487e163686210e0c1fd1c29ed46c30a2d",
   "events" : [
     {
       "championshipTags" : "",
@@ -59,7 +59,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

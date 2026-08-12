@@ -46,7 +46,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/fsgro.ch"
   },
-  "contentHash" : "sha256-c181b49809c3a4e88a53349be587c7eea02b8b4a9ba51ae0c305108fbb9cb7d0",
+  "contentHash" : "sha256-c96d26b40e258cd80b7a000ce5d63e98f035af78c94264c319f3d999965f752d",
   "events" : [
     {
       "championshipTags" : "",
@@ -164,7 +164,7 @@
       "title" : "Racletteschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.tirpatrie.ch"
   },
-  "contentHash" : "sha256-10fd7c25ada704335adc2ddedc954f026fb21ca67be0ef1b8d7866bb1352016c",
+  "contentHash" : "sha256-bbc555b29246c2ab30d25ab6d504bb433ff64370558b8e5e0e8019a3c06f0858",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

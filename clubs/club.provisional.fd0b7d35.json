@@ -26,11 +26,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsmoerigen.ch"
   },
-  "contentHash" : "sha256-7de0e3d3d4fdf4b15caaaf9d0cedeb748b51a4e83ef2ad971f761e85c91baf95",
+  "contentHash" : "sha256-c81dd55dafdbd6cc44c8999da96b3fe00d9e607606374a458b3195c2552cab2d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

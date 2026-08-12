@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1da8487c642fc56f3c3191e278ab627c90cf9ba517c3bd1876cb45d4e10c8aad",
+  "contentHash" : "sha256-accef0f90425a2d7ef7c6e9255c8d444f1a3e6c3c69f74fec623ac350013bd8c",
   "events" : [
     {
       "championshipTags" : "",
@@ -47,13 +47,13 @@
         },
         {
           "date" : "2026-10-17T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-10-17T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-10-24T10:00:00Z",
@@ -74,7 +74,7 @@
       "title" : "13. Chürbis-Schüüsse"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 6
 }

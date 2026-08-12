@@ -106,7 +106,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-nuglar.ch"
   },
-  "contentHash" : "sha256-fbd5d2a8113ebc6b0ed6c880abb586c93e7fcae073a914af40c8e239cea4b054",
+  "contentHash" : "sha256-b728b65f4df76bb80d8077b3869b273e5cd071e4e2a873e59c8f35c8b56664a9",
   "events" : [
     {
       "championshipTags" : "",
@@ -224,7 +224,7 @@
       "title" : "Freundschaftsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

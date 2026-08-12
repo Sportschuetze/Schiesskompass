@@ -51,7 +51,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgaltdorfopfertshofen.ch\/"
   },
-  "contentHash" : "sha256-3d92f6198cd9d294d9e988b704022bded42046103b4938a044c18f24b6902f63",
+  "contentHash" : "sha256-bf0e8e265aad03d11a850cfec72bdd478cf910ea585d8f76ac58b485bc4113f3",
   "events" : [
     {
       "championshipTags" : "",
@@ -82,7 +82,7 @@
       "title" : "Nachtschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

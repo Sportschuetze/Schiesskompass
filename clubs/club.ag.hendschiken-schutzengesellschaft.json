@@ -154,7 +154,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.sg-hendschiken.ch\/"
   },
-  "contentHash" : "sha256-7a91fff2452d676507a66ecf801de2816af7e0e962d5a981bd8b60d1ba5b2bbf",
+  "contentHash" : "sha256-b504df3bb819ac66aff46f15101a99496cd650de592fe625808476bb6439748d",
   "events" : [
     {
       "championshipTags" : "",
@@ -364,7 +364,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

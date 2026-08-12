@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.tir-boecourt.ch"
   },
-  "contentHash" : "sha256-d28fe251fda78a4986b3f5f319281cabb68143b071ee1a4c822f71e570f0b022",
+  "contentHash" : "sha256-bb90c4cd6a20fbb49be90ad83404a021016c1b486997ef8e63157cef7a9bb971",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

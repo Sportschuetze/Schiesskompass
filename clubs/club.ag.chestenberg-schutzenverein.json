@@ -23,11 +23,9 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.sv-chestenberg.ch",
-    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
-    "websiteStatus" : "dead"
+    "website" : "www.sv-chestenberg.ch"
   },
-  "contentHash" : "sha256-51c79b4fba11f0b49d7894f0367fa9184ac8468d892e774c6c622ed997d3872a",
+  "contentHash" : "sha256-7269962535bd87dffd185be482f53e277e73f42bda74d5a09084102d350826a5",
   "events" : [
     {
       "championshipTags" : "",
@@ -51,9 +49,55 @@
 
       ],
       "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.chestenberg-schutzenverein.rotkornschiessen.2026-08-14",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Villmergen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-chestenberg.ch\/",
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Rotkornschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.ag.chestenberg-schutzenverein.wampfleschiessen.2026-08-14",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Villmergen",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sv-chestenberg.ch\/",
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Wampfleschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

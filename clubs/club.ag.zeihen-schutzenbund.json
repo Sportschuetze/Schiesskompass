@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9b88613e78daeec695eb549becdbd48412cc41bae1223b03b39ac4aa210947fe",
+  "contentHash" : "sha256-f3fc55b4884f265503add5acfb10cd75604c278e8e79c7d7a0471a6949210032",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +68,7 @@
       "title" : "Sagemühleschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 5
 }

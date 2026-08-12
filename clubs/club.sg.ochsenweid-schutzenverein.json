@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-591b6e9d3cdb63a4075c18145384bce42e39f8884cd3830ec8efaba6eb5f3386",
+  "contentHash" : "sha256-a04cb0d5471e18f12b4f83cefba5384421d5fd690423b96d9848f159b5b5bce0",
   "events" : [
     {
       "championshipTags" : "",
@@ -43,13 +43,13 @@
       "timeBlocks" : [
         {
           "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "18:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "18:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-09-06T10:00:00Z",
@@ -70,7 +70,7 @@
       "title" : "8. Ochsenweid-Schiessen St.Gallen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 4
 }

@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-f2eb8e2b55e9621d09b61b300eefa47514f8af71cacade92347486a59f68bcfe",
+  "contentHash" : "sha256-632879172cf09e2d3e8fc1de61cbcb4062a6aa0367d35d98ad41f30c0e3d9996",
   "events" : [
     {
       "championshipTags" : "",
@@ -54,7 +54,7 @@
       "title" : "80. Gangfischschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

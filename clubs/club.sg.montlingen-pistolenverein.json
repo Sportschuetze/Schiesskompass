@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7e2b4773d14d1c0c127c7e2dc39bbf6cdbe4036b3a8f1610014a771cd5aa49b3",
+  "contentHash" : "sha256-f49e19cafdfe1810c53165556d8a3dea44b98a4d295ea330167d115c4870bab3",
   "events" : [
     {
       "championshipTags" : "",
@@ -76,7 +76,7 @@
       "title" : "Rheintaler Vereinswettkämpfe 2026"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

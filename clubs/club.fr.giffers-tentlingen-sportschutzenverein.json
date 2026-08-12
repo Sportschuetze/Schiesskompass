@@ -35,7 +35,7 @@
     "trainingWeekday" : "",
     "website" : "www.ssgt.ch"
   },
-  "contentHash" : "sha256-b64d08d070f0e343b2e90921ecfe71ad1d11c9023ceadeb35f60800003c4cbd5",
+  "contentHash" : "sha256-a5ee22de21c0c393aac3a1b511913a655429780069263c923650c5c627587054",
   "events" : [
     {
       "championshipTags" : "",
@@ -291,7 +291,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

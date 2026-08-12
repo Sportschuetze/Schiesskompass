@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-birsfelden.ch"
   },
-  "contentHash" : "sha256-8452566302fa10b9a4b0a66b06c7c402f1aa48c45bdf3064b30b8d1ae906f25e",
+  "contentHash" : "sha256-137dc1c1ab935b44e1c28d7e849c3e7f53e48ce88f469c0d32bdafe763b38f3f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

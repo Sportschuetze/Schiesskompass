@@ -38,7 +38,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-1679027213b369d47480fe616e34339a0303a22c73019937042a52c06001cc41",
+  "contentHash" : "sha256-b3ddd4a8a9bb52fec72ecb6224f5bbe1e17725f83de3ec1ffc8854ca0b9604e1",
   "events" : [
     {
       "championshipTags" : "",
@@ -57,21 +57,21 @@
       "timeBlocks" : [
         {
           "date" : "2026-09-13T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-09-13T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-09-13T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
         },
         {
           "date" : "2026-09-13T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-09-13T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-09-13T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:00"
         },
@@ -82,18 +82,18 @@
         },
         {
           "date" : "2026-10-04T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-10-04T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-10-04T10:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-10-04T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
-        },
-        {
-          "date" : "2026-10-04T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
         }
       ],
       "title" : "Unterland-Tournee 2026"
@@ -168,7 +168,7 @@
       "title" : "Stadtschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 9
 }

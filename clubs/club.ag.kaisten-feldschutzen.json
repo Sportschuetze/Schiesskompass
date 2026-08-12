@@ -65,7 +65,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsgkaisten.ch"
   },
-  "contentHash" : "sha256-855d2267229ec3033a4069c5b78801da206bfba3f3afb351a690e7323dbfaa3b",
+  "contentHash" : "sha256-e2df19d6b6d80151b0ccc6b2255fd3d2d8adda4938f8aa91614fd084ada3e468",
   "events" : [
     {
       "championshipTags" : "",
@@ -91,7 +91,7 @@
       "title" : "Sparbligschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

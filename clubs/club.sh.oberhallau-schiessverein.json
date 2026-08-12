@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-c273357e0b69ee1ee9593a1771ffa54c6f37918448b2ff75ec2175f811f1eaf2",
+  "contentHash" : "sha256-0a1b300726c57ebdc06663493f60f0474340cc7e1e557c542fd85ea57c05fdb7",
   "events" : [
     {
       "championshipTags" : "",
@@ -69,7 +69,7 @@
       "title" : "Jubiläumsschiessen 500 Jahre Oberhallau"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 6
 }

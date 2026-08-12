@@ -34,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.sv-brütten.ch"
   },
-  "contentHash" : "sha256-1033f15c5d385976fdcf23e68f9fa3fd2416b6761a0e4e964a2a5f0ce485faf5",
+  "contentHash" : "sha256-e5f0c13cc4acaf6c8204d81e484a86fa0ee75598f680a4127bba76145ad1627e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

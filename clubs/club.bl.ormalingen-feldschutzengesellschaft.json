@@ -34,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-ormalingen.ch"
   },
-  "contentHash" : "sha256-4e610dc251a167c83c1b61c1dc155b401ce6ad224ebe3254ac9997315e0d40cd",
+  "contentHash" : "sha256-8d3154eeeff8039c7a49b7fd8f0fe9ec8795c2bcafcfd20acb82a933703790f4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

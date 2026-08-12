@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-099993569ce9c6fd6bf6226bcc92cc04bc0edaa60aaf117eb73762fc7d3455d2",
+  "contentHash" : "sha256-e1300aabec33fafd47fe8e1f3b67d6aa0f20414f2833309c0fabe71153dfb446",
   "events" : [
     {
       "championshipTags" : "",
@@ -65,7 +65,7 @@
       "title" : "Chübelschüsse 2027"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 6
 }

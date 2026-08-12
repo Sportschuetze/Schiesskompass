@@ -126,7 +126,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.ssvmuri.ch\/"
   },
-  "contentHash" : "sha256-40c4783109b1efce4d243e7ec6737e74ebe31c44cd400bfbb8073708d3d64b18",
+  "contentHash" : "sha256-d7205fc9ef837c38f80d74b087d68917787ae406e6d1d643b0b57a881960b49c",
   "events" : [
     {
       "championshipTags" : "",
@@ -267,7 +267,7 @@
       "title" : "Staudenschlachtschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

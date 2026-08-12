@@ -34,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-oberneunforn.ch"
   },
-  "contentHash" : "sha256-798d290d1c0efc2a83d871b32fa6ba44002344fc0a7717017c8c733c2d630f13",
+  "contentHash" : "sha256-e2e8742b2d36e2648b7095ab562c43247e01795407aa974170cf2fe6b6bcacab",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

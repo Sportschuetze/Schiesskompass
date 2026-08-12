@@ -60,7 +60,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsgb.ch"
   },
-  "contentHash" : "sha256-7a038c4c22dff829662f137295859251e7b4e2c6f6384bb93e11944a38eaf1ec",
+  "contentHash" : "sha256-007c75b2f5b79730e1861fcd712d495e0cae6f66a07b7096de94b2c07d4d9ec9",
   "events" : [
     {
       "championshipTags" : "",
@@ -155,7 +155,7 @@
       "title" : "Riedbachschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

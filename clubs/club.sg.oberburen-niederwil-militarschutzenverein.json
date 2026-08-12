@@ -35,7 +35,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-9dc13cfbea90dace5467c35b6b4339efcc0b8e4faeb4c09d2c4472c7e7722221",
+  "contentHash" : "sha256-9d3c6399119a88e60ae85e0fd17be00a8f45faa3d51dcad37f0d934e812d8a98",
   "events" : [
     {
       "championshipTags" : "",
@@ -76,7 +76,7 @@
       "title" : "19. Oberbürer Liegendmatch"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

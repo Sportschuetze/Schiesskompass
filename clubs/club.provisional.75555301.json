@@ -66,7 +66,7 @@
     "trainingWeekday" : "",
     "website" : "www.svwangenzh.ch"
   },
-  "contentHash" : "sha256-ef08732fe9f9e14e0b523facf614cbd56730761d1d671e251e83174ca12cf5ac",
+  "contentHash" : "sha256-9f7365f1dc7dca503cd7c5aef7a620b91115a26f3ee1a9ee77597e12c76b1076",
   "events" : [
     {
       "championshipTags" : "",
@@ -575,7 +575,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

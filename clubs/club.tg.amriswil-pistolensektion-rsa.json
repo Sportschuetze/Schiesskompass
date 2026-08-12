@@ -33,11 +33,9 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.ps-amriswil.ch",
-    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
-    "websiteStatus" : "dead"
+    "website" : "www.ps-amriswil.ch"
   },
-  "contentHash" : "sha256-c89820df929ba69e08b0b7d18a928940821783df9745a9e4bf86f2695975e886",
+  "contentHash" : "sha256-09b4e50d0192f70bd2be3f5222a9d082605b70057280652c440d23a90cd10a8f",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +61,7 @@
       "title" : "Jubiläumsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

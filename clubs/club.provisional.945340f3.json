@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.msv-ettenhausen.ch"
   },
-  "contentHash" : "sha256-84186bc2e26720c1469d258cf9e19461fbb220ba9db82cbe4e28ad50d4a31690",
+  "contentHash" : "sha256-3de2adb48b217fc97b135996290497a262873ada7de4eb44be6cc93a9fc2ff63",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

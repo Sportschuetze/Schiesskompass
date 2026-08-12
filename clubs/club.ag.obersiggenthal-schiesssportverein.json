@@ -282,7 +282,7 @@
     "trainingWeekday" : "",
     "website" : "www.ssv-obersiggenthal.ch"
   },
-  "contentHash" : "sha256-28f5d660165d68927956c6682abf4e55390723be3114c391357522bbd53f2550",
+  "contentHash" : "sha256-0ddfaa2d5a5ca59399bbeb6232a2ca92ce71c2b5a038b17e8a87f437b756ceb2",
   "events" : [
     {
       "championshipTags" : "",
@@ -377,7 +377,7 @@
       "title" : "Siggenbergschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

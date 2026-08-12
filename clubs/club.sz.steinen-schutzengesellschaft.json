@@ -33,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgsteinen.ch"
   },
-  "contentHash" : "sha256-8410f37cd55bcfe3ca9edda6cce73db5da71cbafaa484906c20088dd3170223e",
+  "contentHash" : "sha256-e15d6e060fddb0b66b9bbfe331f7905731e77fcfc0ebc8b64d08e26a0d7e79db",
   "events" : [
     {
       "championshipTags" : "",
@@ -59,7 +59,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -45,7 +45,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-37a95bbd77a32ecbe9ae5b6f7827ed23c5f221f74bbe5f3339cfa3914f271a83",
+  "contentHash" : "sha256-bec6f1ed6b3a1506203fabd7603dae3ba6e5b60c1ab466280f90eab89fe71088",
   "events" : [
     {
       "championshipTags" : "",
@@ -482,7 +482,7 @@
       "title" : "Standartenweihschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

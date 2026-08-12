@@ -45,7 +45,7 @@
     "trainingWeekday" : "",
     "website" : "www.militärschützen-thun.ch"
   },
-  "contentHash" : "sha256-8032e65b739af699f3995187f4d0eb35f74a189ae6359fe67cbb50e2e9e3fec9",
+  "contentHash" : "sha256-ddf937fdf975e36008c745f9623459def7be7b3755fa39db87ef94208c05bf98",
   "events" : [
     {
       "championshipTags" : "",
@@ -71,7 +71,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

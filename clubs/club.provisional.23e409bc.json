@@ -40,11 +40,9 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.fsg-adligenswil.ch",
-    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
-    "websiteStatus" : "dead"
+    "website" : "www.fsg-adligenswil.ch"
   },
-  "contentHash" : "sha256-919d0279bd641c1133c8ace1db663dbc5ca97ecbe5539bd75255998a9bf5eddf",
+  "contentHash" : "sha256-3cc9d7a8e8761c2326d906c5f493147d2a75adf9bc605c5158cd10d5ec26cb44",
   "events" : [
     {
       "championshipTags" : "",
@@ -110,6 +108,29 @@
       "requiresRegistration" : false,
       "sourceURL" : "https:\/\/www.fsg-adligenswil.ch\/",
       "startDate" : "2026-08-29T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-04T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.provisional.23e409bc.op.2026-09-04",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.fsg-adligenswil.ch\/",
+      "startDate" : "2026-09-04T10:00:00Z",
       "timeBlocks" : [
 
       ],
@@ -206,9 +227,32 @@
 
       ],
       "title" : "Übungsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-20T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.23e409bc.wettschiessen.2026-08-20",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.fsg-adligenswil.ch\/",
+      "startDate" : "2026-08-20T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

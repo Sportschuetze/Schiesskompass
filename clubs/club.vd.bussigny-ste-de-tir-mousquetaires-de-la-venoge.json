@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/mousquetaires.ch\/"
   },
-  "contentHash" : "sha256-f95d2fb8d0df115241906c318021edddbd95bd0e371d28a3fdab29c45b29a302",
+  "contentHash" : "sha256-f230b5fb0293e709b4dde535a50a1f0eaed7fc537cfb6ea371bfcaec0a59d3df",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

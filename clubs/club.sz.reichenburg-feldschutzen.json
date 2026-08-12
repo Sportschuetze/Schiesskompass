@@ -75,7 +75,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsreichenburg.ch"
   },
-  "contentHash" : "sha256-960d5879c9f0f16870af8d85d9fbbe2c19f0386e71e01c1790acd218cc54935c",
+  "contentHash" : "sha256-3f5e54cd25ceb496df3a861af26f92c48c6f8818054a0a7daf176980c596d56f",
   "events" : [
     {
       "championshipTags" : "",
@@ -124,7 +124,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

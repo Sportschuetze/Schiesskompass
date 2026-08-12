@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.tir-franc-cossonay.ch"
   },
-  "contentHash" : "sha256-a0e52dafae271e2785e1c1e68a7cdbae89583b4180ff767b92c7b7e0909a28bd",
+  "contentHash" : "sha256-49245809d3deec79bbc5df0c43577e59c4ad6dd22788e446c2e07c94a866c7be",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

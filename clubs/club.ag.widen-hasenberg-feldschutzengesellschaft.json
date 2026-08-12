@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsgwh.ch"
   },
-  "contentHash" : "sha256-a84c8382961715bc29c640d8a5b374e3bf88843b584aab0f1c31059958990b1e",
+  "contentHash" : "sha256-87bd2bddc6a45a27dc3d29e645b1d7c462cbb4357bae39f333905f14045734af",
   "events" : [
     {
       "championshipTags" : "",
@@ -326,7 +326,7 @@
       "title" : "Steiacherschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

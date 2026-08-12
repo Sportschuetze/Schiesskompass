@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6ed3bbb3a842028e0d23ad05cdb290b065e83bbabb8299249a00473aa03c1eaa",
+  "contentHash" : "sha256-8feb4c6a8afb52e933936c81846acc9ad4fdf7a359f813bb1460851c01260a2a",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +63,7 @@
       "title" : "Jubiläumsschiessen 350 Jahre FSVO"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

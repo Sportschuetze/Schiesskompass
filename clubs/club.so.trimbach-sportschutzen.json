@@ -36,7 +36,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-946d0465dd4426c5385f52b42c6209e1a51ab3484980933a67ba7e13973ec881",
+  "contentHash" : "sha256-7c57f1fd56949486297e95811b197a68c21371ce32adfb488090ad02fd3c2d81",
   "events" : [
     {
       "championshipTags" : "",
@@ -62,7 +62,7 @@
       "title" : "Matchschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

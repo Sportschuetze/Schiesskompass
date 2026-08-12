@@ -33,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : "www.fslauenenthun.ch"
   },
-  "contentHash" : "sha256-45b1286b30e303c11f1fccdbcd2c1c38caab980f85e3615dfc31b0feea1dbf0f",
+  "contentHash" : "sha256-3ed905debc0200191fef49d30fe10d32a4d1ae35295f3507e02a263574c160c6",
   "events" : [
     {
       "championshipTags" : "",
@@ -82,7 +82,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

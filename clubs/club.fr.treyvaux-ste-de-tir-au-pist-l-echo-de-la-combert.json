@@ -26,7 +26,7 @@
     "trainingWeekday" : "",
     "website" : "pistolet-treyvaux.ch\/"
   },
-  "contentHash" : "sha256-15bef134cece794c9269572f8947099287c093941a0b27d4704b72369d92588b",
+  "contentHash" : "sha256-ef357532585651e49efff27ebd0fd7d7cdbc5adb8f5d2ee68d443a0833ba3610",
   "events" : [
     {
       "championshipTags" : "",
@@ -52,7 +52,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

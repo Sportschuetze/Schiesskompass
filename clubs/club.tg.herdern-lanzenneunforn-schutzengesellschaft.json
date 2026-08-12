@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cbbd15adab00e96026649466a1d7d80e12c5e0d250fa098a704a81356f931f7b",
+  "contentHash" : "sha256-a27ad4df45910c847cc6a32f77a31d8acf4f5d0bd33cda3a8b4324e97e8ca92c",
   "events" : [
     {
       "championshipTags" : "",
@@ -64,7 +64,7 @@
       "title" : "15. Pouletschiessen"
     }
   ],
-  "generatedAt" : "2026-08-07T18:35:34Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 6
 }

@@ -52,7 +52,7 @@
     "trainingWeekday" : "",
     "website" : "www.pson.ch"
   },
-  "contentHash" : "sha256-55416b0b5b5bfb2c895dcf701a089706d323c6114114e421d8478212b6097a3e",
+  "contentHash" : "sha256-deaaf68a02fdd7e8449efc1553c757e56b1dada28f4b8dfc40c2b333f3099e89",
   "events" : [
     {
       "championshipTags" : "",
@@ -101,7 +101,7 @@
       "title" : "Jubiläumsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.ciblesportive.ch"
   },
-  "contentHash" : "sha256-c1acbf6c4082bff892b1a5003895bd3a0af4b4a28f447391a7ff6d686a3bb846",
+  "contentHash" : "sha256-3ec600defeae32dcfcb01998fea4814efe0f27b5b75e2f11cda0ec22327d75f8",
   "events" : [
     {
       "championshipTags" : "",
@@ -72,7 +72,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

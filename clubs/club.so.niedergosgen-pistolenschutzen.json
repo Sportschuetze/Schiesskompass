@@ -52,11 +52,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/ps-niedergoesgen.ch\/"
   },
-  "contentHash" : "sha256-c1c76e37bba4a58e5de7fca9f3f9ea952ba189d606b61162b2e635b251ea9fc5",
+  "contentHash" : "sha256-b264c1728dde72110ab5d36cc9f3af9a83580d3a4c580a381d7ab1bdc39c37a0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

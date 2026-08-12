@@ -44,7 +44,7 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-wil.ch\/"
   },
-  "contentHash" : "sha256-a4f9e2b1f630a885763feec547e975d9aff8d72c8b338cdd5857d47f778903a9",
+  "contentHash" : "sha256-d4fcfa77994f454cc54a002cdffde5d0ca30853111e9dcabaffd7c26601fe255",
   "events" : [
     {
       "championshipTags" : "",
@@ -105,7 +105,7 @@
       "title" : "48. Aebtestadt LP Meisterschaft"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

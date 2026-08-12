@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-domatems.ch"
   },
-  "contentHash" : "sha256-0f99e563e68fb59e7e991973fd618d8324a6185eeacb7befdb07429b52ed33e0",
+  "contentHash" : "sha256-99fce1345a60c2341fd9ca187c3329a8c55d8f1826d2d90842fc4428f4f13eb4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

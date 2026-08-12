@@ -32,11 +32,9 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.svbalgachrebstein.ch",
-    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
-    "websiteStatus" : "dead"
+    "website" : "www.svbalgachrebstein.ch"
   },
-  "contentHash" : "sha256-8f25963d359a302a19d4bd8e0c838a2c280e1826bb3d16581e62b98511321946",
+  "contentHash" : "sha256-3e31ba65b924ff0b7db8e94784845cecabed2881a69de06a33fa4db5a34e2896",
   "events" : [
     {
       "championshipTags" : "",
@@ -100,7 +98,7 @@
       "title" : "Sonnenbräuschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 8
 }

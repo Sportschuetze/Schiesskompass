@@ -90,7 +90,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-nesslau.ch"
   },
-  "contentHash" : "sha256-cbde3f6b09e3a8db45645e6c3c5fc6379334a903fac7fa2f6329f6d9204aa8f3",
+  "contentHash" : "sha256-5b8022a13b18e2860244368a98f3559aef46768405cc3e235945db82484d0520",
   "events" : [
     {
       "championshipTags" : "",
@@ -185,7 +185,7 @@
       "title" : "Gruppenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

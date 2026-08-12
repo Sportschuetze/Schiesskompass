@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.tir-glion-veytaux.ch"
   },
-  "contentHash" : "sha256-975ddfe138c0fa2e65dbe4b8527963c2acb2cf0e18c736e1e1f67576861c0156",
+  "contentHash" : "sha256-fecf657955b63bbb34893dd8dd2514c6f9849e7e2e6c033ca0dae001df5c4032",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

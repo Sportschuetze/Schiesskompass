@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.cournillens-tir.ch"
   },
-  "contentHash" : "sha256-9731e9ab83a291f4b03050b88c7c78d26b9f362edee679684046e2114b35b5d9",
+  "contentHash" : "sha256-ca4284c388f6bcaf6105d029c0c1722095460283ce9f728bb05b5d2cdeb937b8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

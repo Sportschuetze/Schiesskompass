@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-bettenhausen.ch"
   },
-  "contentHash" : "sha256-19653f21d9f7d952d3e3cf12e097792b70166cbf5d6fd2b49ca4bb2585276c86",
+  "contentHash" : "sha256-bcc11f8c4521740379b2512b669977fceebdcccef7e0f57bece687ff651cb734",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

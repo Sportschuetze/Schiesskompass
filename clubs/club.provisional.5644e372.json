@@ -143,7 +143,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-dd5e43baf24892a8990bbe87061bc0b6914faebd80b3a4c1cb29f91084b03be6",
+  "contentHash" : "sha256-6f23f5baf75f6fe2ccce20311540d95b9839fc63b8d505528ef8cb5780a6b2e5",
   "events" : [
     {
       "championshipTags" : "",
@@ -307,7 +307,7 @@
       "title" : "Schnupperschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

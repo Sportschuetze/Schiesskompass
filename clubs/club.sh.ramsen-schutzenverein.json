@@ -124,7 +124,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/svramsen.ch\/"
   },
-  "contentHash" : "sha256-26342a4f9ddd9d109ccfb6f0d7e00424c65bcfd35ffcd1c64d83ac8f3acc0936",
+  "contentHash" : "sha256-672b523da8b922408f788f62eadc1ec408b5a59c5ae049454e338df9115e3833",
   "events" : [
     {
       "championshipTags" : "",
@@ -840,7 +840,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.aveniraigle.ch"
   },
-  "contentHash" : "sha256-b4b089f9e8998d07dcc7b6f7734d3425f34310f9a16610334e8014d5e09f8a06",
+  "contentHash" : "sha256-0e7faae84f587b3eda741329d512c9841bbcf5cb1615b7dae10cb6354403c00c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

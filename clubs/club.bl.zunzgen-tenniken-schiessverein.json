@@ -71,11 +71,11 @@
     "trainingWeekday" : "",
     "website" : "www.svzunzgentenniken.ch"
   },
-  "contentHash" : "sha256-ce0630da21591ad137c8485737f1248d8882d66e5d8579caea9f91f843ce05b2",
+  "contentHash" : "sha256-2f5db74273e654327436abc340c7bd94b8976cf6d8a1fd6cf657c6905260ec77",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

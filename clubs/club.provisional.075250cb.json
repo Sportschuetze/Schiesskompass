@@ -82,7 +82,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/asv-rueti.ch\/"
   },
-  "contentHash" : "sha256-cd6d3c4ef69d21355795dc611e2b385ae8d1934317cf46d39cb8b892e7bdb89a",
+  "contentHash" : "sha256-218feee0b2e639339ff8f74380645a563dd349a27a456e163cdc15f4289b5652",
   "events" : [
     {
       "championshipTags" : "",
@@ -177,7 +177,7 @@
       "title" : "Nachtschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

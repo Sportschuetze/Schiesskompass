@@ -124,7 +124,7 @@
     "trainingWeekday" : "",
     "website" : "www.pcfahrwangen.ch"
   },
-  "contentHash" : "sha256-648827bf3e1fa132939f19989ba1879da8ba4b7d01282494bd7d627cd6980338",
+  "contentHash" : "sha256-04d5014666fe0b1ae131c9b1ecdb8251c4092f6ae6fe4f26b597d6386785ef66",
   "events" : [
     {
       "championshipTags" : "",
@@ -173,7 +173,7 @@
       "title" : "Morgartenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

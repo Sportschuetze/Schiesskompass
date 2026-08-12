@@ -90,11 +90,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.svdaenikon-huettikon.ch\/"
   },
-  "contentHash" : "sha256-8f183c1d73a2d3e19261f1009451007cb10ee5c3f7280e1528540a312f6837ba",
+  "contentHash" : "sha256-30e329eb3c6d44ef474bcb527abc460e9bfd28fe328f012a19631077ea65ca70",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

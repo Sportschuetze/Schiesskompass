@@ -26,11 +26,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/letell.ch\/"
   },
-  "contentHash" : "sha256-9f04ab34b8ad0eb2b36375500962a2b7e57ce2ebf85f364ee830fdbcf28b9bdc",
+  "contentHash" : "sha256-8d61e765de2859b94043ef4f481a09861e0eb3d987c52150e3adf12bd95fb69c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

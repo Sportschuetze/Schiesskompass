@@ -28,7 +28,7 @@
     "trainingWeekday" : "",
     "website" : "tirfm.ch"
   },
-  "contentHash" : "sha256-a56dfabca1d37fdbf02b661c8430672f6502f1fa4c6d16e2e1f59313ed771404",
+  "contentHash" : "sha256-83536d969778ba4c6c9c988e1f046ef42d86258dad864a3ef45a66f11eb93378",
   "events" : [
     {
       "championshipTags" : "",
@@ -100,7 +100,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

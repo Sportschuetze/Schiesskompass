@@ -83,11 +83,11 @@
     "trainingWeekday" : "",
     "website" : "www.psroethenbach.ch"
   },
-  "contentHash" : "sha256-e96f65b0010fa1fa3c8a342b6a662e1a3e2fb6ee9a027d30ea2b4390d1cab913",
+  "contentHash" : "sha256-8cb64af01e68f4f238f19fc778c1840dacd7abf48213bb43edd1202086cb187a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

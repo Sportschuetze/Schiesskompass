@@ -30,7 +30,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-6f0065fd5f55e82bb95e3078cad3c974b42f2cd2a77011c18e8479ac3ba9b778",
+  "contentHash" : "sha256-6df28d3d11a4f33454c11680865c7822f8456c5056401135e6638d1533f9aefe",
   "events" : [
     {
       "championshipTags" : "",
@@ -759,7 +759,7 @@
       "title" : "Vereinstraining"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 1
+  "version" : 2
 }

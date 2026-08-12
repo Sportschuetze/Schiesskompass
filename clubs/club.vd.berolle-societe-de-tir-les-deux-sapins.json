@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.tirberolle.ch\/"
   },
-  "contentHash" : "sha256-dc03ae535e99a781389dd32c9dfcc09f44966eb1313c9c679782a1fda21fdb0f",
+  "contentHash" : "sha256-f66e103947d5b5cbc0a3eccc62c422bc1f1fc39ae24e57b9d314808432d1aa02",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

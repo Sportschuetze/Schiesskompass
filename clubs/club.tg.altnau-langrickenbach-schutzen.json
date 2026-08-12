@@ -98,7 +98,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-altnau.ch"
   },
-  "contentHash" : "sha256-9b899153b4f9ad0f7f3bce951144ff03ca86043cebb9873ea19068433c91457e",
+  "contentHash" : "sha256-757fa44af62296e2e81b67c49e88d2eda3740c2f00ff4a414318b59cd4fe68ff",
   "events" : [
     {
       "championshipTags" : "",
@@ -122,13 +122,13 @@
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "17:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-09-05T10:00:00Z",
@@ -402,7 +402,7 @@
       "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 9
 }

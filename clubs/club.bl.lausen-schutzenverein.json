@@ -62,11 +62,11 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzenvereinlausen.ch"
   },
-  "contentHash" : "sha256-34a49cf6c44ebd5e92646aa6575600bf09e1cd4178724d2cc50bfee7a3ccaa04",
+  "contentHash" : "sha256-3779717fbe0cdc4829441943589e7d3703a69c476cc76f04968d73b6c5439b09",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

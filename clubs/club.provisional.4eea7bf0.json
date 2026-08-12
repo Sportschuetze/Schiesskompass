@@ -41,7 +41,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsmüntschemier.ch"
   },
-  "contentHash" : "sha256-e454000ecdf1fa4a1d1d3a1995399e4eb92801104dde6c0b6707392fd8a9226e",
+  "contentHash" : "sha256-8c23a25d0ab20bf3a0eaec0970658dfcd02ff2665aab3dbeac6ff05149304350",
   "events" : [
     {
       "championshipTags" : "",
@@ -665,7 +665,7 @@
       "title" : "Schlussschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

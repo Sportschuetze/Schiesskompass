@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.sgitingen.ch"
   },
-  "contentHash" : "sha256-4365c2106607725de0c3021cdcd16d03a6f96c11a98cc8139bb8ecf7a145b3c2",
+  "contentHash" : "sha256-edbc8ed019d6cf06322cbc2389671a612761a5ced7860e67d095f7ddd356ca5a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

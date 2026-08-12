@@ -27,11 +27,11 @@
     "trainingWeekday" : "",
     "website" : "www.carabiniers.ch"
   },
-  "contentHash" : "sha256-e50c43cc804ca56689be56507a6fd78b28d12dc5bc390a6983977897629341d9",
+  "contentHash" : "sha256-2b122f973895999e9c73f1948e3afea148e49560c74d11be9a1d69a1a1ab12e3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

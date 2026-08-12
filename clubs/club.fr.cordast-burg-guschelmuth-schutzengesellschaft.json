@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "sg-cordast.ch"
   },
-  "contentHash" : "sha256-6256f8065cb974ddb4e159117baafc643b49d695d70563faadc5850eaddcfc69",
+  "contentHash" : "sha256-2bc5aa6f3a8b42b06e9b0e85b99743affeb4a0e08b9246eb3e2712d27f9f6a29",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

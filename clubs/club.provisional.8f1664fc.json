@@ -145,7 +145,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgweiach.ch"
   },
-  "contentHash" : "sha256-338f9360b97cd86366f3c2efad0806a140152f9bed6f0443e8363151bdd5285f",
+  "contentHash" : "sha256-254807b2650bc60ec850c269522bdadd319dd5bc32aa343d535fccdba3a4da20",
   "events" : [
     {
       "championshipTags" : "",
@@ -401,7 +401,7 @@
       "title" : "Wyberschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

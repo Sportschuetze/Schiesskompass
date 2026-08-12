@@ -58,7 +58,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgsulgen.ch"
   },
-  "contentHash" : "sha256-13d9d4fd8e45cd855552c430fc0e758eeb5697983769a1821b89caf2db831f30",
+  "contentHash" : "sha256-c7919b4ebc89460f4b72c7b60ace4b3cd47394ca1390611f2cafe6cd8a48790b",
   "events" : [
     {
       "championshipTags" : "",
@@ -214,7 +214,7 @@
       "title" : "Winzerschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 9
 }

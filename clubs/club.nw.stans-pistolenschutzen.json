@@ -68,7 +68,7 @@
     "trainingWeekday" : "",
     "website" : "www.psstans.ch"
   },
-  "contentHash" : "sha256-93f17363c466a1912271d0a73ad2ebcecd7c807fe91eecef1360a42c1e2f6b54",
+  "contentHash" : "sha256-4d3ac5d1eea9a9e81cd99c2a25733d4c2ad2c45eb0bd573d887e520301d090e7",
   "events" : [
     {
       "championshipTags" : "",
@@ -301,7 +301,7 @@
       "title" : "Überfallschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

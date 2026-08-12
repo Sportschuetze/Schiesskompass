@@ -37,11 +37,11 @@
     "trainingWeekday" : "",
     "website" : "www.ssszh.ch"
   },
-  "contentHash" : "sha256-bd94bf9206e3e7ca6696bab0199484523851e585a32103a9acd88048206f4735",
+  "contentHash" : "sha256-7b4ec2acb0cdbaad848d7df7c78f8326b0663b5cf79cd28f1af322d147d0c875",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -93,11 +93,11 @@
     "trainingWeekday" : "",
     "website" : "www.ssz-chalchofen.ch"
   },
-  "contentHash" : "sha256-41218ca495fcf2ee4e9c802fe08b8079d7e52475122a0f78e9b245a902b97659",
+  "contentHash" : "sha256-99be68bf998be6b87b933274db866d81e529530cc3f56ab44cc082cdbcf40d3b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

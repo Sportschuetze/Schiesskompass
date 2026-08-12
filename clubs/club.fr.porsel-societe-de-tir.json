@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b115f502f027e388b279f9876a76924486489a69a5943349c023f7373a4f3b3d",
+  "contentHash" : "sha256-653f8eff615047dbd279ea23dd73feee9f150a607016a828242ddea6cd4c704d",
   "events" : [
     {
       "championshipTags" : "",
@@ -49,7 +49,7 @@
       "title" : "Tir aux flocons"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

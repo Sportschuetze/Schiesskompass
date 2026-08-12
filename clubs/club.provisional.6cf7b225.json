@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.ms-oberthal.ch"
   },
-  "contentHash" : "sha256-ff78be94d1c62741e10649b3a564693d2b1317858bdad60f8d4b379bd5b185e3",
+  "contentHash" : "sha256-9ac18d853d3d354e56a2740140d68c863fa813bc2257a9bebe4695b9f05deb28",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

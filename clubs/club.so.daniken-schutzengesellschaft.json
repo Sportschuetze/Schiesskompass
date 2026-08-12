@@ -138,7 +138,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgdaeniken.ch"
   },
-  "contentHash" : "sha256-66f6524b8d3ebde3c9b82c54f90d4dd51a954fb1e46dec16390b9ba03adf4581",
+  "contentHash" : "sha256-46ff1d42ad7fc1a0f454126838c6435c01f294d9a924d05c5d04e35c11ca10d9",
   "events" : [
     {
       "championshipTags" : "",
@@ -187,7 +187,7 @@
       "title" : "Erˆffnungsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

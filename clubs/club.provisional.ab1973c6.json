@@ -45,7 +45,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsvr.ch"
   },
-  "contentHash" : "sha256-fc786b1d13364ce27ee761a75a3a8040ef7441e66de5d49cadfd2496bb1bca9e",
+  "contentHash" : "sha256-26dfd59015a77fb17d92be4c4e5a9b705491a8e50087d06d0b8528d9ffc0672a",
   "events" : [
     {
       "championshipTags" : "",
@@ -94,7 +94,7 @@
       "title" : "Gemeindeschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -218,11 +218,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-reuss.ch"
   },
-  "contentHash" : "sha256-19d74bbe6a18a4de1301f166ad5ba5a94662c01e929e281ad6bb9c1506e627d9",
+  "contentHash" : "sha256-c01267a7b2333fd09c5b6713e1335438a661196f40ce7439338c4b495f08a046",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

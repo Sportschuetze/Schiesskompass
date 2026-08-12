@@ -37,7 +37,7 @@
     "trainingWeekday" : "",
     "website" : "www.stvedeggio.ch"
   },
-  "contentHash" : "sha256-b50790bc71feb56fe271e82c7cc3b0f7a3e1871c390815233cebb88e83ecfca9",
+  "contentHash" : "sha256-661f5af48eb1a48a0647058b9f2fe283f731ca4c8ab2bdebe76be1eba4122fdd",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +63,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

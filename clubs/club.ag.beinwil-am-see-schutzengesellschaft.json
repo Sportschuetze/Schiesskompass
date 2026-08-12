@@ -330,7 +330,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/sg-beinwilamsee.ch\/"
   },
-  "contentHash" : "sha256-834572f67860da8a7c2a43ea8f81acabd7b3ffd30a57d8f5f43d9880ffc46d23",
+  "contentHash" : "sha256-bd01008410d3579df33c4955165576ad630e736c49e193d4f72f93b818cdfd89",
   "events" : [
     {
       "championshipTags" : "",
@@ -724,7 +724,7 @@
       "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

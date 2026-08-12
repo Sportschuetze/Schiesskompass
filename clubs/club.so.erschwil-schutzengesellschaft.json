@@ -33,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-erschwil.ch"
   },
-  "contentHash" : "sha256-10d778fdcd83822635c8fcb6c2cab8503395422835e33076234028682a3edb64",
+  "contentHash" : "sha256-3d943134a3dbe1d1ce83b570cf4bdeca603ee8c7275f79c9f5a9341b1f7705e3",
   "events" : [
     {
       "championshipTags" : "",
@@ -59,7 +59,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

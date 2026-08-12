@@ -114,7 +114,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgwiedlisbach.ch"
   },
-  "contentHash" : "sha256-fe9cb9f4dd37e10ae75605fb499ff91ad3791da30209dad22e7b9fef7be84e9a",
+  "contentHash" : "sha256-e2f6d8c5ceee62df55eb62658fb6ce0508c0ab4ac583abdef78b217f6cfb8688",
   "events" : [
     {
       "championshipTags" : "",
@@ -163,7 +163,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

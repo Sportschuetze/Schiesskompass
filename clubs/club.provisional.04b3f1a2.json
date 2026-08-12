@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b7e3f800fa156b9548e55f1c07775fc3675dde7b9c948dfecdc651ec1476b4b4",
+  "contentHash" : "sha256-29423212e2482232ca633de301c40b373e7756806a8291d4dab7f47b6bb38240",
   "events" : [
     {
       "championshipTags" : "",
@@ -64,7 +64,7 @@
       "title" : "28. Zürcher Oberländer Liegendmatch"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

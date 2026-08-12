@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-9a7a74d21c28860d5e0aefdb6da07e7c8675d878eeb3764dbfdacb8deaa2ad38",
+  "contentHash" : "sha256-d9feed06bdfde7da03304f9735109dd08d47d508b4bc0facd655bf71bb1c3d31",
   "events" : [
     {
       "championshipTags" : "",
@@ -121,7 +121,7 @@
       "title" : "50. Untertoggenburger Lupi-Meisterschaft \/ 10. Untertoggenburger Auflage-Meisterschaft"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 4
 }

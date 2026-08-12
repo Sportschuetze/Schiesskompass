@@ -33,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgue.ch"
   },
-  "contentHash" : "sha256-ab0a03e4db16cdb64bdd6b055481ae961ff6cfe73647d521c5fec5016a3656b5",
+  "contentHash" : "sha256-998f5a2e6953c852a2e5234a39fff787b448681f41f915b5e2b089535326b26d",
   "events" : [
     {
       "championshipTags" : "",
@@ -105,7 +105,7 @@
       "title" : "Mittefastenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

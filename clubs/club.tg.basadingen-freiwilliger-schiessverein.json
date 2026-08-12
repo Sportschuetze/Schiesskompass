@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsv-basadingen.ch"
   },
-  "contentHash" : "sha256-bb4f3ae2eee7aa3761ddbfffd4e5b47c25b8ecafc3009c0109a6b60e61343bd7",
+  "contentHash" : "sha256-e3a3739565c55051cd3dc08b5369c38ea62047e4d31b308de99c11b39c113984",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

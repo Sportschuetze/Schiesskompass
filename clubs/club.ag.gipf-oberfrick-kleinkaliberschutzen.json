@@ -27,7 +27,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-e7d1e2588eabc650334697b7521aaad23fdee6d5677af3c3de77c2ba96213522",
+  "contentHash" : "sha256-49ef05af33e324cc44875ee68312496c2b249b2b877b89ffee25020fe16b30f7",
   "events" : [
     {
       "championshipTags" : "",
@@ -168,7 +168,7 @@
       "title" : "Volksschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

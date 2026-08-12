@@ -27,11 +27,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/pshergiswil.ch\/"
   },
-  "contentHash" : "sha256-929ad9de0ed5266aea7f2caa668847943bf4f0eebd288bdf5d49fb35c6742076",
+  "contentHash" : "sha256-a40f001bc8dabe21df62ab84b3f10edb3e9092e3112ecfa5984aa9d682773ff9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

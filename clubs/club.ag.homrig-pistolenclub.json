@@ -132,7 +132,7 @@
     "trainingWeekday" : "",
     "website" : "www.pc-homrig.ch"
   },
-  "contentHash" : "sha256-cedd6a7e43a7f27598d61a388c2edec58a20f75603797fb53cfa77e5ebd2c607",
+  "contentHash" : "sha256-c2b4aa13af4ca6e1f42475ae7e45c059f511e25fec37c004bc53849ad2a7884a",
   "events" : [
     {
       "championshipTags" : "",
@@ -181,7 +181,7 @@
       "title" : "Pistolenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

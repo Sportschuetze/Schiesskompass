@@ -97,11 +97,11 @@
     "trainingWeekday" : "",
     "website" : "schuetzen-grosshoechstetten.ch"
   },
-  "contentHash" : "sha256-f89384014f609753dc8412dc62dc65c4b4e56c56a2d607909eb7d95c51108d7c",
+  "contentHash" : "sha256-0548e12d6e425fe7c1b96f6ab4e2c2306d25f6a35373953ea0b5b3ce5f6951cd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

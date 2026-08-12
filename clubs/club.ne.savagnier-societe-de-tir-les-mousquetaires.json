@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/mousquetaires-savagnier.ch\/"
   },
-  "contentHash" : "sha256-afa1b0d473a9dff5ab32ff39c9d2817c7d18800e60daf59d50904cdf88d22757",
+  "contentHash" : "sha256-3ab6bc22452e75cc028d181c2f969aa4995aaa652c6e1d2b08a8350b1b1e1215",
   "events" : [
     {
       "championshipTags" : "",
@@ -72,7 +72,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

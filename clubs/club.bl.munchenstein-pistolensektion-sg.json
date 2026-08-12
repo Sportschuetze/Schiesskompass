@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.pistolensektion.ch\/"
   },
-  "contentHash" : "sha256-ff41153dae6576afb81935366e75647cf5cea1877d734e2569f8ee794da66225",
+  "contentHash" : "sha256-ac3a375b2995e0f092f982c1bdb361083a039f91d14ee2c92190e321fc3ddfcf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

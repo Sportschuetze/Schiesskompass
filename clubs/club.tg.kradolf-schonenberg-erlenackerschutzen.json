@@ -49,7 +49,7 @@
     "trainingWeekday" : "",
     "website" : "www.erlenacker.ch"
   },
-  "contentHash" : "sha256-4fc740d50781f3cc8dfb77ebecb74c9a466d07d4df782280174be4eeecc9aec6",
+  "contentHash" : "sha256-721d902f12457e557550864a2f1301f522b942af01a8c3be5cb4c9643bdb4d5c",
   "events" : [
     {
       "championshipTags" : "",
@@ -512,7 +512,7 @@
       "title" : "Standartenweihschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2230c9077441237ab2b8c3daeb5cc55f3ab5260b3089fac2b6e4215965f4cb9c",
+  "contentHash" : "sha256-c081fe165eef3e30ddc7378122a1eb58daf17cee09ab1990a97fe442ba8510c9",
   "events" : [
     {
       "championshipTags" : "",
@@ -84,7 +84,7 @@
       "title" : "Standartenweihschiessen 140 Jahre SG Lommis-Weingarten"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 7
 }

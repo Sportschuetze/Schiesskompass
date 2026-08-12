@@ -34,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-roggwil.ch"
   },
-  "contentHash" : "sha256-c4e2cfb40937dae34e2c2f92d07bf3edf201a5c94bd544e3a80554e1fae56342",
+  "contentHash" : "sha256-708f98448eaa0f64287f3eeeb85f1b32c72a41396e6890406a270f8a798e87b8",
   "events" : [
     {
       "championshipTags" : "",
@@ -152,7 +152,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

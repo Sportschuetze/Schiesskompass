@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.ps-witerig.ch"
   },
-  "contentHash" : "sha256-0e636b766a1fd0f0ac93f0f1cca65c7e671f1961bab9e572940924438f907f87",
+  "contentHash" : "sha256-e2cac42a1f18e79bf94335df1dc6bc89137de4e158708e3175d17d5227d0fb9c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

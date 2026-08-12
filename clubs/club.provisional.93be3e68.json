@@ -35,11 +35,11 @@
     "trainingWeekday" : "",
     "website" : "www.sps-wila-turbenthal.ch"
   },
-  "contentHash" : "sha256-d713fec3edd0eef087d4a2e8b258f6ac1259c638d2dd3d4a1f4c6879c26a9adb",
+  "contentHash" : "sha256-c14c6f5668b87ca561d91084c3d42b070060f79e0afc6ab73688fc8655243bfe",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

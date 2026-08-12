@@ -23,34 +23,34 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.aeschi-so-sportschutzen.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
-        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.aeschi-so-sportschutzen.freundschaftschiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
         "isUnverified" : true,
         "name" : "Freundschaftschiessen",
-        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.aeschi-so-sportschutzen.freundschaftsschiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
-        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.aeschi-so-sportschutzen.nachtschiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
         "isUnverified" : true,
         "name" : "Nachtschiessen",
-        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/"
       },
       {
         "dataSource" : "clubWebsite",
@@ -71,10 +71,10 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.aeschi-so-sportschutzen.volksschiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
         "isUnverified" : true,
         "name" : "Volksschiessen",
-        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/wp-content\/uploads\/2026\/03\/Jahresprogramm-2026.pdf"
+        "sourceURL" : "https:\/\/sportschuetzen-aeschi.ch\/"
       }
     ],
     "seasonEndDay" : 31,
@@ -89,7 +89,7 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-aeschi.ch"
   },
-  "contentHash" : "sha256-a89695bc5ffedf0fdcf8a4c45c7f6de802bfa4fd1a4f4bd81ffdc2bb0528a36b",
+  "contentHash" : "sha256-e7f0ebecacd3d530ef6abeb5809575d3592f5aeb770336a04e78247672740c92",
   "events" : [
     {
       "championshipTags" : "",
@@ -414,7 +414,7 @@
       "title" : "Volksschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

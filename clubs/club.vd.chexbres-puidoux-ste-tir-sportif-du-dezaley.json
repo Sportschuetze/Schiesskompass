@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.tir-dezaley.ch"
   },
-  "contentHash" : "sha256-22f6f43803f680fd8fd5b0ad2c23dfbed7b9e66bdc39b00c3ad767858cff8049",
+  "contentHash" : "sha256-d5fc0bc5fbe8592a02ba19a7f131e099f0bcbd829dd47aa97976c364d48fcd79",
   "events" : [
     {
       "championshipTags" : "",
@@ -49,7 +49,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -61,7 +61,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-d61a080502d28781c14aa258f12cb641cd8c8e5f34dcd767bc21164d16f5f772",
+  "contentHash" : "sha256-c2d068a56a9b843ad77a8ed36cdf6782f568bc5705886053ac18e06e8b3a412f",
   "events" : [
     {
       "championshipTags" : "",
@@ -156,7 +156,7 @@
       "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

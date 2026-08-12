@@ -118,7 +118,7 @@
     "trainingWeekday" : "",
     "website" : "www.tiratoriparadiso.ch"
   },
-  "contentHash" : "sha256-280a254ec0e92313c3d2b708fb148c83e887dfb5006843746ba4bae1084afb7a",
+  "contentHash" : "sha256-f4e268c08d5cbc4223ab5318f743831c2d45a5071131a86c2c05f64048b2b41c",
   "events" : [
     {
       "championshipTags" : "",
@@ -144,7 +144,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -27,7 +27,7 @@
     "trainingWeekday" : "",
     "website" : "sportschuetzen-muehleberg.ch"
   },
-  "contentHash" : "sha256-de27e9e974f05a66a40d43de55061188e753a4b4e2ed10dd7e84f4f10fc7cfbc",
+  "contentHash" : "sha256-030371ddf2e918db694c0799873d8bd77dec6e744da76d3fe7a7603d2d27a65d",
   "events" : [
     {
       "championshipTags" : "",
@@ -76,7 +76,7 @@
       "title" : "Schlossbeindeckelischiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -45,11 +45,11 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-dd43b634156a74173a49af372f2127f1dbe6efd163c6efefeda9493b41a9d063",
+  "contentHash" : "sha256-f8a0df24d1d180c4f3c4f4dad40411f64bb81d2e5f65068fbf5f33959991e025",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

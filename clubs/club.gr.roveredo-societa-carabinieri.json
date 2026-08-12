@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.carabinieriroveredo.ch\/"
   },
-  "contentHash" : "sha256-a212b590e4ac67dc4eacbb1d419bfce31b33476db8eda5c5c813e2ad10a0e3f7",
+  "contentHash" : "sha256-1d47fa883762b545e65873e829acdf93ca1e3a06bfa3d4daf13deb43eccadd51",
   "events" : [
     {
       "championshipTags" : "",
@@ -51,7 +51,7 @@
       "title" : "Feldstich"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

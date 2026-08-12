@@ -44,7 +44,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-45334943451de4bade8f1d8cc87a1f0d5a7ca326a3fdc19677855028b2b7472f",
+  "contentHash" : "sha256-2205615d151652c669a9f5b387012cd5ca1ab4e54989c0d7e090576a03213208",
   "events" : [
     {
       "championshipTags" : "",
@@ -185,7 +185,7 @@
       "title" : "Strahleggschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

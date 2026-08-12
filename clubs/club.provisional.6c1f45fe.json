@@ -59,7 +59,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/pc-rafzerfeld.ch\/"
   },
-  "contentHash" : "sha256-9b5a360061a439305d88e43dd771a795b5fa6c40938344aa862c95108d3dcc08",
+  "contentHash" : "sha256-053bf059badca5e8272b838ec31073bb0a38ffee3d359040280ed9402d3e75f6",
   "events" : [
     {
       "championshipTags" : "",
@@ -131,7 +131,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

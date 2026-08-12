@@ -26,7 +26,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-b7039bb9df4a309a18c4f753fcb6ddebbfe679407ec3aaf672c8ac282ce3d739",
+  "contentHash" : "sha256-0baf1b9ce04cb5b6b81163ec94b175825c26a495a8200b4fa6b8bec6483946d9",
   "events" : [
     {
       "championshipTags" : "",
@@ -52,7 +52,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

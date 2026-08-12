@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.tiratoribiaschesi.ch"
   },
-  "contentHash" : "sha256-0e3cd5d5d85664d27980efe7df49a545d970c2b368b6d1e1765c9571243c4171",
+  "contentHash" : "sha256-6cd9a600ac1de6fdd41f72114f9c5ade53ed86ddcf7c01c0ca5f6c193aa0b48b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -99,7 +99,7 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-wangenbo.ch"
   },
-  "contentHash" : "sha256-4e3d020d3d2315f39c0dff55571824180b88baae72111996d9a50e00e6559408",
+  "contentHash" : "sha256-34dffc9175de9df679bb3cdee540037bb7549f3addc8a4c94b9eb85ef186dab6",
   "events" : [
     {
       "championshipTags" : "",
@@ -125,7 +125,7 @@
       "title" : "Vereinswettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

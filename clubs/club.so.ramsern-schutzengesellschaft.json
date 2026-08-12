@@ -43,7 +43,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-1afcca72ccbc4274c16d5741323cfba329ee25c3fad8ed33d66269e55b386151",
+  "contentHash" : "sha256-8ada2b3249a98d682003f5a32a0aa9b0d8cf7dcddce3f9b77744de37c8af4a6a",
   "events" : [
     {
       "championshipTags" : "",
@@ -92,7 +92,7 @@
       "title" : "Königsausstich"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

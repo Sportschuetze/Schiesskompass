@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.lerupalet.ch"
   },
-  "contentHash" : "sha256-8a7a6f9295e47a4b44d1a5a7f757792bb4df632573b6a19781c7ed9222fc9dfa",
+  "contentHash" : "sha256-d84fb617a55e3d2c21b440686ae796a16b1d72006db4232c710d74f356bf799b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

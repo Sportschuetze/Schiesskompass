@@ -42,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.tir-soyhieres.ch"
   },
-  "contentHash" : "sha256-f5b92279e61538ea05358668180aa2fe5d5be324d089425eedea34ffa5cd7756",
+  "contentHash" : "sha256-4154c2df0190d0771f45d901ea2f76a76198ad3b36751478ecca164ff859aa24",
   "events" : [
     {
       "championshipTags" : "",
@@ -206,7 +206,7 @@
       "title" : "Wartenbergschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

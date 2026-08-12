@@ -51,7 +51,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-877fda1c4d289565f6b15ceb741a4fbd350bff7fbae72860895af7f368a2e255",
+  "contentHash" : "sha256-6a3a71a250bd40c20c2620e62858e741ef429604fa2df193209c77a33a06cc9f",
   "events" : [
     {
       "championshipTags" : "",
@@ -166,7 +166,7 @@
       "title" : "Standweihschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

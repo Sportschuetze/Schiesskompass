@@ -26,11 +26,11 @@
     "trainingWeekday" : "",
     "website" : "www.pistolenclub-schoenenwerd.ch"
   },
-  "contentHash" : "sha256-0fd243a8c470636a1052eabe0c2330374ebe6a2c8e075f18e21a7e37afca208c",
+  "contentHash" : "sha256-dea019eba76176b7af8b185368ff7a7a17a553d8009f4506ac45cc81ae7de410",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

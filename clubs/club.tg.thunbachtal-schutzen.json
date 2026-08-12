@@ -42,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-thunbachtal.ch"
   },
-  "contentHash" : "sha256-2b8841256e0369b72cb684066b5405656e06b2414e637e5bf940b3e086489f7b",
+  "contentHash" : "sha256-0bca50fb7855b253feb1b358cb01cd95bf8a05b90dd79a538de8f9ac991a32e8",
   "events" : [
     {
       "championshipTags" : "",
@@ -134,7 +134,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

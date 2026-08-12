@@ -30,11 +30,11 @@
     "trainingWeekday" : "",
     "website" : "www.njc-stmaurice.ch"
   },
-  "contentHash" : "sha256-27224870722a09a601e912fe3d788eb3c49c219de448ed98af10a456d968bee3",
+  "contentHash" : "sha256-a00e277e00b86d309f78fa26aca93f9f09c5b522be1da60f4eaf039b1341b0dd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

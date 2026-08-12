@@ -67,7 +67,7 @@
     "trainingWeekday" : "",
     "website" : "www.zwillikon-fsg.ch"
   },
-  "contentHash" : "sha256-5f9bf0667b0065a82dd7ad2470ab4f29fb4493d35d9aca7f5bd7ab68b1e2882b",
+  "contentHash" : "sha256-00354842659deab1bd81e69d345a7271c7c531f4c0d6ff35e671461189d6ba28",
   "events" : [
     {
       "championshipTags" : "",
@@ -113,7 +113,7 @@
       "title" : "Säuliämtler Gruppenschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

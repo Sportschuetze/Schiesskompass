@@ -30,11 +30,11 @@
     "trainingWeekday" : "",
     "website" : "www.civicicarabinieri.ch"
   },
-  "contentHash" : "sha256-de32cd4748d3862c0cbdd1db0b3494c6e52d60ac7b7b767f97a6a8e3e23263c9",
+  "contentHash" : "sha256-2459dcf772aebfb03804131f5a3aed0acde982650ec8cb02c38440ae028d4084",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

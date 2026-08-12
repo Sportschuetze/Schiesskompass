@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d4996d31d4f285a2a10df96e58eb27f15b13aa0c05ae97376377354a3960f2e2",
+  "contentHash" : "sha256-f4bd7fee9a2e4d77430e4bebf99e043b1352c4e03186d91398135453587a5f7d",
   "events" : [
     {
       "championshipTags" : "",
@@ -54,7 +54,7 @@
       "title" : "Kreiswinterschiessen KV Kohlfirst"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

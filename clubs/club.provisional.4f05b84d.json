@@ -28,11 +28,11 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-8af4433511ca91088d61ab91ca9b678f1d7a10a9d0b9981fd56917ecf6530428",
+  "contentHash" : "sha256-230d367fc8176e6f4c1380f9c5dc07c50d629d8e57e787d86c3eca3fe1736da9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

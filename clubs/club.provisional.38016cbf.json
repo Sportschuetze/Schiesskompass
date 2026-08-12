@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-22f8eca2c2118bdd68c059267fe437e9c1a54de0898c21043b8e6037548ea18c",
+  "contentHash" : "sha256-08d83a31408057b85112cf0fb6ed1440a7fdaefd3f1870ec54717dbae23f8293",
   "events" : [
     {
       "championshipTags" : "",
@@ -64,7 +64,7 @@
       "title" : "Landstädtli-Schüüsse Elgg"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

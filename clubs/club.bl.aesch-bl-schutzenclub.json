@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.aesch-klub.ch\/"
   },
-  "contentHash" : "sha256-bf8dfcdd88ef556e2831a97763e88b862e35e9699e830c8d12bd382e1f65d45f",
+  "contentHash" : "sha256-0de257b8de2218cedd6a27b5350dea405c21fd9d922b771018f179f38f736266",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

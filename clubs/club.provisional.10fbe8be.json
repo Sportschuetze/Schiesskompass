@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.svdägerlen.ch"
   },
-  "contentHash" : "sha256-ed522bd240b6db6acac14702323bff70ec96275a55d1bcca56e168ded16165cc",
+  "contentHash" : "sha256-a33bb2146b76f838eee69d824dbc5b91b6148d0dd47d1719887b44268ea5d8e1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

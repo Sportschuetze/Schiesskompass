@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.amisdutir.ch\/"
   },
-  "contentHash" : "sha256-2fbaabe3e76ce6cf66674307336172ebcf912723b38ddcaa771668e5354bc4ce",
+  "contentHash" : "sha256-4603069b199cfd782292eaca9948f0c151c429e98df8a5c1dd02664e3c6e4da8",
   "events" : [
     {
       "championshipTags" : "",
@@ -72,7 +72,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

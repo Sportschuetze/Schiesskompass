@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.carabiniersdecarouge.ch"
   },
-  "contentHash" : "sha256-68f8b251a602e45e062432d9a714c65597010b4386f74cdc1c39cbd0d70c9aa3",
+  "contentHash" : "sha256-4880fdd5801938f6150017dd21628bb3f1de40ad783b31c63457ea18ab6b170b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

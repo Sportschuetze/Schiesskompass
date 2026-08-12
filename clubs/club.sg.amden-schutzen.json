@@ -23,6 +23,14 @@
       },
       {
         "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.amden-schutzen.balmenrainschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Balmenrainschiessen",
+        "sourceURL" : "https:\/\/schuetzenamden.ch\/wp-content\/uploads\/2026\/03\/2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.amden-schutzen.balmrainschiessen",
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
@@ -59,6 +67,14 @@
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Chilbistich",
+        "sourceURL" : "https:\/\/schuetzenamden.ch\/wp-content\/uploads\/2026\/03\/2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.amden-schutzen.einzelwettschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
         "sourceURL" : "https:\/\/schuetzenamden.ch\/wp-content\/uploads\/2026\/03\/2026.pdf"
       },
       {
@@ -223,6 +239,14 @@
       },
       {
         "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.sg.amden-schutzen.standstich",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Standstich",
+        "sourceURL" : "https:\/\/schuetzenamden.ch\/wp-content\/uploads\/2026\/03\/2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sg.amden-schutzen.vereinsstich",
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
@@ -274,7 +298,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzenamden.ch"
   },
-  "contentHash" : "sha256-38ce093cde7a6e87690011e65018c5f8730e074c8cc41139da5bcb5926a8c71d",
+  "contentHash" : "sha256-12c7d11872f0e83604b8d58b9e06b2aa9016f21a43226b5c73208f50da9e63c5",
   "events" : [
     {
       "championshipTags" : "",
@@ -298,13 +322,13 @@
         },
         {
           "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:30",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "17:30",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-09-12T10:00:00Z",
@@ -341,9 +365,78 @@
 
       ],
       "title" : "Chilbischiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-27T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.amden-schutzen.freundschaftsschiessen.2026-06-27",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/schuetzenamden.ch\/wp-content\/uploads\/2026\/03\/2026.pdf",
+      "startDate" : "2026-06-27T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Freundschaftsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-04T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.sg.amden-schutzen.op.2026-06-04",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Rüti",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/schuetzenamden.ch\/wp-content\/uploads\/2026\/03\/2026.pdf",
+      "startDate" : "2026-06-04T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-27T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.sg.amden-schutzen.qualifikationsstich.2026-06-27",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/schuetzenamden.ch\/wp-content\/uploads\/2026\/03\/2026.pdf",
+      "startDate" : "2026-06-27T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Qualifikationsstich"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 9
 }

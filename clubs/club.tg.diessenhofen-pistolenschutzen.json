@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-456a4ab16ba3f94b3729b951051a60ce3d1f891bc305ddb422053bdaec9fcc06",
+  "contentHash" : "sha256-fa4b563bf10135b474a6ce8964e823884cddbb00600055c4a631e72ecd40b91c",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,8 +58,8 @@
         },
         {
           "date" : "2026-10-24T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-10-24T10:00:00Z",
@@ -73,8 +73,8 @@
         },
         {
           "date" : "2026-10-24T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-10-24T10:00:00Z",
@@ -128,13 +128,13 @@
         },
         {
           "date" : "2026-10-31T11:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-10-31T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-10-31T11:00:00Z",
@@ -145,7 +145,7 @@
       "title" : "49. St. Niklaus-Pistolenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 7
 }

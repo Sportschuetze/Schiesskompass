@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.daillenspenthazamisdutir.ch"
   },
-  "contentHash" : "sha256-d9ecbe000099e335218af9e3aa97a571fafe72100f962a37a91b3ea5dde1aaf9",
+  "contentHash" : "sha256-c442da7ccf3af71570c9194b914c735570bd02e78d9edaea5bcb73fa5f0b8983",
   "events" : [
     {
       "championshipTags" : "",
@@ -142,7 +142,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

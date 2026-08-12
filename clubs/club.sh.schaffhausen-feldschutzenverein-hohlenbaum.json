@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d859c6afc624a2768d00a09028f37df99c483c43848ca7adc6c5c86f6fc6afc3",
+  "contentHash" : "sha256-592406a8f8e0a294c0d238381bcddf2d7d85475e3a7ab6aab8c7a10ae8e11427",
   "events" : [
     {
       "championshipTags" : "",
@@ -70,7 +70,7 @@
       "title" : "33. Schaffhauser Frühlingsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 7
 }

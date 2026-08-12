@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.tirapples.ch"
   },
-  "contentHash" : "sha256-754a2d17995ea2e8c331b7bc5c9afd506c977aea48b8ce719c71a4075a278e06",
+  "contentHash" : "sha256-fbbf062af47de6e2d50820368b655b194d0cb3025f5e02b974b6b039d540405f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

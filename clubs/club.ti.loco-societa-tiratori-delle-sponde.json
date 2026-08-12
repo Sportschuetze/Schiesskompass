@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.tiratoridellesponde.ch"
   },
-  "contentHash" : "sha256-fce60bf3b67d339db9bd93b2dfe5ea66b7783b4c6c3f3d981dbf3ab93eb21ba8",
+  "contentHash" : "sha256-f9f1b36f706ac0a41ea51c2a660e5fbcd62eddd61098211ee6faeaa53b2197b7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

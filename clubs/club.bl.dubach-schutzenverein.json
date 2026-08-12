@@ -117,7 +117,7 @@
     "trainingWeekday" : "",
     "website" : "www.svduebach.ch"
   },
-  "contentHash" : "sha256-b6640d481d2c48487352522ef0480427f17486d8a17440a31bb3a38c89d2b6f8",
+  "contentHash" : "sha256-23b1a4b01f58940a6f5b6b26dc3a7226df6a90e5ab163abf635f78de7d5bd894",
   "events" : [
     {
       "championshipTags" : "",
@@ -580,7 +580,7 @@
       "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

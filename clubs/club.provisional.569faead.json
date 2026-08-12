@@ -91,7 +91,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/schuetzenverein-rickenbach.ch\/"
   },
-  "contentHash" : "sha256-42535c64f039a0176e486dc03ab9f9e5ce14b0d7ead45382e0042fca9720bd9d",
+  "contentHash" : "sha256-3bb5fb3c92b7defe946a743e1e757dfaac39f4a787a4946b57166bbec3c44d8a",
   "events" : [
     {
       "championshipTags" : "",
@@ -117,7 +117,7 @@
       "title" : "Schnupperschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

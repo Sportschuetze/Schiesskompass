@@ -149,7 +149,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgstraettligen.ch"
   },
-  "contentHash" : "sha256-60530f217987746053a81bea827e51bc15344da2833b6815a5a21edf76de1a99",
+  "contentHash" : "sha256-c012c8aaecc1096a335d36a4eb1be47632f3539be544e7569c4d13f4db43f7f4",
   "events" : [
     {
       "championshipTags" : "",
@@ -1141,7 +1141,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

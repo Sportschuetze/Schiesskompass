@@ -50,10 +50,10 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "https:\/\/www.pistolenbuchs.ch\/startseite",
-    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
-    "websiteStatus" : "dead"
+    "websiteCheckedAt" : "2026-08-12T03:23:19Z",
+    "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-e3710ad9d749926c9acd52ca48b429acf427598909a1416b89ea22d03a7704ca",
+  "contentHash" : "sha256-1b9a8f3f78ae26586ceccf94be94bc1c798ae833862e9102be3ddc78a072150b",
   "events" : [
     {
       "championshipTags" : "",
@@ -86,12 +86,12 @@
       "endDate" : "2026-08-14T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sg.buchs-sg-pistolenschutzen.gruppenschiessen.2026-08-14",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
       "licenseRequired" : false,
-      "location" : "Schützenhaus Buchers Platz Training",
+      "location" : "Schützenhaus Buchers Platz",
       "participationCategory" : "",
       "requiresRegistration" : false,
       "sourceURL" : "https:\/\/www.pistolenbuchs.ch\/",
@@ -171,7 +171,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

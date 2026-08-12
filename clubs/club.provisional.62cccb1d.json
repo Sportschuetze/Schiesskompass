@@ -92,11 +92,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/schuetzen-muri-guemligen.ch\/"
   },
-  "contentHash" : "sha256-65546a8fd277133ffc309a4ea87ba5210210a9cd00a8eeed1d2341e04ae14136",
+  "contentHash" : "sha256-3a51ed3d7bce173af50f9c3776e98c9015728d478bfd9a8dc787fd63faf17e8d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

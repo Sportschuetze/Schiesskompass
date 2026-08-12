@@ -89,7 +89,7 @@
     "trainingWeekday" : "",
     "website" : "www.schiessen-grindelwald.ch"
   },
-  "contentHash" : "sha256-f4b1d81bf5ea09786538d6796136e7db21a8fbb9912f1ad40b264835e2663382",
+  "contentHash" : "sha256-03e6f0fa6a3e075c2e02337d97a8dbcfa50f2a2d131751f74aa9c1397a9b15c0",
   "events" : [
     {
       "championshipTags" : "",
@@ -161,7 +161,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

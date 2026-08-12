@@ -26,11 +26,11 @@
     "trainingWeekday" : "",
     "website" : "www.pistol-team.ch"
   },
-  "contentHash" : "sha256-6ae620de39c495759bf5276151f1a24dcb0482f6a9d93d693f4529702363b1af",
+  "contentHash" : "sha256-fde34340b5f1fa05e662aeccf5903211d69fdfa8656872d2e6861e9ee0362890",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

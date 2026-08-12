@@ -35,7 +35,7 @@
     "trainingWeekday" : "",
     "website" : "www.msschwanden.ch"
   },
-  "contentHash" : "sha256-fa9f6d257c88ed31845a7d1ea812226a910965437168b8809b4020782318e57b",
+  "contentHash" : "sha256-43fda4e859d9c0d1e657e53175386e769dc5d9983800b93703cedabeb594948b",
   "events" : [
     {
       "championshipTags" : "",
@@ -69,13 +69,13 @@
         },
         {
           "date" : "2026-08-23T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-23T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-08-28T10:00:00Z",
@@ -84,23 +84,23 @@
         },
         {
           "date" : "2026-08-29T10:00:00Z",
+          "endTime" : "20:00",
+          "startTime" : "13:00"
+        },
+        {
+          "date" : "2026-08-29T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "08:00"
         },
         {
-          "date" : "2026-08-29T10:00:00Z",
-          "endTime" : "20:00",
-          "startTime" : "13:00"
+          "date" : "2026-08-30T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-30T10:00:00Z",
           "endTime" : "17:00",
           "startTime" : "13:00"
-        },
-        {
-          "date" : "2026-08-30T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
         }
       ],
       "title" : "150 Jahr Jubiläum Militärschützen Schwanden mit sehr schönem Gabentempel"
@@ -129,7 +129,7 @@
       "title" : "Jubiläumsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 8
 }

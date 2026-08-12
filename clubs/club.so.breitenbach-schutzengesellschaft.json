@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-breitenbach.ch"
   },
-  "contentHash" : "sha256-4a7ab81180e006da105d8345ca7a8bcd99fdd82592628320c1c7dc94d473bfae",
+  "contentHash" : "sha256-f66357235968fbf733d2b8ce6eb5d49ad3c32b708be8925092a489637df5e10b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

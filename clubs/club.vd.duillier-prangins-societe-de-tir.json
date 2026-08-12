@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.tir-dp.ch\/"
   },
-  "contentHash" : "sha256-dfb1e45c8473a08ac464a3543899b056b909d6528598c19b6c7fe1db59fbc845",
+  "contentHash" : "sha256-c3e7aae39402daab2e5fe6275749a415dd694797f59b31829c8c77421a423916",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

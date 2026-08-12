@@ -74,7 +74,7 @@
     "trainingWeekday" : "",
     "website" : "www.msvspeer-laad.ch"
   },
-  "contentHash" : "sha256-798a9b324dbf3db8e7bda14e018d11fe5a0eadbe8c10a522d9251ff5e76ab0a0",
+  "contentHash" : "sha256-4c50a67fecdff9a8e0492a7a6e42937e6056bdf0dbd85cdc93cd494fa8ac8f54",
   "events" : [
     {
       "championshipTags" : "",
@@ -146,7 +146,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

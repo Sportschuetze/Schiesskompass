@@ -90,7 +90,7 @@
     "trainingWeekday" : "",
     "website" : "www.sggelterfingen.ch"
   },
-  "contentHash" : "sha256-96cdbea5d7c37d47f9f5927f24214e34a92dab795fc375e348861d614ed36cc8",
+  "contentHash" : "sha256-f50108de3438307bc7cf9aa48f5120b73dc21e76632190a923375ce5167a0081",
   "events" : [
     {
       "championshipTags" : "",
@@ -139,7 +139,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

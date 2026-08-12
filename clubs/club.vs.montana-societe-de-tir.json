@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.tir-montana.ch"
   },
-  "contentHash" : "sha256-127f62e8e9873a76af11db083cdf66d4e8e57622d3c6b2533744890430ebde3c",
+  "contentHash" : "sha256-3246b2761e205abe930a573616ccbe64fb31c113b0ab5ed2b136d7d82932c269",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

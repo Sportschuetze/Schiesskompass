@@ -33,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-obergerlafingen.ch"
   },
-  "contentHash" : "sha256-7fbb1e2274c27c244c33b8d8f89da7f18224ad412fe5dbf69e782c4c002cd52b",
+  "contentHash" : "sha256-ae605f51f383dba7662d876a724dc3a3e9a54423fd8a8a454bee0af1278e3597",
   "events" : [
     {
       "championshipTags" : "",
@@ -427,7 +427,7 @@
       "title" : "Wolftürlischiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

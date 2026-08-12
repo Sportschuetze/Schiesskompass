@@ -38,7 +38,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-1aa5de67c43c3409b90645d28dea676e0d8946344c951b9f7aa5c9e4a1b046e3",
+  "contentHash" : "sha256-f8379f0565062d4e4440df9e25bb790be6a927c4ec5f0ec5151d6fe952248276",
   "events" : [
     {
       "championshipTags" : "",
@@ -64,7 +64,7 @@
       "title" : "Frühjahresschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

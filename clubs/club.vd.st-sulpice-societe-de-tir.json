@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.tir-st-sulpice.ch"
   },
-  "contentHash" : "sha256-81bdf09d4d3e1bd64a79f50d33aac688a12bfb71a3fc32e48445e1fcd466af80",
+  "contentHash" : "sha256-dae61321a9e13f0ece70df3cfb77efa3fa70bcaf552fd46f37404a0b054e6d8e",
   "events" : [
     {
       "championshipTags" : "",
@@ -164,7 +164,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

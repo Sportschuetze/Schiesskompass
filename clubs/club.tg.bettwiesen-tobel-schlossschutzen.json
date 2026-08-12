@@ -33,11 +33,9 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.ssbt.ch",
-    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
-    "websiteStatus" : "dead"
+    "website" : "www.ssbt.ch"
   },
-  "contentHash" : "sha256-95c1c227122955a041f397d1089a4e2e8bbde9ea24cee6ebb00b0d754a919284",
+  "contentHash" : "sha256-fc7612f80567ada93a93f8265a84f34b98c768e6b12b2500225e98daab9142c2",
   "events" : [
     {
       "championshipTags" : "",
@@ -89,13 +87,13 @@
       "timeBlocks" : [
         {
           "date" : "2027-08-28T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "17:30",
+          "startTime" : "13:30"
         },
         {
           "date" : "2027-08-28T10:00:00Z",
-          "endTime" : "17:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2027-08-29T10:00:00Z",
@@ -109,13 +107,13 @@
         },
         {
           "date" : "2027-09-04T10:00:00Z",
-          "endTime" : "17:30",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:30"
         },
         {
           "date" : "2027-09-04T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:30"
+          "endTime" : "17:30",
+          "startTime" : "13:30"
         }
       ],
       "title" : "Fusionsschiessen 2027"
@@ -128,12 +126,12 @@
       "endDate" : "2026-08-15T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.tg.bettwiesen-tobel-schlossschutzen.freundschaftschiessen.2026-08-15",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
       "licenseRequired" : false,
-      "location" : "Schiessanlage Bettwiesen Freitag",
+      "location" : "Schiessanlage Bettwiesen Samstag",
       "participationCategory" : "",
       "requiresRegistration" : false,
       "sourceURL" : "https:\/\/www.ssbt.ch\/",
@@ -165,9 +163,32 @@
 
       ],
       "title" : "Fusionsschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-14T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.tg.bettwiesen-tobel-schlossschutzen.fusionsschiessen.2026-08-14",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Schiessanlage Bettwiesen Samstag",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.ssbt.ch\/",
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Fusionsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 9
 }

@@ -25,11 +25,9 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.c-s-a.ch",
-    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
-    "websiteStatus" : "dead"
+    "website" : "www.c-s-a.ch"
   },
-  "contentHash" : "sha256-219622bfd263901233e1f1f9f00c38d8dcac32e5cb94f25ff51cb2ebcb54d753",
+  "contentHash" : "sha256-05fc8e697f8dcf1a3ca316c8c8c6e8ac11c1bc6a5048216c4d8f29fd1d703c98",
   "events" : [
     {
       "championshipTags" : "",
@@ -55,7 +53,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

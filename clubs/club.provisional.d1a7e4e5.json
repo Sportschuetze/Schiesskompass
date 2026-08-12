@@ -51,7 +51,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-erlenbach-wimmis.ch"
   },
-  "contentHash" : "sha256-d53c4ace0c59930e8acc9a8157b1f14384df8e128d2f3e5c88d7ce2e40bfafb9",
+  "contentHash" : "sha256-2f33699544e2f73619c1061e9fd0d8de19671167c4ea6a34f34ddca5dd19b5f3",
   "events" : [
     {
       "championshipTags" : "",
@@ -146,7 +146,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.tir-diesse.ch"
   },
-  "contentHash" : "sha256-02d2fe833e87afbc51a08bd52ba3cb9d7dc91488aeb57721c865943a9fa019c5",
+  "contentHash" : "sha256-4c3d939348689f2ee5a37e926dc1acc8497e48effc30ec47fca3b926b82be979",
   "events" : [
     {
       "championshipTags" : "",
@@ -74,7 +74,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

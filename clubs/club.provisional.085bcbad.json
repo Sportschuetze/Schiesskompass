@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.localcities.ch\/de\/vereine\/spiez\/1669\/233182"
   },
-  "contentHash" : "sha256-a1f428d2c930e29163cb7a53a67415f970b650a8fcebd55448fffda4ee71d507",
+  "contentHash" : "sha256-e3c6f00360f1582478b025a2db5ce60a998e5deb30689ab76aaf6c10355173c7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

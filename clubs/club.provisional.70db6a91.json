@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.armes-reunies-courtelary.ch"
   },
-  "contentHash" : "sha256-4fba803611eba32988a5d1acbc89a4de607ae1f94d472a466b24921d02c688e3",
+  "contentHash" : "sha256-0b7fd930e81d7c9c25bcf231642095c896ad01f8563ec296dc28f9cb8ab88355",
   "events" : [
     {
       "championshipTags" : "",
@@ -96,7 +96,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

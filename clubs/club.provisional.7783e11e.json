@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/schuetzen-rueti-arch.ch\/"
   },
-  "contentHash" : "sha256-8557e7f1f19553a7cff600de09d582107c5abe1d62f62314f75e9c42e04ee667",
+  "contentHash" : "sha256-fba431f66253c6eac8712d790f35ca93aed48991e271830a7ebd32f35b31bdfa",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

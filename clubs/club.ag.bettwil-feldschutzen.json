@@ -34,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-bettwil.ch"
   },
-  "contentHash" : "sha256-0307c3637b084a613cebf504e49cd677c54607fb4137812cac46fe344baf74a5",
+  "contentHash" : "sha256-cfb3dc185c98cdd6af1f4a0bbdf12e2129aab10e1cb8dec16a1455f004a99250",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

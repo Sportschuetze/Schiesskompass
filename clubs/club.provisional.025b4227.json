@@ -43,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-muelchi.ch"
   },
-  "contentHash" : "sha256-1744e88422e5fb4d721446d2c462a404e9212573317615dba3117233ed5eccf0",
+  "contentHash" : "sha256-a89996a7f49ea4539e42128b03b7afd8c5b283fc94a6db89069bacc20d3bc75f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

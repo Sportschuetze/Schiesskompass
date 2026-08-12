@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.tirchabrey.ch"
   },
-  "contentHash" : "sha256-904c7e6be8322c1396ea2ecda9c3bcea3d361916f1e66eeed10c85370de49c33",
+  "contentHash" : "sha256-a1a249fa02a9db3741b5116370d0ed7e5ef4d1ca28150653919297a1da781462",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

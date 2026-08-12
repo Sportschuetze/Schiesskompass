@@ -61,6 +61,14 @@
       },
       {
         "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.gr.chur-schutzengesellschaft-der-stadt.fernschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Fernschiessen",
+        "sourceURL" : "https:\/\/sg-chur.ch\/wp-content\/uploads\/2026\/06\/Schiessprogramm-2026-v2-0.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
         "externalId" : "offering.club.gr.chur-schutzengesellschaft-der-stadt.knabenschiessen",
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
@@ -104,7 +112,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-chur.ch"
   },
-  "contentHash" : "sha256-d93e59bee5256ad2e81c209708a518cb5eeedd93465eccab323f7e1fecf53904",
+  "contentHash" : "sha256-bfa0d97b4d3d77d10e1c2a2b12940ef534e5bf06b2d8c8c1f106cf4d23dc63b1",
   "events" : [
     {
       "championshipTags" : "",
@@ -181,7 +189,7 @@
       "title" : "Feldvorschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

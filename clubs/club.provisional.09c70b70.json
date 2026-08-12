@@ -41,11 +41,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-oberkirch.ch"
   },
-  "contentHash" : "sha256-e3901d3867a0fa2896fcb3f96da9bdda2b409182d61675f82035bc13b1b24314",
+  "contentHash" : "sha256-803a4e09d6614bd293b111db32006663e9457fef9541e88833ecb29abf17ba8b",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

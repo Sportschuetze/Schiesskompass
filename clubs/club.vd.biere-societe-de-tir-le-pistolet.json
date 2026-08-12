@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.pistolet-biere.ch"
   },
-  "contentHash" : "sha256-860f5408623dda8611009a9a145ac37f9e3ad0ceba17c8d2862eb8148c5fdd9f",
+  "contentHash" : "sha256-3f405bc8389519a66344b70c822d70ba79155b488774d420b9ea3a51550598d3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

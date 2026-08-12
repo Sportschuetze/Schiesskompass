@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.psoberdorf.ch"
   },
-  "contentHash" : "sha256-9366f6724b99592f088ef68e7cb702a29b12ddec8c432e5c16956d57f9dfb5fc",
+  "contentHash" : "sha256-121a8898de7435c0a2bc6ef5986c12b8ca86e4d3b5f6763c868ac70d0ffa7cc0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

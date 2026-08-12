@@ -34,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "www.schwarzenberg-fsg.ch"
   },
-  "contentHash" : "sha256-7167eeb051aa5d0c2c474cfada33799ac6a3fa500832ee7d0f142b4bdd8e9962",
+  "contentHash" : "sha256-f58f0a439787aba3958428354193b514083e0bbe44aad180c8eea6050b00e9b1",
   "events" : [
     {
       "championshipTags" : "",
@@ -428,7 +428,7 @@
       "title" : "Standerneuerungsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -42,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgtegerfelden.ch"
   },
-  "contentHash" : "sha256-41b601130b3a595ad7c18db569d6dc6be0c8a1975acd81161bb3afaad043c2ea",
+  "contentHash" : "sha256-5828a687b760d06ce893181ecc72358b08991d1ddb1c18791847b38ffaf015b9",
   "events" : [
     {
       "championshipTags" : "",
@@ -91,7 +91,7 @@
       "title" : "Rebbergschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

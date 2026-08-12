@@ -27,11 +27,11 @@
     "trainingWeekday" : "",
     "website" : "www.ps-dietikon.ch"
   },
-  "contentHash" : "sha256-b4874c2b5f86ef5ea2ec6274f9a8ebbe21d85d11c72dbbf8cc0bfc5bf6dfc57b",
+  "contentHash" : "sha256-682b013c68f0a8aa755f2a939e8f4531167f7c89e733ceb0f45c3361ec7b4d0a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

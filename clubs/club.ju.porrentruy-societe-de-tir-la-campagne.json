@@ -47,7 +47,7 @@
     "trainingWeekday" : "",
     "website" : "www.porrentruycampagne.ch"
   },
-  "contentHash" : "sha256-e5d44397568dc10055e1eae862592c1b208341ba92cd75ca11cfbafecb84d2ca",
+  "contentHash" : "sha256-8064ea661ebffdeb2a7763b14ac460a177cfa20879f0daa742076d6554447382",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +73,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

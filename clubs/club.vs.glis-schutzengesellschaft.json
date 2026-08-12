@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.sgglis.ch"
   },
-  "contentHash" : "sha256-56bd851993b6a50b1c33fb8b306376815e2c33ea582b9c399a5df6dfe880d274",
+  "contentHash" : "sha256-e1d3e814ed112a340555e653187ffe8bba7ecbb1e6a10a3e41d9903ef65c25ac",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

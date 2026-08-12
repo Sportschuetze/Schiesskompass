@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-b75a07640870be015d7582001e5384323d2205a401133edab45f9b5f33ea82c5",
+  "contentHash" : "sha256-88c7e9b8f3a75ea64754c85cdfc50fb605e085075d8aed3162b5daa98132dd8a",
   "events" : [
     {
       "championshipTags" : "",
@@ -66,7 +66,7 @@
       "title" : "Herbstschiessen Berikon"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

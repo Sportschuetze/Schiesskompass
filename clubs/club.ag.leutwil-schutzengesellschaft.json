@@ -41,7 +41,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-leutwil.ch"
   },
-  "contentHash" : "sha256-28e7b29f629360716ab7e2926f4ac5cf45de46f3d22b44a5f8494778c2df4ccb",
+  "contentHash" : "sha256-96a70ee1fe9efc5880d0e6c0a8862b11383511e190573be7dc30901366686a10",
   "events" : [
     {
       "championshipTags" : "",
@@ -86,7 +86,7 @@
       "title" : "Wampfleschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

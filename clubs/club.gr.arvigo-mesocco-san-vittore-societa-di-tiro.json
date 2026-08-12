@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.amsv.ch"
   },
-  "contentHash" : "sha256-41b9dbabd782089eee3a220b6f73b148b20c0dc3e85a814c69dcdffb8d5cf400",
+  "contentHash" : "sha256-953a01b4aaade573a0004c55518803b49677234d0db02d828ae20ef14a392073",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

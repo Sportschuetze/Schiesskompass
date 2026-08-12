@@ -107,11 +107,11 @@
     "trainingWeekday" : "",
     "website" : "www.msv-vorderthal.ch"
   },
-  "contentHash" : "sha256-bacf9c172fd75356575149723bbabe331bba6a1ae8a585a80a1d536b39ba6f03",
+  "contentHash" : "sha256-b5c8d55bcc66b9376d710e2a7dd8bd4b53bd8f996403700024c6ebd1e27d3450",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

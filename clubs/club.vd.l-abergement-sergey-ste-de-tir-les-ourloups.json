@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.lesourloups.ch"
   },
-  "contentHash" : "sha256-f381a4ff0717f4226a0923419153c6ba80eedbe0776a7d38c410e1295e684fe2",
+  "contentHash" : "sha256-70d41136423ef635a234cb8439104236e2bf9ed7a61126f67bc5bb80bb4c75dd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

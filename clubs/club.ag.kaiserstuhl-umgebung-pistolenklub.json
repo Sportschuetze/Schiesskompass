@@ -68,11 +68,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.pistolenklub-kaiserstuhl.ch"
   },
-  "contentHash" : "sha256-9ea4070cf1e02f4fedf2d8c8e61323a2ad3a0a5d19c515388b55b9152b5accda",
+  "contentHash" : "sha256-77491cc8027c4001d3e0bf7551a9994445e9cd436a252e36015bb5a750a45a89",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

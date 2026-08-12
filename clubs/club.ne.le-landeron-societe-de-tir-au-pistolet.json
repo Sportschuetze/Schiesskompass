@@ -27,11 +27,11 @@
     "trainingWeekday" : "",
     "website" : "www.stpll.ch"
   },
-  "contentHash" : "sha256-48d07a0cc6618d6b1d4d133cebd1da526130f362315a2877c160a98c3ca04136",
+  "contentHash" : "sha256-eef7ffb2fab098f38a6a93dbd2c3402bccf3e4d8dac55a6c9254e57eb8b78b78",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

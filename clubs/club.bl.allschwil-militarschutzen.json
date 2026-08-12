@@ -57,7 +57,7 @@
     "trainingWeekday" : "",
     "website" : "www.msallschwil.ch"
   },
-  "contentHash" : "sha256-edd46a65a21be457c3dbca5239a9bb07370fac712a84b173b4d3a52707b7ff2c",
+  "contentHash" : "sha256-fc2a5509ebced67bb887db6055c8a7f36adb2647b8e49e29a6a6dddcb2f3433c",
   "events" : [
     {
       "championshipTags" : "",
@@ -83,7 +83,7 @@
       "title" : "Spanferkelschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

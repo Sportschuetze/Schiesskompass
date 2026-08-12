@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.fsunterfrittenbach.ch\/"
   },
-  "contentHash" : "sha256-4ec990c8f9217426fb34d139f0468bd4ecb02d9b20307ac9771e1f45ee0343af",
+  "contentHash" : "sha256-6db551ee0b14fc5c5cf4ce81464ebe96bb9c8f1216261e9413a2cb0891d09de7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

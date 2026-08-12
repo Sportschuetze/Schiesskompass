@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/msvbuchs.ch"
   },
-  "contentHash" : "sha256-c0b391cf0fca5fad469aae9294ee4cf6fee48823bd151cd5202f5ddadb9d537a",
+  "contentHash" : "sha256-1ff465b65b8e00ce53029f4eebc7025c875ebecdfca941fef13af4af931ace35",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

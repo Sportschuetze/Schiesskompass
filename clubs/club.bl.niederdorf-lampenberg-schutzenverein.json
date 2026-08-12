@@ -49,7 +49,7 @@
     "trainingWeekday" : "",
     "website" : "www.sv-niederdorf-lampenberg.ch"
   },
-  "contentHash" : "sha256-30081fcbfe809f75740695103db50e87b5ec07abf57b0d320e4ae62d452a8d5d",
+  "contentHash" : "sha256-6f28d13d7aaefcd4980b3b19b37af9dc7da72aea6ff6373b4bcac1aad0873eda",
   "events" : [
     {
       "championshipTags" : "",
@@ -305,7 +305,7 @@
       "title" : "ZWISCHENFLÜHSCHIESSEN"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

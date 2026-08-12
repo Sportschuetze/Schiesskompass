@@ -39,7 +39,7 @@
     "trainingWeekday" : "",
     "website" : "www.scharfschuetzen-basel.ch\/"
   },
-  "contentHash" : "sha256-2ee6429e6c29198b6f054e12a6a3f030e3507c5fa0aa633ac98e35ca6963866c",
+  "contentHash" : "sha256-90183c17af258dc1b438a0f950a7b7ab9ed1a529fa7d49e73a651d60f8876e56",
   "events" : [
     {
       "championshipTags" : "",
@@ -109,6 +109,52 @@
 
       ],
       "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-21T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.bs.basel-scharfschutzen-gesellschaft.efs.2026-08-21",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.scharfschuetzen-basel.ch\/files\/documents%20%C3%B6ffentlich\/2026\/Saison%202026.pdf",
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-09-12T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.bs.basel-scharfschutzen-gesellschaft.herbstschiessen.2026-09-12",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Bettinger Herbstschiessen Sa",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.scharfschuetzen-basel.ch\/files\/documents%20%C3%B6ffentlich\/2026\/Saison%202026.pdf",
+      "startDate" : "2026-09-12T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Herbstschiessen"
     },
     {
       "championshipTags" : "",
@@ -253,6 +299,29 @@
       "countsForAnnualChampionship" : false,
       "dataSource" : "clubWebsite",
       "discipline" : "",
+      "endDate" : "2026-09-12T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.bs.basel-scharfschutzen-gesellschaft.op.2026-09-12",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Bettinger Herbstschiessen Sa",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.scharfschuetzen-basel.ch\/files\/documents%20%C3%B6ffentlich\/2026\/Saison%202026.pdf",
+      "startDate" : "2026-09-12T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
       "endDate" : "2026-09-20T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.bs.basel-scharfschutzen-gesellschaft.op.2026-09-20",
@@ -295,7 +364,7 @@
       "title" : "Pistolenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

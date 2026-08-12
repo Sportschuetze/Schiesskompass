@@ -35,7 +35,7 @@
     "trainingWeekday" : "",
     "website" : "www.psv-stadel.ch"
   },
-  "contentHash" : "sha256-107935ec77abd17d520ed27e15c5f66cec3a2939569d4d0b119e2cb148022c99",
+  "contentHash" : "sha256-7b9fe6640a513bb4ea9423d2f18607c5af3b323499f13bb50dac5da7325f0a25",
   "events" : [
     {
       "championshipTags" : "",
@@ -153,7 +153,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

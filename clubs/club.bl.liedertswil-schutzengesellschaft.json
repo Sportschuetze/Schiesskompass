@@ -145,7 +145,7 @@
     "trainingWeekday" : "",
     "website" : "www.bsvwaldenburg.ch"
   },
-  "contentHash" : "sha256-6e100c68a7b0c41d136ba65224231de63e4a7fb6598772f3297c0358cf925a4d",
+  "contentHash" : "sha256-b94f203a59e631f978ebd733ca915e8247dcbc524df1185f31b4035765f76ce5",
   "events" : [
     {
       "championshipTags" : "",
@@ -171,7 +171,7 @@
       "title" : "Rifensteinschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

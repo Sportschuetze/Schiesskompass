@@ -118,7 +118,7 @@
     "trainingWeekday" : "",
     "website" : "www.isvhr.ch"
   },
-  "contentHash" : "sha256-8bf20b6954b6f207a2a5eeca9052e12d9cacf0f69bc11bf247cf735f9fa49975",
+  "contentHash" : "sha256-58de4a49ddeb39f6de0862c55ebcf05d10c56cde1ef3b4fbbc7437eb8cb0a9e7",
   "events" : [
     {
       "championshipTags" : "",
@@ -255,7 +255,7 @@
       "title" : "Rehalpschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

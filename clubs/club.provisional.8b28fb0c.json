@@ -53,7 +53,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgstaefa.ch"
   },
-  "contentHash" : "sha256-4e3436b0b0ffed604069e0b75d9fa6f1ae88e844132e1de9e15d819a8f7aedee",
+  "contentHash" : "sha256-34df9e0f31740101d987b605158f1ed37c7c7acd27760756a2ef72f56dca8aba",
   "events" : [
     {
       "championshipTags" : "",
@@ -122,7 +122,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 8
 }

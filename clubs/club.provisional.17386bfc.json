@@ -60,11 +60,11 @@
     "trainingWeekday" : "",
     "website" : "www.psursenbach.ch"
   },
-  "contentHash" : "sha256-bbe5dea3d594f2f198c2a9d2c58e448a1d8dcac0091c25fae8f26a8a1a48a6b9",
+  "contentHash" : "sha256-aec6f56cf078b2b51642d2813785b10fd434673163ed188d6df9a1f174a438ee",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

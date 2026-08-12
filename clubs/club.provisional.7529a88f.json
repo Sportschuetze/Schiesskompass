@@ -60,11 +60,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsv-luzern.ch"
   },
-  "contentHash" : "sha256-5eec2bf7e8892b85f3b14f9828c3d9c04bedc41599a01466aefe117d3652379f",
+  "contentHash" : "sha256-86b2194a598c6834d0d7c4c102d07d7d076c68740d1d4afadd831b24e271e462",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

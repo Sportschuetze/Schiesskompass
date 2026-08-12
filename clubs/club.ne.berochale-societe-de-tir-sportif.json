@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "tir-beroche.ch"
   },
-  "contentHash" : "sha256-d8e678109bb3aab7fae3849209d5bfa9694833667ec046f43745883c1e18fcd1",
+  "contentHash" : "sha256-4a1622dc28e0cbfce29d8e32b6e8c8c01b4328ca25a159c9c4a84307d624b23e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

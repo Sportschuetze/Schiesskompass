@@ -41,11 +41,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsgbilten.ch"
   },
-  "contentHash" : "sha256-4f481f1bc1a488a0c17632cf0c420e095b103d6cb505674d654f2033f9d4c414",
+  "contentHash" : "sha256-2d58837fe0bb19995b124220c6b23c586b953bbd0c9dafbe812c5ec7e196ec0d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

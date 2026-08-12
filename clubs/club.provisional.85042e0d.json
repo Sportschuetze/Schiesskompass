@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a068f0c3dfb2e74119256a493fc8fd29cf714f6a6ac558e1e0dbb5a4537fda7a",
+  "contentHash" : "sha256-bf8058e55d4f696d62e13c8a7a5c1c7d8d61215c20dbfa5dfd15d9ea0296bc86",
   "events" : [
     {
       "championshipTags" : "",
@@ -60,7 +60,7 @@
       "title" : "Kreissommerschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

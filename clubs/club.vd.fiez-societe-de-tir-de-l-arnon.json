@@ -23,14 +23,14 @@
     "trainingStartTime" : "",
     "trainingWeekday" : "",
     "website" : "http:\/\/tir-arnon.ch\/",
-    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
+    "websiteCheckedAt" : "2026-08-12T03:23:19Z",
     "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-fb362a31633bff654f52ebdc6ef06d45a09012e041b7ae212652b8faa1c8a2e3",
+  "contentHash" : "sha256-3fbe9c74a4dcf5c6f246d57f3a5f13e2c04f4904125e0470d16d3b48a3ffc4ec",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

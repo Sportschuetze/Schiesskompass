@@ -26,7 +26,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0dd779b4ef22c72b570686498485d57041113cd701f92e9fba9d83e9ab169ff6",
+  "contentHash" : "sha256-33d3cc6e540be3a6924ae58ea3221aa9cf51a206f51cb34c49a3fe62947a20c4",
   "events" : [
     {
       "championshipTags" : "",
@@ -97,7 +97,7 @@
       "title" : "24. Lupi-Match Züri-Oberland 2026"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

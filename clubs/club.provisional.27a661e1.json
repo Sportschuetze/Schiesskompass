@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-21b1e0ecf8e47f22805a0a986f098f96c5db8d3d51cd64bf5b9ca27146b3cae7",
+  "contentHash" : "sha256-92aecfc34a68fb1caef1da84c8d288ff9e3b62af2b66ef6f7fbc182e51be11b2",
   "events" : [
     {
       "championshipTags" : "",
@@ -94,7 +94,7 @@
       "title" : "Kreiswinterschiessen KSVA 2026"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

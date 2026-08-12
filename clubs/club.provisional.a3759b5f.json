@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-990bde12316d71c3c87afdf2dc0947c406b602c0f20980338b9bbacb17544422",
+  "contentHash" : "sha256-06eb9107865a0fdb4aecbd9cde8044020e6e9979bdac3b61af7dff1a9165a731",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,7 +48,7 @@
       "title" : "1. Augustschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

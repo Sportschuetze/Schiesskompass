@@ -32,10 +32,26 @@
       },
       {
         "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.birmenstorf-schutzengesellschaft.muhlescheerwettschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Mühlescheerwettschiessen",
+        "sourceURL" : "https:\/\/sgbirmenstorf.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.birmenstorf-schutzengesellschaft.behoerdenschiessen",
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "behoerdenschiessen",
+        "sourceURL" : "https:\/\/sgbirmenstorf.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.birmenstorf-schutzengesellschaft.muehlescheerwettschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "muehlescheerwettschiessen",
         "sourceURL" : "https:\/\/sgbirmenstorf.ch\/"
       }
     ],
@@ -51,11 +67,11 @@
     "trainingWeekday" : "",
     "website" : "www.sgbirmenstorf.ch"
   },
-  "contentHash" : "sha256-6510a20a0ea8229f40871f835ae78c84f24705ce94c6a9753e9cf0c97e110ec7",
+  "contentHash" : "sha256-f94461f030bab320caf4d9f688ee8fdae80bba3c37220b9b7d24d0e71fa76238",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

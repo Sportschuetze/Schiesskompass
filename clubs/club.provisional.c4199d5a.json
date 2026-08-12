@@ -34,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-wetzikon.ch"
   },
-  "contentHash" : "sha256-16864576baa9cf34c8290f1633ff9a4dfa242a04d693a92c41b4d0debd9620fc",
+  "contentHash" : "sha256-63072f42c27fddeb998b41e7f4107aa60b87639d1d8647b20f663074d0345a74",
   "events" : [
     {
       "championshipTags" : "",
@@ -244,7 +244,7 @@
       "title" : "Volksschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

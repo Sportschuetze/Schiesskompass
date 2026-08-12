@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-arboldswil.ch"
   },
-  "contentHash" : "sha256-89d6e53296246d611de54f9ec56243482518d6ca84d2eb98fb4bbc5d8a959cdc",
+  "contentHash" : "sha256-cf107bc441e015cccb11eae4e50ce42b71d4430a51b946f31d0c4d6e3454a421",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +73,7 @@
       "title" : "Mönchsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

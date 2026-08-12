@@ -53,7 +53,7 @@
     "trainingWeekday" : "",
     "website" : "www.pistolenruethi.ch"
   },
-  "contentHash" : "sha256-3249dbb4251be2f5eae18497a14fd1f1ca15739a9cc3856dc4c1faea2e227f99",
+  "contentHash" : "sha256-d4686d58998dd04eedbd1d2c4840fdcd64d095e47e947602f91805f53aa443d4",
   "events" : [
     {
       "championshipTags" : "",
@@ -187,7 +187,7 @@
       "title" : "50. Rheintaler-Luftpistolenmeisterschaft mit Auflageschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 9
 }

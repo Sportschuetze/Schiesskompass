@@ -26,11 +26,11 @@
     "trainingWeekday" : "",
     "website" : "www.psrorbas.ch"
   },
-  "contentHash" : "sha256-acabb58e6dc8ce02074d5bcd0a22f334399736420947e287813ebea7c726fa3a",
+  "contentHash" : "sha256-af04097b1d5e8f1c28eb6e6346498f7c2d7ba0fda76e8de2fea03a29a02543db",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

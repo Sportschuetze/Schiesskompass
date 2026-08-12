@@ -99,7 +99,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-melchnau.ch\/"
   },
-  "contentHash" : "sha256-73ce3ca2dcd32dc820536e85dfa7b5c83c0482db3aa84b0f820b42938df3b671",
+  "contentHash" : "sha256-291ffa4930cddf4ebe49a07f013ef8782fb2b9fb6057b80a9196778483ed229c",
   "events" : [
     {
       "championshipTags" : "",
@@ -148,7 +148,7 @@
       "title" : "Schnupperschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

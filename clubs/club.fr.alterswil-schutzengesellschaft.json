@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.sgalterswil.ch"
   },
-  "contentHash" : "sha256-37aca711cf3ca132b6d5b678ad39abc384f90e552a67a96512e145f34b29b34d",
+  "contentHash" : "sha256-6c88db0eaa8d70e9af7b843a77ad1ad3fddb7d3165d87a79eca7b235f68cf6c3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

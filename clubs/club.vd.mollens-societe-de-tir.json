@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.tir-mollens.com"
   },
-  "contentHash" : "sha256-323c86a80abb014190400f744ff3cec435b49c643ecfa116bcdccff29c2be65c",
+  "contentHash" : "sha256-815c6518605b425bc83b51ee6b143e2fe1e91a6168260022921181093399a9e2",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

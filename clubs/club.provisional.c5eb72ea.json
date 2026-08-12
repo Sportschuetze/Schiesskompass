@@ -81,7 +81,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-rueti.ch"
   },
-  "contentHash" : "sha256-562bbdef0bfb6d2470200ea03731b44777e1c87f51797cebc007b29d7af9ffcf",
+  "contentHash" : "sha256-6ed339ce726a16a5b8eee6514f5ced235f6b4054b49c3d151d3b6c493f770f6c",
   "events" : [
     {
       "championshipTags" : "",
@@ -107,7 +107,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

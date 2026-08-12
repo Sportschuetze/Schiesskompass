@@ -67,7 +67,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-wynigen.ch"
   },
-  "contentHash" : "sha256-3be18c1097762ad181d07ca8d1e98c7f8b6629aabee1cb55766368ead8165e5a",
+  "contentHash" : "sha256-1ca6df555102fb4ca6f3fd4c3cfd8b443b5a21bc740f65b073e3bb14c9eb7d41",
   "events" : [
     {
       "championshipTags" : "",
@@ -185,7 +185,7 @@
       "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

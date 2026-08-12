@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.msv-oberembrach.ch"
   },
-  "contentHash" : "sha256-cfdbd66d22bfc8640c9c10c12e7e1fc2edf424b54132498ba4ef2940b7dd1f58",
+  "contentHash" : "sha256-eafa87163c0af39d375ae3fe6694d782dfd68011b12d90e8f4ad00b567409bcf",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

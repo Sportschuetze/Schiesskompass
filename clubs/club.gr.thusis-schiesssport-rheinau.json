@@ -76,7 +76,7 @@
     "trainingWeekday" : "",
     "website" : "www.ssp-rheinau.ch"
   },
-  "contentHash" : "sha256-569c7ebb1a3bae67d63326ad0f7bba7833ab8a2acd06159dbe0488b46931648d",
+  "contentHash" : "sha256-a21779238fbf06175553cf4c6a5f5ac305aa2b84bb5452efbf41c27a419e9dc2",
   "events" : [
     {
       "championshipTags" : "",
@@ -171,7 +171,7 @@
       "title" : "Viamalaschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

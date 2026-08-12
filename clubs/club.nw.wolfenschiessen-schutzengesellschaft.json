@@ -194,7 +194,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgwolfenschiessen.ch"
   },
-  "contentHash" : "sha256-52b618674163fafe550f3e42bc2861aa5944e297fd099dadf32419b36e43bd28",
+  "contentHash" : "sha256-1b2aec6b1faba80ff69bd8add8043a4fe99813680e09545755dd26fcaf90ba51",
   "events" : [
     {
       "championshipTags" : "",
@@ -381,7 +381,7 @@
       "title" : "Wolfenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

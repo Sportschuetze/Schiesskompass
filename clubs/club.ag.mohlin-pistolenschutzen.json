@@ -68,7 +68,7 @@
     "trainingWeekday" : "",
     "website" : "www.ps-moehlin.ch"
   },
-  "contentHash" : "sha256-acacbdaf17ec89b4aa59b34c1385eb67ca1917c0507d4e6c69307be30969a641",
+  "contentHash" : "sha256-3bf5c6673a19a78a56dda87f69f8b4dfb59264e0c52db0b122d745bac3587413",
   "events" : [
     {
       "championshipTags" : "",
@@ -209,7 +209,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

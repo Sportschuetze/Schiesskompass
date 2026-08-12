@@ -29,6 +29,14 @@
       },
       {
         "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.auflageschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Auflageschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.1350b537.augustschiessen",
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
@@ -45,10 +53,26 @@
       },
       {
         "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.chilbischiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Chilbischiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.1350b537.einzelwettschiessen",
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.fasnachtsschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Fasnachtsschiessen",
         "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
       },
       {
@@ -77,6 +101,30 @@
       },
       {
         "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.gutlischiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Gütlischiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.jubilaumsstich",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsstich",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.1350b537.kniendstich",
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
@@ -93,10 +141,26 @@
       },
       {
         "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.landesteilschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Landesteilschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.1350b537.michaelsschiessen",
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Michaelsschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.nachschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Nachschiessen",
         "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
       },
       {
@@ -113,6 +177,14 @@
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Reppischtalschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.rotseeschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Rotseeschiessen",
         "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
       },
       {
@@ -157,6 +229,14 @@
       },
       {
         "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.valentinsschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Valentinsschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.1350b537.vereinsstich",
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
@@ -169,6 +249,14 @@
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Vereinswettschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.vindonissaschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Vindonissaschiessen",
         "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
       },
       {
@@ -186,6 +274,14 @@
         "isUnverified" : true,
         "name" : "Weggenschiessen",
         "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.provisional.1350b537.winterschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Winterschiessen",
+        "sourceURL" : "https:\/\/www.svadliswil.ch\/assets\/files\/docs\/gewehr\/SVA-JahresProgramm-2026-Gewehr.pdf?20170504"
       }
     ],
     "seasonEndDay" : 31,
@@ -200,7 +296,7 @@
     "trainingWeekday" : "",
     "website" : "www.svadliswil.ch"
   },
-  "contentHash" : "sha256-73f4c663fe4ad40ba19b047465749d2758bfc4863dbe605d00df4ecbe9ec023f",
+  "contentHash" : "sha256-c4fd3388f926fd176272735b8ffc1b3769fbb6d3c555811e6fa0f04a32cac3b2",
   "events" : [
     {
       "championshipTags" : "",
@@ -269,12 +365,12 @@
         },
         {
           "date" : "2026-08-05T10:00:00Z",
-          "endTime" : "20:00",
+          "endTime" : "19:00",
           "startTime" : "16:00"
         },
         {
           "date" : "2026-08-05T10:00:00Z",
-          "endTime" : "19:00",
+          "endTime" : "20:00",
           "startTime" : "16:00"
         },
         {
@@ -707,7 +803,7 @@
       "title" : "Weggenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 9
 }

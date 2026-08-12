@@ -28,7 +28,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-ddf5c87b754faef2a06d6216e16db21cc220431e36db0549af2ef94338f93ad0",
+  "contentHash" : "sha256-3e80b3ac5ef423faa505aa29e92d26ea6ccf3f2c27783d0896104a9430d625bd",
   "events" : [
     {
       "championshipTags" : "",
@@ -79,7 +79,7 @@
       "title" : "39. Josefi - Gruppenschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 7
 }

@@ -22,15 +22,13 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.polizeischuetzen-chur.ch",
-    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
-    "websiteStatus" : "dead"
+    "website" : "www.polizeischuetzen-chur.ch"
   },
-  "contentHash" : "sha256-4b77e873c4bbe771499054a40694e7c4446fb3addec8c0ebf3209b4a2ecb8c14",
+  "contentHash" : "sha256-ad44da16ef0fea55a3d9fe1c5b19d6859dea0d0f43b01e69d9dddbdae50da49a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

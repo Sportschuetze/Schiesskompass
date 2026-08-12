@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "vereine-bertschikon.ch\/Homepage.htm"
   },
-  "contentHash" : "sha256-4d7244b883b9e5b17af0d6cc96946141bb66d476042eb1725137fe9e2659d4a6",
+  "contentHash" : "sha256-783eeb47c326d8e69f5fb359842bcc89e9810c10b946fa78a902a32d0ec1275a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

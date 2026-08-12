@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-kroeschenbrunnen.ch"
   },
-  "contentHash" : "sha256-ed4bd7d240efdc05a51ba65c541447474446d6ce9986075de360d72deb4f1525",
+  "contentHash" : "sha256-34098735d88eaa65b9c54e6a4da18ac613fed7865f9898c796d81a1761395685",
   "events" : [
     {
       "championshipTags" : "",
@@ -50,7 +50,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

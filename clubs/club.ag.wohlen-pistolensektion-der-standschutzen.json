@@ -221,7 +221,7 @@
     "trainingWeekday" : "",
     "website" : "www.pswohlen.ch"
   },
-  "contentHash" : "sha256-bfc94f468fc5522ca2feb77802d367a772f5615a45c2a1b010a64feae176c4c6",
+  "contentHash" : "sha256-ea3a451a1a2023950ab42de204da90a7cb50681daf50c4eb9ff9f54aa93a2807",
   "events" : [
     {
       "championshipTags" : "",
@@ -776,7 +776,7 @@
       "title" : "Überfallschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

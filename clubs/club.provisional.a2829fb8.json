@@ -45,11 +45,11 @@
     "trainingWeekday" : "",
     "website" : "www.pcflurlingen.ch\/"
   },
-  "contentHash" : "sha256-63560f2308033d890d97f2dd4b4664e58d2eb12d302370c1fec94b546d2a7a89",
+  "contentHash" : "sha256-65278e249e7ba243f31296558b24676bc0868d7758b70f99795c735d913300f1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

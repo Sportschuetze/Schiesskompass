@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.tctramelan.com"
   },
-  "contentHash" : "sha256-181f48edc89c550e56035150a5745c5063f52d5d1b947d81a31eb56368566938",
+  "contentHash" : "sha256-23f25e84fdf61e816107492cdac0b33c9f745b87277d0cc88ec1875c432b4a99",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +73,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

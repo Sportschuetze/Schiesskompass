@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-d2ae44b8dd1c51dd11d3641926dea1df9805ff44f498e99c7f2dadf324baa8c5",
+  "contentHash" : "sha256-5dad69a24e84df70a68e25118a111a0a7345689937759386b23e06cbbed0123c",
   "events" : [
     {
       "championshipTags" : "",
@@ -65,7 +65,7 @@
       "title" : "15. Winterthurer Liegendmatch"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -36,11 +36,11 @@
     "trainingWeekday" : "",
     "website" : "www.sgsteinhausen.ch"
   },
-  "contentHash" : "sha256-e14735f3efdc9abd22e46ada1313dbe5a7f6602f87996954a848d8db9715e624",
+  "contentHash" : "sha256-f6126eab7de6dcd49b4ed80afa16268168bb5c1f183000f6f83dd8189d180140",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

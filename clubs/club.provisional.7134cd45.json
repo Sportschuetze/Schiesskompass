@@ -61,7 +61,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-089932bace685227751601f5f44cac0f9abe0dc926ac4a35f38fae729956fb7e",
+  "contentHash" : "sha256-aa6bd31bae1e740ebad44e205ef677aff707d436f7259fcd80a79da57e0eda5a",
   "events" : [
     {
       "championshipTags" : "",
@@ -80,6 +80,11 @@
       "timeBlocks" : [
         {
           "date" : "2026-09-13T10:00:00Z",
+          "endTime" : "12:00",
+          "startTime" : "08:00"
+        },
+        {
+          "date" : "2026-09-13T10:00:00Z",
           "endTime" : "16:00",
           "startTime" : "13:00"
         },
@@ -94,14 +99,9 @@
           "startTime" : "13:00"
         },
         {
-          "date" : "2026-09-13T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
-        },
-        {
           "date" : "2026-10-04T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-10-04T10:00:00Z",
@@ -115,8 +115,8 @@
         },
         {
           "date" : "2026-10-04T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         }
       ],
       "title" : "Unterland-Tournee 2026"
@@ -306,7 +306,7 @@
       "title" : "Volksschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 9
 }

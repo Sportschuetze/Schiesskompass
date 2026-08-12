@@ -16,26 +16,26 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.buchthalen-schiessverein.chilbischiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
         "isUnverified" : true,
         "name" : "Chilbischiessen",
-        "sourceURL" : "https:\/\/svbuchthalen.ch\/wp-content\/uploads\/2026\/05\/SVB_Programm-2026-Final.pdf"
+        "sourceURL" : "https:\/\/svbuchthalen.ch\/"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.buchthalen-schiessverein.eroffnungsschiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
         "isUnverified" : true,
         "name" : "Eröffnungsschiessen",
-        "sourceURL" : "https:\/\/svbuchthalen.ch\/wp-content\/uploads\/2026\/05\/SVB_Programm-2026-Final.pdf"
+        "sourceURL" : "https:\/\/svbuchthalen.ch\/"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.sh.buchthalen-schiessverein.standerneuerungsschiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
         "isUnverified" : true,
         "name" : "Standerneuerungsschiessen",
-        "sourceURL" : "https:\/\/svbuchthalen.ch\/wp-content\/uploads\/2026\/05\/SVB_Programm-2026-Final.pdf"
+        "sourceURL" : "https:\/\/svbuchthalen.ch\/"
       }
     ],
     "seasonEndDay" : 31,
@@ -50,7 +50,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/svbuchthalen.ch"
   },
-  "contentHash" : "sha256-c8c04e4cf7013563b44ef7b9a4879b85420f73eae8cd465e989327cb5b6f384e",
+  "contentHash" : "sha256-06d7dda53e80b798c759b9dafb873d85a4053e961b512c30ba38147e03dbd342",
   "events" : [
     {
       "championshipTags" : "",
@@ -129,7 +129,7 @@
       "endDate" : "2026-07-15T10:00:00Z",
       "eventType" : "fieldShooting",
       "externalId" : "vereinsweb.club.sh.buchthalen-schiessverein.efs.2026-07-15",
-      "fetchedAt" : "2026-08-08T06:17:47Z",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -137,7 +137,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "https:\/\/svbuchthalen.ch\/wp-content\/uploads\/2026\/05\/SVB_Programm-2026-Final.pdf",
+      "sourceURL" : "https:\/\/svbuchthalen.ch\/",
       "startDate" : "2026-07-15T10:00:00Z",
       "timeBlocks" : [
 
@@ -382,7 +382,7 @@
       "endDate" : "2026-07-15T10:00:00Z",
       "eventType" : "obligatory",
       "externalId" : "vereinsweb.club.sh.buchthalen-schiessverein.op.2026-07-15",
-      "fetchedAt" : "2026-08-08T06:17:47Z",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -390,7 +390,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "https:\/\/svbuchthalen.ch\/wp-content\/uploads\/2026\/05\/SVB_Programm-2026-Final.pdf",
+      "sourceURL" : "https:\/\/svbuchthalen.ch\/",
       "startDate" : "2026-07-15T10:00:00Z",
       "timeBlocks" : [
 
@@ -405,7 +405,7 @@
       "endDate" : "2026-07-15T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.sh.buchthalen-schiessverein.standerneuerungsschiessen.2026-07-15",
-      "fetchedAt" : "2026-08-08T06:17:47Z",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -413,7 +413,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "https:\/\/svbuchthalen.ch\/wp-content\/uploads\/2026\/05\/SVB_Programm-2026-Final.pdf",
+      "sourceURL" : "https:\/\/svbuchthalen.ch\/",
       "startDate" : "2026-07-15T10:00:00Z",
       "timeBlocks" : [
 
@@ -467,7 +467,7 @@
       "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -27,7 +27,7 @@
     "trainingWeekday" : "",
     "website" : "ps-winterthur.ch"
   },
-  "contentHash" : "sha256-256d0459a646ad22f45522bb97eeff391b71cab9c420741144eb81d1fe2fbcf7",
+  "contentHash" : "sha256-8b9f9f830eac08033d55451a60d6179644c7d02bcbc50dbf91de8ebebd658c6b",
   "events" : [
     {
       "championshipTags" : "",
@@ -76,7 +76,7 @@
       "title" : "Revolverschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

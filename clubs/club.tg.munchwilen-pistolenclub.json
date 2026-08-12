@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0dfaa5ff24e6b780d9e3639901b4966186af2c4e0d1911e680c5eaaa8189bb57",
+  "contentHash" : "sha256-be804fd9e4658ea2c2e9498f0afc8a72293240046e1b135f697237d834518edc",
   "events" : [
     {
       "championshipTags" : "",
@@ -86,7 +86,7 @@
       "title" : "6. Murgschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 7
 }

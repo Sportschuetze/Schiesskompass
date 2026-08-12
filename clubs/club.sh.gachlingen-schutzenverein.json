@@ -50,7 +50,7 @@
     "trainingWeekday" : "",
     "website" : "www.sv-gaechlingen.ch"
   },
-  "contentHash" : "sha256-5dea5ff81e97238a1f1e126d162a2c3a2d68a02d0768c9168cd8b1af1a9b478f",
+  "contentHash" : "sha256-5f39693cb22b7121c52f932794ecb9500dcd85b7d918c99c9f5f63a03283e73d",
   "events" : [
     {
       "championshipTags" : "",
@@ -76,7 +76,7 @@
       "title" : "Goldsiegelschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

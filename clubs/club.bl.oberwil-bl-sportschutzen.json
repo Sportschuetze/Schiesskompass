@@ -60,7 +60,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.sportschuetzen-oberwil.ch\/"
   },
-  "contentHash" : "sha256-eeb319737d30fb07c8cda16ea51187989d48b186f2e5b05b22d7fb50e1fad60d",
+  "contentHash" : "sha256-47c7f0c2405146e1bbae13295ee907d6c4db55657b38c5381314a9953ac6a4b0",
   "events" : [
     {
       "championshipTags" : "",
@@ -109,7 +109,7 @@
       "title" : "Volksschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

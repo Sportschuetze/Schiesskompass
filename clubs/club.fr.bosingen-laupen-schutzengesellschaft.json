@@ -19,6 +19,14 @@
         "isUnverified" : true,
         "name" : "Laupenschiessen",
         "sourceURL" : "https:\/\/www.sgboesingen-laupen.ch\/wp-content\/uploads\/2026\/01\/Jahresprogramm-SG-Boesingen-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.fr.bosingen-laupen-schutzengesellschaft.freundschaftsschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "freundschaftsschiessen",
+        "sourceURL" : "https:\/\/www.sgboesingen-laupen.ch\/wp-content\/uploads\/2026\/01\/Jahresprogramm-SG-Boesingen-2026.pdf"
       }
     ],
     "seasonEndDay" : 31,
@@ -33,7 +41,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgboesingen-laupen.ch"
   },
-  "contentHash" : "sha256-3821ccf6e0d018a137047af0dda48e72a359deaacff5072c1bb4746dce3d2ae8",
+  "contentHash" : "sha256-58fce03c17f82aa8c80a8050c6d3664663963ddfec9fc85bce3a642cf64c613a",
   "events" : [
     {
       "championshipTags" : "",
@@ -634,7 +642,7 @@
       "title" : "Schlussschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

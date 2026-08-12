@@ -27,7 +27,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-51a379da085878f1a9a50df0872bc91fdfa293995959a1bb2c309a0846c7ad39",
+  "contentHash" : "sha256-8cf659b715d338ec8a9fcecba293bcdcd2b0842cb91a5167e6520ccd7f6364db",
   "events" : [
     {
       "championshipTags" : "",
@@ -68,7 +68,7 @@
       "title" : "St. German Schiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

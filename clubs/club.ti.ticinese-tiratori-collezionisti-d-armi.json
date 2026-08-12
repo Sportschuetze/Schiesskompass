@@ -26,11 +26,11 @@
     "trainingWeekday" : "",
     "website" : "www.attca.ch"
   },
-  "contentHash" : "sha256-fb0c47990084d52561761becbb44455d078ac052e21f2e0743da097010466dae",
+  "contentHash" : "sha256-9146f25c700cc9b3ea1ab2fb0a1391976c3337f2686ce94d55e0df13682458f4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

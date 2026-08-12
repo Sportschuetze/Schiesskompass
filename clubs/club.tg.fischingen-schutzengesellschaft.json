@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0299aa38917aef97e303ffe659de6e17ffef0aadcdda3c0391d8a8bb61e2a3a1",
+  "contentHash" : "sha256-a62e56b73e5a5181d687f2c45d1ea2128b112ea08870cdd0d65b37573d791f2c",
   "events" : [
     {
       "championshipTags" : "",
@@ -80,7 +80,7 @@
       "title" : "Jubiläumsschiessen 150 Jahre Schützengesellschaft Fischingen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 6
 }

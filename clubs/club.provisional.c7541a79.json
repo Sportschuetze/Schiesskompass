@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.fs-stettlen-deisswil.ch\/"
   },
-  "contentHash" : "sha256-519867336f6a27d08dc1c28b74914d59c919904b1bd91dc96fc826edf65dae7c",
+  "contentHash" : "sha256-4a7bd2f263f2c190ca834500e685850acd88414bb6c9a6bad312dbb6742a51c9",
   "events" : [
     {
       "championshipTags" : "",
@@ -166,7 +166,7 @@
       "title" : "nFeldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

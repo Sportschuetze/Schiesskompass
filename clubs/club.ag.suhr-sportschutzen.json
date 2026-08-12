@@ -42,11 +42,11 @@
     "trainingWeekday" : "",
     "website" : "www.sportschützensuhr.ch"
   },
-  "contentHash" : "sha256-5b31500dbb144dac0ae81d936674134c068b47787101b621eac4a14c872bdb2d",
+  "contentHash" : "sha256-c95a9e9506a59c961894ee29bf224eaa4213197c51b3615db5f1bf3fb535ffd4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

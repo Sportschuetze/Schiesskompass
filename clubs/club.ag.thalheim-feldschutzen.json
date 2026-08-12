@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-thalheim.ch"
   },
-  "contentHash" : "sha256-c69a434462836e261eb9c5b086ebfedd10c07c06d2cd7a8220b7ed3677894868",
+  "contentHash" : "sha256-675d2ea42d37a6a28b13b707d76f9a95a28d4a7ec03bbafe53a5fa8cd62be851",
   "events" : [
     {
       "championshipTags" : "",
@@ -99,7 +99,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

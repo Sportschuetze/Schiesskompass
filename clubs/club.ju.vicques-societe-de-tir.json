@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.tir-vicques.com\/"
   },
-  "contentHash" : "sha256-6862e425df49c4c4ae568d284bf493b46c2f2e798cd1f1c9cbd8279ea477a95e",
+  "contentHash" : "sha256-ab605a10c0805ae88becc1bdad70b895f857599ab7a94f5e1ac0317109e8468c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

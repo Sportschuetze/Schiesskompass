@@ -36,7 +36,7 @@
     "trainingWeekday" : "",
     "website" : "www.uov-zug.ch\/schiesssektion"
   },
-  "contentHash" : "sha256-21581e63f877fae475a31b693b0adeeecabce53b53b120fa2d2f5299fd5b0ea7",
+  "contentHash" : "sha256-8df18a900aef2d8ebeafe104f8af8ef28ff3adc0aa70efe659d17363c573aa3d",
   "events" : [
     {
       "championshipTags" : "",
@@ -85,7 +85,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

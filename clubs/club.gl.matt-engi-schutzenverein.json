@@ -65,7 +65,7 @@
     "trainingWeekday" : "",
     "website" : "www.sv-matt-engi.ch"
   },
-  "contentHash" : "sha256-40fb395d3ff5db4ade57f2b91dd651e8b1c4d5525f9b90ef2b0a6d5b7f4543db",
+  "contentHash" : "sha256-5bfcc61867e83a15cf27bc884c5079ef28a8fc629e582c3bf5c3e3aefbf0f5de",
   "events" : [
     {
       "championshipTags" : "",
@@ -482,7 +482,7 @@
       "title" : "Vorbachschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

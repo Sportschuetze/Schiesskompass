@@ -51,11 +51,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.ps-appenzell.ch"
   },
-  "contentHash" : "sha256-c09f6e6a5e91c03c6e5f3940d6e5f3f88f40000fdaa830c7afcc4ee1d0ae7aba",
+  "contentHash" : "sha256-31b0576c44a4819a36113d13f1fc2a89578f9275811fdce184fcae5f6f285681",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

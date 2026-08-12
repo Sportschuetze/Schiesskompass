@@ -74,7 +74,7 @@
     "trainingWeekday" : "",
     "website" : "www.svbargen.ch"
   },
-  "contentHash" : "sha256-4aced042d276b73d98ae318def8deebe3a3a23e6986b7f9d1a9b085bf6ec4b4d",
+  "contentHash" : "sha256-e25e447c5c6e6c11c8398bca9f03979fc4bf019a2379d9fb04c7bca943823315",
   "events" : [
     {
       "championshipTags" : "",
@@ -215,7 +215,7 @@
       "title" : "Schwabenkriegschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

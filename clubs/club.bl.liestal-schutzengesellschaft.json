@@ -121,7 +121,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-7706b14b3fb9cbfc0b7e2171bc828bf028004263a51d7e5513d65ad9d26566d7",
+  "contentHash" : "sha256-30930793148accac3380f51e7017a5655e48fd1d8a1e10a8e016e5322c1d880f",
   "events" : [
     {
       "championshipTags" : "",
@@ -147,7 +147,7 @@
       "title" : "Freundschaftsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

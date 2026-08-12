@@ -43,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "sv-hochfelden.ch"
   },
-  "contentHash" : "sha256-11e4a8c8b423d4cc9c275fa044ef8c2849c953d97d98aeafeab034393b607795",
+  "contentHash" : "sha256-176669fe2ce84c29285d073a67620bb6cec21ca2b4c049f606e38417973ee109",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

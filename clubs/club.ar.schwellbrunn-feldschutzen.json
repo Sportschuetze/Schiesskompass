@@ -139,11 +139,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-schwellbrunn.ch"
   },
-  "contentHash" : "sha256-42618654135563f67cf6869b4a09fe7029f78f0ce4b6b6064056cd308acae232",
+  "contentHash" : "sha256-5252a79406648754a5b51cd87f4eb5b565e54d0b039a3adeb25c8537c4d5d1de",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

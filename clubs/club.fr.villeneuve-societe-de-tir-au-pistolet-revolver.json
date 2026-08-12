@@ -26,7 +26,7 @@
     "trainingWeekday" : "",
     "website" : "www.pistolet-villeneuve.ch"
   },
-  "contentHash" : "sha256-3b78a37b36c1c4d31e823bd12c5806885f0f8efc849a050698ebb2e0c2c8c807",
+  "contentHash" : "sha256-283daacc63bf27d687a7cc3fa68213c7af13728d4b1fd9835764c1a93e8c2401",
   "events" : [
     {
       "championshipTags" : "",
@@ -121,7 +121,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

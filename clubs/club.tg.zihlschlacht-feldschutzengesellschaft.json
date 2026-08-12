@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-a3c28803300ffb03bda7adb1f26c04a5916d87084809e37f7e5458e9c78bd62e",
+  "contentHash" : "sha256-d3fcfe8b4fbdc9f75b311c081201cc30fc306c9c38ef7edb748831321bc06ecf",
   "events" : [
     {
       "championshipTags" : "",
@@ -78,7 +78,7 @@
       "title" : "Jubiläumsschiessen 150 Jahre"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 7
 }

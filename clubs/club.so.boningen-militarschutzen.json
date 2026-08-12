@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.msboningen.ch"
   },
-  "contentHash" : "sha256-b804d4ad04faca17886ebda703569f702384826887ae6657dce5444313f07e38",
+  "contentHash" : "sha256-186012dad73a27347297ea2b16e7892b5ddb67ee49f31b4ceb14b4aa728d63ad",
   "events" : [
     {
       "championshipTags" : "",
@@ -51,7 +51,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

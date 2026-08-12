@@ -141,7 +141,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-a155a3bc739dddc8b50b016b7eca7e063cdd89ddb2b5051e4a166ee2e0fa0a25",
+  "contentHash" : "sha256-47c28043956d44c2564ef28acf86fb83cd149a44782968d522d8eb14823e80fb",
   "events" : [
     {
       "championshipTags" : "",
@@ -305,7 +305,7 @@
       "title" : "Steiacherschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

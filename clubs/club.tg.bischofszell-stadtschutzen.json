@@ -130,7 +130,7 @@
     "trainingWeekday" : "",
     "website" : "ssbzell.ch"
   },
-  "contentHash" : "sha256-90f779a77d9f67d24d751e7f79245359c05fec38cafa40b4e8a40a507cee8cfa",
+  "contentHash" : "sha256-b6b36f3635d7bce52cfc23c3a75ffa83d7246a970e58605503824cfba6b74fc5",
   "events" : [
     {
       "championshipTags" : "",
@@ -179,7 +179,7 @@
       "title" : "Einzelwettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

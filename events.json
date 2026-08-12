@@ -2439,11 +2439,6 @@
         },
         {
           "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "18:00",
-          "startTime" : "07:45"
-        },
-        {
-          "date" : "2026-08-15T10:00:00Z",
           "endTime" : "12:30",
           "startTime" : "07:30"
         },
@@ -2451,6 +2446,11 @@
           "date" : "2026-08-15T10:00:00Z",
           "endTime" : "12:30",
           "startTime" : "08:30"
+        },
+        {
+          "date" : "2026-08-15T10:00:00Z",
+          "endTime" : "18:00",
+          "startTime" : "07:45"
         },
         {
           "date" : "2026-08-15T10:00:00Z",
@@ -2610,12 +2610,12 @@
         {
           "date" : "2026-08-08T10:00:00Z",
           "endTime" : "16:30",
-          "startTime" : "13:30"
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-08-08T10:00:00Z",
           "endTime" : "16:30",
-          "startTime" : "13:00"
+          "startTime" : "13:30"
         }
       ],
       "title" : "Kantonaler JJ-\/JS-GM-Final 2026"
@@ -2674,6 +2674,6 @@
       "title" : "Schweizerische Vereinswettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1
 }

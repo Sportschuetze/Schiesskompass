@@ -89,7 +89,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.sg-ruefenach.ch"
   },
-  "contentHash" : "sha256-8f7233de38f982c99921b533e928ad0e89c00bab512e5b381364842a40230762",
+  "contentHash" : "sha256-d3878c628a543cc6e52a2996c4f8fdade8167f0bea49170f4f970abe9ba046bd",
   "events" : [
     {
       "championshipTags" : "",
@@ -1311,7 +1311,7 @@
       "title" : "Weiherschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

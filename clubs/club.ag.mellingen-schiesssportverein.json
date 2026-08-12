@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.ssv-mellingen.ch"
   },
-  "contentHash" : "sha256-f15bddcb317f353cd3b64a0e237f79c4ec5f3296862c868c6f8aecac13da10ea",
+  "contentHash" : "sha256-0b55d24f0662c4c9ad8fd9d73c41c4ac4bb065eff95464d4dee1591b4e5ea947",
   "events" : [
     {
       "championshipTags" : "",
@@ -97,7 +97,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

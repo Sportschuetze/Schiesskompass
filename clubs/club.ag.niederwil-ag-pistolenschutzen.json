@@ -67,7 +67,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.psniederwil.ch\/"
   },
-  "contentHash" : "sha256-bcfde2b3b2a877406f6027689973fc9c570ca1b1766302e752753ab5b73a0544",
+  "contentHash" : "sha256-cf661642afe7f35f696107573b6d84bc5aa00f91167eedb33a494e4432d0c620",
   "events" : [
     {
       "championshipTags" : "",
@@ -231,7 +231,7 @@
       "title" : "Stiefeliryterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

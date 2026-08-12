@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.tire-lune.ch\/"
   },
-  "contentHash" : "sha256-781ff30dd1fca40de56052454f4d926696fb58eb1090443b8cb213d4d7283357",
+  "contentHash" : "sha256-5e2cb0e7e705dc1596e26be32a30f9f9da137257bd9361cf064903f5bd82e199",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

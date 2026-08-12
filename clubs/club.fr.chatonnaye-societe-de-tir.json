@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.tir-chatonnaye.ch"
   },
-  "contentHash" : "sha256-fe467c16e09a0b82ec2805218bedbff744e0206a919d2b7d798c43c307b0f478",
+  "contentHash" : "sha256-0da1e73ea8c19a02f44356c5c47315608757668c7758f5d0c7be2a83db5cc630",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -171,7 +171,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-072638f00dcea3bb113d7ca512e641c82b16ea1de834805f8fcae52889d08bd5",
+  "contentHash" : "sha256-e436ef0811c00dc38506574b42ca40df1ced04e3c688cc196bf4533b29f105da",
   "events" : [
     {
       "championshipTags" : "",
@@ -2407,7 +2407,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

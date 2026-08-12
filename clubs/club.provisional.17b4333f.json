@@ -49,7 +49,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-schwarzenegg.ch"
   },
-  "contentHash" : "sha256-bd885774509e2cc2e8245365137ab14670a8efffe7953e1b38fd965f4c57b1bd",
+  "contentHash" : "sha256-9cd37bfdd0573b3d0231e3ad614882a5f3721b95aa63561826bbcca370db82d7",
   "events" : [
     {
       "championshipTags" : "",
@@ -98,7 +98,7 @@
       "title" : "Hauptschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

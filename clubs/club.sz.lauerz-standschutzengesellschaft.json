@@ -139,7 +139,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-f56f6870052e2e2b25e2edeec1fd509239210ecfce0fe096fb78ee8f83a5e95a",
+  "contentHash" : "sha256-dbf77b45c27512ff5aad3b96f66555bfcec4923d5e919578be97b9c399b7e802",
   "events" : [
     {
       "championshipTags" : "",
@@ -234,7 +234,7 @@
       "title" : "Rossbergschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

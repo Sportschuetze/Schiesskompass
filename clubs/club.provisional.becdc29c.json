@@ -34,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "www.sts-otelfingen.ch"
   },
-  "contentHash" : "sha256-fee3e251134154cdfb8cd5a62a69d7574260cd1b8e6305bfa715f32d9efe137b",
+  "contentHash" : "sha256-36cd57d837aec8961ae6bed629d2b12ccda21cc81c128f1a6b399a7c157a45b5",
   "events" : [
     {
       "championshipTags" : "",
@@ -106,7 +106,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

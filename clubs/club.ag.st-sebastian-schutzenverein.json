@@ -52,7 +52,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-3aabaac6e05ac3d126de63da953ce79b53d880a310f923f9becad4084b6b397e",
+  "contentHash" : "sha256-67b641f73bd67edf7c5fe06406904f813e12b8966dbd212ae705176d303c172b",
   "events" : [
     {
       "championshipTags" : "",
@@ -101,7 +101,7 @@
       "title" : "Fonduschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

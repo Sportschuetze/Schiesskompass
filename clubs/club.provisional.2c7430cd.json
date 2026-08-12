@@ -33,11 +33,11 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-golaten.ch"
   },
-  "contentHash" : "sha256-676a75a4196466259f253b85240414dfd79a81fa0eba11ac79282a1dfb87d05c",
+  "contentHash" : "sha256-b20c4e681b94697c2012b48c6e2a79e8e9947d05ba83ed35b8158d8550abd20f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -59,7 +59,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgreichenbach.ch"
   },
-  "contentHash" : "sha256-d6a31a958c92322f369f3217b0e4b67d561fcbafa269977566043cb12d02f46c",
+  "contentHash" : "sha256-5896b36bbbef8b9c8f0cec4cea4d3b864f76bd82abf19000e85e215062be2fab",
   "events" : [
     {
       "championshipTags" : "",
@@ -177,7 +177,7 @@
       "title" : "Suldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

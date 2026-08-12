@@ -27,11 +27,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/tir-bienne.ch\/"
   },
-  "contentHash" : "sha256-bd33dc6583fb3ca3a512024bd5aa9194a53e1b591d7c50b0010672a275111b6f",
+  "contentHash" : "sha256-e5086689ebc0447fba4d1f27a7eb1c0fa4b894e9a6cea74d36c692b065075a01",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

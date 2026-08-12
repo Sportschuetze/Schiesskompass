@@ -34,11 +34,11 @@
     "trainingWeekday" : "",
     "website" : "www.kk-riedli.ch"
   },
-  "contentHash" : "sha256-c7ac624d1369ae9bc69abb5674e25ac6e2806d13faff086b7c6a5232d2d21e57",
+  "contentHash" : "sha256-8e5eac2c4203db4f3367bc3a4702b929de0361c559b0f00fd55046b852307553",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

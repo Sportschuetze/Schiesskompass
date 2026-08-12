@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.fs-attiswil.ch"
   },
-  "contentHash" : "sha256-be4d482b589d90b7aba253e6683c891fa1cd67fbe15f4405691687daf0eb1dd2",
+  "contentHash" : "sha256-71fcb32f6d8db63da27763293f07313470e093f162c238c2a55393416a7e1a1d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

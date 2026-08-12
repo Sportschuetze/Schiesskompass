@@ -31,10 +31,26 @@
       },
       {
         "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.dallenwil-schutzengesellschaft.choltalschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Choltalschiessen",
+        "sourceURL" : "https:\/\/sg-dallenwil.ch\/wp-content\/uploads\/2025\/02\/2026-Jahresprogramm-SG-Dallenwil-V0.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
         "externalId" : "offering.club.nw.dallenwil-schutzengesellschaft.clausschiessen",
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Clausschiessen",
+        "sourceURL" : "https:\/\/sg-dallenwil.ch\/wp-content\/uploads\/2025\/02\/2026-Jahresprogramm-SG-Dallenwil-V0.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.nw.dallenwil-schutzengesellschaft.ebnetschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Ebnetschiessen",
         "sourceURL" : "https:\/\/sg-dallenwil.ch\/wp-content\/uploads\/2025\/02\/2026-Jahresprogramm-SG-Dallenwil-V0.pdf"
       },
       {
@@ -135,22 +151,6 @@
       },
       {
         "dataSource" : "clubWebsite",
-        "externalId" : "offering.club.nw.dallenwil-schutzengesellschaft.choltalschiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
-        "isUnverified" : true,
-        "name" : "choltalschiessen",
-        "sourceURL" : "https:\/\/sg-dallenwil.ch\/wp-content\/uploads\/2025\/02\/2026-Jahresprogramm-SG-Dallenwil-V0.pdf"
-      },
-      {
-        "dataSource" : "clubWebsite",
-        "externalId" : "offering.club.nw.dallenwil-schutzengesellschaft.ebnetschiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
-        "isUnverified" : true,
-        "name" : "ebnetschiessen",
-        "sourceURL" : "https:\/\/sg-dallenwil.ch\/wp-content\/uploads\/2025\/02\/2026-Jahresprogramm-SG-Dallenwil-V0.pdf"
-      },
-      {
-        "dataSource" : "clubWebsite",
         "externalId" : "offering.club.nw.dallenwil-schutzengesellschaft.sgwolfenschiessen",
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
@@ -186,7 +186,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-dallenwil.ch"
   },
-  "contentHash" : "sha256-9b3bb85ac868c68fb943b7cbb9f1d32a590ffbb11c3231f1cc308b4637a5c3d4",
+  "contentHash" : "sha256-b3083c6a7780ffc682670337c184332817510d2811693b0e8c540a0f9be83994",
   "events" : [
     {
       "championshipTags" : "",
@@ -465,7 +465,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

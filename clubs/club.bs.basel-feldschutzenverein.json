@@ -19,6 +19,22 @@
     "programOfferings" : [
       {
         "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bs.basel-feldschutzenverein.plauschschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Plauschschiessen",
+        "sourceURL" : "https:\/\/www.fsv-basel.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.bs.basel-feldschutzenverein.rabeschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Räbeschiessen",
+        "sourceURL" : "https:\/\/www.fsv-basel.ch\/"
+      },
+      {
+        "dataSource" : "clubWebsite",
         "externalId" : "offering.club.bs.basel-feldschutzenverein.schnupperschiessen",
         "fetchedAt" : "2026-08-07T18:56:29Z",
         "isUnverified" : true,
@@ -36,11 +52,9 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.fsv-basel.ch",
-    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
-    "websiteStatus" : "dead"
+    "website" : "www.fsv-basel.ch"
   },
-  "contentHash" : "sha256-79cbd9730b4f63e9981da17f4bc5381c4c3c22538ddc7dc7935ada014bad417f",
+  "contentHash" : "sha256-e5f1b7aaeff8eeed45b66b9111ec859723c9e3dc5c3293c892a04989b99be802",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,12 +87,12 @@
       "endDate" : "2026-08-15T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.edletenschiessen.2026-08-15",
-      "fetchedAt" : "2026-08-07T18:56:29Z",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
       "licenseRequired" : false,
-      "location" : "Schützenweg",
+      "location" : "Edletenweg",
       "participationCategory" : "",
       "requiresRegistration" : false,
       "sourceURL" : "https:\/\/www.fsv-basel.ch\/",
@@ -116,6 +130,29 @@
       "countsForAnnualChampionship" : false,
       "dataSource" : "clubWebsite",
       "discipline" : "",
+      "endDate" : "2026-08-12T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.efs.2026-08-12",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.fsv-basel.ch\/",
+      "startDate" : "2026-08-12T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
       "endDate" : "2026-08-08T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.interneschiessen.2026-08-08",
@@ -133,6 +170,98 @@
 
       ],
       "title" : "Interneschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-14T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.op.2026-08-14",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Ettingerstrasse",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.fsv-basel.ch\/",
+      "startDate" : "2026-08-14T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-21T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.op.2026-08-21",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.fsv-basel.ch\/",
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-28T10:00:00Z",
+      "eventType" : "obligatory",
+      "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.op.2026-08-28",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.fsv-basel.ch\/",
+      "startDate" : "2026-08-28T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Obligatorisches Programm"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-12-12T11:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.plauschschiessen.2026-12-12",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.fsv-basel.ch\/",
+      "startDate" : "2026-12-12T11:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Plauschschiessen"
     },
     {
       "championshipTags" : "",
@@ -202,9 +331,55 @@
 
       ],
       "title" : "Schnupperschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-13T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.schnupperschiessen.2026-08-13",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.fsv-basel.ch\/",
+      "startDate" : "2026-08-13T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Schnupperschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-10-03T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.bs.basel-feldschutzenverein.schnupperschiessen.2026-10-03",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.fsv-basel.ch\/",
+      "startDate" : "2026-10-03T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Schnupperschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsgampelen.ch"
   },
-  "contentHash" : "sha256-943d0cb2c2175d6b3e07406bfd482c598773a25b16e16a10f8272d4c57b4d212",
+  "contentHash" : "sha256-ef15f9d10a7b9757cc9fe12b5fe1051985315668b935abe50a676badec844641",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

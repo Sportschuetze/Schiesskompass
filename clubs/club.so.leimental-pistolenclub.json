@@ -53,7 +53,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-28fbcd0e1ae41a1d03bb13be16edb6f832a31fcf83ea981686271f0eee8d8900",
+  "contentHash" : "sha256-cc2254e7ef60ed686f28630473a3cf0378bbeeb3366ad1cb4c219c707f4bdf2a",
   "events" : [
     {
       "championshipTags" : "",
@@ -125,7 +125,7 @@
       "title" : "Probeschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

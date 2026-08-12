@@ -33,11 +33,11 @@
     "trainingWeekday" : "",
     "website" : "www.sghf.ch"
   },
-  "contentHash" : "sha256-7ea156751dcfba7da0712840c1ff9e75b95f767efe46107158c4639b6ad30bb7",
+  "contentHash" : "sha256-7e088f6b488418f739e4150be4869f1b44a62c4a715431b09df1f0a644865650",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

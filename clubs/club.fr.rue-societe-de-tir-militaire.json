@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.societe-tir-rue.ch"
   },
-  "contentHash" : "sha256-0c593b92ac4589aff3c50a0fe0532af51c06848c221f66225af370b2785b738e",
+  "contentHash" : "sha256-3c3350d511a6cb571ec575f93e003f708966cf7862d4c33af8df2a6d8785bfc0",
   "events" : [
     {
       "championshipTags" : "",
@@ -95,7 +95,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

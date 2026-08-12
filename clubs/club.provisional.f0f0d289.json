@@ -42,11 +42,11 @@
     "trainingWeekday" : "",
     "website" : "www.strahlegg.ch"
   },
-  "contentHash" : "sha256-00d0d52744c2d817107a1f72d50ac6bae2d9280688b62e7f77fd64713e6a88f7",
+  "contentHash" : "sha256-7530f8ee307ff803761879a97cd8c3c809338fee35eadc3869ddb605ac6eabf0",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

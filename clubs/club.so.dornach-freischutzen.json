@@ -44,15 +44,13 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "www.freischuetzen.ch",
-    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
-    "websiteStatus" : "dead"
+    "website" : "www.freischuetzen.ch"
   },
-  "contentHash" : "sha256-365d3e057f231bd24320b06be7343ed88a295787032447da6c38396c9f1e5d32",
+  "contentHash" : "sha256-059b4b2dc9ead0483c960004618afff51a2c907683b0e818f25163a8184cae44",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsgw.ch"
   },
-  "contentHash" : "sha256-1ea35d3e1430cd82755d3a5633a7d380c20ddde6a76a7e2ac2e5f9923c5d0b27",
+  "contentHash" : "sha256-6b2239efbd043980bf10f8e138980fd2cf25513d2f07f053730e8eabaf49a230",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

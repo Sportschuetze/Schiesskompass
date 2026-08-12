@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.arbaroche.ch"
   },
-  "contentHash" : "sha256-67a935dc340055320dcf53379d8393bccfb3b91514ff1acfb5356d0038a83a9d",
+  "contentHash" : "sha256-139331b41e84bd31c7609f19683da15bcc40edf9354c3c65d2bc56a3f88982bb",
   "events" : [
     {
       "championshipTags" : "",
@@ -50,7 +50,7 @@
       "title" : "Feldstich"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

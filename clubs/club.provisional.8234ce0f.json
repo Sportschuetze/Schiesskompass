@@ -101,7 +101,7 @@
     "trainingWeekday" : "",
     "website" : "www.bettensee-schuetzen.ch"
   },
-  "contentHash" : "sha256-ac92647c87a9654757a49de6724736ee903fd4531930db72819fdd31b1c66232",
+  "contentHash" : "sha256-aa8a6c36032a50ba1b9106d84a02cc4c6b19dd0bc9c7dbe1b043330db1b6fc51",
   "events" : [
     {
       "championshipTags" : "",
@@ -239,7 +239,7 @@
       "title" : "Vereinswettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 8
 }

@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-2855793ac78cfb24180feeffe2b80bb88c8aa2cb24a86512ba6696703eae5d43",
+  "contentHash" : "sha256-14af4786e0d516c49fd72a7181161ccefc101b0ad698f0e32674bea199ec0470",
   "events" : [
     {
       "championshipTags" : "",
@@ -89,13 +89,13 @@
         },
         {
           "date" : "2027-07-10T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2027-07-10T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-07-11T10:00:00Z",
@@ -104,13 +104,13 @@
         },
         {
           "date" : "2027-07-17T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2027-07-17T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2027-07-18T10:00:00Z",
@@ -121,7 +121,7 @@
       "title" : "6. Steinackerschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 7
 }

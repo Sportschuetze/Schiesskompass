@@ -161,7 +161,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/schuetzen-roeschenz.ch\/"
   },
-  "contentHash" : "sha256-ac429149e90d6359a9ce6d9dade89ef8845ba2bb6915f1d74224542559cfed84",
+  "contentHash" : "sha256-8218deadc2837354785a07ebc9123f90271d1f472945d5842b5bec8ded990eae",
   "events" : [
     {
       "championshipTags" : "",
@@ -187,7 +187,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0687bc44d14940fe4fa229898541de799e069ab46c58f8b4477b7390552f9068",
+  "contentHash" : "sha256-769044d5a420600ebcfb0afa847fea97479aa706102cbcf5c06cfb7af26ecfce",
   "events" : [
     {
       "championshipTags" : "",
@@ -48,19 +48,19 @@
         },
         {
           "date" : "2027-02-13T11:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "14:00"
+          "endTime" : "12:00",
+          "startTime" : "10:00"
         },
         {
           "date" : "2027-02-13T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "10:00"
+          "endTime" : "16:00",
+          "startTime" : "14:00"
         }
       ],
       "title" : "69. Winterschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 3
+  "version" : 5
 }

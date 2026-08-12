@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-165304bd66f47c93dd5c17241604af8228e0c1f169d6b5770d90a31e81d7ac02",
+  "contentHash" : "sha256-ceb63a510fc26a2d420e4e5a0e03ce78b8020a1c2cad5fb187942044bdbc541d",
   "events" : [
     {
       "championshipTags" : "",
@@ -59,7 +59,7 @@
       "title" : "39. Gamser Emmentalerschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

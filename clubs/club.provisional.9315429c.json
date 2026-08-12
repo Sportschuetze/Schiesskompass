@@ -28,7 +28,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-63527fa5c84dc37675206976a2b6638439215e1c648493935f6897f95e04da59",
+  "contentHash" : "sha256-a2ad6d1dd60d5e2f534dde707d8eff5d28c0c28175c125b6e0f3dd5db47728f0",
   "events" : [
     {
       "championshipTags" : "",
@@ -57,13 +57,13 @@
         },
         {
           "date" : "2027-02-20T11:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "14:00"
         },
         {
           "date" : "2027-02-20T11:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "14:00"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         }
       ],
       "title" : "5. Gütlischiessen"
@@ -102,7 +102,7 @@
       "title" : "2.Albisgütli-Liegendmatch Gewehr 50m"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 4
 }

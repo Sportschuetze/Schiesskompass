@@ -26,10 +26,10 @@
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.provisional.3d2b847e.barenschiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
         "isUnverified" : true,
         "name" : "Bärenschiessen",
-        "sourceURL" : "https:\/\/www.psv-dielsdorf.ch\/wp-content\/uploads\/2026\/02\/2026_Jahresprogramm.pdf"
+        "sourceURL" : "https:\/\/www.psv-dielsdorf.ch\/"
       },
       {
         "dataSource" : "clubWebsite",
@@ -92,7 +92,7 @@
     "trainingWeekday" : "",
     "website" : "www.psv-dielsdorf.ch"
   },
-  "contentHash" : "sha256-9ac28ecfb2d4f39bdc36adc0095661465c19e13401ab27b321008d1004d76fd0",
+  "contentHash" : "sha256-c0b261766abdc2747e8e2a19cce8d28a2a50e9e92d9da72c1c4b82a98fe66f78",
   "events" : [
     {
       "championshipTags" : "",
@@ -187,7 +187,7 @@
       "title" : "Revolverschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

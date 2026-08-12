@@ -28,11 +28,11 @@
     "trainingWeekday" : "",
     "website" : "www.stsb.ch"
   },
-  "contentHash" : "sha256-11a6ee134576a73d604c9c1bf81146b2956e405a4e22b8e892a126c709a0df9b",
+  "contentHash" : "sha256-32ecc9561d7665a70d43b167c50d09cef865be0da333c138622d887200313f85",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

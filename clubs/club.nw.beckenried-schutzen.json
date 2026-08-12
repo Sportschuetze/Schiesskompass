@@ -25,11 +25,9 @@
     "trainingEndTime" : "",
     "trainingStartTime" : "",
     "trainingWeekday" : "",
-    "website" : "https:\/\/www.schuetzen-beckenried.ch\/",
-    "websiteCheckedAt" : "2026-08-08T06:46:47Z",
-    "websiteStatus" : "dead"
+    "website" : "https:\/\/www.schuetzen-beckenried.ch\/"
   },
-  "contentHash" : "sha256-35bac76790b657221f702210441a88b6e35494175179f9cc84b4db711b2a5d82",
+  "contentHash" : "sha256-7884c08d777714c7feef03e04af75e4a5b9a2b056f8c8508c1f55e2ab2e9f773",
   "events" : [
     {
       "championshipTags" : "",
@@ -105,6 +103,98 @@
       "countsForAnnualChampionship" : false,
       "dataSource" : "clubWebsite",
       "discipline" : "",
+      "endDate" : "2026-08-21T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.nw.beckenried-schutzen.ebnetschiessen.2026-08-21",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-beckenried.ch\/",
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Ebnetschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-19T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.nw.beckenried-schutzen.grimselschiessen.2026-08-19",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-beckenried.ch\/",
+      "startDate" : "2026-08-19T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Grimselschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-10T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.nw.beckenried-schutzen.sempacherschiessen.2026-06-10",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-beckenried.ch\/",
+      "startDate" : "2026-06-10T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Sempacherschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-06-27T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.nw.beckenried-schutzen.sempacherschiessen.2026-06-27",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.schuetzen-beckenried.ch\/",
+      "startDate" : "2026-06-27T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Sempacherschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
       "endDate" : "2026-07-30T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.nw.beckenried-schutzen.uberallschiessen.2026-07-30",
@@ -147,7 +237,7 @@
       "title" : "Überfallschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

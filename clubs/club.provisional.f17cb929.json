@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsgn.ch"
   },
-  "contentHash" : "sha256-2928b12e8dc350db26458d6abbaddcaaf9ed891525fc205350cddd0dc44329c1",
+  "contentHash" : "sha256-c955e489d471fb894c81939ff1218111c7f05475877925a1d04f0e2d2e8c75c4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

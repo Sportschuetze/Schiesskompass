@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "schuetzenverein-nieder-oberurnen.ch\/"
   },
-  "contentHash" : "sha256-06502d57b8e0495d5539eb1a2576405c58823a738f330bbe18473d419c7c991a",
+  "contentHash" : "sha256-2075bfa51c53a5db8cc16338c22a6e7b126e91e22632106520f4f9cb06082667",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

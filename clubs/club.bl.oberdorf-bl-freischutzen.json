@@ -97,11 +97,11 @@
     "trainingWeekday" : "",
     "website" : "www.fs-oberdorf.ch"
   },
-  "contentHash" : "sha256-a856907e41e581803b81e39ccb2ce4842c1fa4db7390c21ece8fce9d547f22c5",
+  "contentHash" : "sha256-234e8552ce536f66e03270545126463ddad4cc0835d5c6692bb898effd34b189",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

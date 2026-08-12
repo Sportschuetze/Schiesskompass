@@ -258,7 +258,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsgol.ch"
   },
-  "contentHash" : "sha256-8acb4d1f9cb1253820c77043e141efdc4fb0088fc285c2bb18e68f7588c26f03",
+  "contentHash" : "sha256-def5848f479d5c72ce53d2760c10b22acf9eeab73df3effa061c02d899a7cc6f",
   "events" : [
     {
       "championshipTags" : "",
@@ -307,7 +307,7 @@
       "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

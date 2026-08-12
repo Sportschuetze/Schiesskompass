@@ -66,7 +66,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsv-hohentannen-heldswil.ch"
   },
-  "contentHash" : "sha256-2973e39f77204c96b56ab959e0be112158ad4cbcc11c67c56de8f48024d374ee",
+  "contentHash" : "sha256-f6901d4e23c35c07752de9189e8d376319940684df2ed742ebcf1d8ef22032ce",
   "events" : [
     {
       "championshipTags" : "",
@@ -95,19 +95,19 @@
         },
         {
           "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-09-05T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:00",
+          "startTime" : "13:00"
         }
       ],
       "title" : "Bischofbergschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -106,7 +106,7 @@
     "trainingWeekday" : "",
     "website" : "www.sghemmiken.ch"
   },
-  "contentHash" : "sha256-5c8ca1445b9b730a239ac862f8e4583edf84e8adb2cf79bd91e120026f4779ee",
+  "contentHash" : "sha256-634962bfee567a066078d9b7acdf6b3d138fc79fa646793abbefc22eb5ac027a",
   "events" : [
     {
       "championshipTags" : "",
@@ -132,7 +132,7 @@
       "title" : "Bischofsteinschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

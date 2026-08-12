@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.tir-gland.ch\/"
   },
-  "contentHash" : "sha256-25494a507649d7905dbb6c0750e001a2408af521a4b580aa4e343bd73869280c",
+  "contentHash" : "sha256-37f624a7f57ee73f443acd29da5ef485adb200c450f4353ceeac9e510a892179",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

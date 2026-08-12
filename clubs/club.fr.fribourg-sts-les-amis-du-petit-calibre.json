@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "pcfribourg.ch"
   },
-  "contentHash" : "sha256-1ec202ae096cd7db978351958f41dab60df44cfd633f067b2704a0004ce7df6b",
+  "contentHash" : "sha256-18646ed2515dd6a68f33d691236c8c5b56ce8e17612442aa38fa896c4bf1d54a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

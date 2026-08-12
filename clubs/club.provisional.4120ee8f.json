@@ -53,7 +53,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-6fa24bf42fcaa601b54b4588f8b0039fe6436d95ae0f39da218dc74e674c6e83",
+  "contentHash" : "sha256-5f80440a5b6f92a7cc85e788508a6e07d8c53f14802bc1240006812a9091d582",
   "events" : [
     {
       "championshipTags" : "",
@@ -240,7 +240,7 @@
       "title" : "Übungsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

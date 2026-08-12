@@ -43,7 +43,7 @@
     "trainingWeekday" : "",
     "website" : "www.pcallschwil.ch"
   },
-  "contentHash" : "sha256-05a433deb8358420a7016ae7ebd7c362825455a01135a83770f549aed4de7993",
+  "contentHash" : "sha256-943ecf87e153d08eda42bb8ad1c39dc2b84b11b49dbe9488f4d22cf54f986022",
   "events" : [
     {
       "championshipTags" : "",
@@ -113,9 +113,32 @@
 
       ],
       "title" : "Rüttlischiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-11T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.bl.allschwil-pistolen-club.ruttlischiessen.2026-08-11",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.pcallschwil.ch\/",
+      "startDate" : "2026-08-11T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Rüttlischiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

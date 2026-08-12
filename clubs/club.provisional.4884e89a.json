@@ -27,7 +27,7 @@
     "trainingWeekday" : "",
     "website" : "www.svwaedenswil.ch"
   },
-  "contentHash" : "sha256-0b48828440316b9eadc78272b44e8aec5a4017c514a34794d9cdc0532ffcdf6a",
+  "contentHash" : "sha256-990789a6594f6a7fc46312b2062d438c5a934d3dd258d84bded73282d1bf90b3",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +63,7 @@
       "title" : "41. General Werdmüller-Schiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

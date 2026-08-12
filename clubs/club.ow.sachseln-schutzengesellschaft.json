@@ -180,7 +180,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgsachseln.ch"
   },
-  "contentHash" : "sha256-f7c46c801b3ed259d5f2097b927f00f7278c58d6a7e97f7a6dfd66420ac26d7d",
+  "contentHash" : "sha256-d736aff597f750a59e004909da2c85ad2e7d3bdff71370fd423f96a91457c127",
   "events" : [
     {
       "championshipTags" : "",
@@ -252,7 +252,7 @@
       "title" : "Weihnachtsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

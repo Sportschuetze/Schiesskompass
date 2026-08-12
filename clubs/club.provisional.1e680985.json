@@ -27,7 +27,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-5b0a1353699b32aef40825e1cfaffab21a5bc433c23c21a85cd3c5c5b3ec4e00",
+  "contentHash" : "sha256-b12d4928dd6b2b5d916f4d8c7bb99ef8a9da7e1c9697459d9614a90bddba744a",
   "events" : [
     {
       "championshipTags" : "",
@@ -214,7 +214,7 @@
       "title" : "Vereinsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

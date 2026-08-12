@@ -27,11 +27,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsoe.ch"
   },
-  "contentHash" : "sha256-233a2ca971922c5ba04ac1b01922b5c02c4ec19fafec109781001ad87b156b98",
+  "contentHash" : "sha256-babb53e62cdfebceeded782ff2a821cb14e734e15b4124e7f55fec6787e1ccdd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

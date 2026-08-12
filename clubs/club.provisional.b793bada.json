@@ -34,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "msvtruttikon.ch"
   },
-  "contentHash" : "sha256-12dfa04179462f9de1e50857a830e9617ef4a305e6546ae61c5952f28ee2fc3a",
+  "contentHash" : "sha256-6678933cabb03a1875c21c78cc5eb6df1cb1f10208404a435ad341a23a9042ed",
   "events" : [
     {
       "championshipTags" : "",
@@ -95,7 +95,7 @@
       "title" : "Fahnenweihschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 8
 }

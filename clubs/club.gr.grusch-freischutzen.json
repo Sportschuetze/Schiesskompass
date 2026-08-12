@@ -147,11 +147,11 @@
     "trainingWeekday" : "",
     "website" : "www.freischützengrüsch.ch"
   },
-  "contentHash" : "sha256-55b90be9705f6b5149f3cba768a0a44f5518bfe07bf6e9d7f18a825502ad48dc",
+  "contentHash" : "sha256-5ef5269ccf43858266a062caed85307cc3b736a20bc9e718b1f9747efebb828a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

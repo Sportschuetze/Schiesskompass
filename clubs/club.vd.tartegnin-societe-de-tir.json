@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "tir-tartegnin.ch"
   },
-  "contentHash" : "sha256-66e916c4fdb005961576f3e03784164341a0cb98763f2c7d9ceaf5854b0c604a",
+  "contentHash" : "sha256-541b38f80b54406f0d091e6a62362fd3ea0b75c4ab607d39f9647693076034ba",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

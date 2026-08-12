@@ -33,7 +33,7 @@
     "trainingWeekday" : "",
     "website" : "www.sv-altikon.ch"
   },
-  "contentHash" : "sha256-af1472a808f01469fe6c363f677274d8d368479a89726e6cea83c0d464642315",
+  "contentHash" : "sha256-c40c73a87587249efb48b249b123b9464c370fd7aa5f2a1ce8137feecf326e94",
   "events" : [
     {
       "championshipTags" : "",
@@ -59,7 +59,7 @@
       "title" : "Sauschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

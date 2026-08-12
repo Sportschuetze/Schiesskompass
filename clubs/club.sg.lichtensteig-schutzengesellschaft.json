@@ -36,7 +36,7 @@
     "trainingWeekday" : "",
     "website" : "www.landschiessen.ch"
   },
-  "contentHash" : "sha256-02e8376ce382da381efbd6292f620adbdbef5009a87e385d09c79deef897a701",
+  "contentHash" : "sha256-25e14af9905175cddb24ff79f4ad958d8afac9a8172951c8de75b87cbc3c4530",
   "events" : [
     {
       "championshipTags" : "",
@@ -70,13 +70,13 @@
         },
         {
           "date" : "2026-10-03T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:15"
+          "endTime" : "12:00",
+          "startTime" : "10:00"
         },
         {
           "date" : "2026-10-03T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "10:00"
+          "endTime" : "17:00",
+          "startTime" : "13:15"
         },
         {
           "date" : "2026-10-04T10:00:00Z",
@@ -118,16 +118,11 @@
         },
         {
           "date" : "2027-10-04T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:15"
-        },
-        {
-          "date" : "2027-10-04T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:45"
         },
         {
-          "date" : "2027-10-09T10:00:00Z",
+          "date" : "2027-10-04T10:00:00Z",
           "endTime" : "17:00",
           "startTime" : "13:15"
         },
@@ -137,7 +132,17 @@
           "startTime" : "10:00"
         },
         {
+          "date" : "2027-10-09T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
           "date" : "2027-10-10T10:00:00Z",
+          "endTime" : "17:00",
+          "startTime" : "13:15"
+        },
+        {
+          "date" : "2027-10-11T10:00:00Z",
           "endTime" : "17:00",
           "startTime" : "13:15"
         },
@@ -145,17 +150,12 @@
           "date" : "2027-10-11T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:45"
-        },
-        {
-          "date" : "2027-10-11T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:15"
         }
       ],
       "title" : "375. Toggenburgisches Landschiessen Lichtensteig"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 9
 }

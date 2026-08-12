@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsgwangs.ch"
   },
-  "contentHash" : "sha256-8d32ad1ed3242584b2185ab135a48b8d9a81240d31e2cbf43038b41b36e3a111",
+  "contentHash" : "sha256-fadaf9a63091b09fb0f015f226927f90d242c1f7f3233daa268643c1ff3cede3",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

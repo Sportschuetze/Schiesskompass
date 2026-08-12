@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.stand.schuetzen-salenstein.ch"
   },
-  "contentHash" : "sha256-19414cc77521a5b159be11cc6f79ce2de8880fffc7ad185ec11dc8152377f4d5",
+  "contentHash" : "sha256-d822c32fe39a06ed7dd10de594158b1b6daa9b85520b6a3a2757e6fd67d118ac",
   "events" : [
     {
       "championshipTags" : "",
@@ -51,7 +51,7 @@
       "title" : "Unterseeschiessen, Freundschaftsschiessen nach spez. Einladung"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

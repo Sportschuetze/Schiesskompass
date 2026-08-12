@@ -26,11 +26,11 @@
     "trainingWeekday" : "",
     "website" : "www.talschuetzen.ch"
   },
-  "contentHash" : "sha256-ea0709784e939075a745aadfce469e843eba6a9fd4ff70e5f1229dbb61422a0a",
+  "contentHash" : "sha256-284217323fedb2fbbc1283fa209c207b7cc0eb86b0e8bff8dc2d8938fe5bf7c6",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

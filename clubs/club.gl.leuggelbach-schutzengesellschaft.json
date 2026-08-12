@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-efb4ecf8b3526a351a37820e833fdfead2e542b5270fd241de188e89f349b2b4",
+  "contentHash" : "sha256-6d50a2abe6e376d8acb1b7e6d42a3eb116bb17a0948021f05d2a505fb60c7377",
   "events" : [
     {
       "championshipTags" : "",
@@ -84,7 +84,7 @@
       "title" : "9. Vorbachschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

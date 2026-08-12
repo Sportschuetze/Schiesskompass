@@ -132,7 +132,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-2a36d179b2f7ce0de71c70cdff72886b67d6a170d3a7deaea5165a04c1b1eb70",
+  "contentHash" : "sha256-e46222bdeb6d3e7f470db5bf2d44598ab41e110d90c0ba50eb5ae9495254e70a",
   "events" : [
     {
       "championshipTags" : "",
@@ -181,7 +181,7 @@
       "title" : "Morgartenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -50,7 +50,7 @@
     "trainingWeekday" : "",
     "website" : "www.sv-schiers.ch"
   },
-  "contentHash" : "sha256-342817b3e93777c4a4e5c7f6566984615d03b52d98670342fc8708f0bc291f95",
+  "contentHash" : "sha256-fbe1a70a60fc89a0f5218edaa6bbfec94378237397c6794bb7c8d990500b97ed",
   "events" : [
     {
       "championshipTags" : "",
@@ -76,7 +76,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

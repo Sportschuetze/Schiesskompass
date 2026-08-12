@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsalchenstorf.ch"
   },
-  "contentHash" : "sha256-7288de80c9d72f07ce88a357086512168fe2bc1fe8cfe6d08be281adaf9ef8db",
+  "contentHash" : "sha256-171036d44b5c6745ae5f96f42d9fd81f338779927081d89fabe7f643c96fa96d",
   "events" : [
     {
       "championshipTags" : "",
@@ -786,7 +786,7 @@
       "title" : "Silvesterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

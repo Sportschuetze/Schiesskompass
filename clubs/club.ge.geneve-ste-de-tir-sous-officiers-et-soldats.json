@@ -26,11 +26,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/sos-ge.ch\/"
   },
-  "contentHash" : "sha256-4f960575036fac7562f76a8a4b2bd0965eea046981d409cfa0dc9739375d050c",
+  "contentHash" : "sha256-96c8ce3b6421b7e3485d3ac15cedb86d1a8ff3cc196e22f7880a7920151b4d39",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

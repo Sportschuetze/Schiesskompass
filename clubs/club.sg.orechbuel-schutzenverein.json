@@ -218,7 +218,7 @@
     "trainingWeekday" : "",
     "website" : "www.svon.ch"
   },
-  "contentHash" : "sha256-6efcfe6f6be14198adeff2a0abfe29792ae88f187b3e39186d9f14215944b093",
+  "contentHash" : "sha256-6d40457b026abcce1823122758df459cd51528988d2d87187e41b2db5eb7abe8",
   "events" : [
     {
       "championshipTags" : "",
@@ -382,7 +382,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

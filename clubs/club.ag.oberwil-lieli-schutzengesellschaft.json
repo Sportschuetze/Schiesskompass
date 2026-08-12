@@ -43,7 +43,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-0925ff27290386f8abcf5c6b646ac4422dc5ac9b22b63ec07640fd5aabb71a2d",
+  "contentHash" : "sha256-2b5fd8c7a6920af4fcbb4ee962fc78d7cdd27e81223dc0c5a6db532dd91e3c52",
   "events" : [
     {
       "championshipTags" : "",
@@ -207,7 +207,7 @@
       "title" : "Rotkornschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -41,7 +41,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-hoehe.ch"
   },
-  "contentHash" : "sha256-ae3d8f7c53914e9bc21f1c15ec291a59b254975a9a50261a6ab22acbbe94c1a9",
+  "contentHash" : "sha256-1b8e98d38ac7a4b8790510db470194a82563a9b2119888ce81443b1aad80d4b7",
   "events" : [
     {
       "championshipTags" : "",
@@ -90,7 +90,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

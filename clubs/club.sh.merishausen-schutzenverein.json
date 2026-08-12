@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-48aa3da417ccd58b9f8644f82e71954e9f9e87f9b4cb658168792956b21edd89",
+  "contentHash" : "sha256-535109af3548a34c6c895d0e29aaac8024f5b7b8a383afba3123300dddc4ed80",
   "events" : [
     {
       "championshipTags" : "",
@@ -60,7 +60,7 @@
       "title" : "41. Chlausschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

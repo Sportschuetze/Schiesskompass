@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1157a5c29d0bfca79c46ca823bb14bb2e210a05c7cab09db610ff537c8df49d1",
+  "contentHash" : "sha256-9eaaa54ee16624f8a77ee959419298dd4c7afee4efdbd6a9d35b5907ef1bbc5a",
   "events" : [
     {
       "championshipTags" : "",
@@ -75,7 +75,7 @@
       "title" : "31. Guyer-Zellerschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 7
 }

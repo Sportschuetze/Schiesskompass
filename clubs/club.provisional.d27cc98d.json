@@ -90,7 +90,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.sg-emmen.ch\/"
   },
-  "contentHash" : "sha256-38198a5bf67917c3d1e038e19b2b53e444ea93c4fd4ce7aa8aba588f5eeb0e0d",
+  "contentHash" : "sha256-e3e3b97d92c7a929ea71cf3c2a53a8909f97de6caf870ad1d74cd6c76ef847ec",
   "events" : [
     {
       "championshipTags" : "",
@@ -323,7 +323,7 @@
       "title" : "Sempacherschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

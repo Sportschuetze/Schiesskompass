@@ -36,7 +36,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/stadtschuetzenlaufenburg.ch\/"
   },
-  "contentHash" : "sha256-abbf49a1fac04b98ebbd4b5d022abec3330e177d54c88299ee13232d0352d193",
+  "contentHash" : "sha256-444594dab61a8bcd40b221d41b415290590fdae930318ced783b4211147c53d9",
   "events" : [
     {
       "championshipTags" : "",
@@ -683,7 +683,7 @@
       "title" : "Wartenbergschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

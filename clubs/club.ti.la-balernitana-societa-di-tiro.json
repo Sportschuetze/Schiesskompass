@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.balernitana.ch"
   },
-  "contentHash" : "sha256-275ae775f9e5079f01049fced4e41b048a9295e40f6db8f4fbfbde5b4553dc9d",
+  "contentHash" : "sha256-410a38eeb704ca1d1f43f1193b9aefbe516274851e08fcd37a33d83f49129e19",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

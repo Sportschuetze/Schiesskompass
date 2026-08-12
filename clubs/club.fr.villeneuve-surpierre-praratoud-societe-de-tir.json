@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.tir300villeneuvefr.ch\/"
   },
-  "contentHash" : "sha256-5bfdfb54eed4c8682dbe53d9e636a49034ac878f96bb6735abe4e4cc7d2bfbbc",
+  "contentHash" : "sha256-e697e7ad81aa990949e943766b4f00ff3d30a551a00679ae9589e90db5cda113",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

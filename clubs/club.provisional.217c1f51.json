@@ -130,11 +130,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsjens.ch"
   },
-  "contentHash" : "sha256-7811db7163a4c08587f1a00cfbe846036a7ab74ecddcefd931ef7ad5784eece7",
+  "contentHash" : "sha256-befb4d4ffc268b1666812efc12d0969052d0c436990f46f564fc2a074b91f8c7",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -117,7 +117,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.prc-richterswil.ch\/"
   },
-  "contentHash" : "sha256-23d70123c4b637dbc556226c029cf3cdeac6187ca97077a2f910dfde837ed06b",
+  "contentHash" : "sha256-99ce8eff774522b041af882ea07615a9fd2b9869dfaabc0f423e176ef76695a6",
   "events" : [
     {
       "championshipTags" : "",
@@ -257,7 +257,7 @@
       "title" : "Einzelwettkampfstich"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

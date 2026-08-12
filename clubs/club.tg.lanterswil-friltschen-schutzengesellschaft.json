@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-lanterswil.ch"
   },
-  "contentHash" : "sha256-09db26df73befab75c1e0cb7bee442af4fdea597684b7e95993717dbda1c648d",
+  "contentHash" : "sha256-2bbab4fe245833feaae30618812cd31cd28f5d0d51d082ca060b41aa16394bbb",
   "events" : [
     {
       "championshipTags" : "",
@@ -72,7 +72,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

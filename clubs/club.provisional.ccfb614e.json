@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-0bb075770e712c3d7a5d52fe331912e037626d9f60668c61c7e811df4b6f9a25",
+  "contentHash" : "sha256-d05b1988611f6778def78e0d58296715d5e928dba6cd622690e4401f270853a1",
   "events" : [
     {
       "championshipTags" : "",
@@ -54,7 +54,7 @@
       "title" : "Bachtelverbandsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

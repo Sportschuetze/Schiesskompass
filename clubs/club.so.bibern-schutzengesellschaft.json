@@ -31,10 +31,34 @@
       },
       {
         "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.bibern-schutzengesellschaft.einzelwettschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Einzelwettschiessen",
+        "sourceURL" : "https:\/\/sgbibern.ch\/wp-content\/uploads\/2026\/06\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
         "externalId" : "offering.club.so.bibern-schutzengesellschaft.freundschaftsschiessen",
         "fetchedAt" : "2026-08-08T06:17:47Z",
         "isUnverified" : true,
         "name" : "Freundschaftsschiessen",
+        "sourceURL" : "https:\/\/sgbibern.ch\/wp-content\/uploads\/2026\/06\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.bibern-schutzengesellschaft.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/sgbibern.ch\/wp-content\/uploads\/2026\/06\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.bibern-schutzengesellschaft.landesteilschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Landesteilschiessen",
         "sourceURL" : "https:\/\/sgbibern.ch\/wp-content\/uploads\/2026\/06\/jahresprogramm-2026.pdf"
       },
       {
@@ -52,6 +76,38 @@
         "isUnverified" : true,
         "name" : "Schützenkönigsausstich",
         "sourceURL" : "https:\/\/sgbibern.ch\/wp-content\/uploads\/2026\/06\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.bibern-schutzengesellschaft.schutzenkonigsstich",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Schützenkönigsstich",
+        "sourceURL" : "https:\/\/sgbibern.ch\/wp-content\/uploads\/2026\/06\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.bibern-schutzengesellschaft.wolfturlischiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Wolftürlischiessen",
+        "sourceURL" : "https:\/\/sgbibern.ch\/wp-content\/uploads\/2026\/06\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.bibern-schutzengesellschaft.wyssemattschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Wyssemattschiessen",
+        "sourceURL" : "https:\/\/sgbibern.ch\/wp-content\/uploads\/2026\/06\/jahresprogramm-2026.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.so.bibern-schutzengesellschaft.wyssenmattschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Wyssenmattschiessen",
+        "sourceURL" : "https:\/\/sgbibern.ch\/wp-content\/uploads\/2026\/06\/jahresprogramm-2026.pdf"
       }
     ],
     "seasonEndDay" : 31,
@@ -66,7 +122,7 @@
     "trainingWeekday" : "",
     "website" : "sgbibern.ch"
   },
-  "contentHash" : "sha256-3e83aae52e208d53b26cce16407ec84aa096ba1fbdebf569dd42b73395e24fde",
+  "contentHash" : "sha256-2ad6be07223513553418ebdc338599a8f7dbcc152738226207d564edd41b7ca8",
   "events" : [
     {
       "championshipTags" : "",
@@ -207,7 +263,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

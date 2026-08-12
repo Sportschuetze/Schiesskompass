@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "tirchenois.ch"
   },
-  "contentHash" : "sha256-4167805b8e62fcf1b7bfd1e7a766c7b3c99ccdf2c21244dfd40ac4cf8761ba71",
+  "contentHash" : "sha256-270e3abedf3e7cc4fa31803850b88e8ebd4d0220d2301658dc52630656eee09c",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

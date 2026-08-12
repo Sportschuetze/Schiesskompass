@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.aurorastabio.com"
   },
-  "contentHash" : "sha256-e1f8728c0d3d43b73eae9e74510448e423e6a7b464dd09efa2bc5c19f8a3d6ac",
+  "contentHash" : "sha256-985695e77f84ee1d20649cf6de25466d54dea2d5909d31c73c9615f3c56769c1",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

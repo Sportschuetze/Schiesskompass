@@ -35,7 +35,7 @@
     "trainingWeekday" : "",
     "website" : "www.feldschuetzen-wolfwil.ch"
   },
-  "contentHash" : "sha256-c493bd5351a2f64661ae04e653fceb73fe28598f8ae3d89142fdefb35f7ab9cd",
+  "contentHash" : "sha256-c6503d3f121de6422f6d6005c9e234206d46887d0eb2dd4b3ea1cc6927f8d629",
   "events" : [
     {
       "championshipTags" : "",
@@ -76,7 +76,7 @@
       "title" : "19. Waldeggschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

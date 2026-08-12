@@ -59,11 +59,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-zufikon.com"
   },
-  "contentHash" : "sha256-4fa239553f51789526a07bf094be0c0572fa3ce1e7613c9e2afcb9a8dd008216",
+  "contentHash" : "sha256-b8a23f230e382bc108b4e231ba9c4c366b1f7d8cdbe5f1da35dfc97e56b05439",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

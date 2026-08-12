@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.asv-muenchenstein.ch"
   },
-  "contentHash" : "sha256-df398a19931e59e23693f35efaa55a16091d85025899152999e857d8668c8e06",
+  "contentHash" : "sha256-99b0eadfd6f1e6e1f9ae7a0088491f60d1dfc74b34a20f5c27be5f68e63eff5c",
   "events" : [
     {
       "championshipTags" : "",
@@ -73,7 +73,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

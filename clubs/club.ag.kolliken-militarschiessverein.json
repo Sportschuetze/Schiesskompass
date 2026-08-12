@@ -49,7 +49,7 @@
     "trainingWeekday" : "",
     "website" : "www.msv-koelliken.ch"
   },
-  "contentHash" : "sha256-6bad149965c12cda980e55c1853d64956cae54a032bf1effdee7df167295337c",
+  "contentHash" : "sha256-79aa28184a12984f787e711a746fd237f76f1607386cc1aecb52e5e2d57c14e4",
   "events" : [
     {
       "championshipTags" : "",
@@ -167,7 +167,7 @@
       "title" : "Wädlischiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

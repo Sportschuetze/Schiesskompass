@@ -45,7 +45,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-e5f5ea397b428fd82919a506c157b57c7228c617fbdbd9a1acff95376784fc1e",
+  "contentHash" : "sha256-a7da4dac895cd1f3f034bce10b53607bb947bd232b6b14be5689e47d8956f13a",
   "events" : [
     {
       "championshipTags" : "",
@@ -301,7 +301,7 @@
       "title" : "Pistolenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

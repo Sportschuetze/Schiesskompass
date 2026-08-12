@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "fsg-gondiswil.ch"
   },
-  "contentHash" : "sha256-2d2492b07232035747f47a4b2f6f6ea77d6abce2045b3b08551cd30c4daa82ed",
+  "contentHash" : "sha256-65086d9510e225a918a3848e45142fbb37ba032efb69be3de9803cf7d7d53749",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

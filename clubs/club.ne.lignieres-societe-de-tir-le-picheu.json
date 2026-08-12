@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.picheu.ch"
   },
-  "contentHash" : "sha256-df56375bfd6e273cdf8cb7eaaf660e0b0c28e58e45e615b5257706c60f683009",
+  "contentHash" : "sha256-e1dbd0a34e4079734ebc369923743193866dcea8d72d08f2b2cfce35e2e30c4e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgtriboltingen.ch"
   },
-  "contentHash" : "sha256-7be378134be22bc20b7994f8aea4c22e8dda0f445e4806130ad50b665db3d350",
+  "contentHash" : "sha256-35aaeb55995355505fa68a609d75d1414d7a67b7f9126849e33504aaf5c1c110",
   "events" : [
     {
       "championshipTags" : "",
@@ -97,7 +97,7 @@
       "title" : "Osterhasenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

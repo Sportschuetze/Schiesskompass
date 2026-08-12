@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.pvj.ch"
   },
-  "contentHash" : "sha256-61ecf028cb6749b29623effd7055d0259db64b56bc71d868a38069af5e9a9753",
+  "contentHash" : "sha256-94adc846c58afe8d3197489b974a63070f83be1601995b4246bbf2f15e80e58a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

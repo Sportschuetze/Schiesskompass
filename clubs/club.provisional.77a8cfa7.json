@@ -211,7 +211,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgstadel.ch"
   },
-  "contentHash" : "sha256-732077a951f31b189153745b216798be2aed78b7eb6306fab9ba4203d8bf2524",
+  "contentHash" : "sha256-8c6ba4586b64d1b73961f8b8761d54e7f47e41c00779a49bd56713cfe7593c46",
   "events" : [
     {
       "championshipTags" : "",
@@ -237,7 +237,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

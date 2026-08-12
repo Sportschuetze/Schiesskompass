@@ -54,7 +54,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-1e0f866d4f4776674366f1bd73c8032c9ae7dee1b16e47ecc6a9d3872e919fdb",
+  "contentHash" : "sha256-ced2b4c7094adf107701c7b9cb9561f3d8f144b5007c206470b79a011f63294f",
   "events" : [
     {
       "championshipTags" : "",
@@ -241,7 +241,7 @@
       "title" : "Nachtschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

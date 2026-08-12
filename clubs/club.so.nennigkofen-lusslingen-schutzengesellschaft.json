@@ -35,11 +35,11 @@
     "trainingWeekday" : "",
     "website" : "sgnl.ch"
   },
-  "contentHash" : "sha256-0789f7cb321ce34aa2b494414dfa1600090e392d018ed9675ba2d4beae1555d4",
+  "contentHash" : "sha256-923235e28219aa7945bb55a1e30df937c47ad8503a1f8fdd771df94be4481c37",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -47,7 +47,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-b1727f136778e0ac84da9ac88b5ceb542751335e97b0de84040a4ec33a654069",
+  "contentHash" : "sha256-7fb2fa0032813ed2c92bf9fc60c28bfd90a706ba9447bfe269b55908ed999188",
   "events" : [
     {
       "championshipTags" : "",
@@ -76,13 +76,13 @@
         },
         {
           "date" : "2026-08-08T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-08-08T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-08-15T10:00:00Z",
@@ -177,7 +177,7 @@
       "title" : "Flughafenschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 9
 }

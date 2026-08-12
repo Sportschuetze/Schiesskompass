@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.svwuefla.ch"
   },
-  "contentHash" : "sha256-738228679818cfe98c704bfbaf75b5f70a4dd2aa8de33e26ee873b54a0c3ff47",
+  "contentHash" : "sha256-87cee4dab2d08a75ee8319ac032511210a5039b9b4ff4c2c5044ec2f90ca2281",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

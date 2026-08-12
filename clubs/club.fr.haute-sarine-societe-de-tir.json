@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.tirhautesarine.ch\/"
   },
-  "contentHash" : "sha256-fe8f6b056bd69b738b1862d134d1332e04ec9cbb8f96b346da4554258f8485d4",
+  "contentHash" : "sha256-19b5919e823c2407d6d7f939cdc0573f6600a5e0bdca53d9e1c698b4817d1e9e",
   "events" : [
     {
       "championshipTags" : "",
@@ -95,7 +95,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

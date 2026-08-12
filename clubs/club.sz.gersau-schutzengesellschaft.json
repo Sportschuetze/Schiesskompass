@@ -57,7 +57,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.schützengersau.ch\/"
   },
-  "contentHash" : "sha256-b262604ee2429046370e7bd34d770714ce652e34f754a27ba2c561edc9a65e4e",
+  "contentHash" : "sha256-35fa16c3b08bcdd0f9144da42b4cda210452d4a94d7f488d99689192a332be08",
   "events" : [
     {
       "championshipTags" : "",
@@ -336,7 +336,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

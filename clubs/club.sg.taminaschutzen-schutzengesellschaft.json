@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-62cbc67295a0d3dd139aa4968ca039f7ffd33ced0f1b0ee29a0aef0b3faf498f",
+  "contentHash" : "sha256-6a5fe568781ecf4209066ead5a00c3ce7745fc755ff865e54e7898b1b4bcd87a",
   "events" : [
     {
       "championshipTags" : "",
@@ -47,23 +47,23 @@
         },
         {
           "date" : "2026-09-12T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "09:00"
+          "endTime" : "16:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-09-12T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:30"
-        },
-        {
-          "date" : "2026-09-19T10:00:00Z",
-          "endTime" : "16:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "09:00"
         },
         {
           "date" : "2026-09-19T10:00:00Z",
           "endTime" : "12:00",
           "startTime" : "09:00"
+        },
+        {
+          "date" : "2026-09-19T10:00:00Z",
+          "endTime" : "16:00",
+          "startTime" : "13:30"
         }
       ],
       "title" : "Barbaraschiessen 2026"
@@ -92,7 +92,7 @@
       "title" : "19. Taminataler Jungschützen-Nachtschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 5
 }

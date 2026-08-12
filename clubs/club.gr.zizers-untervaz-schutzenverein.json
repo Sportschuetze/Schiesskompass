@@ -51,7 +51,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/sv-zizers-untervaz.ch\/"
   },
-  "contentHash" : "sha256-72e13c2a341df248fdb892b8b2d8f874b3b482c634c36b1fec38b08ae1f1d952",
+  "contentHash" : "sha256-53ce62ddb3acec8cfd20650e590d819ebd7f51fe580f497a3ee816b64c5baa92",
   "events" : [
     {
       "championshipTags" : "",
@@ -422,7 +422,7 @@
       "title" : "Revolverschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

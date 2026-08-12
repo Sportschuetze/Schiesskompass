@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-arlesheim.ch"
   },
-  "contentHash" : "sha256-a9def8b15e61747ca470665b160cc6f614d447e7384cc25fe16e466cb522a6d9",
+  "contentHash" : "sha256-b6a245d142131eb8c1469ac9e98a2f6ac67cd9ce189ba456a3dd903aba472700",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

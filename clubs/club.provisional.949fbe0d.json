@@ -28,7 +28,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-cf22b23c7a98af263678a94b8341b4b59d6a7fe3ffe15c007a73625238e11adc",
+  "contentHash" : "sha256-0642e0dd7cce764093ae584869317d97316eb1ac9e92c7f0933c6e8ddae1745e",
   "events" : [
     {
       "championshipTags" : "",
@@ -89,7 +89,7 @@
       "title" : "Rehalpschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

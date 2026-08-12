@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/www.fsg-wittnau.ch\/"
   },
-  "contentHash" : "sha256-00d0aa8f0bbf7ec904c86085759cf18132387e1eaa64ea4c3e492d1fbcf2eb6a",
+  "contentHash" : "sha256-21c4b46b32685015d2771f3710f8c3d9990b5d3201f29a4c132d6af96446ed45",
   "events" : [
     {
       "championshipTags" : "",
@@ -141,7 +141,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

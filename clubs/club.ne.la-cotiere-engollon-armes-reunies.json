@@ -26,7 +26,7 @@
     "trainingWeekday" : "",
     "website" : "armesreunieslacotiere.ch"
   },
-  "contentHash" : "sha256-7990da333d807f4e4e3f551ce73d3edd4dc8fbe711732919a8f5033e53c7614f",
+  "contentHash" : "sha256-c105afdf891c6a8c21d2409e2828afea555a15a4aa6c8f1b3f4ec079b4a532ea",
   "events" : [
     {
       "championshipTags" : "",
@@ -52,7 +52,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

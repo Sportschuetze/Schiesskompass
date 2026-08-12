@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-dc763adf94e960b609dd4e45862a97f6c388e6f4b0461d49121a233ad11d7bbb",
+  "contentHash" : "sha256-2bf4be6fcb46bf1f940d10d4e7b0f66505c9833260af259589a01b1c86311874",
   "events" : [
     {
       "championshipTags" : "",
@@ -63,7 +63,7 @@
       "title" : "Chlausschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

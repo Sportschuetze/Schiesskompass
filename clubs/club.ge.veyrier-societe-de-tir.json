@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/tir-veyrier.ch\/"
   },
-  "contentHash" : "sha256-02c56efaf556aabaee42fde509f24d2c65d32fbcbcbd392075189ce341b2ccab",
+  "contentHash" : "sha256-3db7667f3a62df6742469ca0842e4aa15554757b09be3693118279457c6c2d26",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -42,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-strengelbach.ch"
   },
-  "contentHash" : "sha256-c88bdeafe0268c0c960e7187aea19b2924af6f507ab2d59918c3bf7baafb3176",
+  "contentHash" : "sha256-40fb2cc19872b8311c9ea965a674acb0dc5a92f65b44fb60e6770ca0d7820d6c",
   "events" : [
     {
       "championshipTags" : "",
@@ -183,7 +183,7 @@
       "title" : "WETTSCHIESSEN"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.lafinedouille.ch"
   },
-  "contentHash" : "sha256-ca283f8e11edbe45278f8d6fa4a10b4a7ef09b53ccbd70d16b7e558a67b562fa",
+  "contentHash" : "sha256-034e95d65ea1bcc5421e0fdf3f3608938388f04a25e4b186d0c053078773ca63",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -58,11 +58,11 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-kerzers.ch"
   },
-  "contentHash" : "sha256-44a153180fe24519fc8118ac8bad7f401303b81df645fcf3e5cec105a9fcde33",
+  "contentHash" : "sha256-089a1a32f257f91a365cf1f071ac6c083d92f884c37108b287310c419e5dcc08",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

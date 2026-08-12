@@ -45,7 +45,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-cf34e4e8677e83f11ac8b572fd304b428684b6a16633ff936c9c35c5d63aa6eb",
+  "contentHash" : "sha256-571a940845af9e1ec3cc76c8e51b1c226e7ea6d81e821c38c3d11c09b57aadb9",
   "events" : [
     {
       "championshipTags" : "",
@@ -209,7 +209,7 @@
       "title" : "Stossschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

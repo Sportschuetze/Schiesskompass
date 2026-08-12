@@ -35,7 +35,7 @@
     "trainingWeekday" : "",
     "website" : "www.svossingen.ch"
   },
-  "contentHash" : "sha256-8e116b3c01367bb15903ef46fb5a31aa2daf25d66dfe612f7ea294f75baf44f6",
+  "contentHash" : "sha256-53104cde5e15c70fcd038f4c5e58a0c85042fc3c692c4fc635a9456b305949e1",
   "events" : [
     {
       "championshipTags" : "",
@@ -59,13 +59,13 @@
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "17:00",
-          "startTime" : "13:30"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-22T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "17:00",
+          "startTime" : "13:30"
         },
         {
           "date" : "2026-08-23T10:00:00Z",
@@ -1223,7 +1223,7 @@
       "title" : "Warpelschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 9
 }

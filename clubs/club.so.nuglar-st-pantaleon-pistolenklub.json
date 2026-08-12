@@ -52,7 +52,7 @@
     "trainingWeekday" : "",
     "website" : "www.pistolenklub.info"
   },
-  "contentHash" : "sha256-95595735b4527eefc3014838bbac1726fe80eb84cc9d695371038421c66e4c12",
+  "contentHash" : "sha256-23646f5a228811139fce044952253f486ea2454b17d021e317fe1fc208cafcac",
   "events" : [
     {
       "championshipTags" : "",
@@ -147,7 +147,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

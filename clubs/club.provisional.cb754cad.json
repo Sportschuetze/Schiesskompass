@@ -71,7 +71,7 @@
     "trainingWeekday" : "",
     "website" : "www.svwuelflingen.ch"
   },
-  "contentHash" : "sha256-b5336357f18d17e65a7894795a6c5838236e741359ce91d01fe57b1f2ff207d3",
+  "contentHash" : "sha256-5e3c6975946632fd4201450113b4f248857128828336322dbbebd72a8bdbfb47",
   "events" : [
     {
       "championshipTags" : "",
@@ -152,7 +152,7 @@
       "title" : "Wülflinger Schlossschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 8
 }

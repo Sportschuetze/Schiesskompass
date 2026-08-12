@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "Www.Tir-Gimel.ch"
   },
-  "contentHash" : "sha256-132ceba5ecb35efef26fd20492cf3a927419edf8251b921594da941e3df21697",
+  "contentHash" : "sha256-c10fe2ebfb3ae52c38c8ecab66ac9e299ecf410b8b10b0f8d764710fa1608b41",
   "events" : [
     {
       "championshipTags" : "",
@@ -50,7 +50,7 @@
       "title" : "Eidg. Feldschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

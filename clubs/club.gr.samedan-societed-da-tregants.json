@@ -79,7 +79,7 @@
     "trainingWeekday" : "",
     "website" : "www.schuetzen-samedan.ch"
   },
-  "contentHash" : "sha256-34238c065412372e52f243aa12535352b5c66ea376b8c90fd7f63b3c8228cceb",
+  "contentHash" : "sha256-70fe9c62fc95f2eec65dd789515dbd59cfd09f11d7c3e0cf1eae9ef2fc85264e",
   "events" : [
     {
       "championshipTags" : "",
@@ -105,7 +105,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

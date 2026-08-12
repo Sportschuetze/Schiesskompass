@@ -26,7 +26,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-4db2277dd385ff8fd778921e1cc85a66d23d61bf8356b4db4ffe6cc37c4ee8ce",
+  "contentHash" : "sha256-18671ead9bb91d6d0eeffb436ef6e69e8e114cf8ef239deddb75d5197df7c99f",
   "events" : [
     {
       "championshipTags" : "",
@@ -72,7 +72,7 @@
       "title" : "54. Bockenkriegschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 6
 }

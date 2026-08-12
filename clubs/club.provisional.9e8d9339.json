@@ -121,7 +121,7 @@
     "trainingWeekday" : "",
     "website" : "www.svtb4922.ch"
   },
-  "contentHash" : "sha256-240e3e7c52c36a8f0eb15ec554e8e7a871b672381254766ca693c1b40642e0ef",
+  "contentHash" : "sha256-b3176ce195d0b3505067a2e92a60c6b37d2fdeeeb5289f13b576b5af07589e60",
   "events" : [
     {
       "championshipTags" : "",
@@ -446,7 +446,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

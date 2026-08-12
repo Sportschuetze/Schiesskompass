@@ -84,11 +84,11 @@
     "trainingWeekday" : "",
     "website" : "www.psv-duedingen.ch"
   },
-  "contentHash" : "sha256-eb06c5bb8f729bdfef9d58c6fa9781c952bbccdab30ca482c2ab29f3aa034cea",
+  "contentHash" : "sha256-a0559fcd54148c3896ac57c3f667417b70e35d554ae74ed8e2e07412de84284f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

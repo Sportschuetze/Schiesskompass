@@ -33,11 +33,11 @@
     "trainingWeekday" : "",
     "website" : "www.tir-saint-imier.ch"
   },
-  "contentHash" : "sha256-c6e94976a3f776e7c523b043cd7ba7f9352ef52743c0379cb005ad333d2c4626",
+  "contentHash" : "sha256-9e4b86dc0cbdf7077f384dd61307d256b52fd011d42c5cf48c05de7a80d2f66a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

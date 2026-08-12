@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-201db00eed0248bae41df479a208bbabdc83a68a973a72d71ff308fd6fa3bfdf",
+  "contentHash" : "sha256-639f08d4039d071bbb442772627cd9b099e4a8b74a7c49a15dca3a3c92b995bb",
   "events" : [
     {
       "championshipTags" : "",
@@ -46,13 +46,13 @@
         },
         {
           "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "12:00",
-          "startTime" : "08:00"
+          "endTime" : "20:00",
+          "startTime" : "13:00"
         },
         {
           "date" : "2026-08-15T10:00:00Z",
-          "endTime" : "20:00",
-          "startTime" : "13:00"
+          "endTime" : "12:00",
+          "startTime" : "08:00"
         },
         {
           "date" : "2026-08-22T10:00:00Z",
@@ -73,7 +73,7 @@
       "title" : "150 Jahre Schützengesellschaft Schangnau"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 6
 }

@@ -15,19 +15,51 @@
     "programOfferings" : [
       {
         "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.beinwil-feldschutzen.auszahlungsstich",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Auszahlungsstich",
+        "sourceURL" : "https:\/\/www.fsg-beinwil.ch\/phocadownloadpap\/schiessplan2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.beinwil-feldschutzen.brandholzschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Brandholzschiessen",
+        "sourceURL" : "https:\/\/www.fsg-beinwil.ch\/phocadownloadpap\/schiessplan2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.beinwil-feldschutzen.chlausschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Chlausschiessen",
+        "sourceURL" : "https:\/\/www.fsg-beinwil.ch\/phocadownloadpap\/schiessplan2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
+        "externalId" : "offering.club.ag.beinwil-feldschutzen.jubilaumsschiessen",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
+        "isUnverified" : true,
+        "name" : "Jubiläumsschiessen",
+        "sourceURL" : "https:\/\/www.fsg-beinwil.ch\/phocadownloadpap\/schiessplan2025.pdf"
+      },
+      {
+        "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.beinwil-feldschutzen.vereinsstich",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
         "isUnverified" : true,
         "name" : "Vereinsstich",
-        "sourceURL" : "https:\/\/www.fsg-beinwil.ch\/"
+        "sourceURL" : "https:\/\/www.fsg-beinwil.ch\/phocadownloadpap\/schiessplan2025.pdf"
       },
       {
         "dataSource" : "clubWebsite",
         "externalId" : "offering.club.ag.beinwil-feldschutzen.winterschiessen",
-        "fetchedAt" : "2026-08-08T06:17:47Z",
+        "fetchedAt" : "2026-08-12T03:23:19Z",
         "isUnverified" : true,
         "name" : "Winterschiessen",
-        "sourceURL" : "https:\/\/www.fsg-beinwil.ch\/"
+        "sourceURL" : "https:\/\/www.fsg-beinwil.ch\/phocadownloadpap\/schiessplan2025.pdf"
       }
     ],
     "seasonEndDay" : 31,
@@ -42,7 +74,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsg-beinwil.ch"
   },
-  "contentHash" : "sha256-c4860d9a7b4997a2f1bd61a6baf2de25cd3d0108d312950c2086ede63bc43063",
+  "contentHash" : "sha256-f1a3c597be0e47b647e3b4119d837c3028cdb9578ba7822850260a01979c2a10",
   "events" : [
     {
       "championshipTags" : "",
@@ -52,7 +84,7 @@
       "endDate" : "2026-08-12T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.beinwil-feldschutzen.winterschiessen.2026-08-12",
-      "fetchedAt" : "2026-08-08T06:17:47Z",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
       "isExternal" : false,
       "isNational" : false,
       "isUnverified" : true,
@@ -60,7 +92,7 @@
       "location" : "",
       "participationCategory" : "",
       "requiresRegistration" : false,
-      "sourceURL" : "https:\/\/www.fsg-beinwil.ch\/",
+      "sourceURL" : "https:\/\/www.fsg-beinwil.ch\/phocadownloadpap\/schiessplan2025.pdf",
       "startDate" : "2026-08-12T10:00:00Z",
       "timeBlocks" : [
 
@@ -68,7 +100,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -26,7 +26,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-808924cc9343f47ab94dd1455d1460e7001fc65d0a8a9652b3a94c01ccecf295",
+  "contentHash" : "sha256-5f808a7152bdb929141d27f082dabe1d79b1b0bf11518bad3edee22d175f3b37",
   "events" : [
     {
       "championshipTags" : "",
@@ -97,7 +97,7 @@
       "title" : "Lupi Meisterschaft mit Auflageschiessen"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

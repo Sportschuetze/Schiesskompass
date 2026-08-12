@@ -196,11 +196,11 @@
     "trainingWeekday" : "",
     "website" : "www.sgsso.ch"
   },
-  "contentHash" : "sha256-629ccadf81ee405a4b794756b0f1af9dbbb67af4ff98f310c43711b8c2ea3141",
+  "contentHash" : "sha256-58ed12855da0ee15a9064736a389abe6627520281e011b6348f56be39240d5a4",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

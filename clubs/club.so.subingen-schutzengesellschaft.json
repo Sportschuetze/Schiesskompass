@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.sgsubingen.ch"
   },
-  "contentHash" : "sha256-a699b9817fe97035b54e9bfd91d1670157a749667f59f1b3617e77a85d9f9392",
+  "contentHash" : "sha256-ff05e5e68df38a4e23839369f073b8727e2c2223f08b7b731ffed256c7e7896e",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

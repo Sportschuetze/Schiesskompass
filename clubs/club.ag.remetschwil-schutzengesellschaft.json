@@ -154,7 +154,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgremetschwil.ch"
   },
-  "contentHash" : "sha256-19ee6f5eba4dd711c669969592e6a6d56df38816dda9c1006e33c09e770e6c69",
+  "contentHash" : "sha256-8ed3794cd9e36d8c8abdbbd357153da1417bc83113dd90abbaa617ef004a9647",
   "events" : [
     {
       "championshipTags" : "",
@@ -525,7 +525,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

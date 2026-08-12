@@ -52,7 +52,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "rootFallback"
   },
-  "contentHash" : "sha256-54396fa70310653a9d121242ad5f256f7dbb9221aa19be0b7697e17f8afca0ac",
+  "contentHash" : "sha256-ede7de4e52148473a0e5843f58df0e8ab86f5ee6610a8dcb183686684d47e75e",
   "events" : [
     {
       "championshipTags" : "",
@@ -111,7 +111,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

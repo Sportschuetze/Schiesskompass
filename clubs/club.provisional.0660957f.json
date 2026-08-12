@@ -107,7 +107,7 @@
     "trainingWeekday" : "",
     "website" : "www.ssvs.ch"
   },
-  "contentHash" : "sha256-70d81431687ec26bafe222d949447fd70ca46d9f1e091d143e1bc07f6df42d35",
+  "contentHash" : "sha256-fe3e5df41c0c9738c3ac8c379454f91f35f91364830f6ceeca351c30bfa604e6",
   "events" : [
     {
       "championshipTags" : "",
@@ -294,7 +294,7 @@
       "title" : "Rehalpschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

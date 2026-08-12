@@ -29,11 +29,11 @@
     "trainingWeekday" : "",
     "website" : "www.cibledesion.ch"
   },
-  "contentHash" : "sha256-0af9e3a670a6e1c291a078e5d05070c3a2a529add053c0fea976412c96c4e410",
+  "contentHash" : "sha256-c24b892d4af3aabc6fd6d260598dca449ddde6cff7151e5668ee2bdad7167672",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

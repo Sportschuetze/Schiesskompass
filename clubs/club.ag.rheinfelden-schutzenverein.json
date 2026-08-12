@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.sv-rheinfelden.ch"
   },
-  "contentHash" : "sha256-2a35de434ab1776139039991d5ca67ccf1417e03ac2f00a8d79721987e642064",
+  "contentHash" : "sha256-7e291a8f87aa7e32d61ba81509ddaf2bbce22c7c1ae3839dddd700888935470a",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

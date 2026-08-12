@@ -43,11 +43,11 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzenlaufen.ch"
   },
-  "contentHash" : "sha256-0fe0c168336323b6a22f461a237a88836278e9ae57d26cfb57a00725c053ee54",
+  "contentHash" : "sha256-d773901589a80aa64f87df9e15708f864606640326beaea304790853d3f3f2cc",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

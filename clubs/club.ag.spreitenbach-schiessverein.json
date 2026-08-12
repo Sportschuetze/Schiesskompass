@@ -34,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "www.sv-spreitenbach.ch"
   },
-  "contentHash" : "sha256-a68d070e3b76489ed55ac11e558059cd9a145fc71679361f499e7339fcdfe0b1",
+  "contentHash" : "sha256-00e8cef91b029117c6af88a03c02be61236f1ce5cf711c7e80e4507a1a34439e",
   "events" : [
     {
       "championshipTags" : "",
@@ -106,7 +106,7 @@
       "title" : "Limmatschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

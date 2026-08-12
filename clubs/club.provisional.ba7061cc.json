@@ -58,7 +58,7 @@
     "trainingWeekday" : "",
     "website" : "fsgoerlingen.jimdofree.com"
   },
-  "contentHash" : "sha256-b9ec509984083bde5dff5ab3b50fc98e916bc902533f6d1afbaa6bc8f87c0152",
+  "contentHash" : "sha256-ad8501f8c2a5373301072e64cc0cea7db7538415af1b6769aead44067fdddbec",
   "events" : [
     {
       "championshipTags" : "",
@@ -130,7 +130,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

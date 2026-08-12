@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1bfcc10a1ac882383ca7f445f38ff812944121170e263d0c7a9dfda7588d02e8",
+  "contentHash" : "sha256-025e8d5288d270e6e5e1ba4adb9ac3136f70850d0dac50c52f23d1b4c200f938",
   "events" : [
     {
       "championshipTags" : "",
@@ -75,7 +75,7 @@
       "title" : "Ramschwagschiessen 2027"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 7
 }

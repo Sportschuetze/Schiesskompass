@@ -121,7 +121,7 @@
     "trainingWeekday" : "",
     "website" : "www.fsoberwil.ch"
   },
-  "contentHash" : "sha256-5caa377cc555a44c8a6b288e4016c9bd563dceae403d9c283dd302e523e8a3aa",
+  "contentHash" : "sha256-87433e4fce731b32fb6651181873dd76ef62586a42e1396f5f45c957227ea05a",
   "events" : [
     {
       "championshipTags" : "",
@@ -607,7 +607,7 @@
       "title" : "Wettschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

@@ -99,7 +99,7 @@
     "trainingWeekday" : "",
     "website" : "www.sg-erlinsbach.ch"
   },
-  "contentHash" : "sha256-f58b5dcd7543a7d60608ba9117ddae9b4df2575e27b39074528987be8a6528c2",
+  "contentHash" : "sha256-4872890ca70d807e075381ef966dbd434bab03aca9249857b405e9ecd511a7a1",
   "events" : [
     {
       "championshipTags" : "",
@@ -152,6 +152,29 @@
       "countsForAnnualChampionship" : false,
       "dataSource" : "clubWebsite",
       "discipline" : "",
+      "endDate" : "2026-06-01T10:00:00Z",
+      "eventType" : "fieldShooting",
+      "externalId" : "vereinsweb.club.ag.erlinsbach-schutzengesellschaft.efs.2026-06-01",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.sg-erlinsbach.ch\/gallery\/Brosch%C3%BCre_Schiessplan_2026.pdf",
+      "startDate" : "2026-06-01T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Eidg. Feldschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
       "endDate" : "2026-02-22T11:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.ag.erlinsbach-schutzengesellschaft.kirchbergschiessen.2026-02-22",
@@ -194,7 +217,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

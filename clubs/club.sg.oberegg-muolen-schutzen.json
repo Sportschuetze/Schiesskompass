@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-7e5a57e6eee06a21d4cea4ebd5eb466794ab9f91305b976382eb2311c9e57015",
+  "contentHash" : "sha256-3abc27123b118d73913e34abb4540c0db44bd4e43206182a2623b08a2e7a35dd",
   "events" : [
     {
       "championshipTags" : "",
@@ -103,7 +103,7 @@
       "title" : "24. Racletteschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 5
+  "version" : 6
 }

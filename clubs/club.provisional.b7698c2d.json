@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgrw.ch"
   },
-  "contentHash" : "sha256-7abb2fb7fd71515c254c52b4275e438fdfa5b834b025a1e3722fc30bb3727592",
+  "contentHash" : "sha256-11ea47f1a93b0af12f9286b8e2a2f49415ea1e689712f43cb1445b4f1c340f66",
   "events" : [
     {
       "championshipTags" : "",
@@ -372,7 +372,7 @@
       "title" : "Winterschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

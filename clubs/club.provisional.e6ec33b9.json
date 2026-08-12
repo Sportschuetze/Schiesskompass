@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.sg-greppen.ch"
   },
-  "contentHash" : "sha256-5040a2c9b4b9ccd7c93056d8e05b3ae0b6de2eb81b5fd5d772625465fd75f8f0",
+  "contentHash" : "sha256-e350f98e08261305a123328dde3dff9acf679bb47c623cf5d2caa7ed25d9087f",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

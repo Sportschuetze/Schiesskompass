@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-3a67bec5c5255da892d71e6cb474041aba1764802f69687b9843099f6000ed8b",
+  "contentHash" : "sha256-bdfd45e47a494aea69751a26ab0ea400044f31b47eba0df310c820cb5304d9cd",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

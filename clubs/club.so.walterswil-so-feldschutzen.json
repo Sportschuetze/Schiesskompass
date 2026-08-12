@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.fswalterswil.ch"
   },
-  "contentHash" : "sha256-eaf3564e11372350b85a3dbf16fc0ae8d1ebfef421ea48f37c1c7a22f1f9ba80",
+  "contentHash" : "sha256-78a4d97f8758eaf62ac80c7632845aca15356f135e18d0223f2532b5fb25ec80",
   "events" : [
     {
       "championshipTags" : "",
@@ -61,7 +61,7 @@
       "title" : "3. Reckolder-Schiessen 2027"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

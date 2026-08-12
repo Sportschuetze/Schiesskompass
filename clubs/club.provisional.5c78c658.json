@@ -45,7 +45,7 @@
     "websiteCheckedAt" : "2026-08-08T06:46:47Z",
     "websiteStatus" : "dead"
   },
-  "contentHash" : "sha256-52a9caac5744ab78ea582e54b6771cde1d9b9de2628e3579305f592497d54143",
+  "contentHash" : "sha256-d39bd90b678c0ec2f544558f3ce73f7a7af349a46d1c46c729df6d5f0c3d6269",
   "events" : [
     {
       "championshipTags" : "",
@@ -76,7 +76,7 @@
       "title" : "OASSV Match Meisterschaft 2026"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

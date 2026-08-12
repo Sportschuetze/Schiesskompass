@@ -22,7 +22,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-1d4df8fb1912e17d2638947f7d053a05f661ed1fbab0f48c23b833d9827944a3",
+  "contentHash" : "sha256-4c9ed4469aed3a859e5dd7bc975869c935e5300b7b1abcd599a1bbbc231eb51a",
   "events" : [
     {
       "championshipTags" : "",
@@ -58,7 +58,7 @@
       "title" : "Rheintaler Vereinswettkampf + Jubiläumsschiessen 75 Jahre Zeigerverband"
     }
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

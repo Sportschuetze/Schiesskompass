@@ -25,7 +25,7 @@
     "trainingWeekday" : "",
     "website" : "www.pistolet-glane.ch"
   },
-  "contentHash" : "sha256-0249a9b19e9464c64602b7c1d6fc4aeefcd07cf4a66011d7b716aa622c16edd3",
+  "contentHash" : "sha256-2b14422deae8da67d66add8418b808f8ea5901d6927537b48147a3aedfc04d1b",
   "events" : [
     {
       "championshipTags" : "",
@@ -51,7 +51,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

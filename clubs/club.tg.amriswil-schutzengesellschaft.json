@@ -23,7 +23,7 @@
     "trainingWeekday" : "",
     "website" : ""
   },
-  "contentHash" : "sha256-ddadeb93fff77dfbe5b8d06bd5a47b853b89b33ecbc0fcaa5ee9e2ad7f8b0295",
+  "contentHash" : "sha256-b6ab8d4b30b874c44164d3a48ae1b634fc20e74354eab582067d2776285d5fc1",
   "events" : [
     {
       "championshipTags" : "",
@@ -92,7 +92,7 @@
       "title" : "3. Oberthurgauer Adventsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:13:32Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 4
+  "version" : 6
 }

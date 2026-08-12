@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgsb.ch"
   },
-  "contentHash" : "sha256-4c0afc687bdf703182e15f20a81b801b8764f8bd9ec3be9539265284b4ba5198",
+  "contentHash" : "sha256-c4dae954714334281c44478ff874b7c562c7acdd4a5a894c945e5a6d7b68461b",
   "events" : [
     {
       "championshipTags" : "",
@@ -96,7 +96,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

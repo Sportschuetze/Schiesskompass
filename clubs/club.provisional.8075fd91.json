@@ -35,7 +35,7 @@
     "trainingWeekday" : "",
     "website" : "www.sportschuetzen-spiez.ch"
   },
-  "contentHash" : "sha256-68cf0ae0165e3e65ceb1bb9878cff371287fae15f3bbfbb3876646394c513614",
+  "contentHash" : "sha256-94b24d2b41a41201917b117936091dacfb73cc249b07f1fdd68a26ee2eac5048",
   "events" : [
     {
       "championshipTags" : "",
@@ -61,7 +61,7 @@
       "title" : "Volksschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

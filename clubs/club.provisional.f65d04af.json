@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.fs-lauterbrunnen.ch"
   },
-  "contentHash" : "sha256-e7bd1d92af56ddb6be82c6c7c6e727adb2513f9842c36312acee23a63b9ed7fd",
+  "contentHash" : "sha256-fc9eb9fa8a5e44d9ce2182a38987a8957d22ea72103951946e05ed2f54a96d2d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

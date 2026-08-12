@@ -50,7 +50,7 @@
     "trainingWeekday" : "",
     "website" : "feldschuetzen-niederscherli.ch"
   },
-  "contentHash" : "sha256-1329a02b9a73ee93f13c69994f3c78354d9061ab6dbdbf17a034d8be2613994d",
+  "contentHash" : "sha256-76e2f4448e3824ca29236a50f4c61ec335d68006c698648a6166ffa493eb7fc0",
   "events" : [
     {
       "championshipTags" : "",
@@ -490,7 +490,7 @@
       "title" : "Vereinsschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

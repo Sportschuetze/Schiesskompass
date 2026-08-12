@@ -28,7 +28,7 @@
     "trainingWeekday" : "",
     "website" : "www.pleureur.ch"
   },
-  "contentHash" : "sha256-263c95a66d957a9a7bad5ff94ab71caf3a750a6de8cd3181847c651428af71b5",
+  "contentHash" : "sha256-bdbb90bc8d1025fb69a7f2f2f343dfbc0348c0df3b703f584295829e9f22f660",
   "events" : [
     {
       "championshipTags" : "",
@@ -77,7 +77,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

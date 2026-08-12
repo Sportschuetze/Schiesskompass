@@ -42,7 +42,7 @@
     "trainingWeekday" : "",
     "website" : "www.sgunteriberg.ch"
   },
-  "contentHash" : "sha256-d5aa4d08c650b31f4bb05f737d95f12780a35c49d7a19a2c1d0101886a443b6b",
+  "contentHash" : "sha256-866da13533abe176e5b164058b655eb43dddb18a45c1f9f509fbc491ecb7a5d4",
   "events" : [
     {
       "championshipTags" : "",
@@ -88,7 +88,7 @@
       "title" : "28. Hirschflueschiessen 2026"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T12:05:07Z",
   "schemaVersion" : 1,
-  "version" : 7
+  "version" : 9
 }

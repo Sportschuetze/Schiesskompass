@@ -24,7 +24,7 @@
     "trainingWeekday" : "",
     "website" : "sg-ammerswil.ch"
   },
-  "contentHash" : "sha256-95dd6b8c5c80aa694eefc3235f43fc0f6bdf350597543b670322a5d2d5800e4c",
+  "contentHash" : "sha256-4820adf46e5836bfb41a6282543c5facffedafa2c2423f3069ef671a17edebc1",
   "events" : [
     {
       "championshipTags" : "",
@@ -119,7 +119,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

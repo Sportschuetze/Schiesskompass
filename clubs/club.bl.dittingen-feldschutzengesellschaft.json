@@ -66,11 +66,11 @@
     "trainingWeekday" : "",
     "website" : "www.feldschuetzen-dittingen.ch"
   },
-  "contentHash" : "sha256-99fbfdea453da5fa48e46f3a8a08fb3347566acbcc31b6c4e421a15f618f54f0",
+  "contentHash" : "sha256-888f536bf6b99398e03a644d2be90e434493ea3945480f230490e62a2aab18f8",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

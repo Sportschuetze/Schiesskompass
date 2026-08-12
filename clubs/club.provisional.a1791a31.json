@@ -34,7 +34,7 @@
     "trainingWeekday" : "",
     "website" : "www.wv-ebikon.ch"
   },
-  "contentHash" : "sha256-2688b66f9505a75ab801a7c82d1f0981128cd8c3c93e9ef79549ad122c0330a4",
+  "contentHash" : "sha256-c8b0fc8ea9532d784776a84fc319c388f9b25cc519fbd413418caf3029d19748",
   "events" : [
     {
       "championshipTags" : "",
@@ -64,6 +64,29 @@
       "countsForAnnualChampionship" : false,
       "dataSource" : "clubWebsite",
       "discipline" : "",
+      "endDate" : "2026-08-21T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.a1791a31.gruppenschiessen.2026-08-21",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Schiestand Hüslenmoos Munitionsverkauf",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.wv-ebikon.ch\/",
+      "startDate" : "2026-08-21T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Gruppenschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
       "endDate" : "2026-08-19T10:00:00Z",
       "eventType" : "competition",
       "externalId" : "vereinsweb.club.provisional.a1791a31.jahresabschlussschiessen.2026-08-19",
@@ -81,9 +104,32 @@
 
       ],
       "title" : "Jahresabschlussschiessen"
+    },
+    {
+      "championshipTags" : "",
+      "countsForAnnualChampionship" : false,
+      "dataSource" : "clubWebsite",
+      "discipline" : "",
+      "endDate" : "2026-08-22T10:00:00Z",
+      "eventType" : "competition",
+      "externalId" : "vereinsweb.club.provisional.a1791a31.jahresabschlussschiessen.2026-08-22",
+      "fetchedAt" : "2026-08-12T03:23:19Z",
+      "isExternal" : false,
+      "isNational" : false,
+      "isUnverified" : true,
+      "licenseRequired" : false,
+      "location" : "Schiestand Hüslenmoos",
+      "participationCategory" : "",
+      "requiresRegistration" : false,
+      "sourceURL" : "https:\/\/www.wv-ebikon.ch\/",
+      "startDate" : "2026-08-22T10:00:00Z",
+      "timeBlocks" : [
+
+      ],
+      "title" : "Jahresabschlussschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

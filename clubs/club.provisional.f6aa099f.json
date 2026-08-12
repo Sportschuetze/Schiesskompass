@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.feldschuetzenarnibe.ch\/"
   },
-  "contentHash" : "sha256-3c926301279e3bb1cf72b29aa81cb95da1f1eca6d393ecce44345e8ef73c47be",
+  "contentHash" : "sha256-219045f2ac57d88c4dbfedb49eb7fc5658f9a4649fff606a1f8701cdc54b0b02",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

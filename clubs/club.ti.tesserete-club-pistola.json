@@ -37,11 +37,11 @@
     "trainingWeekday" : "",
     "website" : "www.cptesserete.ch"
   },
-  "contentHash" : "sha256-27d1631d2a5bf7322f75b1bf5d808bfd30e8193120354c7cf9d0321957994e5c",
+  "contentHash" : "sha256-4a09ae8466863c76b7c02f382c9bdef30122663531d8b41bfc76bbf7ae93a67d",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

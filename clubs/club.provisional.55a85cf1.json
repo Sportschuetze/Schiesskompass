@@ -25,11 +25,11 @@
     "trainingWeekday" : "",
     "website" : "www.svbn.ch"
   },
-  "contentHash" : "sha256-1077c94d291a527a46f1001bbba9617454b51316db214ebf3831b7a6f806a5e4",
+  "contentHash" : "sha256-92578ad8dc8a99e254e3f4889963ccf10192ef04e3283a46569f1dad3b2681e9",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

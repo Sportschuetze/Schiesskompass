@@ -41,7 +41,7 @@
     "trainingWeekday" : "",
     "website" : "www.svwt.ch"
   },
-  "contentHash" : "sha256-4364022c831ed63cd56ecfc399c8c488599a3a540c0720c64d3581c412a6e9c1",
+  "contentHash" : "sha256-35a60d2ffbee84a2c3a2fabcd7ae681efe0832e66b4e4ed82ebdbe60027aa367",
   "events" : [
     {
       "championshipTags" : "",
@@ -90,7 +90,7 @@
       "title" : "Obligatorisches Programm"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

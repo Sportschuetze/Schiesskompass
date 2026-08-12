@@ -23,11 +23,11 @@
     "trainingWeekday" : "",
     "website" : "www.ts-gingins.ch"
   },
-  "contentHash" : "sha256-40aa1c5b8f9665d6c09d9fe39cfd2674496c44c37c4a48f4d16fcc405d2194a9",
+  "contentHash" : "sha256-3a448a16230b82f23f20250b25cbb4c937f99d2cf2eb8daf8a6900bdee71b1eb",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

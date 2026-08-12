@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.svkezi.ch"
   },
-  "contentHash" : "sha256-28460372661c625e8a95f04b4caa4eea982a7d2bc92ea3eab0ec6e57bdd4b7f7",
+  "contentHash" : "sha256-bcb20c6aff7bba5801cbb5328cec97ac78278330c1ce8e4eff489980a8db1549",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

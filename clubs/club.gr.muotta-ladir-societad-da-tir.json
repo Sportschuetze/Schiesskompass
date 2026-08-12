@@ -24,11 +24,11 @@
     "trainingWeekday" : "",
     "website" : "www.ladir.ch"
   },
-  "contentHash" : "sha256-68a7f724ff18cc9918cc090681346f29faba65593ae527d43d6e681c4515c4fd",
+  "contentHash" : "sha256-021ee7a7da567ec14f0798889c637eed4a34f8c5f2415ad72cfa8da9d1885974",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }

@@ -114,7 +114,7 @@
     "trainingWeekday" : "",
     "website" : "Fs-thoerishaus.ch"
   },
-  "contentHash" : "sha256-374d65b2b54bf6b8db81afffb329ce68207c7b7a99cfb5ebe20ccfe89d2516b4",
+  "contentHash" : "sha256-5ae4bec2c867bfd295daa098751b0aeae12830606aba1c7a4004a90c82299914",
   "events" : [
     {
       "championshipTags" : "",
@@ -255,7 +255,7 @@
       "title" : "Schlussschiessen"
     }
   ],
-  "generatedAt" : "2026-08-08T06:47:18Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 6
+  "version" : 7
 }

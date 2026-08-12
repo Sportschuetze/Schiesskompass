@@ -27,11 +27,11 @@
     "trainingWeekday" : "",
     "website" : "https:\/\/tircentrale.net\/"
   },
-  "contentHash" : "sha256-51446a61fbb1950d57592fa9dc24f59f6df9a9a3b62f17495f043000c14ce427",
+  "contentHash" : "sha256-ebad8f3de51218f5703b5ea79a8ab6a984c7b12df131a2fdc0a978d87f7998ef",
   "events" : [
 
   ],
-  "generatedAt" : "2026-08-03T06:03:04Z",
+  "generatedAt" : "2026-08-12T03:23:37Z",
   "schemaVersion" : 1,
-  "version" : 2
+  "version" : 3
 }
